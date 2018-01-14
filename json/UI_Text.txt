@@ -117,7 +117,7 @@
 	{
 		"assign": "acshop_chipexpand_back_btn",
 		"jp_text": "戻る",
-		"tr_text": "Back"
+		"tr_text": "Atrás"
 	},
 	{
 		"assign": "acshop_driveheal_rappy_btn",
@@ -132,7 +132,7 @@
 	{
 		"assign": "acshop_driveheal_back_btn",
 		"jp_text": "戻る",
-		"tr_text": "Back"
+		"tr_text": "Atrás"
 	},
 	{
 		"assign": "acshop_dialog_obt_t_00",
@@ -387,7 +387,7 @@
 	{
 		"assign": "acshop_dialog_t_24",
 		"jp_text": "内容確認",
-		"tr_text": "Confirmation"
+		"tr_text": "Confirmación"
 	},
 	{
 		"assign": "acshop_dialog_b_24",
@@ -572,7 +572,7 @@
 	{
 		"assign": "acshop_oprecovery_back_btn",
 		"jp_text": "戻る",
-		"tr_text": "Back"
+		"tr_text": "Atrás"
 	},
 	{
 		"assign": "acshop_oprecovery_decide_btn",
@@ -1172,7 +1172,7 @@
 	{
 		"assign": "charamake_btn_back",
 		"jp_text": "戻る",
-		"tr_text": "Back"
+		"tr_text": "Atrás"
 	},
 	{
 		"assign": "charamake_title",
@@ -2182,7 +2182,7 @@
 	{
 		"assign": "item_grind_risk_01",
 		"jp_text": "なし",
-		"tr_text": "None"
+		"tr_text": "Ninguno"
 	},
 	{
 		"assign": "item_grind_risk_02",
@@ -2462,7 +2462,7 @@
 	{
 		"assign": "menu_dialog_t_02",
 		"jp_text": "シップ選択",
-		"tr_text": "Ship Selection"
+		"tr_text": "Selección de Ship"
 	},
 	{
 		"assign": "menu_dialog_b_02",
@@ -2477,7 +2477,7 @@
 	{
 		"assign": "menu_dialog_b_03",
 		"jp_text": "SEGA IDとパスワードを入力して下さい。",
-		"tr_text": "Please enter your SEGA ID password."
+		"tr_text": "Please enter your SEGA ID."
 	},
 	{
 		"assign": "menu_dialog_t_04",
@@ -2532,7 +2532,7 @@
 	{
 		"assign": "menu_dialog_t_22",
 		"jp_text": "確認",
-		"tr_text": "Confirm"
+		"tr_text": "Confirmar"
 	},
 	{
 		"assign": "menu_dialog_b_22",
@@ -2602,22 +2602,22 @@
 	{
 		"assign": "menu_dialog_t_10",
 		"jp_text": "タイトルへ戻る",
-		"tr_text": "Back to title"
+		"tr_text": "Volver al título"
 	},
 	{
 		"assign": "menu_dialog_b_10",
 		"jp_text": "タイトル画面に戻りますか？",
-		"tr_text": "Do you want to return to the title screen?"
+		"tr_text": "¿Quieres volver a la pantalla de título?"
 	},
 	{
 		"assign": "menu_dialog_t_23",
 		"jp_text": "タイトルへ戻る",
-		"tr_text": "Back to title"
+		"tr_text": "Volver al título"
 	},
 	{
 		"assign": "menu_dialog_b_23",
 		"jp_text": "タイトル画面、またはシップ選択画面に戻りますか？",
-		"tr_text": "Do you wish to return to the title or ship selection screen?"
+		"tr_text": "¿Desea volver a la pantalla de selección de título o Ship?"
 	},
 	{
 		"assign": "menu_dialog_t_13",
@@ -2627,12 +2627,12 @@
 	{
 		"assign": "menu_dialog_b_13",
 		"jp_text": "ブラウザを起動します。\nよろしいですか？",
-		"tr_text": "This will launch the browser.\nContinue?"
+		"tr_text": "Esto abrirá el navegador .\n¿Continuar?"
 	},
 	{
 		"assign": "menu_dialog_t_14",
 		"jp_text": "確認",
-		"tr_text": "Confirm"
+		"tr_text": "Confirmar"
 	},
 	{
 		"assign": "menu_dialog_b_14",
@@ -2642,17 +2642,17 @@
 	{
 		"assign": "menu_dialog_y_14",
 		"jp_text": "標準ブラウザを起動（推奨）",
-		"tr_text": "Launch web browser"
+		"tr_text": "Inicie el navegador web"
 	},
 	{
 		"assign": "menu_dialog_n_14",
 		"jp_text": "PSO2es専用ブラウザを起動",
-		"tr_text": "Launch PSO2es dedicated browser"
+		"tr_text": "Inicie el navegador dedicado de PSO2es"
 	},
 	{
 		"assign": "menu_dialog_t_15",
 		"jp_text": "確認",
-		"tr_text": "Confirm"
+		"tr_text": "Confirmar"
 	},
 	{
 		"assign": "menu_dialog_b_15",
@@ -2697,7 +2697,7 @@
 	{
 		"assign": "menu_dialog_b_18",
 		"jp_text": "esアイテムコードの入力に連続で失敗しました。\nしばらくたってから入力し直してください。",
-		"tr_text": "You failed input too many times.\nPlease try again in a little while."
+		"tr_text": "Falló el ingreso demasiadas veces.\nPor favor, inténtelo en otro momento."
 	},
 	{
 		"assign": "menu_dialog_t_19",
@@ -2732,12 +2732,12 @@
 	{
 		"assign": "menu_dialog_button_next",
 		"jp_text": "次へ",
-		"tr_text": "Next"
+		"tr_text": "Siguiente"
 	},
 	{
 		"assign": "menu_dialog_button_segaid",
 		"jp_text": "SEGA IDを取得",
-		"tr_text": "Get SEGA ID"
+		"tr_text": "Obtener SEGA ID"
 	},
 	{
 		"assign": "menu_dialog_t_onetime_authentication",
@@ -2762,7 +2762,7 @@
 	{
 		"assign": "menu_dialog_t_confirmation",
 		"jp_text": "確認",
-		"tr_text": "Confirmation"
+		"tr_text": "Confirmación"
 	},
 	{
 		"assign": "menu_dialog_button_startlinkage",
@@ -2772,27 +2772,27 @@
 	{
 		"assign": "menu_dialog_button_return",
 		"jp_text": "戻る",
-		"tr_text": "Back"
+		"tr_text": "Atrás"
 	},
 	{
 		"assign": "menu_dialog_t_completed",
 		"jp_text": "完了",
-		"tr_text": "Done"
+		"tr_text": "Hecho"
 	},
 	{
 		"assign": "menu_dialog_button_close",
 		"jp_text": "閉じる",
-		"tr_text": "Close"
+		"tr_text": "Cerrar"
 	},
 	{
 		"assign": "menu_dialog_button_title",
 		"jp_text": "タイトルへ",
-		"tr_text": "Title Screen"
+		"tr_text": "Pantalla de título"
 	},
 	{
 		"assign": "menu_dialog_button_ship",
 		"jp_text": "シップ選択へ",
-		"tr_text": "Ship Selection"
+		"tr_text": "Selección de Ship"
 	},
 	{
 		"assign": "menu_dialog_t_24",
@@ -2802,22 +2802,22 @@
 	{
 		"assign": "menu_dialog_b_24",
 		"jp_text": "データの通信に失敗したため\nプレイヤーを表示しました。",
-		"tr_text": "Due to communication error,\ncannot display character."
+		"tr_text": "Debido a un error de comunicación,\nno se puede mostrar el personaje."
 	},
 	{
 		"assign": "mag_guide_00",
 		"jp_text": "<color=#f0df60>アイテムを与えたいマグを選択してください。エネルギーの値は、ログイン・ログアウト・アイテムを与えたタイミングでサーバーと同期されます。</color>",
-		"tr_text": "<color=#f0df60>Please select the Mag you want to Feed.</color>"
+		"tr_text": "<color=#f0df60>Seleccione el Mag que desea alimentar.</color>"
 	},
 	{
 		"assign": "mag_guide_03",
 		"jp_text": "<color=#f0df60>マグの詳細です。「アイテムを与える」「デバイスを使う」を選択すると、マグを育成することができます。</color>",
-		"tr_text": "<color=#f0df60>This is the Mag you selected. You can Feed it items, or Devices to change its behaviour.</color>"
+		"tr_text": "<color=#f0df60>Este es el Mag que seleccionaste. Puede alimentar con objetos o dispositivos para cambiar su comportamiento.</color>"
 	},
 	{
 		"assign": "mag_guide_04",
 		"jp_text": "<color=#f0df60>レベルを1つ下げる支援レベルを選択してください。</color>",
-		"tr_text": "<color=#f0df60>Select a stat you wish to lower by 1 level.</color>"
+		"tr_text": "<color=#f0df60>Seleccione una estadística que desee reducir en 1 nivel.</color>"
 	},
 	{
 		"assign": "mag_guide_01",
@@ -3462,7 +3462,7 @@
 	{
 		"assign": "myshop_dialog_b_08_back",
 		"jp_text": "戻る",
-		"tr_text": "Back"
+		"tr_text": "Atrás"
 	},
 	{
 		"assign": "myshop_dialog_t_09",
@@ -3537,7 +3537,7 @@
 	{
 		"assign": "myshop_dialog_t_16",
 		"jp_text": "取り下げ完了",
-		"tr_text": "Withdraw"
+		"tr_text": "Retirar"
 	},
 	{
 		"assign": "myshop_dialog_b_16",
@@ -3722,7 +3722,7 @@
 	{
 		"assign": "myshop_category_not_specified",
 		"jp_text": "指定なし",
-		"tr_text": "None"
+		"tr_text": "Ninguno"
 	},
 	{
 		"assign": "myshop_subcategory_not_specified",
@@ -3817,7 +3817,7 @@
 	{
 		"assign": "myshop_sub_weapon_not_specified",
 		"jp_text": "指定なし",
-		"tr_text": "None"
+		"tr_text": "Ninguno"
 	},
 	{
 		"assign": "myshop_sub_weapon_sword",
@@ -3917,7 +3917,7 @@
 	{
 		"assign": "myshop_sub_unit_not_specified",
 		"jp_text": "指定なし",
-		"tr_text": "None"
+		"tr_text": "Ninguno"
 	},
 	{
 		"assign": "myshop_sub_unit_rear",
@@ -3942,7 +3942,7 @@
 	{
 		"assign": "myshop_sub_ring_not_specified",
 		"jp_text": "指定なし",
-		"tr_text": "None"
+		"tr_text": "Ninguno"
 	},
 	{
 		"assign": "myshop_sub_ring_l",
@@ -3957,7 +3957,7 @@
 	{
 		"assign": "myshop_sub_costume_not_specified",
 		"jp_text": "指定なし",
-		"tr_text": "None"
+		"tr_text": "Ninguno"
 	},
 	{
 		"assign": "myshop_sub_costume_costume",
@@ -3982,7 +3982,7 @@
 	{
 		"assign": "myshop_sex_costume_none",
 		"jp_text": "性別指定なし",
-		"tr_text": "None"
+		"tr_text": "Ninguno"
 	},
 	{
 		"assign": "myshop_sex_costume_male",
@@ -3997,7 +3997,7 @@
 	{
 		"assign": "myshop_sex_parts_none",
 		"jp_text": "性別指定なし",
-		"tr_text": "None"
+		"tr_text": "Ninguno"
 	},
 	{
 		"assign": "myshop_sex_parts_male",
@@ -4012,7 +4012,7 @@
 	{
 		"assign": "myshop_sex_outer_none",
 		"jp_text": "性別指定なし",
-		"tr_text": "None"
+		"tr_text": "Ninguno"
 	},
 	{
 		"assign": "myshop_sex_outer_male",
@@ -4027,7 +4027,7 @@
 	{
 		"assign": "myshop_sex_base_none",
 		"jp_text": "性別指定なし",
-		"tr_text": "None"
+		"tr_text": "Ninguno"
 	},
 	{
 		"assign": "myshop_sex_base_male",
@@ -4042,7 +4042,7 @@
 	{
 		"assign": "myshop_sex_inner_none",
 		"jp_text": "性別指定なし",
-		"tr_text": "None"
+		"tr_text": "Ninguno"
 	},
 	{
 		"assign": "myshop_sex_inner_male",
@@ -4102,7 +4102,7 @@
 	{
 		"assign": "myshop_sub_item_not_specified",
 		"jp_text": "指定なし",
-		"tr_text": "None"
+		"tr_text": "Ninguno"
 	},
 	{
 		"assign": "myshop_sub_item_recovery",
@@ -4192,7 +4192,7 @@
 	{
 		"assign": "myshop_sub_disc_not_specified",
 		"jp_text": "指定なし",
-		"tr_text": "None"
+		"tr_text": "Ninguno"
 	},
 	{
 		"assign": "myshop_sub_disc_sword",
@@ -4297,7 +4297,7 @@
 	{
 		"assign": "myshop_sub_other_not_specified",
 		"jp_text": "指定なし",
-		"tr_text": "None"
+		"tr_text": "Ninguno"
 	},
 	{
 		"assign": "myshop_sub_other_pass",
@@ -4437,7 +4437,7 @@
 	{
 		"assign": "myshop_attribute_not_specified",
 		"jp_text": "指定なし",
-		"tr_text": "None"
+		"tr_text": "Ninguno"
 	},
 	{
 		"assign": "myshop_attribute_fire",
@@ -4477,12 +4477,12 @@
 	{
 		"assign": "myshop_return_lobby",
 		"jp_text": "ロビートップへ戻る",
-		"tr_text": "Return to Lobby"
+		"tr_text": "Regresar al lobby"
 	},
 	{
 		"assign": "myshop_return",
 		"jp_text": "戻る",
-		"tr_text": "Return"
+		"tr_text": "Volver"
 	},
 	{
 		"assign": "myshop_purchase",
@@ -4497,7 +4497,7 @@
 	{
 		"assign": "myshop_withdraw",
 		"jp_text": "取り下げる",
-		"tr_text": "Withdraw"
+		"tr_text": "Retirar"
 	},
 	{
 		"assign": "myshop_display",
@@ -4652,22 +4652,22 @@
 	{
 		"assign": "myshop_prev",
 		"jp_text": "前へ",
-		"tr_text": "Prev."
+		"tr_text": "Anterior"
 	},
 	{
 		"assign": "myshop_first",
 		"jp_text": "最初",
-		"tr_text": "First"
+		"tr_text": "Primero"
 	},
 	{
 		"assign": "myshop_next",
 		"jp_text": "次へ",
-		"tr_text": "Next"
+		"tr_text": "Siguiente"
 	},
 	{
 		"assign": "myshop_last",
 		"jp_text": "最後",
-		"tr_text": "Last"
+		"tr_text": "Último"
 	},
 	{
 		"assign": "myshop_cancel",
@@ -4732,7 +4732,7 @@
 	{
 		"assign": "myshop_purchase_title",
 		"jp_text": "購入確認",
-		"tr_text": "Confirm"
+		"tr_text": "Confirmar"
 	},
 	{
 		"assign": "myshop_button_category",
@@ -4797,7 +4797,7 @@
 	{
 		"assign": "myshop_ability_condition_set_none",
 		"jp_text": "指定なし",
-		"tr_text": "None"
+		"tr_text": "Ninguno"
 	},
 	{
 		"assign": "myshop_ability_condition_set_exist",
@@ -4867,7 +4867,7 @@
 	{
 		"assign": "myshop_withdraw_button",
 		"jp_text": "取り下げ",
-		"tr_text": "Withdraw"
+		"tr_text": "Retirar"
 	},
 	{
 		"assign": "myshop_sales_collect_button",
@@ -4942,7 +4942,7 @@
 	{
 		"assign": "myshop_other_setting_none",
 		"jp_text": "追加指定なし",
-		"tr_text": "None"
+		"tr_text": "Ninguno"
 	},
 	{
 		"assign": "myshop_to_easy",
@@ -4957,7 +4957,7 @@
 	{
 		"assign": "myshop_easy_select_item",
 		"jp_text": "アイテム選択",
-		"tr_text": "Item Select"
+		"tr_text": "Seleccionar objeto"
 	},
 	{
 		"assign": "myshop_keyword_over",
@@ -4977,32 +4977,32 @@
 	{
 		"assign": "questcounter_guide_01",
 		"jp_text": "<color=#f0df60>プレイするクエストを選択してください。</color>",
-		"tr_text": "<color=#f0df60>Please select a quest.</color>"
+		"tr_text": "<color=#f0df60>Por favor seleccione una misión.</color>"
 	},
 	{
 		"assign": "questcounter_guide_02",
 		"jp_text": "<color=#f0df60>クエストに同行するキャラクターを選択してください。</color>",
-		"tr_text": "<color=#f0df60>Please select a character to accompany you on the quest.</color>"
+		"tr_text": "<color=#f0df60>Seleccione un personaje para que te acompañe en la mision.</color>"
 	},
 	{
 		"assign": "questcounter_guide_03",
 		"jp_text": "<color=#f0df60>Exのエリアは、強力なExエネミーたちが登場する高難度のクエストです。Normalのエリアで獲得スコアを最大にすると解放されます。</color>",
-		"tr_text": "<color=#f0df60>Normal Quests are quests that begin the story. Ex quests are higher difficulty versions of Normal Quests.</color>"
+		"tr_text": "<color=#f0df60>Las misiones normales son misiones que comienzan la historia. Las misiones Ex son versiones de mayor dificultad de misiones normales.</color>"
 	},
 	{
 		"assign": "questcounter_guide_04",
 		"jp_text": "<color=#f0df60>過去に配信された、管理官セラフィをめぐるストーリーです。</color>",
-		"tr_text": "<color=#f0df60>The story of Administration Officer Seraphy's past.</color>"
+		"tr_text": "<color=#f0df60>La historia del pasado del Oficial de Administración Seraphy.</color>"
 	},
 	{
 		"assign": "questcounter_guide_05",
 		"jp_text": "<color=#f0df60>日替わりクエストや期間限定のイベントクエストです。</color>",
-		"tr_text": "<color=#f0df60>Daily and Limited Quests are time based events.</color>"
+		"tr_text": "<color=#f0df60>Las misiones diarias y limitadas son misión de tiempo limitado.</color>"
 	},
 	{
 		"assign": "questcounter_guide_06",
 		"jp_text": "<color=#f0df60>フレンドたちと共に強力なエネミーを討伐するクエストです。</color>",
-		"tr_text": "<color=#f0df60>Subdue a powerful enemy with help from friends.</color>"
+		"tr_text": "<color=#f0df60>Somete al enemigo poderoso con la ayuda de tus amigos.</color>"
 	},
 	{
 		"assign": "questcounter_guide_07",
@@ -5037,7 +5037,7 @@
 	{
 		"assign": "quest_counter_story_bonus_info",
 		"jp_text": "※ストーリー閲覧後に、ストーリーボーナスは\n　受け取りボックスへ送られます。",
-		"tr_text": "※After viewing the story, a story bonus\nwill be placed in the reception box."
+		"tr_text": "※Después de ver la historia, se colocará\nuna bonificación de historia en la caja\nde recepción"
 	},
 	{
 		"assign": "quest_counter_bonus_exp",
@@ -5082,12 +5082,12 @@
 	{
 		"assign": "quest_counter_departure_b",
 		"jp_text": "クエストに出発しますか？",
-		"tr_text": "This will start the quest.\nContinue?"
+		"tr_text": "Esto iniciará la misión.\n¿Deseas continuar?"
 	},
 	{
 		"assign": "quest_counter_unarmed_t",
 		"jp_text": "装備確認",
-		"tr_text": "Equip"
+		"tr_text": "Equipo"
 	},
 	{
 		"assign": "quest_counter_unarmed_b",
@@ -5097,7 +5097,7 @@
 	{
 		"assign": "questcounter_shortage_drive_b",
 		"jp_text": "クエストの情報が更新されました。\nロビートップに戻ります。",
-		"tr_text": "Quest info updated.\nYou will return to the lobby."
+		"tr_text": "Información de misión actualizada.\nRegresarás al lobby."
 	},
 	{
 		"assign": "quest_counter_lv",
@@ -5187,7 +5187,7 @@
 	{
 		"assign": "quest_counter_button_return",
 		"jp_text": "戻る",
-		"tr_text": "Back"
+		"tr_text": "Atrás"
 	},
 	{
 		"assign": "quest_counter_window_friend",
@@ -5202,7 +5202,7 @@
 	{
 		"assign": "quest_counter_return_lobby",
 		"jp_text": "ロビートップへ戻る",
-		"tr_text": "Return to lobby"
+		"tr_text": "Regresar al lobby"
 	},
 	{
 		"assign": "quest_counter_label_drive",
@@ -5337,7 +5337,7 @@
 	{
 		"assign": "quest_counter_raid_button_reward",
 		"jp_text": "報酬情報",
-		"tr_text": "Reward"
+		"tr_text": "Premio"
 	},
 	{
 		"assign": "quest_counter_raid_passtime1",
@@ -5807,7 +5807,7 @@
 	{
 		"assign": "relief_button_close",
 		"jp_text": "閉じる",
-		"tr_text": "Close"
+		"tr_text": "Cerrar"
 	},
 	{
 		"assign": "relief_button_send",
@@ -5817,7 +5817,7 @@
 	{
 		"assign": "relief_button_return",
 		"jp_text": "戻る",
-		"tr_text": "Return"
+		"tr_text": "Volver"
 	},
 	{
 		"assign": "relief_dialog_t",
@@ -6302,7 +6302,7 @@
 	{
 		"assign": "field_item",
 		"jp_text": "アイテム",
-		"tr_text": "Item"
+		"tr_text": "Objeto"
 	},
 	{
 		"assign": "field_score",
@@ -6332,7 +6332,7 @@
 	{
 		"assign": "fieldoption_category_close",
 		"jp_text": "閉じる",
-		"tr_text": "Close"
+		"tr_text": "Cerrar"
 	},
 	{
 		"assign": "fieldoption_soundsetting_windowtitle",
@@ -6347,7 +6347,7 @@
 	{
 		"assign": "fieldoption_soundsetting_close",
 		"jp_text": "閉じる",
-		"tr_text": "Close"
+		"tr_text": "Cerrar"
 	},
 	{
 		"assign": "fieldoption_autosetting_windowtitle",
@@ -6387,42 +6387,42 @@
 	{
 		"assign": "fieldoption_autosetting_close",
 		"jp_text": "閉じる",
-		"tr_text": "Close"
+		"tr_text": "Cerrar"
 	},
 	{
 		"assign": "questfield_automove_start",
 		"jp_text": "オート移動開始",
-		"tr_text": "Automove On"
+		"tr_text": "Movimiento automático"
 	},
 	{
 		"assign": "questfield_automove_stop",
 		"jp_text": "オート移動停止",
-		"tr_text": "Automove Off"
+		"tr_text": "Desactivar"
 	},
 	{
 		"assign": "fieldoption_autoatmove_text01",
 		"jp_text": "通常攻撃の移動補助",
-		"tr_text": "Auto Attack Move"
+		"tr_text": "Movimiento de ataque automático"
 	},
 	{
 		"assign": "fieldoption_autoatmove_on",
 		"jp_text": "ON",
-		"tr_text": ""
+		"tr_text": "Encendido"
 	},
 	{
 		"assign": "fieldoption_autoatmove_off",
 		"jp_text": "OFF",
-		"tr_text": ""
+		"tr_text": "APAGADO"
 	},
 	{
 		"assign": "fieldoption_autoatmove_explain01",
 		"jp_text": "通常攻撃時のオート移動をオンにします。",
-		"tr_text": "Turn on Automove for Normal Attacks."
+		"tr_text": "Activar Automove para ataques normales."
 	},
 	{
 		"assign": "fieldoption_autoatmove_explain02",
 		"jp_text": "通常攻撃時のオート移動をオフにします。",
-		"tr_text": "Turn off Automove for Normal Attacks."
+		"tr_text": "Desactiva Automove para ataques normales."
 	},
 	{
 		"assign": "quest_result_levelcap",
@@ -6432,22 +6432,22 @@
 	{
 		"assign": "quest_result_button_end",
 		"jp_text": "次へ",
-		"tr_text": "Next"
+		"tr_text": "Siguiente"
 	},
 	{
 		"assign": "quest_result_button_return",
 		"jp_text": "戻る",
-		"tr_text": "Back"
+		"tr_text": "Atras"
 	},
 	{
 		"assign": "quest_result_good_job1",
 		"jp_text": "同行特典としてお互いにFUNを獲得！",
-		"tr_text": "<%name> sent you a Good Job!"
+		"tr_text": "<%name> te envió un buen trabajo!"
 	},
 	{
 		"assign": "quest_result_good_job2",
 		"jp_text": "<%fun>FUNを入手しました",
-		"tr_text": "Received <%fun> FUN points!"
+		"tr_text": "Recibido <%fun> puntos de FUN!"
 	},
 	{
 		"assign": "quest_result_lv",
@@ -6457,17 +6457,17 @@
 	{
 		"assign": "questresult_result_button",
 		"jp_text": "タッチで進む",
-		"tr_text": "Return"
+		"tr_text": "Volver"
 	},
 	{
 		"assign": "questresult_result_title",
 		"jp_text": "クエスト報酬",
-		"tr_text": "Quest Results"
+		"tr_text": "Resultados de la mision"
 	},
 	{
 		"assign": "questresult_result_getexp",
 		"jp_text": "獲得経験値",
-		"tr_text": "Exp Gained"
+		"tr_text": "Exp Obtenida"
 	},
 	{
 		"assign": "questresult_result_exp",
@@ -6477,7 +6477,7 @@
 	{
 		"assign": "questresult_result_getmeseta",
 		"jp_text": "獲得メセタ",
-		"tr_text": "Meseta Gained"
+		"tr_text": "Meseta Obtenida"
 	},
 	{
 		"assign": "questresult_result_meseta",
@@ -6487,7 +6487,7 @@
 	{
 		"assign": "questresult_result_nextlevel",
 		"jp_text": "次のレベルまで",
-		"tr_text": "To next Lv."
+		"tr_text": "A la próxima Lv."
 	},
 	{
 		"assign": "questresult_result_record",
@@ -6507,7 +6507,7 @@
 	{
 		"assign": "questresult_result_gain",
 		"jp_text": "獲得<color=#68a0a7>/</color>",
-		"tr_text": "Gained"
+		"tr_text": "Obtenido"
 	},
 	{
 		"assign": "questresult_result_total",
@@ -6522,7 +6522,7 @@
 	{
 		"assign": "questresult_result_limit_s_a",
 		"jp_text": "あと<%hh>時間<%mm>分以内に討伐で<%rank>ランク",
-		"tr_text": "<%rank> Rank / Time: <%hh>:<%mm>"
+		"tr_text": "<%rank> Rank / TIempo: <%hh>:<%mm>"
 	},
 	{
 		"assign": "questresult_result_limit_b",
@@ -6532,12 +6532,12 @@
 	{
 		"assign": "questresult_item_title",
 		"jp_text": "獲得アイテム一覧",
-		"tr_text": "Items Acquired"
+		"tr_text": "Items Adquirido"
 	},
 	{
 		"assign": "questresult_item_button",
 		"jp_text": "次へ",
-		"tr_text": "Close"
+		"tr_text": "Cerrar"
 	},
 	{
 		"assign": "questresult_level_title",
@@ -6547,7 +6547,7 @@
 	{
 		"assign": "questresult_level_button",
 		"jp_text": "次へ",
-		"tr_text": "Close"
+		"tr_text": "Cerrar"
 	},
 	{
 		"assign": "questresult_level_level",
@@ -6597,12 +6597,12 @@
 	{
 		"assign": "questresult_newitem_button",
 		"jp_text": "次へ",
-		"tr_text": "Next"
+		"tr_text": "Siguiente"
 	},
 	{
 		"assign": "questresult_social_character_name",
 		"jp_text": "キャラクター名  <color=#68a0a7>/</color>　  ",
-		"tr_text": "Character name  <color=#68a0a7>/</color>　"
+		"tr_text": "Nombre del personaje  <color=#68a0a7>/</color>　"
 	},
 	{
 		"assign": "questresult_social_player_name",
@@ -6617,22 +6617,22 @@
 	{
 		"assign": "questresult_weaponoid_button",
 		"jp_text": "次へ",
-		"tr_text": "Next"
+		"tr_text": "Siguiente"
 	},
 	{
 		"assign": "questresult_weaponoid_present",
 		"jp_text": "<%name>から\n<%item>をもらいました！",
-		"tr_text": "Obtained <%item> from\n<%name>!"
+		"tr_text": "Adquirido <%item> de\n<%name>!"
 	},
 	{
 		"assign": "questresult_weaponoid_window",
 		"jp_text": "キャラクター一覧",
-		"tr_text": "Character List"
+		"tr_text": "Lista de personaje"
 	},
 	{
 		"assign": "questresult_weaponoid_story_open",
 		"jp_text": "<%name>\n第<%story>話の外伝が解放されました！",
-		"tr_text": "<%story>'s Side Story\nCh.<%story> has been unlocked!"
+		"tr_text": "<%story>'s Side Story\nCh.<%story> ha sido desbloqueado!"
 	},
 	{
 		"assign": "questresult_weaponoid_limit",
@@ -6647,7 +6647,7 @@
 	{
 		"assign": "battleresult_title",
 		"jp_text": "バトル評価",
-		"tr_text": "Battle Evaluation"
+		"tr_text": "Evaluación de batalla"
 	},
 	{
 		"assign": "battleresult_time",
@@ -6667,22 +6667,22 @@
 	{
 		"assign": "title_guide_00",
 		"jp_text": "<color=#f0df60>接続したいシップ（サーバー名）を選択してください。</color>",
-		"tr_text": "<color=#f0df60>Please select a ship to connect to.</color>"
+		"tr_text": "<color=#f0df60>Seleccione un ship para conectarse a.</color>"
 	},
 	{
 		"assign": "title_guide_01",
 		"jp_text": "<color=#f0df60>SEGA ＩDとパスワードを入力してください。</color>",
-		"tr_text": "<color=#f0df60>Please enter your SEGA ID and password.</color>"
+		"tr_text": "<color=#f0df60>Por favor introduzca su SEGA ID y password.</color>"
 	},
 	{
 		"assign": "title_guide_02",
 		"jp_text": "<color=#f0df60>ワンタイムパスワードを入力してください。</color>",
-		"tr_text": "<color=#f0df60>Please enter your one-time password.</color>"
+		"tr_text": "<color=#f0df60>Por favor introduzca su one-time password.</color>"
 	},
 	{
 		"assign": "title_guide_03",
 		"jp_text": "<color=#f0df60>プレイするキャラクターを選択してください。</color>",
-		"tr_text": "<color=#f0df60>Please select a character to play as.</color>"
+		"tr_text": "<color=#f0df60>Seleccione un personaje para jugar.</color>"
 	},
 	{
 		"assign": "title_guide_04",
@@ -6707,7 +6707,7 @@
 	{
 		"assign": "title_guide_08",
 		"jp_text": "<color=#f0df60>「ゲームをはじめる」を選択すると、ゲームを開始します。</color>",
-		"tr_text": "<color=#f0df60>Please select 「ゲームをはじめる」 to start the game.</color>"
+		"tr_text": "<color=#f0df60>Seleccione 「ゲームをはじめる」 para comenzar el juego.</color>"
 	},
 	{
 		"assign": "title_guide_09",
@@ -6812,22 +6812,22 @@
 	{
 		"assign": "title_dialog08_button_ship",
 		"jp_text": "シップ選択",
-		"tr_text": "Ship Selection"
+		"tr_text": "Selección de Ship"
 	},
 	{
 		"assign": "title_dialog08_button_new",
 		"jp_text": "タイトルへ戻る",
-		"tr_text": "Back to title"
+		"tr_text": "Volver al título"
 	},
 	{
 		"assign": "title_dialog_t_11",
 		"jp_text": "確認",
-		"tr_text": "Confirmation"
+		"tr_text": "Confirmación"
 	},
 	{
 		"assign": "title_dialog_b_11",
 		"jp_text": "タイトル画面に戻りますか？",
-		"tr_text": "Do you want to return to the title screen?"
+		"tr_text": "¿Quieres volver a la pantalla de título?"
 	},
 	{
 		"assign": "title_dialog_t_09",
@@ -7102,7 +7102,7 @@
 	{
 		"assign": "title_connect_t",
 		"jp_text": "確認",
-		"tr_text": "Confirm"
+		"tr_text": "Confirmar"
 	},
 	{
 		"assign": "title_connect_b",
@@ -7747,7 +7747,7 @@
 	{
 		"assign": "chip_type_name_8",
 		"jp_text": "アイテム",
-		"tr_text": "Item"
+		"tr_text": "Objeto"
 	},
 	{
 		"assign": "chip_type_name_9",
@@ -7837,7 +7837,7 @@
 	{
 		"assign": "equip_return_lobby",
 		"jp_text": "ロビートップへ戻る",
-		"tr_text": "Return to lobby"
+		"tr_text": "Regresar al lobby"
 	},
 	{
 		"assign": "equip_header",
@@ -7847,7 +7847,7 @@
 	{
 		"assign": "equip_return",
 		"jp_text": "戻る",
-		"tr_text": "Back"
+		"tr_text": "Atrás"
 	},
 	{
 		"assign": "chip_window_select",
@@ -8107,7 +8107,7 @@
 	{
 		"assign": "button_decide",
 		"jp_text": "決定",
-		"tr_text": "Confirm"
+		"tr_text": "Confirmar"
 	},
 	{
 		"assign": "item_sale",
@@ -8482,7 +8482,7 @@
 	{
 		"assign": "item_detail_next",
 		"jp_text": "次",
-		"tr_text": "Next"
+		"tr_text": "Siguiente"
 	},
 	{
 		"assign": "dict_current_chip_num",
@@ -8597,7 +8597,7 @@
 	{
 		"assign": "item_grind_tab_after",
 		"jp_text": "後",
-		"tr_text": "After"
+		"tr_text": "Después"
 	},
 	{
 		"assign": "item_grind_select_menu",
@@ -9272,7 +9272,7 @@
 	{
 		"assign": "caption_depot",
 		"jp_text": "倉庫",
-		"tr_text": "Storage"
+		"tr_text": "Almacen"
 	},
 	{
 		"assign": "lobby_action_gauge",
@@ -9392,7 +9392,7 @@
 	{
 		"assign": "menu_fulldownload_t_01",
 		"jp_text": "ダウンロード確認",
-		"tr_text": "Confirmation"
+		"tr_text": "Confirmación"
 	},
 	{
 		"assign": "menu_fulldownload_b_01",
@@ -9427,7 +9427,7 @@
 	{
 		"assign": "menu_fulldownload_t_03",
 		"jp_text": "確認",
-		"tr_text": "Confirmation"
+		"tr_text": "Confirmación"
 	},
 	{
 		"assign": "menu_fulldownload_b_03",
@@ -9442,7 +9442,7 @@
 	{
 		"assign": "menu_fulldownload_btn_03_2",
 		"jp_text": "戻る",
-		"tr_text": "Back"
+		"tr_text": "Atrás"
 	},
 	{
 		"assign": "menu_fulldownload_t_04",
@@ -9607,7 +9607,7 @@
 	{
 		"assign": "lobby_top_logout",
 		"jp_text": "タイトルへ戻る",
-		"tr_text": "Back to title"
+		"tr_text": "Volver al título"
 	},
 	{
 		"assign": "community_guide_00",
@@ -9737,7 +9737,7 @@
 	{
 		"assign": "mail_close",
 		"jp_text": "閉じる",
-		"tr_text": "Close"
+		"tr_text": "Cerrar"
 	},
 	{
 		"assign": "mail_recieve",
@@ -9802,7 +9802,7 @@
 	{
 		"assign": "mail_first",
 		"jp_text": "最初",
-		"tr_text": "First"
+		"tr_text": "Primero"
 	},
 	{
 		"assign": "mail_prev",
@@ -9812,12 +9812,12 @@
 	{
 		"assign": "mail_next",
 		"jp_text": "次",
-		"tr_text": "Next"
+		"tr_text": "Siguiente"
 	},
 	{
 		"assign": "mail_last",
 		"jp_text": "最後",
-		"tr_text": "Last"
+		"tr_text": "Último"
 	},
 	{
 		"assign": "mail_first_shadow",
@@ -9897,7 +9897,7 @@
 	{
 		"assign": "friend_search_close",
 		"jp_text": "閉じる",
-		"tr_text": "Close"
+		"tr_text": "Cerrar"
 	},
 	{
 		"assign": "character_info",
@@ -10152,7 +10152,7 @@
 	{
 		"assign": "scratch_init",
 		"jp_text": "初回",
-		"tr_text": "First"
+		"tr_text": "Primero"
 	},
 	{
 		"assign": "ac_window_title",
@@ -10185,9 +10185,9 @@
 		"tr_text": "{0} yen"
 	},
 	{
-		"assign": "return",
+		"assign": "Volver",
 		"jp_text": "戻る",
-		"tr_text": "Back"
+		"tr_text": "Atrás"
 	},
 	{
 		"assign": "dialog_title_ac_shortage",
@@ -13757,22 +13757,22 @@
 	{
 		"assign": "raid_n_hp05",
 		"jp_text": "目標の体力はまだまだ残っています。\nこのまま継続してダメージを与えていきましょう。",
-		"tr_text": "We still have a bit more to go.\nPlease continue your attacks."
+		"tr_text": "Todavía tenemos que avanzar.\nPor favor continue su ataque."
 	},
 	{
 		"assign": "raid_n_hp06",
 		"jp_text": "目標の討伐を目指して頑張りましょう。\nせいいっぱい応援しています！",
-		"tr_text": "Let's do our best, ok!\nYou have my utmost support!"
+		"tr_text": "Vamos a hacer nuestro mejor esfuerzo,\n¡Bien! ¡Tienes mi máximo apoyo!"
 	},
 	{
 		"assign": "raid_log_00",
 		"jp_text": "クエストを開始しました。",
-		"tr_text": "Started the Quest."
+		"tr_text": "Comenzado la misión."
 	},
 	{
 		"assign": "raid_log_01",
 		"jp_text": "目標に",
-		"tr_text": "Damage:\t"
+		"tr_text": "Daño:\t"
 	},
 	{
 		"assign": "raid_log_02",
@@ -14407,27 +14407,27 @@
 	{
 		"assign": "RaidEvent_Achievement_dialog02",
 		"jp_text": "以下の報酬を受け取りました。",
-		"tr_text": "Received the following award(s)."
+		"tr_text": "Recibes el siguiente premio(s)."
 	},
 	{
 		"assign": "raidEvent_SortType_1",
 		"jp_text": "標準",
-		"tr_text": "Standard"
+		"tr_text": "Estándar"
 	},
 	{
 		"assign": "raidEvent_SortType_2",
 		"jp_text": "受取可能",
-		"tr_text": "Receivable"
+		"tr_text": "Por cobrar"
 	},
 	{
 		"assign": "raidEvent_ClearCount",
 		"jp_text": "達成数",
-		"tr_text": "Number Achieved"
+		"tr_text": "Número logrado"
 	},
 	{
 		"assign": "raid_event_guide_00",
 		"jp_text": "<color=#f0df60>緊急イベントの進行状況画面です。「遊び方」バナーから詳しい遊び方を確認できます。</color>",
-		"tr_text": "<color=#f0df60>Progress Screen of the EQ. You can see an explanation from the 'How to Play' Banner.</color>"
+		"tr_text": "<color=#f0df60>Esta es la pantalla de progreso de EQ.  en el boton「遊び方」Puede verificar cómo jugar.</color>"
 	},
 	{
 		"assign": "raid_event_guide_01",
@@ -14747,7 +14747,7 @@
 	{
 		"assign": "tutorial_skip_dialog_btn_00",
 		"jp_text": "確認する",
-		"tr_text": "Confirm"
+		"tr_text": "Confirmar"
 	},
 	{
 		"assign": "tutorial_skip_dialog_btn_01",
@@ -15012,12 +15012,12 @@
 	{
 		"assign": "arks_exp_reward_button_close",
 		"jp_text": "閉じる",
-		"tr_text": "Close"
+		"tr_text": "Cerrar"
 	},
 	{
 		"assign": "arks_exp_reward_button_next",
 		"jp_text": "次の報酬",
-		"tr_text": "Next"
+		"tr_text": "Siguiente"
 	},
 	{
 		"assign": "arks_exp_reward_dialog_title",
@@ -15107,7 +15107,7 @@
 	{
 		"assign": "fld_productionset_btn_close",
 		"jp_text": "閉じる",
-		"tr_text": "Close"
+		"tr_text": "Cerrar"
 	},
 	{
 		"assign": "btl_menu_title",
@@ -15132,7 +15132,7 @@
 	{
 		"assign": "btl_menu_btn_close",
 		"jp_text": "閉じる",
-		"tr_text": "Close"
+		"tr_text": "Cerrar"
 	},
 	{
 		"assign": "btl_wep_title",
@@ -15157,7 +15157,7 @@
 	{
 		"assign": "btl_wep_btn_close",
 		"jp_text": "閉じる",
-		"tr_text": "Close"
+		"tr_text": "Cerrar"
 	},
 	{
 		"assign": "btl_soundset",
@@ -15187,7 +15187,7 @@
 	{
 		"assign": "btl_soundset_close",
 		"jp_text": "閉じる",
-		"tr_text": "Close"
+		"tr_text": "Cerrar"
 	},
 	{
 		"assign": "pet_eggdetail_title_01",
@@ -15317,7 +15317,7 @@
 	{
 		"assign": "depot_return_lobby",
 		"jp_text": "ロビートップへ戻る",
-		"tr_text": "Return to Lobby"
+		"tr_text": "Regresar al lobby"
 	},
 	{
 		"assign": "depot_side_button_pack",
@@ -15327,12 +15327,12 @@
 	{
 		"assign": "depot_side_button_depot",
 		"jp_text": "倉庫",
-		"tr_text": "Storage"
+		"tr_text": "Almacen"
 	},
 	{
 		"assign": "depot_footer_ship_no",
 		"jp_text": "Ship{0}の倉庫",
-		"tr_text": "Ship{0} Storage"
+		"tr_text": "Ship{0} Almacen"
 	},
 	{
 		"assign": "depot_footer_select_num",
@@ -15347,12 +15347,12 @@
 	{
 		"assign": "depot_leave_button",
 		"jp_text": "預ける",
-		"tr_text": "Deposit"
+		"tr_text": "Depositar"
 	},
 	{
 		"assign": "depot_window_title_depot",
 		"jp_text": "PSO2es倉庫",
-		"tr_text": "PSO2es Storage"
+		"tr_text": "PSO2es Almacen"
 	},
 	{
 		"assign": "depot_take_button",
@@ -15362,12 +15362,12 @@
 	{
 		"assign": "depot_dialog_title",
 		"jp_text": "PSO2es倉庫",
-		"tr_text": "PSO2es Storage"
+		"tr_text": "PSO2es Almacen"
 	},
 	{
 		"assign": "depot_dialog_exit",
 		"jp_text": "選択状態のアイテムがあります。戻りますか？\n\n",
-		"tr_text": "There's no items in the storage, return?\n\n"
+		"tr_text": "No hay objetos en el almacen, ¿regresar?\n\n"
 	},
 	{
 		"assign": "depot_dialog_depot_full",
@@ -15627,7 +15627,7 @@
 	{
 		"assign": "pet_check_recovery_window_title",
 		"jp_text": "確認",
-		"tr_text": "Confirm"
+		"tr_text": "Confirmar"
 	},
 	{
 		"assign": "pet_check_recovery_window_body",
@@ -16507,7 +16507,7 @@
 	{
 		"assign": "arks_exp_result_reward_text",
 		"jp_text": "報酬",
-		"tr_text": "Reward"
+		"tr_text": "Premio"
 	},
 	{
 		"assign": "arks_exp_result_quest_bonus_text",
@@ -16567,7 +16567,7 @@
 	{
 		"assign": "arks_exp_quest_lap_text",
 		"jp_text": "あと",
-		"tr_text": "after"
+		"tr_text": "Después"
 	},
 	{
 		"assign": "arks_exp_quest_num",
@@ -16772,7 +16772,7 @@
 	{
 		"assign": "filter_releaseaft",
 		"jp_text": "チップ解放後",
-		"tr_text": "Released"
+		"tr_text": "Liberado"
 	},
 	{
 		"assign": "filter_canlvup",
@@ -16807,7 +16807,7 @@
 	{
 		"assign": "filter_item",
 		"jp_text": "アイテム",
-		"tr_text": "Item"
+		"tr_text": "Objeto"
 	},
 	{
 		"assign": "filter_dimension",
@@ -16817,7 +16817,7 @@
 	{
 		"assign": "filter_enemy",
 		"jp_text": "エネミー",
-		"tr_text": "Enemy"
+		"tr_text": "Enemigo"
 	},
 	{
 		"assign": "filter_wepreleasebef",
@@ -16827,7 +16827,7 @@
 	{
 		"assign": "filter_wepreleaseaft",
 		"jp_text": "能力解放後",
-		"tr_text": "Released"
+		"tr_text": "Liberado"
 	},
 	{
 		"assign": "filter_favorite",
@@ -16837,7 +16837,7 @@
 	{
 		"assign": "filter_unfavorite",
 		"jp_text": "お気に入り以外",
-		"tr_text": "Unfavorite"
+		"tr_text": "Desfavorecido"
 	},
 	{
 		"assign": "filter_existlinkskill",
@@ -16847,7 +16847,7 @@
 	{
 		"assign": "filter_nonelinkskill",
 		"jp_text": "なし",
-		"tr_text": "None"
+		"tr_text": "Ninguno"
 	},
 	{
 		"assign": "story_event_end_text_1",
@@ -17112,12 +17112,12 @@
 	{
 		"assign": "acceptbox_return",
 		"jp_text": "戻る",
-		"tr_text": "Return"
+		"tr_text": "Volver"
 	},
 	{
 		"assign": "acceptbox_guide_00",
 		"jp_text": "<color=#f0df60>受け取りボックスの中には、受け取り期限のあるアイテムがあります。期限が過ぎると受け取れなくなりますので、ご注意ください。</color>",
-		"tr_text": "<color=#f0df60>There are items with a deadline. Once it's past the deadline, you cannot redeem the items.</color>"
+		"tr_text": "<color=#f0df60>Hay objetos con una fecha límite. Una vez que se ha vencido la fecha límite, no puede canjear los objetos.</color>"
 	},
 	{
 		"assign": "acceptbox_title",
@@ -17127,7 +17127,7 @@
 	{
 		"assign": "acceptbox_return_lobby",
 		"jp_text": "ロビートップへ戻る",
-		"tr_text": "Return to Lobby"
+		"tr_text": "Regresar al lobby"
 	},
 	{
 		"assign": "acceptbox_list_title",
@@ -17137,17 +17137,17 @@
 	{
 		"assign": "acceptbox_recieve_num",
 		"jp_text": "保存数",
-		"tr_text": "Saved"
+		"tr_text": "Guardado"
 	},
 	{
 		"assign": "acceptbox_sort_standard",
 		"jp_text": "入手順",
-		"tr_text": "Standard"
+		"tr_text": "Estándar"
 	},
 	{
 		"assign": "acceptbox_sort_expiration",
 		"jp_text": "期限",
-		"tr_text": "Expires"
+		"tr_text": "Expira"
 	},
 	{
 		"assign": "acceptbox_sort_chip",
@@ -17172,22 +17172,22 @@
 	{
 		"assign": "acceptbox_first",
 		"jp_text": "最初",
-		"tr_text": "First"
+		"tr_text": "Primero"
 	},
 	{
 		"assign": "acceptbox_last",
 		"jp_text": "最後",
-		"tr_text": "Last"
+		"tr_text": "Último"
 	},
 	{
 		"assign": "acceptbox_next",
 		"jp_text": "次",
-		"tr_text": "Next"
+		"tr_text": "Siguiente"
 	},
 	{
 		"assign": "acceptbox_prev",
 		"jp_text": "前",
-		"tr_text": "Prev."
+		"tr_text": "Anterior"
 	},
 	{
 		"assign": "acceptbox_first_shadow",
@@ -17227,7 +17227,7 @@
 	{
 		"assign": "acceptbox_no_item",
 		"jp_text": "受け取れるアイテムはありません。",
-		"tr_text": "You do not have any items."
+		"tr_text": "Usted no tiene ningún objeto."
 	},
 	{
 		"assign": "acceptbox_recieve_end",
@@ -17247,7 +17247,7 @@
 	{
 		"assign": "acceptbox_dialog_b_1",
 		"jp_text": "残り24時間以内に期限切れのアイテムがあります。",
-		"tr_text": "There's item(s) that will expire in 24 hours."
+		"tr_text": "Hay objetos que expirarán en 24 horas."
 	},
 	{
 		"assign": "acceptbox_dialog_t_2",
@@ -17257,7 +17257,7 @@
 	{
 		"assign": "acceptbox_dialog_b_2",
 		"jp_text": "チェックマーク付きのアイテムをキャンセルします。\nよろしいですか?",
-		"tr_text": "Cancel the selected item(s)?"
+		"tr_text": "Cancelar los objetos seleccionados?"
 	},
 	{
 		"assign": "acceptbox_dialog_t_3",
@@ -17342,7 +17342,7 @@
 	{
 		"assign": "acceptbox_over_close",
 		"jp_text": "閉じる",
-		"tr_text": "Close"
+		"tr_text": "Cerrar"
 	},
 	{
 		"assign": "acceptbox_item_chip_over_message",
@@ -17372,7 +17372,7 @@
 	{
 		"assign": "reward_button_close",
 		"jp_text": "閉じる",
-		"tr_text": "Close"
+		"tr_text": "Cerrar"
 	},
 	{
 		"assign": "reward_dialog_text",
@@ -17382,7 +17382,7 @@
 	{
 		"assign": "reward_button_next",
 		"jp_text": "次へ",
-		"tr_text": "Next"
+		"tr_text": "Siguiente"
 	},
 	{
 		"assign": "base_item_special_weapon",
@@ -17417,12 +17417,12 @@
 	{
 		"assign": "collect_search_return_lobby",
 		"jp_text": "ロビートップへ戻る",
-		"tr_text": "Return to Lobby"
+		"tr_text": "Regresar al lobby"
 	},
 	{
 		"assign": "collect_search_return",
 		"jp_text": "戻る",
-		"tr_text": "Return"
+		"tr_text": "Volver"
 	},
 	{
 		"assign": "collect_search_title",
@@ -17452,12 +17452,12 @@
 	{
 		"assign": "collect_search_lap_text",
 		"jp_text": "あと",
-		"tr_text": "After"
+		"tr_text": "Después"
 	},
 	{
 		"assign": "collect_search_drop_rate_text",
 		"jp_text": "大成功発生確率　/",
-		"tr_text": "Great Success /"
+		"tr_text": "Gran éxito /"
 	},
 	{
 		"assign": "collect_search_drop_rate_value",
@@ -17467,7 +17467,7 @@
 	{
 		"assign": "collect_search_item_info",
 		"jp_text": "必要アイテム",
-		"tr_text": "Required"
+		"tr_text": "Requerido"
 	},
 	{
 		"assign": "collect_search_exp_text",
@@ -17487,12 +17487,12 @@
 	{
 		"assign": "collect_search_window_aheetselect",
 		"jp_text": "コレクトシート選択",
-		"tr_text": "Select a Sheet"
+		"tr_text": "Seleccione una hoja"
 	},
 	{
 		"assign": "collect_search_count_title",
 		"jp_text": "残りサーチ回数：",
-		"tr_text": "Remaining:"
+		"tr_text": "Restante:"
 	},
 	{
 		"assign": "collect_search_count",
@@ -17522,7 +17522,7 @@
 	{
 		"assign": "collect_search_one_time",
 		"jp_text": "1回実行",
-		"tr_text": "Again"
+		"tr_text": "De nuevo"
 	},
 	{
 		"assign": "collect_search_reward_dialog_title",
@@ -17532,12 +17532,12 @@
 	{
 		"assign": "collect_search_bonus_up_title",
 		"jp_text": "報酬",
-		"tr_text": "Reward"
+		"tr_text": "Premio"
 	},
 	{
 		"assign": "collect_search_bonus_up",
 		"jp_text": "大成功！",
-		"tr_text": "Great Success!"
+		"tr_text": "¡Gran éxito!"
 	},
 	{
 		"assign": "collect_search_result_reward_exp_text",
@@ -17557,7 +17557,7 @@
 	{
 		"assign": "collect_search_close",
 		"jp_text": "閉じる",
-		"tr_text": "Close"
+		"tr_text": "Cerrar"
 	},
 	{
 		"assign": "collect_search_reward_button_next",
@@ -17612,7 +17612,7 @@
 	{
 		"assign": "collect_search_item_complete",
 		"jp_text": "COMPLETE!",
-		"tr_text": "COMPLETED!"
+		"tr_text": "COMPLETADO!"
 	},
 	{
 		"assign": "collect_search_drop_rate_info_text",
@@ -17627,7 +17627,7 @@
 	{
 		"assign": "chip_depot_title",
 		"jp_text": "チップ倉庫",
-		"tr_text": "Storage"
+		"tr_text": "Almacen"
 	},
 	{
 		"assign": "chip_depot_side_button_pack",
@@ -17647,12 +17647,12 @@
 	{
 		"assign": "chip_depot_leave",
 		"jp_text": "預ける",
-		"tr_text": "Deposit"
+		"tr_text": "Depositar"
 	},
 	{
 		"assign": "chip_depot_take",
 		"jp_text": "取り出す",
-		"tr_text": "Withdraw"
+		"tr_text": "Retirar"
 	},
 	{
 		"assign": "chip_depot_expand",
@@ -17787,7 +17787,7 @@
 	{
 		"assign": "scratch_pickup_bonue_item_info",
 		"jp_text": "報酬内容",
-		"tr_text": "Reward"
+		"tr_text": "Premio"
 	},
 	{
 		"assign": "scratch_pickup_select_fix_text",
@@ -17802,7 +17802,7 @@
 	{
 		"assign": "scratch_pickup_select_fix_return",
 		"jp_text": "戻る",
-		"tr_text": "Return"
+		"tr_text": "Volver"
 	},
 	{
 		"assign": "ItemDetail_accessory_message",
@@ -17907,7 +17907,7 @@
 	{
 		"assign": "acceptbox_sale_confirm_dialog_title",
 		"jp_text": "受け取りボックスの売却確認",
-		"tr_text": "Confirm"
+		"tr_text": "Confirmar"
 	},
 	{
 		"assign": "acceptbox_sale_confirm_dialog_text",
@@ -18162,7 +18162,7 @@
 	{
 		"assign": "photondice_payback_dialog_t_01",
 		"jp_text": "払い戻し確認画面",
-		"tr_text": "Confirm"
+		"tr_text": "Confirmar"
 	},
 	{
 		"assign": "photondice_payback_dialog_b_01",
@@ -18467,7 +18467,7 @@
 	{
 		"assign": "chip_details_none",
 		"jp_text": "なし",
-		"tr_text": "None"
+		"tr_text": "Ninguno"
 	},
 	{
 		"assign": "chip_details_chip_no",

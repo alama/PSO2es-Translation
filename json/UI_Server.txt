@@ -2,67 +2,67 @@
 	{
 		"assign": "200_t",
 		"jp_text": "SEGA ID認証",
-		"tr_text": "SEGA ID Authentication"
+		"tr_text": "Autentificación de SEGA ID"
 	},
 	{
 		"assign": "201_t",
 		"jp_text": "アカウント利用停止",
-		"tr_text": "Account Suspended"
+		"tr_text": "Cuenta suspendida"
 	},
 	{
 		"assign": "203_t",
 		"jp_text": "PSO2にログイン中",
-		"tr_text": "Currently logged into PSO2"
+		"tr_text": "iniciado sesión en PSO2"
 	},
 	{
 		"assign": "103_t",
 		"jp_text": "ワンタイムパスワード認証",
-		"tr_text": "One-Time Password Authentication"
+		"tr_text": "Autenticación de One-Time Password"
 	},
 	{
 		"assign": "104_t",
 		"jp_text": "ワンタイムパスワード認証",
-		"tr_text": "One-Time Password Authentication"
+		"tr_text": "Autenticación de One-Time Password"
 	},
 	{
 		"assign": "105_t",
 		"jp_text": "ワンタイムパスワード認証",
-		"tr_text": "One-Time Password Authentication"
+		"tr_text": "Autenticación de One-Time Password"
 	},
 	{
 		"assign": "106_t",
 		"jp_text": "ワンタイムパスワード認証",
-		"tr_text": "One-Time Password Authentication"
+		"tr_text": "Autenticación de One-Time Password"
 	},
 	{
 		"assign": "002_t",
 		"jp_text": "プレイヤーＩＤネーム登録",
-		"tr_text": "PlayerID Registration"
+		"tr_text": "Registro de PlayerID"
 	},
 	{
 		"assign": "003_t",
 		"jp_text": "プレイヤーＩＤネーム登録",
-		"tr_text": "PlayerID Registration"
+		"tr_text": "Registro de PlayerID"
 	},
 	{
 		"assign": "011_t",
 		"jp_text": "プレイヤーＩＤネーム登録",
-		"tr_text": "PlayerID Registration"
+		"tr_text": "Registro de PlayerID"
 	},
 	{
 		"assign": "107_t",
 		"jp_text": "プレイヤーＩＤネーム登録",
-		"tr_text": "PlayerID Registration"
+		"tr_text": "Registro de PlayerID"
 	},
 	{
 		"assign": "114_t",
 		"jp_text": "モバイルセットアップ未完了",
-		"tr_text": "Mobile Setup incomplete"
+		"tr_text": "Configuración incompleta"
 	},
 	{
 		"assign": "115_t",
 		"jp_text": "モバイルセットアップ済み",
-		"tr_text": "Mobile Setup Complete"
+		"tr_text": "Configuración completa"
 	},
 	{
 		"assign": "108_t",
@@ -87,32 +87,32 @@
 	{
 		"assign": "123_t",
 		"jp_text": "キャラクター引き継ぎ",
-		"tr_text": "Character Transfer"
+		"tr_text": "Transferencia de personaje"
 	},
 	{
 		"assign": "124_t",
 		"jp_text": "キャラクター引き継ぎ",
-		"tr_text": "Character Transfer"
+		"tr_text": "Transferencia de personaje"
 	},
 	{
 		"assign": "202_t",
 		"jp_text": "ゲームバージョンチェック",
-		"tr_text": "Check game version"
+		"tr_text": "Verificar versión del juego"
 	},
 	{
 		"assign": "125_t",
 		"jp_text": "ゲームバージョンチェック",
-		"tr_text": "Check game version"
+		"tr_text": "Verificar versión del juego"
 	},
 	{
 		"assign": "126_t",
 		"jp_text": "ゲームバージョンチェック",
-		"tr_text": "Check game version"
+		"tr_text": "Verificar versión del juego"
 	},
 	{
 		"assign": "127_t",
 		"jp_text": "ゲームバージョンチェック",
-		"tr_text": "Check game version"
+		"tr_text": "Verificar versión del juego"
 	},
 	{
 		"assign": "221_t",
@@ -377,37 +377,37 @@
 	{
 		"assign": "402_t",
 		"jp_text": "フレンド申請",
-		"tr_text": "Friend Request"
+		"tr_text": "Solicitud de amistad"
 	},
 	{
 		"assign": "403_t",
 		"jp_text": "フレンド申請",
-		"tr_text": "Friend Request"
+		"tr_text": "Solicitud de amistad"
 	},
 	{
 		"assign": "404_t",
 		"jp_text": "フレンド申請",
-		"tr_text": "Friend Request"
+		"tr_text": "Solicitud de amistad"
 	},
 	{
 		"assign": "405_t",
 		"jp_text": "フレンド申請",
-		"tr_text": "Friend Request"
+		"tr_text": "Solicitud de amistad"
 	},
 	{
 		"assign": "406_t",
 		"jp_text": "フレンド申請",
-		"tr_text": "Friend Request"
+		"tr_text": "Solicitud de amistad"
 	},
 	{
 		"assign": "407_t",
 		"jp_text": "フレンド申請",
-		"tr_text": "Friend Request"
+		"tr_text": "Solicitud de amistad"
 	},
 	{
 		"assign": "442_t",
 		"jp_text": "フレンド申請",
-		"tr_text": "Friend Request"
+		"tr_text": "Solicitud de amistad"
 	},
 	{
 		"assign": "400_t",
@@ -447,7 +447,7 @@
 	{
 		"assign": "217_t",
 		"jp_text": "課金コンテンツ利用",
-		"tr_text": "Billing"
+		"tr_text": "Facturación"
 	},
 	{
 		"assign": "128_t",
@@ -507,22 +507,22 @@
 	{
 		"assign": "230_t",
 		"jp_text": "マイショップ",
-		"tr_text": "Player shop"
+		"tr_text": "Tienda de jugadores"
 	},
 	{
 		"assign": "100_t",
 		"jp_text": "接続エラー",
-		"tr_text": "Connection Error"
+		"tr_text": "Error de conexión"
 	},
 	{
 		"assign": "101_t",
 		"jp_text": "データバージョン不一致",
-		"tr_text": "Data version mismatch"
+		"tr_text": "No coincide la versión"
 	},
 	{
 		"assign": "110_t",
 		"jp_text": "接続エラー",
-		"tr_text": "Connection Error"
+		"tr_text": "Error de conexión"
 	},
 	{
 		"assign": "111_t",
@@ -557,7 +557,7 @@
 	{
 		"assign": "102_t",
 		"jp_text": "メンテモードへ移行",
-		"tr_text": "Maintenance"
+		"tr_text": "Mantenimiento"
 	},
 	{
 		"assign": "231_t",
@@ -577,17 +577,17 @@
 	{
 		"assign": "200_b",
 		"jp_text": "SEGA IDの認証に失敗しました。\r\nSEGA IDまたはパスワードをご確認の上、\r\n再度入力してください。",
-		"tr_text": "SEGA ID Authentification failed.\nPlease check your ID and password\nand try again."
+		"tr_text": "La autenticación de identificación\nde SEGA falló. Por favor revise\nSu ID y contraseña\ne intente de nuevo."
 	},
 	{
 		"assign": "201_b",
 		"jp_text": "ただいま当アカウントのご利用を\r\n停止させていただいております。",
-		"tr_text": ""
+		"tr_text": "Actualmente estás usando\nesta cuenta"
 	},
 	{
 		"assign": "203_b",
 		"jp_text": "PSO2にログインしているため\r\nPSO2esにログインできません。",
-		"tr_text": "Since you are logged into PSO2,\nyou cannot log into PSO2es."
+		"tr_text": "Como has iniciado sesión en PSO2,\nno puedes iniciar sesión en PSO2es."
 	},
 	{
 		"assign": "103_b",
