@@ -417,7 +417,7 @@
 	{
 		"assign": "acshop_dialog_t_27",
 		"jp_text": "入力エラー",
-		"tr_text": "Input Error"
+		"tr_text": "Error de entrada"
 	},
 	{
 		"assign": "acshop_dialog_b_27",
@@ -2492,7 +2492,7 @@
 	{
 		"assign": "menu_dialog_t_11",
 		"jp_text": "入力エラー",
-		"tr_text": "Input Error"
+		"tr_text": "Error de entrada"
 	},
 	{
 		"assign": "menu_dialog_b_11",
@@ -5542,7 +5542,7 @@
 	{
 		"assign": "reward_caption_result",
 		"jp_text": "クリアタイム評価",
-		"tr_text": "Clear Time"
+		"tr_text": "Tiempo Record"
 	},
 	{
 		"assign": "reward_caption_get_point",
@@ -5642,7 +5642,7 @@
 	{
 		"assign": "reward_caption_time_finish",
 		"jp_text": "討伐完了時刻",
-		"tr_text": "Clear Time"
+		"tr_text": "Tiempo Record"
 	},
 	{
 		"assign": "reward_time_finish",
@@ -6652,17 +6652,17 @@
 	{
 		"assign": "battleresult_time",
 		"jp_text": "クリアタイム",
-		"tr_text": "Clear Time"
+		"tr_text": "Tiempo Record"
 	},
 	{
 		"assign": "battleresult_damage",
 		"jp_text": "受けたダメージ",
-		"tr_text": "Damage Taken"
+		"tr_text": "Daño recibido"
 	},
 	{
 		"assign": "battleresult_score",
 		"jp_text": "獲得スコア",
-		"tr_text": "Battle Score"
+		"tr_text": "Puntuación de batalla"
 	},
 	{
 		"assign": "title_guide_00",
@@ -6807,7 +6807,7 @@
 	{
 		"assign": "title_dialog_b_08",
 		"jp_text": "プレイヤーＩＤネームが未登録、もしくは\nキャラクターが存在しません。\nキャラクターがいるシップを選び直すか\n『PSO2』でキャラクターを作成してください。",
-		"tr_text": "That PlayerID or name does not exist,\nor no characters  are on this ship.\nPlease confirm the correct ship and ID,\nor feel free to create a new character."
+		"tr_text": "Ese PlayerID o nombre no existe, \no no hay personajes en este ship.\nPor favor, confirme la identificación\ny el Ship correctos, o siéntase libre \nde crear un nuevo personaje."
 	},
 	{
 		"assign": "title_dialog08_button_ship",
@@ -6832,27 +6832,27 @@
 	{
 		"assign": "title_dialog_t_09",
 		"jp_text": "入力エラー",
-		"tr_text": "Input Error"
+		"tr_text": "Error de entrada"
 	},
 	{
 		"assign": "title_dialog_b_09",
 		"jp_text": "入力された内容に禁止用語が含まれています。",
-		"tr_text": "You have used a non-allowed word."
+		"tr_text": "Has usado una palabra no permitida"
 	},
 	{
 		"assign": "title_dialog_t_12",
 		"jp_text": "入力エラー",
-		"tr_text": "Input Error"
+		"tr_text": "Error de entrada"
 	},
 	{
 		"assign": "title_dialog_b_12",
 		"jp_text": "空白のまま決定は行えません。",
-		"tr_text": "You cannot leave this field blank."
+		"tr_text": "No puedes dejar este campo en blanco"
 	},
 	{
 		"assign": "title_dialog_t_10",
 		"jp_text": "入力エラー",
-		"tr_text": "Input Error"
+		"tr_text": "Error de entrada"
 	},
 	{
 		"assign": "title_dialog_b_10",
@@ -6862,7 +6862,7 @@
 	{
 		"assign": "title_dialog_t_13",
 		"jp_text": "秘密のパスワード",
-		"tr_text": "Device ID"
+		"tr_text": "ID del dispositivo"
 	},
 	{
 		"assign": "title_dialog_b_13",
@@ -6872,22 +6872,22 @@
 	{
 		"assign": "title_dialog_t_14",
 		"jp_text": "秘密のパスワード",
-		"tr_text": "Device ID"
+		"tr_text": "ID del dispositivo"
 	},
 	{
 		"assign": "title_dialog_b_14",
 		"jp_text": "登録されている連絡先メールアドレスに\n秘密のパスワードを送りました。\n\n<size=22>※複数回送信すると、毎回、\n秘密のパスワードが更新されます。\n最新の受信メールをご確認ください。</size>",
-		"tr_text": "Email Sent.\nThe Contents of the email contain a new Device ID.\n<size=22>※Every time you recover a new Device ID,\na new one is generated.</size>"
+		"tr_text": "Correo enviado.\nEl contenido del correo electrónico contiene\nuna nueva ID de dispositivo.\n<size=22>※Cada vez que recupera una nueva ID\n de Dispositivo, se genera uno nuevo</size>"
 	},
 	{
 		"assign": "title_send_mail_button",
 		"jp_text": "秘密のパスワードを忘れた場合",
-		"tr_text": "I Forgot my Device ID"
+		"tr_text": "Olvidé mi ID de dispositivo"
 	},
 	{
 		"assign": "title_login_t",
 		"jp_text": "ログイン",
-		"tr_text": "Login"
+		"tr_text": "Iniciar sesión"
 	},
 	{
 		"assign": "title_login_id",
@@ -6912,7 +6912,7 @@
 	{
 		"assign": "title_login_botton",
 		"jp_text": "ログイン",
-		"tr_text": "Login"
+		"tr_text": "Iniciar sesión"
 	},
 	{
 		"assign": "title_chara_select_t",
@@ -9742,7 +9742,7 @@
 	{
 		"assign": "mail_recieve",
 		"jp_text": "受け取る",
-		"tr_text": "Receive"
+		"tr_text": "Recibir"
 	},
 	{
 		"assign": "mail_date",
@@ -10347,7 +10347,7 @@
 	{
 		"assign": "tu_0000_w02_b",
 		"jp_text": "キャラクターは、画面を左右にスライドすると横に移動し\n上下にスライドすると前後に移動します。",
-		"tr_text": "Your character can also dodge left or\nright when swiping the screen to the left or right\nor forward and back by swiping up and down."
+		"tr_text": "Tu personaje también puede esquivar hacia la izquierda\no hacia la derecha al deslizar la pantalla hacia la izquierda\no hacia la derecha o hacia adelante y hacia atrás deslizando\nhacia arriba y hacia abajo."
 	},
 	{
 		"assign": "tu_0000_n21_b",
@@ -10427,7 +10427,7 @@
 	{
 		"assign": "tu_0000_s01_b",
 		"jp_text": "＜攻撃の方法＞\n画面をタッチすると、ターゲット中のエネミーに対して\nキャラクターが攻撃を行います。",
-		"tr_text": "<Attacking>\nBy tapping the screen, your character\nwill attack the target."
+		"tr_text": "<Atacar>\nAl tocar la pantalla,\ntu personaje atacará al objetivo."
 	},
 	{
 		"assign": "tu_0000_s02_b",
@@ -14617,12 +14617,12 @@
 	{
 		"assign": "menu_invite_tab_input_reward",
 		"jp_text": "プレゼントを確認",
-		"tr_text": "Check Gifts"
+		"tr_text": "Verificar regalos"
 	},
 	{
 		"assign": "menu_invite_tab_input_submit",
 		"jp_text": "コードを認証",
-		"tr_text": "Authentication Code"
+		"tr_text": "Código de autenticación"
 	},
 	{
 		"assign": "menu_invite_tab_reward_title",
@@ -14637,7 +14637,7 @@
 	{
 		"assign": "menu_invite_tab_reward_check",
 		"jp_text": "報酬一覧",
-		"tr_text": "Reward List"
+		"tr_text": "Lista de premios"
 	},
 	{
 		"assign": "menu_invite_tab_reward_receive_all",
@@ -14657,7 +14657,7 @@
 	{
 		"assign": "menu_invite_reward_list_title_invite",
 		"jp_text": "友達招待で手に入る報酬一覧",
-		"tr_text": ""
+		"tr_text": "Lista de premios disponibles en amigo invitación"
 	},
 	{
 		"assign": "menu_invite_reward_list_condition",
@@ -14667,12 +14667,12 @@
 	{
 		"assign": "menu_invite_reward_list_receive",
 		"jp_text": "受け取る",
-		"tr_text": "Receive"
+		"tr_text": "Recibir"
 	},
 	{
 		"assign": "invite_dialog_t_01",
 		"jp_text": "招待コードコピー",
-		"tr_text": "Copy Invite Code"
+		"tr_text": "Copiar código de invitación"
 	},
 	{
 		"assign": "invite_dialog_b_01",
@@ -14691,7 +14691,7 @@
 	},
 	{
 		"assign": "invite_dialog_t_03",
-		"jp_text": "報酬受取",
+		"jp_text": "Recibir premio",
 		"tr_text": ""
 	},
 	{
@@ -14711,8 +14711,8 @@
 	},
 	{
 		"assign": "invite_dialog_t_06",
-		"jp_text": "報酬受取",
-		"tr_text": ""
+		"jp_text": "Recibir premio",
+		"tr_text": "Recibir premio"
 	},
 	{
 		"assign": "invite_dialog_b_06",
@@ -14732,7 +14732,7 @@
 	{
 		"assign": "tutorial_skip_dialog_b_00",
 		"jp_text": "チップ装備のチュートリアルを確認しますか？",
-		"tr_text": "View the Chip Equipment tutorial?"
+		"tr_text": "Ver el tutorial de equipamiento de Chip?"
 	},
 	{
 		"assign": "tutorial_skip_dialog_t_01",
@@ -14742,7 +14742,7 @@
 	{
 		"assign": "tutorial_skip_dialog_b_01",
 		"jp_text": "チップ強化のチュートリアルを確認しますか？",
-		"tr_text": "View the Chip Enhancement tutorial?"
+		"tr_text": "Ver el tutorial de mejora de chip?"
 	},
 	{
 		"assign": "tutorial_skip_dialog_btn_00",
@@ -14752,37 +14752,37 @@
 	{
 		"assign": "tutorial_skip_dialog_btn_01",
 		"jp_text": "スキップ",
-		"tr_text": "Skip"
+		"tr_text": "Omitir"
 	},
 	{
 		"assign": "tutorial_battle_ntu_00_00",
 		"jp_text": "<color=black>それでは、適性試験をはじめます！\nまずは、目の前のエネミー（敵）を\n倒してみてください！</color>",
-		"tr_text": "<color=black>We'll start the first test.\nStart off by defeating the\nenemy in front of you.</color>"
+		"tr_text": "<color=black>Comenzaremos la primera prueba.\nComienza derrotando al enemigo que esta al frente.</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_00_01",
 		"jp_text": "<color=black>この短時間での撃破……お見事ですね！</color>",
-		"tr_text": "<color=black>That was fast....Good work!</color>"
+		"tr_text": "<color=black>Eso fue rápido... ¡Buen trabajo!</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_00_02",
 		"jp_text": "<color=black>次は、「チップ」の使い方をテストします。\n今からお貸しするチップを使って\nエネミーを倒してみてください！</color>",
-		"tr_text": "<color=black>Next test is to defeat the\nenemy using the chips rented\nbelow, good luck!</color>"
+		"tr_text": "<color=black>La siguiente prueba es derrotar al enemigo\nusando los chips.\n¡Buena suerte!</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_00_03",
 		"jp_text": "<color=black>お見事です！\nうまく発動できましたね。</color>",
-		"tr_text": "<color=black>Wonderful!\nYou were able to use the chips.</color>"
+		"tr_text": "<color=black>¡Maravilloso!\nPudiste usar el chips.</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_00_04",
 		"jp_text": "<color=black>以上で攻撃とチップの使い方に関する\nテストは終了です。\nとっても良い成績でしたよ！</color>",
-		"tr_text": "<color=black>Try attacking with\nboth the chips and your\nweapon!</color>"
+		"tr_text": "<color=black>¡Intenta atacar con los chips y tu arma!</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_00_05",
 		"jp_text": "<color=black>次の試験もはりきって行きましょう！</color>",
-		"tr_text": "<color=black>Let's move to the next testing area!</color>"
+		"tr_text": "<color=black>¡Pasemos a la siguiente área de prueba!</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_00_06",
@@ -14792,72 +14792,72 @@
 	{
 		"assign": "tutorial_battle_ntu_01_00",
 		"jp_text": "<color=black>それでは、次のテストの場所へと移動しましょう。</color>",
-		"tr_text": "<color=black>So here we are, at the new test area.</color>"
+		"tr_text": "<color=black>Así que aquí estamos,\nen la nueva área de prueba.</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_01_01",
 		"jp_text": "<color=black>フィールドでは、画面右側のマスをタッチして\n進むことができますよ。</color>",
-		"tr_text": "<color=black>In this field, touch the space\n on the screen to continue.</color>"
+		"tr_text": "<color=black>En este campo, toque los cuadros\nen la pantalla para avanzar.</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_01_02",
 		"jp_text": "<color=black>フィールドのマスには\nアイテムが手に入ったり、ＨＰが回復したりと\nいろいろな効果があります。</color>",
-		"tr_text": "<color=black>Sometimes, you'll\nencounter various HP recovery\ndevices and other items.</color>"
+		"tr_text": "<color=black>En ocasiones, encontrará varios dispositivos\nde recuperación de HP y otros objetos.</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_01_03",
 		"jp_text": "<color=black>うまく利用することで\nクエストを有利に進められますので\n覚えておいてくださいね。\nそれでは、先に進みましょう！</color>",
-		"tr_text": "<color=black>Try to take advantage\nof these as much as possible,\nbut remember they'll not always\nshow up for you.</color>"
+		"tr_text": "<color=black>Trate de aprovechar esto tanto como sea posible,\npero recuerde que no siempre aparecerán.</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_02_00",
 		"jp_text": "<color=black>それでは、テストを続けます！\n戦いは、攻撃だけでは成り立ちません！\n今度は攻撃を避けるテストです。</color>",
-		"tr_text": "<color=black>Next test, do not try to\nattack, but rather dodge the\nenemy.</color>"
+		"tr_text": "<color=black>Siguiente prueba, no intentes atacar,\nsino más bien esquivar al enemigo.</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_02_01",
 		"jp_text": "<color=black>これから、エネミーが岩を投げてきますので\nそれにぶつからないように……あっ！</color>",
-		"tr_text": "<color=black>This enemy will try to throw a\nrock, please avoid it!</color>"
+		"tr_text": "<color=black>Este enemigo intentará arrojar una roca,\n¡por favor, evítala!</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_02_02",
 		"jp_text": "<color=black>すごい！\n完璧な回避ですね！</color>",
-		"tr_text": "<color=black>Nice dodging skills!\nGood Job!</color>"
+		"tr_text": "<color=black>¡Muy bien eres bueno para esquivar!\n¡Buen trabajo!</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_02_03",
 		"jp_text": "<color=black>前に出るだけが戦いではありません。</color>",
-		"tr_text": "<color=black>You'll fail the quest if you die.</color>"
+		"tr_text": "<color=black>Fallarás la misión si mueres.</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_02_04",
 		"jp_text": "<color=black>今度は、いったん後ろに間合いをとって\nカウンター攻撃を狙いましょう！</color>",
-		"tr_text": "<color=black>Now let's avoid the\nattack by jumping back!</color>"
+		"tr_text": "<color=black>¡Ahora evitemos el ataque saltando hacia atrás!</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_02_05",
 		"jp_text": "<color=black>お見事です！</color>",
-		"tr_text": "<color=black>Nice Job!</color>"
+		"tr_text": "<color=black>¡Buen trabajo!</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_02_06",
 		"jp_text": "<color=black>さあ、攻撃をかわしたら\n次は反撃に転じましょう。</color>",
-		"tr_text": "<color=black>Now, let's the enemy\nfrom the front.</color>"
+		"tr_text": "<color=black>Ahora, vamos contra el enemigo.</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_02_07",
 		"jp_text": "<color=black>エネミーを攻撃して、倒してください！</color>",
-		"tr_text": "<color=black>Attack the enemy,</color><color=red> Kill! Kill! Kill!</color>"
+		"tr_text": "<color=black>Ataca al enemigo,</color><color=red> ¡Matar! ¡Matar! ¡Matar!</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_02_08",
 		"jp_text": "<color=black>すばらしい成績です！\n基本動作は完璧ですね。</color>",
-		"tr_text": "<color=black>Wonderful performance!\nOperation complete.</color>"
+		"tr_text": "<color=black>Maravilloso rendimiento!\nOperación completada.</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_02_09",
 		"jp_text": "<color=black>以上で、基本動作のテストは終了です。\n次で最後のテストとなりますので\nもう少しお付き合いくださいね。</color>",
-		"tr_text": "<color=black>Almost approaching the final stretch of tests.\nLet's continue a bit more.</color>"
+		"tr_text": "<color=black>Casi llegamos al tramo final de pruebas.\nContinuemos un poco más.</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_02_10",
@@ -14867,37 +14867,37 @@
 	{
 		"assign": "tutorial_battle_ntu_03_00",
 		"jp_text": "<color=black>それでは、次が最後のテストになります。</color>",
-		"tr_text": "<color=black>Approaching the final test.</color>"
+		"tr_text": "<color=black>Estamos llegando a la prueba final.</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_03_01",
 		"jp_text": "<color=black>この先に、最後のエネミー\n「ファングバンサー」が待ち受けています。</color>",
-		"tr_text": "<color=black>The last enemy,\n「Fang Banther」, awaits us.</color>"
+		"tr_text": "<color=black>El último enemigo,\n「Fang Banther」, nos espera.</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_03_02",
 		"jp_text": "<color=black>このテストはとても凶暴なエネミーとの\n戦いとなりますが……\nあなた達ならきっと撃破できますよ！</color>",
-		"tr_text": "<color=black>This enemy is ferocious,\nbut I'm sure you can <color=red>slaughter</color> it.\nGood Luck!</color>"
+		"tr_text": "<color=black>Este enemigo es feroz,\npero estoy seguro de que puedes <color=red>masacrarlo</color>.\n¡Buena suerte!</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_03_03",
 		"jp_text": "<color=black>応援していますから、がんばってくださいね！\nさあ進みましょう！</color>",
-		"tr_text": "<color=black>We'll celebrate after your success.\nFor now, let's move!</color>"
+		"tr_text": "<color=black>Vamos a celebrar después de tu éxito.\nPor ahora, ¡vamos a movernos!</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_04_00",
 		"jp_text": "<color=black>これが大型エネミー「ファングバンサー」です！</color>",
-		"tr_text": "<color=black>Enemy 「Fang Banther」 has appeared！</color>"
+		"tr_text": "<color=black>El enemigo 「Fang Banther」 ha aparecido!</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_04_01",
 		"jp_text": "<color=black>このエネミーを倒すために\n強力なチップをお貸しします。\nきっとあなたなら、使いこなせるはず！</color>",
-		"tr_text": "<color=black>I'll lend you powerful chips\nto help you murder\nthis enemy!</color>"
+		"tr_text": "<color=black>¡Te prestaré chips poderosos para que puedas\nderrotar a este enemigo!</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_04_02",
 		"jp_text": "<color=black>それでは、最後のテストをはじめます！</color>",
-		"tr_text": "<color=black>We'll start the last test!</color>"
+		"tr_text": "<color=black>¡Comenzaremos la última prueba!</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_04_03",
@@ -14907,27 +14907,27 @@
 	{
 		"assign": "tutorial_battle_ntu_04_04",
 		"jp_text": "<color=black>あのファングバンサーを\nこんな短時間で倒してしまうなんて……！</color>",
-		"tr_text": "<color=black>Didn't think you'd\nmurder it so fast...!</color>"
+		"tr_text": "<color=black>¡No pensé que lo matarías tan rápido...!</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_04_05",
 		"jp_text": "<color=black>エネミーとの戦いで見せた\n戦闘能力の高さ、そしてチップへの高い適性……</color>",
-		"tr_text": "<color=black>You have shown amazing combat\nability and excellent skill with chips....</color>"
+		"tr_text": "<color=black>Has demostrado una increíble capacidad\nde combate y una excelente habilidad\ncon los chips....</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_04_06",
 		"jp_text": "<color=black>あなた達なら、この先、どんな任務も\n乗り越えていけそうですね。</color>",
-		"tr_text": "<color=black>I'm sure you have what it\ntakes to overcome our main mission.</color>"
+		"tr_text": "<color=black>Estaba segura de que tienes lo que se necesita\npara superar nuestra misión principal.</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_04_07",
 		"jp_text": "<color=black>最終テスト完了です！\nお疲れさまでした！</color>",
-		"tr_text": "<color=black>Final test cleared!\nGood Work!</color>"
+		"tr_text": "<color=black>Prueba final completada!\n¡Buen trabajo!</color>"
 	},
 	{
 		"assign": "story_clear_dialog_t_00",
 		"jp_text": "アークスクエストクリア",
-		"tr_text": "ARKS Quest Clear"
+		"tr_text": "ARKS Quest Completada"
 	},
 	{
 		"assign": "story_clear_dialog_b_00",
@@ -14937,7 +14937,7 @@
 	{
 		"assign": "story_chapter10_clear_dialog_title",
 		"jp_text": "ストーリークエストクリア",
-		"tr_text": "Story Quest Clear"
+		"tr_text": "Story Quest Completada"
 	},
 	{
 		"assign": "story_chapter10_clear_dialog_body",
@@ -15062,7 +15062,7 @@
 	{
 		"assign": "storyevent_skip_dialog_t",
 		"jp_text": "スキップ確認",
-		"tr_text": "Skip"
+		"tr_text": "Omitir"
 	},
 	{
 		"assign": "storyevent_skip_dialog_b",
@@ -17962,7 +17962,7 @@
 	{
 		"assign": "acceptbox_window_receive_tab_title",
 		"jp_text": "受取",
-		"tr_text": "Receive"
+		"tr_text": "Recibir"
 	},
 	{
 		"assign": "acceptbox_window_sale_tab_title",
