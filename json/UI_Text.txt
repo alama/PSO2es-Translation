@@ -2,17 +2,17 @@
 	{
 		"assign": "lobby_guide_00",
 		"jp_text": "<color=#f0df60>タッチ操作で項目を選択することができます。</color>",
-		"tr_text": "<color=#f0df60>Select what you want to do by touching the Icons.</color>"
+		"tr_text": "<color=#f0df60>Seleccione lo que desea hacer tocando los íconos.</color>"
 	},
 	{
 		"assign": "lobby_guide_01",
 		"jp_text": "<color=#f0df60>PSO2との連動経験値によってレベルが上がったクラスがあります。行動力が回復しました。</color>",
-		"tr_text": "<color=#f0df60>A class has leveled up due to Shared EXP from PSO2. Drive recovered.</color>"
+		"tr_text": "<color=#f0df60>Una clase se ha nivelado debido a Shared EXP desde PSO 2. Unidad recuperada.</color>"
 	},
 	{
 		"assign": "shopmenu_guide_00",
 		"jp_text": "<color=#f0df60>利用するショップを選択してください。</color>",
-		"tr_text": "<color=#f0df60>Please select a shop to use.</color>"
+		"tr_text": "<color=#f0df60>Por favor seleccione una tienda para usar.</color>"
 	},
 	{
 		"assign": "acshop_npc_t_00",
@@ -22,7 +22,7 @@
 	{
 		"assign": "acshop_npc_b_00",
 		"jp_text": "<color=black>こちらで\n冒険の準備を整えましょう！</color>",
-		"tr_text": "<color=black>Welcome, take a look around!</color>"
+		"tr_text": "<color=black>Bienvenido, eche un vistazo!</color>"
 	},
 	{
 		"assign": "acshop_npc_t_01",
@@ -32,17 +32,17 @@
 	{
 		"assign": "acshop_npc_b_01",
 		"jp_text": "<color=black>ご使用になりたい\nプレミアムセット(チケット)を\n選択してください。</color>",
-		"tr_text": "<color=black>Please select\nwhich Premium set\nyou wish to use.</color>"
+		"tr_text": "<color=black>Por favor seleccione qué\nSet Premium desea usar.</color>"
 	},
 	{
 		"assign": "acshop_guide_00",
 		"jp_text": "<color=#f0df60>利用したい項目を選択してください。</color>",
-		"tr_text": "<color=#f0df60>Please select the option you want. You can purchase AC by selecting AC Charge.</color>"
+		"tr_text": "<color=#f0df60>Por favor seleccione la opción que desee. Puede comprar AC seleccionando cargar AC.</color>"
 	},
 	{
 		"assign": "acshop_guide_01",
 		"jp_text": "<color=#f0df60>購入したい商品を選択してください。</color>",
-		"tr_text": "<color=#f0df60>Please select the item you wish to purchase.</color>"
+		"tr_text": "<color=#f0df60>Por favor seleccione el objeto que desea comprar.</color>"
 	},
 	{
 		"assign": "acshop_top_menu_title",
@@ -57,7 +57,7 @@
 	{
 		"assign": "acshop_btn_accharge",
 		"jp_text": "<%AC>チャージ",
-		"tr_text": "<%AC> Charge"
+		"tr_text": "Cargar <%AC>"
 	},
 	{
 		"assign": "acshop_btn_premium",
@@ -107,12 +107,12 @@
 	{
 		"assign": "acshop_chipexpand_rappy_btn",
 		"jp_text": "ラッピーメダルで拡張",
-		"tr_text": "Expand with Coins"
+		"tr_text": "Expandir con Coins"
 	},
 	{
 		"assign": "acshop_chipexpand_ac_btn",
 		"jp_text": "<%AC>で拡張",
-		"tr_text": "Expand with <%AC>"
+		"tr_text": "Expandir con <%AC>"
 	},
 	{
 		"assign": "acshop_chipexpand_back_btn",
@@ -122,12 +122,12 @@
 	{
 		"assign": "acshop_driveheal_rappy_btn",
 		"jp_text": "ラッピーメダルで回復",
-		"tr_text": "Recover with Coins"
+		"tr_text": "Recuperar con Coins"
 	},
 	{
 		"assign": "acshop_driveheal_ac_btn",
 		"jp_text": "<%AC>で回復",
-		"tr_text": "Recover with <%AC>"
+		"tr_text": "Recuperar con <%AC>"
 	},
 	{
 		"assign": "acshop_driveheal_back_btn",
@@ -137,12 +137,12 @@
 	{
 		"assign": "acshop_dialog_obt_t_00",
 		"jp_text": "<%AC>ショップについて",
-		"tr_text": "About the <%AC> Shop"
+		"tr_text": "Acerca de <%AC> Shop"
 	},
 	{
 		"assign": "acshop_dialog_obt_b_00",
 		"jp_text": "<%AC>ショップ等の課金システムは\n正式サービス開始と同時にオープン予定となります。",
-		"tr_text": "You cannot buy <%AC> at this time.\nPlease wait until the service's official start."
+		"tr_text": "No puede comprar <%AC>  en este momento.\nIntente en otro momento."
 	},
 	{
 		"assign": "acshop_dialog_t_00",
@@ -152,7 +152,7 @@
 	{
 		"assign": "acshop_dialog_b_00",
 		"jp_text": "ラッピーメダルか<%AC>を消費して\nチップパックを拡張しますか？\n\nパックサイズ（<%current_pack_size>）→<color=red>（<%after_pack_size>）</color>\n※チップパックは<%max_pack_size>まで拡張できます。\n\n必要ラッピーメダル：<%consume_rappy_coin>枚\n所持ラッピーメダル：<%current_rappy_coin>\n\n必要<%AC>：<%consume_AC>\n所持<%AC>：<%current_AC>",
-		"tr_text": "This will extend\nyour Chip Storage.\n\nChip Storage（<%current_pack_size>）→<color=red>（<%after_pack_size>）</color>\n※Can extend to a Maximum of <%max_pack_size>.\n\nRappy Coins needed：<%consume_rappy_coin>枚\nRappy Coins owned：<%current_rappy_coin>枚\n\nAC needed：<%consume_AC>\nAC owned：<%current_AC>"
+		"tr_text": "Esto ampliará\ntu Chip Storage.\n\nChip Storage（<%current_pack_size>）→<color=red>（<%after_pack_size>）</color>\n※Puede extenderse a un Máximo de <%max_pack_size>.\n\nRappy Coins necesario: <%consume_rappy_coin>枚\nRappy Coins en propiedad：<%current_rappy_coin>枚\n\nAC necesario: <%consume_AC>\nAC Actual：<%current_AC>"
 	},
 	{
 		"assign": "acshop_dialog_t_01",
@@ -172,7 +172,7 @@
 	{
 		"assign": "acshop_dialog_b_02",
 		"jp_text": "チップパックが最大まで拡張されているので\nこれ以上拡張できません。",
-		"tr_text": "Cannot expand Chip Storage.\nAlready at maximum."
+		"tr_text": "No se puede expandir el almacenamiento de chips.\nYa está al máximo."
 	},
 	{
 		"assign": "acshop_dialog_t_03",
@@ -182,7 +182,7 @@
 	{
 		"assign": "acshop_dialog_b_03",
 		"jp_text": "チップパックを拡張しました。",
-		"tr_text": "Chip Storage Extended."
+		"tr_text": "Chip Storage extendido."
 	},
 	{
 		"assign": "acshop_dialog_t_04",
@@ -192,7 +192,7 @@
 	{
 		"assign": "acshop_dialog_b_04",
 		"jp_text": "ラッピーメダルか<%AC>を消費して\n行動力を回復しますか？\n\n行動力（<%current_drive>）→<color=red>（<%after_drive>）</color>\n\n必要ラッピーメダル：<%consume_rappy_coin>枚\n所持ラッピーメダル：<%current_rappy_coin>\n\n必要<%AC>：<%consume_AC>\n所持<%AC>：<%current_AC>",
-		"tr_text": "This will restore\nyour Drive points.\n\nDrive（<%current_drive>）→<color=red>（<%after_drive>）</color>\n\nRappy Coins needed：<%consume_rappy_coin>枚\nRappy Coins owned：<%current_rappy_coin>枚\n\nAC needed：<%consume_AC>\nAC owned：<%current_AC>"
+		"tr_text": "Esto restaurará\ntu Drive points.\n\nDrive（<%current_drive>）→<color=red>（<%after_drive>）</color>\n\nRappy Coins needed：<%consume_rappy_coin>枚\nRappy Coins owned：<%current_rappy_coin>枚\n\nAC needed：<%consume_AC>\nAC owned：<%current_AC>"
 	},
 	{
 		"assign": "acshop_dialog_t_05",
@@ -212,7 +212,7 @@
 	{
 		"assign": "acshop_dialog_b_06",
 		"jp_text": "行動力が最大値のため\n回復することができません。",
-		"tr_text": "Cannot recover Drive.\nAlready at Maximum."
+		"tr_text": "No se puede recuperar Drive.\nYa esta al Maximo."
 	},
 	{
 		"assign": "acshop_dialog_t_07",
@@ -222,37 +222,37 @@
 	{
 		"assign": "acshop_dialog_b_07",
 		"jp_text": "行動力を回復しました。",
-		"tr_text": "Drive recovered."
+		"tr_text": "Drive recuperado."
 	},
 	{
 		"assign": "acshop_dialog_t_08",
 		"jp_text": "<%AC>チャージ",
-		"tr_text": "<%AC> Charge"
+		"tr_text": "Cargar <%AC>"
 	},
 	{
 		"assign": "acshop_dialog_b_08",
 		"jp_text": "所持<%AC>が不足しています。\n<%AC>をチャージしますか？\n\n必要<%AC>：<%consume_AC>\n所持<%AC>：<%current_AC>",
-		"tr_text": "Not enough <%AC>.\nDo you want to buy more AC？\n\n<%AC> needed：<%consume_AC>\n<%AC> owned：<%current_AC>"
+		"tr_text": "<%AC> Insuficiente.\n¿Quieres comprar más <%AC>?\n\n<%AC> necesario: <%consume_AC>\n<%AC> actual：<%current_AC>"
 	},
 	{
 		"assign": "acshop_dialog_t_09",
 		"jp_text": "プレミアムセット使用確認",
-		"tr_text": "Confirm Premium Set"
+		"tr_text": "Confirmar Premium Set"
 	},
 	{
 		"assign": "acshop_dialog_b_09",
 		"jp_text": "「プレミアムセット<%days>日」を使用します。\nよろしいですか？\n\n所持数：<%item_name>×<%current_num>\nプレミアム有効期限：<%expiration_date>\n\n※プレミアム有効期限は最大<%max_days>日まで追加できます。",
-		"tr_text": "Premium Set <%days> Days\nConfirm purchase？\n\nCurrently own：<%item_name>×<%current_num>\nExpires：<%expiration_date>\n\n※Premium Set can be purchased up to <%max_days> Days."
+		"tr_text": "Premium Set <%days> Days\n¿Confirmar compra?\n\nActualmente posee: <%item_name>×<%current_num>\nVence：<%expiration_date>\n\n※Premium Set se puede comprar hasta <%max_days> Days."
 	},
 	{
 		"assign": "acshop_dialog_t_10",
 		"jp_text": "プレミアムセット使用確認",
-		"tr_text": "Confirm Use"
+		"tr_text": "Confirmar uso"
 	},
 	{
 		"assign": "acshop_dialog_b_10",
 		"jp_text": "これ以上、有効期限を追加することはできません。\n\nプレミアム有効期限：<%expiration_date>\n※プレミアム有効期限は最大<%max_days>日まで追加できます。",
-		"tr_text": "Cannot purchase. Maximum Exceeded.\n\nExpiration：<%expiration_date>\n※Premium Set can be purchased up to <%max_days> Days."
+		"tr_text": "No se puede comprar Máximo excedido.\n\nVencimiento：<%expiration_date>\n※Premium Set se puede comprar hasta <%max_days> Days."
 	},
 	{
 		"assign": "acshop_dialog_t_11",
@@ -262,7 +262,7 @@
 	{
 		"assign": "acshop_dialog_b_11",
 		"jp_text": "プレミアムの利用期限を<%days>日延長しました。\n\nプレミアム有効期限：<%expiration_date>\n※プレミアム有効期限は最大<%max_days>日まで追加できます。",
-		"tr_text": "This will extend Premium by <%days> Days.\n\nExpiration：<%expiration_date>\n※Premium Set can be purchased up to <%max_days> Days."
+		"tr_text": "This will extend Premium by <%days> Days.\n\nVencimiento：<%expiration_date>\n※Premium Set se puede comprar hasta <%max_days> Days."
 	},
 	{
 		"assign": "acshop_dialog_t_12",
@@ -272,117 +272,118 @@
 	{
 		"assign": "acshop_dialog_b_12",
 		"jp_text": "<%item_name>を1枚購入します。\nよろしいですか？\n\n所持数：<%item_name>×<%current_num>\n\n必要<%AC>：<%consume_AC>\n所持<%AC>：<%current_AC>",
-		"tr_text": "Purchasing <%item_name>\nConfirm？\n\nCurrently hold：<%item_name>×<%current_num>\n\nAC needed：<%consume_AC>\nAC owned：<%current_AC>"
+		"tr_text": "Comprando <%item_name>\nConfirmar？\n\ntienes：<%item_name>×<%current_num>\n\nAC necesario：<%consume_AC>\nAC actual：<%current_AC>"
 	},
 	{
 		"assign": "acshop_dialog_t_13",
 		"jp_text": "アイテム購入確認",
-		"tr_text": "Confirm item purchases"
+		"tr_text": "Confirmar compra de objeto"
 	},
 	{
 		"assign": "acshop_dialog_b_13",
 		"jp_text": "アイテムパックの空き容量不足\nまたは所持限界数を超えるため購入できません。",
-		"tr_text": "Not enough Storage,\nor you have exceeded the Maximum."
+		"tr_text": "No hay suficiente almacenamiento,\no ha excedido el máximo."
 	},
 	{
 		"assign": "acshop_dialog_t_14",
 		"jp_text": "アイテム購入確認",
-		"tr_text": "Confirm item purchases"
+		"tr_text": "Confirmar compra de objeto"
 	},
 	{
 		"assign": "acshop_dialog_b_14",
 		"jp_text": "<%item_name>を購入しました。\n\n<%item_name>は\n<%AC>ショップメニュー＞プレミアムセット使用\nから使用することができます。",
-		"tr_text": "Purchased <%item_name>.\n\n\nYou can use it from\n<%AC> Shop Premium Set menu."
+		"tr_text": "Purchased <%item_name>.\n\n\nPuedes usarlo desde\n<%AC> Shop Premium Set menu."
 	},
 	{
 		"assign": "acshop_dialog_t_15",
 		"jp_text": "<%AC>チャージ",
-		"tr_text": "<%AC> Charge"
+		"tr_text": "Cargar <%AC>"
 	},
 	{
 		"assign": "acshop_dialog_b_15",
 		"jp_text": "購入前に年齢確認を実施いたします。\n\n【年齢確認】\nあなたは20歳以上ですか？",
-		"tr_text": "Age verification required before purchase.\n\n【Age Verification】\nAre you 20 or older？"
+		"tr_text": "Se requiere verificación de edad antes de la compra.\n\n【Verificación de edad】\n¿Tienes 20 años o más?"
 	},
 	{
 		"assign": "acshop_dialog_t_16",
 		"jp_text": "<%AC>チャージ",
-		"tr_text": "<%AC> Charge"
+		"tr_text": "Cargar <%AC>"
 	},
 	{
 		"assign": "acshop_dialog_b_16",
 		"jp_text": "20歳未満の方は、必ず保護者の許可を得てから\n購入手続きを行ってください。\n\n【許可の確認】\n保護者の許可は得ていますか？",
-		"tr_text": "If you are under 20 years of age, please\nacquire permission before purchase.\n\n【Proof of Permission】\nDo you have permission to purchase？"
+		"tr_text": "Si tienes menos de 20 años de edad, por favor\nadquiera el permiso antes de la compra.\n\n【Prueba de permiso】\n¿Tienes permiso para comprar?"
 	},
 	{
 		"assign": "acshop_dialog_t_17",
 		"jp_text": "<%AC>チャージ",
-		"tr_text": "<%AC> Charge"
+		"tr_text": "Cargar <%AC>"
 	},
 	{
 		"assign": "acshop_dialog_b_17",
 		"jp_text": "保護者の許可を得てから再度購入手続きを\n実施してください。",
-		"tr_text": "Please try again after acquiring\npermission from your parent."
+		"tr_text": "Por favor, inténtelo de nuevo luego de\nobtener el permiso de sus padres."
 	},
 	{
 		"assign": "acshop_dialog_t_18",
 		"jp_text": "<%AC>チャージ",
-		"tr_text": "<%AC> Charge"
+		"tr_text": "Cargar <%AC>"
 	},
 	{
 		"assign": "acshop_dialog_b_18",
 		"jp_text": "{0}を購入しました。",
-		"tr_text": "Purchased {0}."
+		"tr_text": "Comprado {0}."
 	},
 	{
 		"assign": "acshop_dialog_t_19",
 		"jp_text": "<%AC>チャージ",
-		"tr_text": "<%AC> Charge"
+		"tr_text": "Cargar <%AC>"
 	},
 	{
 		"assign": "acshop_dialog_b_19",
 		"jp_text": "<%AC>の購入に失敗しました。\n前回購入分の<%AC>が未反映の可能性があります\nので、お手数ですが再度ログインし直して<%AC>が\n反映されるかご確認ください。",
-		"tr_text": "<%AC> Purchase Failed.\nIt is still possible the charge succeeded.\nTo be certain, please restart PSO2es\nand confirm you have been charged."
+		"tr_text": "La compra de <%AC> falló.\nTodavía es posible que la carga tenga éxito.\nPara estar seguro, reinicie PSO2es\ny confirme que se le ha cargado"
 	},
 	{
 		"assign": "acshop_dialog_t_20",
 		"jp_text": "<%AC>チャージ",
-		"tr_text": "<%AC> Charge"
+		"tr_text": "Cargar <%AC>"
 	},
 	{
 		"assign": "acshop_dialog_b_20",
 		"jp_text": "<%AC>の購入をキャンセルしました。",
-		"tr_text": "Purchase of <%AC> was canceled."
+		"tr_text": "Se canceló la compra de <%AC>."
 	},
 	{
 		"assign": "acshop_dialog_t_21",
 		"jp_text": "<%AC>チャージ",
-		"tr_text": "<%AC> Charge"
+		"tr_text": "Cargar <%AC>"
 	},
 	{
 		"assign": "acshop_dialog_b_21",
 		"jp_text": "Googleアカウントにログインしていない場合、\nACをご購入することはできません。\n\nGoogle Playに接続できることをご確認の上、\n再度お試しください。",
-		"tr_text": "You cannot purchase <%AC> without\nlogging into your Google Account.\n\nPlease confirm that you can connect\nto the Play store and try again."
+		"tr_text": "No puedes comprar <%AC> sin\niniciar sesión en su cuenta de Google.\n\nConfirma que puedes conectarte a\nPlay Store y vuelve a intentarlo."
 	},
 	{
 		"assign": "acshop_dialog_t_22",
 		"jp_text": "年齢認証",
-		"tr_text": "Age Verification"
+		"tr_text": "Verificación de edad
+"
 	},
 	{
 		"assign": "acshop_dialog_b_22",
 		"jp_text": "購入するには年齢認証が必要となります。\n年齢別の1ヶ月当たりの限度額は以下の通りです。\n\n・13歳未満　5,000円\n・20歳未満　20,000円\n\n<color=#ff0000>※この登録は一度のみで次回以降は不要です。\n※登録情報は年齢認証以外には使用しません。</color>",
-		"tr_text": "Age must be verified before purchase.\nThe limits of transactions per month are:\n\n・13 Years　5,000円\n・20 Years　20,000円\n\n<color=#ff0000>※This is a one-time verification.\n※Age info is not used for anything else.</color>"
+		"tr_text": "La edad debe ser verificada antes de la compra.\nLos límites de las transacciones por mes son:\n\n・13 años　5,000 yen\n・20 años　20,000 yen\n\n<color=#ff0000>※Esta es una verificación única.\n※La información de edad no se usa para nada más.</color>"
 	},
 	{
 		"assign": "acshop_dialog_t_23",
 		"jp_text": "生年月の入力",
-		"tr_text": "Input Birthdate"
+		"tr_text": "fecha de nacimiento"
 	},
 	{
 		"assign": "acshop_dialog_b_23",
 		"jp_text": "お客様の生年月を入力してください。\n<color=#ff0000>\n※生年月になると年齢情報が更新されます。\n※この登録は一度のみで次回以降は不要です。\n※登録情報は年齢認証以外には使用しません。\n</color>",
-		"tr_text": "Please enter your Birthdate.\n<color=#ff0000>\n※Age Information will be updated.\n※This is a one-time verification.\n※Age info is not used for anything else.\n</color>"
+		"tr_text": "Por favor, introduce tu fecha de nacimiento.\n<color=#ff0000>\n※La información sobre la edad se actualizará.\n※Esta es una verificación única.\n※La información de edad no se usa para nada más.\n</color>"
 	},
 	{
 		"assign": "acshop_dialog_t_24",
@@ -392,7 +393,7 @@
 	{
 		"assign": "acshop_dialog_b_24",
 		"jp_text": "以下の内容で登録を行います。\nよろしいでしょうか？\n\n生年月：{0}年/{1}月",
-		"tr_text": "You are about to confirm.\nIs this information accurate?\n\nBirthdate：{0}/{1}"
+		"tr_text": "Estás a punto de confirmar.\n¿Esta información es precisa?\n\nFecha de nacimiento：{0}/{1}"
 	},
 	{
 		"assign": "acshop_dialog_t_25",
@@ -402,17 +403,17 @@
 	{
 		"assign": "acshop_dialog_b_25",
 		"jp_text": "年齢認証登録が完了しました。\n引き続き、『PSO2es』をお楽しみください。",
-		"tr_text": "Age verification complete.\nPlease continue to enjoy PSO2es."
+		"tr_text": "Verificación de edad completada.\nPor favor, continúe disfrutando de PSO2es."
 	},
 	{
 		"assign": "acshop_dialog_t_26",
 		"jp_text": "上限額に達しています",
-		"tr_text": "Maximum Reached"
+		"tr_text": "Máximo alcanzado"
 	},
 	{
 		"assign": "acshop_dialog_b_26",
 		"jp_text": "1ヶ月に購入可能な上限額に達してしまうため\n追加購入をすることができません。\n・選択メニュー：{0:N0}円\n・今月の購入額：{1:N0}円\n・今月の上限額：{2:N0}円\n\n※上限額は毎月1日にリセットされます。",
-		"tr_text": "The Maximum charge for 1 month has\nbeen reached. Cannot continue.\n・Selected：{0:N0}円\n・Bought this Month：{1:N0}円\n・Maximum Amount：{2:N0}円\n\n※Limit is reset on the 1st day of a month."
+		"tr_text": "Se ha alcanzado el cargo máximo\npor 1 mes. No puede continuar.\n・Seleccionado：{0:N0}円\n・Comprado este mes：{1:N0}円\n・Monto máximo：{2:N0}円\n\n※El límite se reinicia el primer día del proximo mes"
 	},
 	{
 		"assign": "acshop_dialog_t_27",
@@ -422,12 +423,12 @@
 	{
 		"assign": "acshop_dialog_b_27",
 		"jp_text": "入力内容が正しくありません。\n生まれ年は半角数字4ケタ、\n生まれ月は半角数字1～2ケタで\n入力してください。",
-		"tr_text": "Entry is incorrect.\nPlease ensure 4 digits for year\nand 1-2 digits for month\nare entered."
+		"tr_text": "La entrada es incorrecta.\nAsegúrese de ingresar 4 dígitos por año\ny 1-2 dígitos por mes."
 	},
 	{
 		"assign": "acshop_dialog_t_28",
 		"jp_text": "アイテム購入確認",
-		"tr_text": "Item Purchase Confirmation"
+		"tr_text": "Confirmación de compra de objeto"
 	},
 	{
 		"assign": "acshop_dialog_b_28",
@@ -437,7 +438,7 @@
 	{
 		"assign": "acshop_dialog_t_29",
 		"jp_text": "アイテム購入確認",
-		"tr_text": "Item Purchase Confirmation"
+		"tr_text": "Confirmación de compra de objeto"
 	},
 	{
 		"assign": "acshop_dialog_b_29",
@@ -447,7 +448,7 @@
 	{
 		"assign": "acshop_dialog_t_30",
 		"jp_text": "アイテム購入確認",
-		"tr_text": "Item Purchase Confirmation"
+		"tr_text": "Confirmación de compra de objeto"
 	},
 	{
 		"assign": "acshop_dialog_b_30",
@@ -457,7 +458,7 @@
 	{
 		"assign": "acshop_dialog_t_31",
 		"jp_text": "アイテム購入確認",
-		"tr_text": "Item Purchase Confirmation"
+		"tr_text": "Confirmación de compra de objeto"
 	},
 	{
 		"assign": "acshop_dialog_b_31",
@@ -477,7 +478,7 @@
 	{
 		"assign": "acshop_dialog_t_33",
 		"jp_text": "アイテム購入確認",
-		"tr_text": "Item Purchase Confirmation"
+		"tr_text": "Confirmación de compra de objeto"
 	},
 	{
 		"assign": "acshop_dialog_b_33",
@@ -487,7 +488,7 @@
 	{
 		"assign": "acshop_dialog_t_34",
 		"jp_text": "アイテム購入確認",
-		"tr_text": "Item Purchase Confirmation"
+		"tr_text": "Confirmación de compra de objeto"
 	},
 	{
 		"assign": "acshop_dialog_b_34",
@@ -497,7 +498,7 @@
 	{
 		"assign": "acshop_dialog_t_35",
 		"jp_text": "アイテム購入確認",
-		"tr_text": "Item Purchase Confirmation"
+		"tr_text": "Confirmación de compra de objeto"
 	},
 	{
 		"assign": "acshop_dialog_b_35",
@@ -507,7 +508,7 @@
 	{
 		"assign": "acshop_dialog_t_36",
 		"jp_text": "アイテム購入確認",
-		"tr_text": "Item Purchase Confirmation"
+		"tr_text": "Confirmación de compra de objeto"
 	},
 	{
 		"assign": "acshop_dialog_b_36",
@@ -4757,7 +4758,7 @@
 	{
 		"assign": "myshop_condition_clear",
 		"jp_text": "条件クリア",
-		"tr_text": "Reset"
+		"tr_text": "Reiniciar"
 	},
 	{
 		"assign": "myshop_ability_condition_set",
@@ -5397,7 +5398,7 @@
 	{
 		"assign": "quest_counter_raid_caption_point",
 		"jp_text": "討伐スコア",
-		"tr_text": "Score"
+		"tr_text": "Puntuación"
 	},
 	{
 		"assign": "quest_counter_raid_point",
@@ -5557,7 +5558,7 @@
 	{
 		"assign": "reward_caption_get_score_title",
 		"jp_text": "スコア",
-		"tr_text": "Score"
+		"tr_text": "Puntuación"
 	},
 	{
 		"assign": "reward_caption_clear",
@@ -5572,7 +5573,7 @@
 	{
 		"assign": "reward_battle_point",
 		"jp_text": "討伐スコア",
-		"tr_text": "Score"
+		"tr_text": "Puntuación"
 	},
 	{
 		"assign": "reward_rank",
@@ -6072,32 +6073,32 @@
 	{
 		"assign": "scratch_bonus_list_header_num",
 		"jp_text": "個数",
-		"tr_text": "Quantity"
+		"tr_text": "Cantidad"
 	},
 	{
 		"assign": "scratch_bonus_list_status",
 		"jp_text": "あと{0}回",
-		"tr_text": "After {0} times"
+		"tr_text": "Después de {0} veces"
 	},
 	{
 		"assign": "scratch_bonus_list_status_complete",
 		"jp_text": "達成！",
-		"tr_text": "Accomplished!"
+		"tr_text": "Realizado!"
 	},
 	{
 		"assign": "quest_load",
 		"jp_text": "クエストをロードしています",
-		"tr_text": "Loading Quest"
+		"tr_text": "Cargando Misión"
 	},
 	{
 		"assign": "quest_load_01",
 		"jp_text": "通信中",
-		"tr_text": "Communicating"
+		"tr_text": "Conectando"
 	},
 	{
 		"assign": "quest_line_00",
 		"jp_text": "冒険中のプレイヤーに出会いました。\nフレンド申を行いますか？",
-		"tr_text": "Another ARKS member encountered.\nAdd as a Friend?"
+		"tr_text": "Otro miembro de ARKS encontrado.\n¿Agregar como amigo?"
 	},
 	{
 		"assign": "quest_line_08_cbt",
@@ -6107,47 +6108,47 @@
 	{
 		"assign": "quest_dialog_t_00",
 		"jp_text": "復活確認",
-		"tr_text": "Revival Confirmation"
+		"tr_text": "Confirmación de reavivamiento"
 	},
 	{
 		"assign": "quest_dialog_b_00",
 		"jp_text": "ラッピーメダルを<%consume_rappy_coin>枚使用して\n復活しますか？\n\n（現在の所持数：<%current_rappy_coin>枚）",
-		"tr_text": "Use <%consume_rappy_coin> Rappy Coins\nto revive yourself？\n\n（ Rappy Coins owned： <%current_rappy_coin> ）"
+		"tr_text": "Usa <%consume_rappy_coin> Rappy Coins\npara revivirte?\n\n（ Rappy Coins actual： <%current_rappy_coin> ）"
 	},
 	{
 		"assign": "quest_dialog_t_01",
 		"jp_text": "復活確認",
-		"tr_text": "Revival Confirmation"
+		"tr_text": "Confirmación de reavivamiento"
 	},
 	{
 		"assign": "quest_dialog_t_02",
 		"jp_text": "クエストリタイア",
-		"tr_text": "Retire"
+		"tr_text": "Retirarse"
 	},
 	{
 		"assign": "quest_dialog_b_02",
 		"jp_text": "ここまでにクエスト中で入手した\nアイテム、経験値、メセタが失われますが\n本当にリタイアしますか？",
-		"tr_text": "You will lose all Items, EXP and\nMeseta you have gained during this Quest.\nAre you sure you want to really Retire?"
+		"tr_text": "Perderás todos los Items, EXP y\nMeseta que hayas ganado durante esta Mision\n¿Estás seguro de que realmente quieres retirarte?"
 	},
 	{
 		"assign": "quest_dialog_t_03",
 		"jp_text": "復活確認",
-		"tr_text": "Revival Confirmation"
+		"tr_text": "Confirmación de reavivamiento"
 	},
 	{
 		"assign": "quest_dialog_b_03",
 		"jp_text": "ラッピーメダルか復活薬を消費して復活しますか？\nリタイアするとクエスト中に得たアイテム、経験値等がすべて失われます。\n\n<color=#ffff00>復活薬か<%AC>を使って復活するとすべてのPSEがMAX状態で復活します。\nMAX状態は、このバトルをクリアすると元に戻ります。</color>\nラッピーメダルでの復活ではPSEのMAX効果はありません。\n\n必要復活薬：<%consume_scape_doll_es>個\n所持復活薬：<%current_scape_doll_es>\n\n必要ラッピーメダル：<%consume_rappy_coin>枚\n所持ラッピーメダル：<%current_rappy_coin>　　　※復活するとHPとCPが全回復します。",
-		"tr_text": "Revive with a Rappy Coin or revive using a Scape Doll?\nIf you select retire, items gained from the current quest will be lost.\n\n<color=#ffff00>When restored with <%AC> or a Scape Doll, your PSEs will be\nrestored to their MAX state until after the battle ends.</color>\nOnly CP and HP will be recovered if using Rappy Coins.\n\nRequired Scape Dolls: <%consume_scape_doll_es>\nScape Dolls owned: <%current_scape_doll_es>\n\nRequired Rappy Coins: <%consume_rappy_coin>\nRappy Coins owned: <%current_rappy_coin>"
+		"tr_text": "¿Revive con una Rappy Coin o revivir usando una Scape Doll?\nSi seleccionas retirarse, los objetos obtenidos de la misión actual se perderán..\n\n<color=#ffff00>Cuando se restaura con <%AC> o un Scape Doll, tu PSEs sera\nrestaurado a su estado MÁXIMO hasta que finalice la batalla.</color>\nSolo CP y HP se recuperarán si usa Rappy Coins.\n\nNecesarias Scape Dolls: <%consume_scape_doll_es>\nScape Dolls actual: <%current_scape_doll_es>\n\nRequeridas Rappy Coins: <%consume_rappy_coin>\nRappy Coins actual: <%current_rappy_coin>"
 	},
 	{
 		"assign": "quest_dialog_b_03_retire",
 		"jp_text": "リタイア",
-		"tr_text": "Retire"
+		"tr_text": "Retirarse"
 	},
 	{
 		"assign": "quest_dialog_b_03_rappy",
 		"jp_text": "ラッピーメダルで復活",
-		"tr_text": "Revive with Coins"
+		"tr_text": "Revive con Coins"
 	},
 	{
 		"assign": "quest_dialog_b_03_scape",
@@ -6157,32 +6158,32 @@
 	{
 		"assign": "quest_dialog_t_04",
 		"jp_text": "復活確認",
-		"tr_text": "Revival Confirmation"
+		"tr_text": "Confirmación de reavivamiento"
 	},
 	{
 		"assign": "quest_dialog_b_04",
 		"jp_text": "復活薬を所持していないため\n<%AC>で復活します。よろしいですか？\n\n必要<%AC>：<%consume_AC>\n所持<%AC>：<%current_AC>",
-		"tr_text": "Scape Dolls not found,\nbuy with <%AC> instead?\n\n<%AC> Owned: <%current_AC>\n<%AC> Needed: <%consume_AC>"
+		"tr_text": "Scape Dolls no encontrado,\n¿comprar con <%AC> en su lugar?\n\n<%AC> actual: <%current_AC>\n<%AC> necesario: <%consume_AC>"
 	},
 	{
 		"assign": "quest_line_01",
 		"jp_text": "行動力が全回復しました",
-		"tr_text": "Drive has been fully recovered."
+		"tr_text": "Drive ha sido completamente recuperado."
 	},
 	{
 		"assign": "quest_line_02",
 		"jp_text": "<%meseta>メセタを入手しました",
-		"tr_text": "<%meseta> Meseta received."
+		"tr_text": "<%meseta> Meseta recibida."
 	},
 	{
 		"assign": "quest_line_03",
 		"jp_text": "ラッピーメダルを<%coins>枚入手しました",
-		"tr_text": "Received <%coins> Rappy Coins."
+		"tr_text": "recibido <%coins> Rappy Coins."
 	},
 	{
 		"assign": "quest_line_04",
 		"jp_text": "最大行動力がアップしました　<%before_drive>　→　<%after_drive>",
-		"tr_text": "Max Drive increased　<%before_drive>　→　<%after_drive>"
+		"tr_text": "Max Drive aumentado  <%before_drive>　→　<%after_drive>"
 	},
 	{
 		"assign": "quest_npc_t_00",
@@ -6192,7 +6193,7 @@
 	{
 		"assign": "quest_npc_b_00",
 		"jp_text": "<%name>さん\n新たなクエストエリアが\n解放されました！",
-		"tr_text": "Congratulations, <%name>!\nDue to your hard work,\na new quest area is available."
+		"tr_text": "Felicitaciones, <%name>!\nDebido a su arduo trabajo,\nuna nueva área de misiones está disponible."
 	},
 	{
 		"assign": "quest_npc_t_01",
@@ -6202,52 +6203,52 @@
 	{
 		"assign": "quest_npc_b_01",
 		"jp_text": "<%name>さん\n新たなクエストエリアが\n解放されました。",
-		"tr_text": "<%name>\nA new area has\nbeen unlocked."
+		"tr_text": "<%name>\nUna nueva área ha sido desbloqueada."
 	},
 	{
 		"assign": "quest_line_08",
 		"jp_text": "冒険中のアークスに出会いました。フレンド申請を行いますか？",
-		"tr_text": "Another ARKS member encountered.\nAdd as a Friend?"
+		"tr_text": "Otro miembro de ARKS encontrado.\n¿Agregar como amigo?"
 	},
 	{
 		"assign": "quest_line_05",
 		"jp_text": "<%name>にグッジョブを送信しました",
-		"tr_text": "<%name> sent a Good Job!"
+		"tr_text": "Enviar felicitaciones a <%name>!"
 	},
 	{
 		"assign": "quest_line_06",
 		"jp_text": "協力してくれた同行キャラクターに\nフレンド申請を行いますか？",
-		"tr_text": "Did you want to send a friend request\nto the character who accompanied you?"
+		"tr_text": "¿Querías enviar una solicitud de amistad\nal personaje que te acompañó?"
 	},
 	{
 		"assign": "quest_line_07",
 		"jp_text": "<%name>にフレンド申請を行いました",
-		"tr_text": "Sent a friend request to <%name>."
+		"tr_text": "Enviar una solicitud de amistad a <%name>."
 	},
 	{
 		"assign": "quest_line_14",
 		"jp_text": "これ以上フレンド申請できません",
-		"tr_text": "You cannot have any more friends."
+		"tr_text": "No puedes tener más amigos."
 	},
 	{
 		"assign": "quest_line_13",
 		"jp_text": "このプレイヤーには、これ以上フレンド申請できません",
-		"tr_text": "This player cannot accept any more friends."
+		"tr_text": "Este jugador no puede aceptar más amigos."
 	},
 	{
 		"assign": "quest_line_09",
 		"jp_text": "タッチでコンテナを破壊！",
-		"tr_text": "Touch the container to open it!"
+		"tr_text": "Toca el contenedor para abrirlo."
 	},
 	{
 		"assign": "quest_line_10",
 		"jp_text": "{0}メセタを手に入れました",
-		"tr_text": "Received {0} Meseta!"
+		"tr_text": "Recibido {0} Meseta!"
 	},
 	{
 		"assign": "quest_line_11",
 		"jp_text": "{0}を手に入れました",
-		"tr_text": "Received a {0}!"
+		"tr_text": "Recibido un {0}!"
 	},
 	{
 		"assign": "quest_line_11_1",
@@ -6272,22 +6273,22 @@
 	{
 		"assign": "quest_line_12",
 		"jp_text": "ＨＰが全回復しました",
-		"tr_text": "HP is now fully restored."
+		"tr_text": "TU HP ahora está completamente restaurado."
 	},
 	{
 		"assign": "quest_line_12_1",
 		"jp_text": "HPが回復しました",
-		"tr_text": "HP restored"
+		"tr_text": "HP restaurado"
 	},
 	{
 		"assign": "quest_line_15",
 		"jp_text": "コンテナ発見！ ",
-		"tr_text": "Discovered a Container!"
+		"tr_text": "¡Encontraste un contenedor!"
 	},
 	{
 		"assign": "quest_line_16",
 		"jp_text": "回復ポッド発見！ ",
-		"tr_text": "Discovered a Recovery Pod!"
+		"tr_text": "¡Encontraste un pod de recuperación!"
 	},
 	{
 		"assign": "field_exp",
@@ -6307,7 +6308,7 @@
 	{
 		"assign": "field_score",
 		"jp_text": "スコア",
-		"tr_text": "Score"
+		"tr_text": "Puntuación"
 	},
 	{
 		"assign": "fieldoption_category_windowtitle",
@@ -6317,7 +6318,7 @@
 	{
 		"assign": "fieldoption_category_soundsetting",
 		"jp_text": "サウンド設定",
-		"tr_text": "Sound"
+		"tr_text": "Sonido"
 	},
 	{
 		"assign": "fieldoption_category_autosetting",
@@ -6327,7 +6328,7 @@
 	{
 		"assign": "fieldoption_category_questretire",
 		"jp_text": "クエストリタイア",
-		"tr_text": "Retire"
+		"tr_text": "Retirarse"
 	},
 	{
 		"assign": "fieldoption_category_close",
@@ -6337,12 +6338,12 @@
 	{
 		"assign": "fieldoption_soundsetting_windowtitle",
 		"jp_text": "オプション（サウンド設定）",
-		"tr_text": "Sound Options"
+		"tr_text": "Opciones de sonido"
 	},
 	{
 		"assign": "fieldoption_soundsetting_initialsetting",
 		"jp_text": "初期設定に戻す",
-		"tr_text": "Reset"
+		"tr_text": "Reiniciar"
 	},
 	{
 		"assign": "fieldoption_soundsetting_close",
@@ -6362,12 +6363,12 @@
 	{
 		"assign": "fieldoption_autosetting_onsetting",
 		"jp_text": "ON",
-		"tr_text": ""
+		"tr_text": "Encender"
 	},
 	{
 		"assign": "fieldoption_autosetting_offsetting",
 		"jp_text": "OFF",
-		"tr_text": ""
+		"tr_text": "Apagar"
 	},
 	{
 		"assign": "fieldoption_autosetting_explaintext01",
@@ -6407,12 +6408,12 @@
 	{
 		"assign": "fieldoption_autoatmove_on",
 		"jp_text": "ON",
-		"tr_text": "Encendido"
+		"tr_text": "Encender"
 	},
 	{
 		"assign": "fieldoption_autoatmove_off",
 		"jp_text": "OFF",
-		"tr_text": "APAGADO"
+		"tr_text": "Apagar"
 	},
 	{
 		"assign": "fieldoption_autoatmove_explain01",
@@ -7017,12 +7018,12 @@
 	{
 		"assign": "push_botton_on",
 		"jp_text": "ON",
-		"tr_text": ""
+		"tr_text": "Encender"
 	},
 	{
 		"assign": "push_botton_off",
 		"jp_text": "OFF",
-		"tr_text": ""
+		"tr_text": "Apagar"
 	},
 	{
 		"assign": "title_chara_transfer_gameid",
@@ -7502,7 +7503,7 @@
 	{
 		"assign": "tips_now_loading",
 		"jp_text": "読み込み中",
-		"tr_text": "Loading"
+		"tr_text": "Cargando"
 	},
 	{
 		"assign": "weapon_chip_palette",
@@ -15067,42 +15068,42 @@
 	{
 		"assign": "storyevent_skip_dialog_b",
 		"jp_text": "ストーリーをスキップしますか？",
-		"tr_text": "Are you sure you want to skip the dialog?"
+		"tr_text": "¿Estás seguro de que quieres\nsaltearte el diálogo?"
 	},
 	{
 		"assign": "select_weaponoid_title",
 		"jp_text": "キャラクター表示切り替え",
-		"tr_text": "Switch "
+		"tr_text": "Cambiar "
 	},
 	{
 		"assign": "select_weaponoid_body",
 		"jp_text": "表示できるチップを所持していません。\nウェポノイドや外伝のあるキャラクターのチップを\n獲得すると、キャラクターの切り替えや\nボイスを楽しむことができます。",
-		"tr_text": "You do not have a chip that can be displayed."
+		"tr_text": "No tienes un chip que pueda mostrarse."
 	},
 	{
 		"assign": "fld_productionset_btn",
 		"jp_text": "演出設定",
-		"tr_text": "Weaponoid Animation"
+		"tr_text": "Animación de Weaponoid"
 	},
 	{
 		"assign": "fld_productionset_windowtitle",
 		"jp_text": "演出設定",
-		"tr_text": "Weaponoid Animation"
+		"tr_text": "Animación de Weaponoid"
 	},
 	{
 		"assign": "fld_productionset_obi",
 		"jp_text": "チップ発動演出",
-		"tr_text": "Activation Effect"
+		"tr_text": "Efecto de activación"
 	},
 	{
 		"assign": "fld_productionset_btn_ON",
 		"jp_text": "ON",
-		"tr_text": ""
+		"tr_text": "Encender"
 	},
 	{
 		"assign": "fld_productionset_btn_OFF",
 		"jp_text": "OFF",
-		"tr_text": ""
+		"tr_text": "Apagar"
 	},
 	{
 		"assign": "fld_productionset_btn_close",
@@ -15117,17 +15118,17 @@
 	{
 		"assign": "btl_menu_btn_soundset",
 		"jp_text": "サウンド設定",
-		"tr_text": "Sound Settings"
+		"tr_text": "Ajustes de sonido"
 	},
 	{
 		"assign": "btl_menu_btn_productionset",
 		"jp_text": "演出設定",
-		"tr_text": "Weaponoid Animation"
+		"tr_text": "Animación de Weaponoid"
 	},
 	{
 		"assign": "btl_menu_btn_questretire",
 		"jp_text": "クエストリタイア",
-		"tr_text": "Retire"
+		"tr_text": "Retirarse"
 	},
 	{
 		"assign": "btl_menu_btn_close",
@@ -15137,22 +15138,22 @@
 	{
 		"assign": "btl_wep_title",
 		"jp_text": "演出設定",
-		"tr_text": "Weaponoid Animation"
+		"tr_text": "Animación de Weaponoid"
 	},
 	{
 		"assign": "btl_wep_obi",
 		"jp_text": "チップ発動演出",
-		"tr_text": "Activation Effect"
+		"tr_text": "Efecto de activación"
 	},
 	{
 		"assign": "btl_wep_btn_ON",
 		"jp_text": "ON",
-		"tr_text": ""
+		"tr_text": "Encender"
 	},
 	{
 		"assign": "btl_wep_btn_OFF",
 		"jp_text": "OFF",
-		"tr_text": ""
+		"tr_text": "Apagar"
 	},
 	{
 		"assign": "btl_wep_btn_close",
@@ -15162,12 +15163,12 @@
 	{
 		"assign": "btl_soundset",
 		"jp_text": "オプション(サウンド設定)",
-		"tr_text": "Sound Settings"
+		"tr_text": "Ajustes de sonido"
 	},
 	{
 		"assign": "btl_voice",
 		"jp_text": "VOICE",
-		"tr_text": ""
+		"tr_text": "VOZ"
 	},
 	{
 		"assign": "btl_bgm",
@@ -15182,7 +15183,7 @@
 	{
 		"assign": "btl_soundset_default",
 		"jp_text": "初期設定値に戻す",
-		"tr_text": "Reset"
+		"tr_text": "Reiniciar"
 	},
 	{
 		"assign": "btl_soundset_close",
@@ -15197,7 +15198,7 @@
 	{
 		"assign": "pet_eggdetail_title_02",
 		"jp_text": "潜在能力",
-		"tr_text": "Potential"
+		"tr_text": "Potencial"
 	},
 	{
 		"assign": "ItemDetail_Egg_AddHP",
@@ -18017,7 +18018,7 @@
 	{
 		"assign": "leisure_navi_talk",
 		"jp_text": "<color=#000000>フォトンダイスでオレたちと勝負だ！\nサイコロを交互に振って\n合計数の多いほうが勝ちだってば！</color>",
-		"tr_text": "<color=#000000>A game vs us using Photon Dice!\nRoll the dice and the one\nwith the larger total number wins!</color>"
+		"tr_text": "<color=#000000>¡Un juego contra nosotros usando\ndados de Photons!\nTira los dados y gana el que tenga\nel número total más grande.</color>"
 	},
 	{
 		"assign": "leisure_remaining_playcount",
@@ -18027,7 +18028,7 @@
 	{
 		"assign": "leisure_remaining_playcount_recovery",
 		"jp_text": "<color=#FFFFFF>(毎日<%value>に最大３回まで回復)</color>",
-		"tr_text": "<color=#FFFFFF>(3 plays every <%value> JST)</color>"
+		"tr_text": "<color=#FFFFFF>(3 juegos cada <%value> JST)</color>"
 	},
 	{
 		"assign": "leisure_special_count",
@@ -18092,32 +18093,32 @@
 	{
 		"assign": "photondice_acquisition",
 		"jp_text": "獲得可能",
-		"tr_text": "Accept Payout"
+		"tr_text": "Aceptar pago"
 	},
 	{
 		"assign": "photondice_dialog_t_01",
 		"jp_text": "対戦開始確認",
-		"tr_text": "Start Battle"
+		"tr_text": "Comienza la batalla"
 	},
 	{
 		"assign": "photondice_dialog_b_01",
 		"jp_text": "プレイ回数を消費し、対戦を開始します。\nよろしいですか？",
-		"tr_text": ""
+		"tr_text": "Consume la cantidad de veces que juegas\ny comienza la batalla.\n¿Estas seguro?"
 	},
 	{
 		"assign": "photondice_dialog_b_02",
 		"jp_text": "残りプレイ回数：",
-		"tr_text": "Plays Remaining: "
+		"tr_text": "Juega restante: "
 	},
 	{
 		"assign": "photondice_special_dialog_t_01",
 		"jp_text": "スペシャルプレイチケット消費確認",
-		"tr_text": ""
+		"tr_text": "Confirmación de consumo de boletos especiales"
 	},
 	{
 		"assign": "photondice_special_dialog_b_01",
 		"jp_text": "プレイ回数が足りません。\nスペシャルプレイチケットを消費して\n対戦を開始します。よろしいですか？",
-		"tr_text": ""
+		"tr_text": "No tienes suficientes tiros para jugar.\nConsume boletos especiales para jugar\ny comienza la batalla.\n¿Estas seguro?"
 	},
 	{
 		"assign": "photondice_special_dialog_b_02",
@@ -18127,17 +18128,17 @@
 	{
 		"assign": "photondice_has_not_dialog_t_01",
 		"jp_text": "プレイ回数不足",
-		"tr_text": "Lack of Plays"
+		"tr_text": "Te faltan jugadas"
 	},
 	{
 		"assign": "photondice_has_not_dialog_b_01",
 		"jp_text": "プレイ回数が足りません。\nプレイ回数は毎日<%value>にリセットされます。",
-		"tr_text": "You don't have enough plays.\nThe number of Plays reset every <%value> JST."
+		"tr_text": "No tienes suficientes jugadas.\nEl número de jugadas se restablece cada <%value> JST."
 	},
 	{
 		"assign": "photondice_has_not_dialog_b_02",
 		"jp_text": "プレイ回数は毎日<%value>にリセットされます。",
-		"tr_text": "The number of Plays reset every <%value> JST."
+		"tr_text": "El número de jugadas se restablece cada <%value> JST."
 	},
 	{
 		"assign": "photondice_doubleup_dialog_t_01",
@@ -18147,17 +18148,17 @@
 	{
 		"assign": "photondice_doubleup_dialog_b_01",
 		"jp_text": "獲得LCを賭けてダブルアップに挑戦しますか？",
-		"tr_text": ""
+		"tr_text": "¿Quieres desafiar por el doble por la adquisición de apuestas LC?"
 	},
 	{
 		"assign": "photondice_doubleup_dialog_b_02",
 		"jp_text": "ダブルアップ時はプレイ回数を消費しません。\nダブルアップ対戦で敗北すると、獲得LCを失います。",
-		"tr_text": ""
+		"tr_text": "No consume las jugadas cuando\nse dobla la apuesta. Si pierdes en\nuna batalla doble,\npierdes la adquisición de LC."
 	},
 	{
 		"assign": "photondice_doubleup_dialog_b_03",
 		"jp_text": "現在の獲得LC：　<%value>枚",
-		"tr_text": "Current LC: <%value>"
+		"tr_text": "LC actual: <%value>"
 	},
 	{
 		"assign": "photondice_payback_dialog_t_01",
@@ -18862,32 +18863,32 @@
 	{
 		"assign": "towerquest_block_grande_title1",
 		"jp_text": "第１層【星誕門】",
-		"tr_text": ""
+		"tr_text": "Piso 1【？？？】"
 	},
 	{
 		"assign": "towerquest_block_grande_title2",
 		"jp_text": "第２層【廃魔殿】",
-		"tr_text": ""
+		"tr_text": "Piso 2【？？？】"
 	},
 	{
 		"assign": "towerquest_block_grande_title3",
 		"jp_text": "第３層【？？？】",
-		"tr_text": ""
+		"tr_text": "Piso 3【？？？】"
 	},
 	{
 		"assign": "towerquest_block_grande_title4",
 		"jp_text": "第４層【？？？】",
-		"tr_text": ""
+		"tr_text": "Piso 4【？？？】"
 	},
 	{
 		"assign": "towerquest_top_target_time",
 		"jp_text": "あと<%mm>分",
-		"tr_text": "<%mm> Remaining"
+		"tr_text": "<%mm> Restantes"
 	},
 	{
 		"assign": "towerquest_top_target_time_prefix",
 		"jp_text": "あと",
-		"tr_text": "Remaining"
+		"tr_text": "Restantes"
 	},
 	{
 		"assign": "towerquest_time_format",
@@ -18897,7 +18898,7 @@
 	{
 		"assign": "towerquest_fp_linetext_player_condition",
 		"jp_text": "プレイヤー条件 <color=yellow><%cond></color>",
-		"tr_text": "Player Conditions: <color=yellow><%cond></color>"
+		"tr_text": "Condiciones del jugador: <color=yellow><%cond></color>"
 	},
 	{
 		"assign": "towerquest_fp_linetext_atktype_strike",
