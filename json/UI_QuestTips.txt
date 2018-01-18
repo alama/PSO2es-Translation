@@ -57,7 +57,7 @@
 	{
 		"assign": "0011",
 		"jp_text": "<color=#f0df60>＜エリアについて＞</color>\n冒険に出発するときは\nまず、出撃するマップである「エリア」を選び\n次に、エリアの中から「クエスト」を選びます。",
-		"tr_text": "<color=#f0df60><Area></color>\nWhen starting a mission,\nfirst select the area you'd like\nto travel to, then select a quest."
+		"tr_text": "<color=#f0df60><Area></color>\nAl comenzar una misión, primero selecciona\nel área a la que te gustaría viajar,\nluego selecciona una misión."
 	},
 	{
 		"assign": "0012",
@@ -137,7 +137,7 @@
 	{
 		"assign": "0027",
 		"jp_text": "<color=#f0df60>＜スペシャルクエスト＞</color>\nチップ解放の素材となるチップは\n日替わりで配信される\nスペシャルクエストで入手可能ですよ！",
-		"tr_text": "<color=#f0df60><Special Quests></color>\nYou can find materials for\nchip releases by doing special quests!"
+		"tr_text": "<color=#f0df60><Special Quests></color>\nPuede encontrar los materiales para las\nModificaciones de chips por hacer \nmisiones especiales!"
 	},
 	{
 		"assign": "0028",
