@@ -9712,12 +9712,12 @@
 	{
 		"assign": "community_help",
 		"jp_text": "ヘルプメニュー",
-		"tr_text": "Help Menu"
+		"tr_text": "Menu de ayuda"
 	},
 	{
 		"assign": "community_new_mail",
 		"jp_text": "新着メール{0}件あり",
-		"tr_text": "{0} new mail(s)"
+		"tr_text": "{0} nuevo correo(s)"
 	},
 	{
 		"assign": "community_new_friend",
@@ -9732,7 +9732,7 @@
 	{
 		"assign": "mail_delete",
 		"jp_text": "削除",
-		"tr_text": "Delete mail"
+		"tr_text": "Eliminar correo"
 	},
 	{
 		"assign": "mail_close",
@@ -9747,32 +9747,32 @@
 	{
 		"assign": "mail_date",
 		"jp_text": "日付   :",
-		"tr_text": "Date:"
+		"tr_text": "Fecha:"
 	},
 	{
 		"assign": "mail_to",
 		"jp_text": "宛先   :",
-		"tr_text": "To:"
+		"tr_text": "A:"
 	},
 	{
 		"assign": "mail_from",
 		"jp_text": "差出人 :",
-		"tr_text": "From:"
+		"tr_text": "Para:"
 	},
 	{
 		"assign": "mail_subject",
 		"jp_text": "件名   :",
-		"tr_text": "Subject:"
+		"tr_text": "Asunto:"
 	},
 	{
 		"assign": "mail_text",
 		"jp_text": "本文   :",
-		"tr_text": "Text:"
+		"tr_text": "Texto:"
 	},
 	{
 		"assign": "send_mail_detail",
 		"jp_text": "送信メール詳細",
-		"tr_text": "Sent Mail Details"
+		"tr_text": "Detalles del correo enviado"
 	},
 	{
 		"assign": "mail_send",
@@ -9787,17 +9787,17 @@
 	{
 		"assign": "mail_address_button",
 		"jp_text": "宛先設定",
-		"tr_text": "Address"
+		"tr_text": "Dirección"
 	},
 	{
 		"assign": "mail_recieve_list",
 		"jp_text": "受信メール一覧",
-		"tr_text": "Received Mail"
+		"tr_text": "Correo recibido"
 	},
 	{
 		"assign": "mail_send_list",
 		"jp_text": "送信メール一覧",
-		"tr_text": "Sent Mail"
+		"tr_text": "Correo enviado"
 	},
 	{
 		"assign": "mail_first",
@@ -9807,7 +9807,7 @@
 	{
 		"assign": "mail_prev",
 		"jp_text": "前",
-		"tr_text": "Prev"
+		"tr_text": "Anterior"
 	},
 	{
 		"assign": "mail_next",
@@ -9822,7 +9822,7 @@
 	{
 		"assign": "mail_first_shadow",
 		"jp_text": "<color=black>最初</color>",
-		"tr_text": "<color=black>First</color>"
+		"tr_text": "<color=black>Primero</color>"
 	},
 	{
 		"assign": "mail_prev_shadow",
@@ -9832,32 +9832,32 @@
 	{
 		"assign": "mail_next_shadow",
 		"jp_text": "<color=black>次</color>",
-		"tr_text": "<color=black>Next</color>"
+		"tr_text": "<color=black>Siguiente</color>"
 	},
 	{
 		"assign": "mail_last_shadow",
 		"jp_text": "<color=black>最後</color>",
-		"tr_text": "<color=black>Last</color>"
+		"tr_text": "<color=black>Último</color>"
 	},
 	{
 		"assign": "mail_new",
 		"jp_text": "新規作成",
-		"tr_text": "New"
+		"tr_text": "Nuevo"
 	},
 	{
 		"assign": "mail_send_view",
 		"jp_text": "送信メール",
-		"tr_text": "Sent mail"
+		"tr_text": "Correo enviado"
 	},
 	{
 		"assign": "mail_recieve_view",
 		"jp_text": "受信メール",
-		"tr_text": "Received mail"
+		"tr_text": "Correo recibido"
 	},
 	{
 		"assign": "mail_reply",
 		"jp_text": "返信",
-		"tr_text": "Reply"
+		"tr_text": "Responder"
 	},
 	{
 		"assign": "get_attach_item_all",
@@ -9872,7 +9872,7 @@
 	{
 		"assign": "friend_release",
 		"jp_text": "フレンド解除",
-		"tr_text": "Remove Friend"
+		"tr_text": "Eliminar amigo"
 	},
 	{
 		"assign": "friend_view_character",
@@ -16652,7 +16652,7 @@
 	{
 		"assign": "sort_new",
 		"jp_text": "新しい",
-		"tr_text": "New"
+		"tr_text": "Nuevo"
 	},
 	{
 		"assign": "sort_old",
