@@ -1707,7 +1707,7 @@
 	{
 		"assign": "equip_dialog_b_06",
 		"jp_text": "『PSO2』でアイテムパック内の状態が変更されました。\n条件に合わなくなったチップの装備は解除されます。",
-		"tr_text": "El estado en el paquete de objetos ha sido cambiado con 『PSO2』. El equipo que ya no cumpla con los requisitos será removido."
+		"tr_text": "El estado en el paquete de objetos ha sido cambiado con \"PSO2\". El equipo que ya no cumpla con los requisitos será removido."
 	},
 	{
 		"assign": "equip_dialog_t_07",
