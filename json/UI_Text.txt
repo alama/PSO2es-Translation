@@ -537,17 +537,17 @@
 	{
 		"assign": "acshop_dialog_t_39",
 		"jp_text": "アイテム購入",
-		"tr_text": "Buy Item"
+		"tr_text": "Comprar"
 	},
 	{
 		"assign": "acshop_dialog_b_39",
 		"jp_text": "現在このアイテムは\nプレミアムユーザーのみが購入可能です。",
-		"tr_text": "Item can only be bought\nby premium members."
+		"tr_text": "El objeto solo puede ser comprado\npor usuarios premium."
 	},
 	{
 		"assign": "acshop_dialog_t_40",
 		"jp_text": "アイテム購入",
-		"tr_text": "Buy Item"
+		"tr_text": "Comprar"
 	},
 	{
 		"assign": "acshop_dialog_b_40",
@@ -3357,7 +3357,7 @@
 	{
 		"assign": "myshop_dialog_t_00",
 		"jp_text": "アイテム購入",
-		"tr_text": "Buy Item"
+		"tr_text": "Comprar"
 	},
 	{
 		"assign": "myshop_dialog_b_00",
@@ -3367,7 +3367,7 @@
 	{
 		"assign": "myshop_dialog_t_01",
 		"jp_text": "アイテム購入",
-		"tr_text": "Buy Item"
+		"tr_text": "Comprar"
 	},
 	{
 		"assign": "myshop_dialog_b_01",
@@ -3377,7 +3377,7 @@
 	{
 		"assign": "myshop_dialog_t_02",
 		"jp_text": "アイテム購入",
-		"tr_text": "Buy Item"
+		"tr_text": "Comprar"
 	},
 	{
 		"assign": "myshop_dialog_b_02",
@@ -3387,7 +3387,7 @@
 	{
 		"assign": "myshop_dialog_t_03",
 		"jp_text": "アイテム購入",
-		"tr_text": "Buy Item"
+		"tr_text": "Comprar"
 	},
 	{
 		"assign": "myshop_dialog_b_03",
@@ -3397,7 +3397,7 @@
 	{
 		"assign": "myshop_dialog_t_04",
 		"jp_text": "アイテム購入",
-		"tr_text": "Buy Item"
+		"tr_text": "Comprar"
 	},
 	{
 		"assign": "myshop_dialog_b_04",
@@ -3407,7 +3407,7 @@
 	{
 		"assign": "myshop_dialog_t_05",
 		"jp_text": "アイテム購入",
-		"tr_text": "Buy Item"
+		"tr_text": "Comprar"
 	},
 	{
 		"assign": "myshop_dialog_b_05",
@@ -3467,7 +3467,7 @@
 	{
 		"assign": "myshop_dialog_t_09",
 		"jp_text": "アイテム購入",
-		"tr_text": "Buy Item"
+		"tr_text": "Comprar"
 	},
 	{
 		"assign": "myshop_dialog_b_09",
@@ -3477,17 +3477,17 @@
 	{
 		"assign": "myshop_dialog_t_10",
 		"jp_text": "アイテム購入",
-		"tr_text": "Buy Item"
+		"tr_text": "Comprar"
 	},
 	{
 		"assign": "myshop_dialog_b_10",
 		"jp_text": "プレミアム期間ではないため\nマイショップでのアイテム購入ができません。\nプレミアム期間になり\n再度アイテム購入をお試しください。\nプレミアムセットは<%AC>ショップで購入と使用ができます。",
-		"tr_text": "Because you are not premium, you cannot use the My Shop."
+		"tr_text": "Como no eres premium, no puedes usar My Shop."
 	},
 	{
 		"assign": "myshop_dialog_t_11",
 		"jp_text": "アイテム出品",
-		"tr_text": "Sell Item"
+		"tr_text": "Vender"
 	},
 	{
 		"assign": "myshop_dialog_b_11",
@@ -3502,17 +3502,17 @@
 	{
 		"assign": "myshop_dialog_b_12",
 		"jp_text": "以下のアイテムを出品します。\nよろしいですか？",
-		"tr_text": "This will display the\nitems to sell, continue?"
+		"tr_text": "Esto mostrará los objetos a vender, ¿continuar?"
 	},
 	{
 		"assign": "myshop_dialog_t_13",
 		"jp_text": "出品キャンセルの確認",
-		"tr_text": "Cancel Sale"
+		"tr_text": "Cancelar venta"
 	},
 	{
 		"assign": "myshop_dialog_b_13",
 		"jp_text": "出品をキャンセルします。\nよろしいですか？",
-		"tr_text": "Cancel sale of item(s)?"
+		"tr_text": "¿Cancelar venta del objeto?"
 	},
 	{
 		"assign": "myshop_dialog_t_14",
@@ -3522,17 +3522,17 @@
 	{
 		"assign": "myshop_dialog_b_14",
 		"jp_text": "アイテムを出品しました。",
-		"tr_text": "Item placed for sale."
+		"tr_text": "Artículo puesto a la venta."
 	},
 	{
 		"assign": "myshop_dialog_t_15",
 		"jp_text": "価格設定",
-		"tr_text": "Pricing"
+		"tr_text": "Precio"
 	},
 	{
 		"assign": "myshop_dialog_b_15",
 		"jp_text": "出品最低価格未満の額に設定されています。\n設定金額を以下の額より多く設定してください。\n(設定金額:<%MESETA>メセタ)",
-		"tr_text": "Please set the sale price no lower\nthan the lowest amount possible.\n(Limit: <%MESETA>)"
+		"tr_text": "Establezca el precio de venta no inferior\na la cantidad más baja posible.\n(Limite: <%MESETA>)"
 	},
 	{
 		"assign": "myshop_dialog_t_16",
@@ -3542,7 +3542,7 @@
 	{
 		"assign": "myshop_dialog_b_16",
 		"jp_text": "アイテムを取り下げました。",
-		"tr_text": "Item(s) have been withdrawn."
+		"tr_text": "Objeto(s) retirado(s)."
 	},
 	{
 		"assign": "myshop_dialog_t_17",
@@ -3552,52 +3552,52 @@
 	{
 		"assign": "myshop_dialog_b_17",
 		"jp_text": "アイテムパックの空き容量不足、\nまたは所持数の限界を超えているため、\n取り下げできませんでした。",
-		"tr_text": "Because you do not have the\nrequired free space for this item,\nyou cannot withdraw."
+		"tr_text": "Como no tiene el espacio libre requerido\n para este objeto, no puedes retirarlo."
 	},
 	{
 		"assign": "myshop_dialog_t_18",
 		"jp_text": "取り下げキャンセルの確認",
-		"tr_text": "Confirm Cancel"
+		"tr_text": "Cancelar"
 	},
 	{
 		"assign": "myshop_dialog_b_18",
 		"jp_text": "取り下げをキャンセルします。\nよろしいですか？",
-		"tr_text": "Cancel Withdraw?"
+		"tr_text": "Cancelar"
 	},
 	{
 		"assign": "myshop_dialog_t_19",
 		"jp_text": "取り下げ",
-		"tr_text": "Withdrawal"
+		"tr_text": "Retirar"
 	},
 	{
 		"assign": "myshop_dialog_b_19",
 		"jp_text": "以下のアイテムは既に\n売れています。",
-		"tr_text": "Items have been sold."
+		"tr_text": "Los objetos han sido vendidos."
 	},
 	{
 		"assign": "myshop_dialog_t_20",
 		"jp_text": "アイテム出品",
-		"tr_text": "Sell Item"
+		"tr_text": "Vender"
 	},
 	{
 		"assign": "myshop_dialog_b_20",
 		"jp_text": "プレミアム期間ではないため\nマイショップでのアイテム出品ができません。\nプレミアム期間になり\n再度アイテム出品をお試しください。\nプレミアムセットは<%AC>ショップで購入と使用ができます。",
-		"tr_text": "Because you aren't premium,\nyou cannot sell items.\nYou may purchase premium\nvia the <%AC> Shop."
+		"tr_text": "Como no eres premium,\nno puedes vender objetos.\nPuede comprar premium\nen la tienda de <%AC>."
 	},
 	{
 		"assign": "myshop_dialog_t_21",
 		"jp_text": "取り下げ",
-		"tr_text": "Withdrawal"
+		"tr_text": "Retirar"
 	},
 	{
 		"assign": "myshop_dialog_b_21",
 		"jp_text": "以下の商品をアイテムパックに取り下げます。\nよろしいですか？",
-		"tr_text": "The following items will be\nwithdrawn, is that ok?"
+		"tr_text": "Los siguientes objetos\nserán retirados, ¿está bien?"
 	},
 	{
 		"assign": "myshop_dialog_t_22",
 		"jp_text": "売り上げ回収",
-		"tr_text": "Earnings Collection"
+		"tr_text": "Colección de ganancias"
 	},
 	{
 		"assign": "myshop_dialog_b_22",
@@ -3607,22 +3607,22 @@
 	{
 		"assign": "myshop_dialog_t_23",
 		"jp_text": "アイテム取引パスワード",
-		"tr_text": "Shop Password"
+		"tr_text": "Contraseña deShop"
 	},
 	{
 		"assign": "myshop_dialog_l_23",
 		"jp_text": "パスワード",
-		"tr_text": "Password"
+		"tr_text": "Contraseña"
 	},
 	{
 		"assign": "myshop_dialog_b_23",
 		"jp_text": "パスワードを入力して下さい。（半角<color=yellow>数字</color>５文字）\n\n間違ったパスワードが６回入力されると\nアイテム取引パスワードがロックされます。\n<color=yellow>アイテム取引パスワードに関するお問い合わせは\n『ＰＳＯ２』プレイヤーズサイトからお願いします。</color>",
-		"tr_text": "Please enter your password. Your password\nis <color=yellow>5 numeric</color> characters.\n\nEntering your password incorrectly 6 times will\nlock your account out.\n<color=yellow>※Inquiries about shop passwords can be done\non the player's site.</color>"
+		"tr_text": "Por favor, introduzca su contraseña.\nTu contraseña es de <color=yellow>5 numeros</color>.\n\nIngresar su contraseña incorrectamente \n6 veces bloqueará su cuenta.\n<color=yellow>※Las consultas sobre las contraseñas de la\ntienda se pueden hacer en el sitio del jugador.</color>"
 	},
 	{
 		"assign": "myshop_dialog_t_24",
 		"jp_text": "アイテム取引パスワード未設定",
-		"tr_text": "Shop Password not set"
+		"tr_text": "Contraseña no establecida"
 	},
 	{
 		"assign": "myshop_dialog_b_24",
@@ -3632,7 +3632,7 @@
 	{
 		"assign": "myshop_dialog_t_25",
 		"jp_text": "アイテム取引パスワード",
-		"tr_text": "Shop Password"
+		"tr_text": "Contraseña"
 	},
 	{
 		"assign": "myshop_dialog_b_25",
@@ -3642,7 +3642,7 @@
 	{
 		"assign": "myshop_dialog_t_26",
 		"jp_text": "アイテム取引パスワード",
-		"tr_text": "Shop Password"
+		"tr_text": "Contraseña"
 	},
 	{
 		"assign": "myshop_dialog_b_26",
@@ -3652,7 +3652,7 @@
 	{
 		"assign": "myshop_dialog_t_27",
 		"jp_text": "商品検索",
-		"tr_text": "Item Search"
+		"tr_text": "Busqueda de objetos"
 	},
 	{
 		"assign": "myshop_dialog_b_27",
@@ -3662,7 +3662,7 @@
 	{
 		"assign": "myshop_dialog_t_28",
 		"jp_text": "商品検索",
-		"tr_text": "Item Search"
+		"tr_text": "Busqueda de objetos"
 	},
 	{
 		"assign": "myshop_dialog_b_28",
@@ -3672,17 +3672,17 @@
 	{
 		"assign": "myshop_dialog_t_29",
 		"jp_text": "アイテム取引パスワード",
-		"tr_text": "Shop Password"
+		"tr_text": "Contraseña"
 	},
 	{
 		"assign": "myshop_dialog_b_29",
 		"jp_text": "パスワードは半角数字５文字で入力してください。",
-		"tr_text": "Please enter your 5 digit password."
+		"tr_text": "Por favor ingrese su contraseña de 5 dígitos."
 	},
 	{
 		"assign": "myshop_dialog_t_30",
 		"jp_text": "アイテム購入",
-		"tr_text": "Purchase Items"
+		"tr_text": "Compra de objetos"
 	},
 	{
 		"assign": "myshop_dialog_b_30",
@@ -3692,17 +3692,17 @@
 	{
 		"assign": "myshop_dialog_t_31",
 		"jp_text": "アイテム購入",
-		"tr_text": "Purchase Items"
+		"tr_text": "Compra de objetos"
 	},
 	{
 		"assign": "myshop_dialog_b_31",
 		"jp_text": "アイテムを購入しました。\n購入した武器のオーナー登録が完了しました。",
-		"tr_text": "Purchase Complete.\nItem is now bound to your account."
+		"tr_text": "Compra Completada.\nEl objeto ahora está vinculado a su cuenta."
 	},
 	{
 		"assign": "myshop_dialog_t_32",
 		"jp_text": "アイテム出品",
-		"tr_text": "Sell Item"
+		"tr_text": "Vender"
 	},
 	{
 		"assign": "myshop_dialog_b_32",
@@ -3812,7 +3812,7 @@
 	{
 		"assign": "myshop_category_other",
 		"jp_text": "その他",
-		"tr_text": "Other"
+		"tr_text": "Otros"
 	},
 	{
 		"assign": "myshop_sub_weapon_not_specified",
@@ -3987,12 +3987,12 @@
 	{
 		"assign": "myshop_sex_costume_male",
 		"jp_text": "男性・ファッションスーツ",
-		"tr_text": "Male Costumes"
+		"tr_text": "Trajes de Hombre"
 	},
 	{
 		"assign": "myshop_sex_costume_female",
 		"jp_text": "女性限定",
-		"tr_text": "Female Costumes"
+		"tr_text": "Trajes de mujer"
 	},
 	{
 		"assign": "myshop_sex_parts_none",
@@ -4002,12 +4002,12 @@
 	{
 		"assign": "myshop_sex_parts_male",
 		"jp_text": "男性パーツ",
-		"tr_text": "CAST Male"
+		"tr_text": "CAST Masculino"
 	},
 	{
 		"assign": "myshop_sex_parts_female",
 		"jp_text": "女性パーツ",
-		"tr_text": "CAST Female"
+		"tr_text": "CAST Femenino"
 	},
 	{
 		"assign": "myshop_sex_outer_none",
@@ -4017,12 +4017,12 @@
 	{
 		"assign": "myshop_sex_outer_male",
 		"jp_text": "男性用アウターウェア",
-		"tr_text": "Male Outerwear"
+		"tr_text": "Outerwear Masculino"
 	},
 	{
 		"assign": "myshop_sex_outer_female",
 		"jp_text": "女性用アウターウェア",
-		"tr_text": "Female Outerwear"
+		"tr_text": "Outerwear Femenino"
 	},
 	{
 		"assign": "myshop_sex_base_none",
@@ -4032,12 +4032,12 @@
 	{
 		"assign": "myshop_sex_base_male",
 		"jp_text": "男性用ベースウェア",
-		"tr_text": "Male Basewear"
+		"tr_text": "Basewear Masculino"
 	},
 	{
 		"assign": "myshop_sex_base_female",
 		"jp_text": "女性用ベースウェア",
-		"tr_text": "Female Basewear"
+		"tr_text": "Basewear Femenino"
 	},
 	{
 		"assign": "myshop_sex_inner_none",
@@ -4047,12 +4047,12 @@
 	{
 		"assign": "myshop_sex_inner_male",
 		"jp_text": "男性用インナーウェア",
-		"tr_text": "Male Innerwear"
+		"tr_text": "Innerwear Masculino"
 	},
 	{
 		"assign": "myshop_sex_inner_female",
 		"jp_text": "女性用インナーウェア",
-		"tr_text": "Female Innerwear"
+		"tr_text": "Innerwear Femenino"
 	},
 	{
 		"assign": "myshop_sub_item_parfait",
@@ -4132,22 +4132,22 @@
 	{
 		"assign": "myshop_sub_item_accessory_detail",
 		"jp_text": "アクセサリー",
-		"tr_text": "Accessories"
+		"tr_text": "Accesorios"
 	},
 	{
 		"assign": "myshop_sub_item_eye_detail",
 		"jp_text": "瞳",
-		"tr_text": "Eye Patterns"
+		"tr_text": "Patrones de ojos"
 	},
 	{
 		"assign": "myshop_sub_item_eyebrow_detail",
 		"jp_text": "まゆ毛",
-		"tr_text": "Eyebrows"
+		"tr_text": "Cejas"
 	},
 	{
 		"assign": "myshop_sub_item_eyelash_detail",
 		"jp_text": "まつ毛",
-		"tr_text": "Eyelashes"
+		"tr_text": "Pestañas"
 	},
 	{
 		"assign": "myshop_sub_item_facepaint_detail",
@@ -4167,7 +4167,7 @@
 	{
 		"assign": "myshop_sub_item_voice_detail",
 		"jp_text": "ボイス",
-		"tr_text": "Voice"
+		"tr_text": "Voz"
 	},
 	{
 		"assign": "myshop_sub_item_lobbyaction_detail",
@@ -4322,17 +4322,17 @@
 	{
 		"assign": "myshop_sub_other_tool",
 		"jp_text": "ツール",
-		"tr_text": "Other"
+		"tr_text": "Otro"
 	},
 	{
 		"assign": "myshop_sub_costume_male_costume",
 		"jp_text": "男性用・男女共用コスチューム",
-		"tr_text": "Male Costumes"
+		"tr_text": "Traje Masculino"
 	},
 	{
 		"assign": "myshop_sub_costume_female_costume",
 		"jp_text": "女性用コスチューム",
-		"tr_text": "Female Costumes"
+		"tr_text": "Traje Femenino"
 	},
 	{
 		"assign": "myshop_sub_costume_male_body",
@@ -4367,7 +4367,7 @@
 	{
 		"assign": "myshop_sub_item_accessory_ticket",
 		"jp_text": "アクセサリーチケット",
-		"tr_text": "Accessories"
+		"tr_text": "Accesorios"
 	},
 	{
 		"assign": "myshop_sub_item_hair_ticket",
@@ -4387,7 +4387,7 @@
 	{
 		"assign": "myshop_sub_item_voice_ticket",
 		"jp_text": "ボイスチケット",
-		"tr_text": "Voices"
+		"tr_text": "Voces"
 	},
 	{
 		"assign": "myshop_sub_item_eye_ticket",
@@ -4432,7 +4432,7 @@
 	{
 		"assign": "myshop_sub_item_gat_other",
 		"jp_text": "その他の素材",
-		"tr_text": "Other"
+		"tr_text": "Otro"
 	},
 	{
 		"assign": "myshop_attribute_not_specified",
@@ -4512,32 +4512,32 @@
 	{
 		"assign": "myshop_search_window",
 		"jp_text": "商品検索",
-		"tr_text": "Search"
+		"tr_text": "Buscar"
 	},
 	{
 		"assign": "myshop_name_match",
 		"jp_text": "名前の設定(完全一致)",
-		"tr_text": "Item Name (Exact Match)"
+		"tr_text": "Nombre de obj (Exact Match)"
 	},
 	{
 		"assign": "myshop_item_name",
 		"jp_text": "アイテム名",
-		"tr_text": "Item Name"
+		"tr_text": "Nombre de obj"
 	},
 	{
 		"assign": "myshop_ability",
 		"jp_text": "特殊能力",
-		"tr_text": "Specific Ability"
+		"tr_text": "Habilidad específica"
 	},
 	{
 		"assign": "myshop_ability_button",
 		"jp_text": "候補検索",
-		"tr_text": "Partial Search"
+		"tr_text": "Búsqueda parcial"
 	},
 	{
 		"assign": "myshop_item_name_button",
 		"jp_text": "候補検索",
-		"tr_text": "Partial Search"
+		"tr_text": "Búsqueda parcial"
 	},
 	{
 		"assign": "myshop_category_match",
@@ -4547,27 +4547,27 @@
 	{
 		"assign": "myshop_category_main",
 		"jp_text": "カテゴリー",
-		"tr_text": "Category"
+		"tr_text": "Categoria"
 	},
 	{
 		"assign": "myshop_category_sub",
 		"jp_text": "サブカテゴリー",
-		"tr_text": "Sub-category"
+		"tr_text": "Sub-categoria"
 	},
 	{
 		"assign": "myshop_attribute",
 		"jp_text": "属性",
-		"tr_text": "Element"
+		"tr_text": "Elemento"
 	},
 	{
 		"assign": "myshop_attribute_value",
 		"jp_text": "属性値",
-		"tr_text": "Element Percentage"
+		"tr_text": "Porcentaje del elemento"
 	},
 	{
 		"assign": "myshop_attribute_value_over",
 		"jp_text": "以上",
-		"tr_text": " or More"
+		"tr_text": " o más"
 	},
 	{
 		"assign": "myshop_grind",
@@ -4577,17 +4577,17 @@
 	{
 		"assign": "myshop_grind_over",
 		"jp_text": "以上",
-		"tr_text": " or More"
+		"tr_text": " o más"
 	},
 	{
 		"assign": "myshop_ability_num",
 		"jp_text": "特殊能力数",
-		"tr_text": "Number of Abilities"
+		"tr_text": "Número de habilidades"
 	},
 	{
 		"assign": "myshop_ability_num_over",
 		"jp_text": "以上",
-		"tr_text": " or More"
+		"tr_text": " o más"
 	},
 	{
 		"assign": "myshop_potential",
@@ -4602,22 +4602,22 @@
 	{
 		"assign": "myshop_rarity_over",
 		"jp_text": "以上",
-		"tr_text": " or Higher"
+		"tr_text": " o Mayor"
 	},
 	{
 		"assign": "myshop_rarity_only",
 		"jp_text": "のみ",
-		"tr_text": " Only"
+		"tr_text": " Solo"
 	},
 	{
 		"assign": "myshop_price_match",
 		"jp_text": "価格帯の設定",
-		"tr_text": "Search Similar"
+		"tr_text": "Buscar similares"
 	},
 	{
 		"assign": "myshop_price_min",
 		"jp_text": "最小価格",
-		"tr_text": "Minimum Meseta"
+		"tr_text": "Meseta minima"
 	},
 	{
 		"assign": "myshop_price_max",
@@ -4637,17 +4637,17 @@
 	{
 		"assign": "myshop_exhibition_search",
 		"jp_text": "出品順で検索",
-		"tr_text": "Search by Sold"
+		"tr_text": "Búscar por vendido"
 	},
 	{
 		"assign": "myshop_price_search",
 		"jp_text": "価格順で検索",
-		"tr_text": "Search by Price"
+		"tr_text": "Búscar por precio"
 	},
 	{
 		"assign": "myshop_notfound",
 		"jp_text": "該当するアイテム名は見つかりませんでした",
-		"tr_text": "Item not found"
+		"tr_text": "Objeto no encontrado"
 	},
 	{
 		"assign": "myshop_prev",
@@ -4672,12 +4672,12 @@
 	{
 		"assign": "myshop_cancel",
 		"jp_text": "キャンセル",
-		"tr_text": "Cancel"
+		"tr_text": "Cancelar"
 	},
 	{
 		"assign": "myshop_search_result_title",
 		"jp_text": "商品検索結果",
-		"tr_text": "Search Results"
+		"tr_text": "Resultados de la búsqueda"
 	},
 	{
 		"assign": "myshop_keyword_result",
@@ -4712,7 +4712,7 @@
 	{
 		"assign": "myshop_purchase_price",
 		"jp_text": "金額",
-		"tr_text": "Amount"
+		"tr_text": "Cantidad"
 	},
 	{
 		"assign": "myshop_purchase_num",
@@ -4727,7 +4727,7 @@
 	{
 		"assign": "myshop_purchase_decide",
 		"jp_text": "購入する",
-		"tr_text": "Buy"
+		"tr_text": "Comprar"
 	},
 	{
 		"assign": "myshop_purchase_title",
@@ -4737,12 +4737,12 @@
 	{
 		"assign": "myshop_button_category",
 		"jp_text": "変更",
-		"tr_text": "Change"
+		"tr_text": "Camibiar"
 	},
 	{
 		"assign": "myshop_button_subcategory",
 		"jp_text": "変更",
-		"tr_text": "Change"
+		"tr_text": "Cambiar"
 	},
 	{
 		"assign": "myshop_button_attribute",
@@ -4812,22 +4812,22 @@
 	{
 		"assign": "myshop_notfound_product",
 		"jp_text": "条件に合致するアイテムがありません",
-		"tr_text": "No Matches Found"
+		"tr_text": "Sin coincidencias"
 	},
 	{
 		"assign": "myshop_display_rest",
 		"jp_text": "出品可能数 あと{0,3}",
-		"tr_text": "Total Space: {0,3}"
+		"tr_text": "Espacio total: {0,3}"
 	},
 	{
 		"assign": "myshop_display_price",
 		"jp_text": "設定金額",
-		"tr_text": "Set Amount"
+		"tr_text": "Fijar cantidad"
 	},
 	{
 		"assign": "myshop_display_num",
 		"jp_text": "出品数",
-		"tr_text": "Quantity"
+		"tr_text": "Cantidad"
 	},
 	{
 		"assign": "myshop_display_total",
@@ -4842,27 +4842,27 @@
 	{
 		"assign": "myshop_display_title",
 		"jp_text": "出品確認",
-		"tr_text": "Confirm Sale"
+		"tr_text": "Confirmar venta"
 	},
 	{
 		"assign": "myshop_market_button",
 		"jp_text": "相場",
-		"tr_text": "Quote"
+		"tr_text": "Cotizar"
 	},
 	{
 		"assign": "myshop_market_title",
 		"jp_text": "最新価格相場",
-		"tr_text": "Price Quote"
+		"tr_text": "Cotización"
 	},
 	{
 		"assign": "myshop_withdraw_title",
 		"jp_text": "出品中アイテム",
-		"tr_text": "List of Goods"
+		"tr_text": "Lista de productos"
 	},
 	{
 		"assign": "myshop_withdraw_num",
 		"jp_text": "出品数",
-		"tr_text": "Quantity"
+		"tr_text": "Cantidad"
 	},
 	{
 		"assign": "myshop_withdraw_button",
@@ -4872,7 +4872,7 @@
 	{
 		"assign": "myshop_sales_collect_button",
 		"jp_text": "売り上げ回収",
-		"tr_text": "Collect"
+		"tr_text": "Recoger"
 	},
 	{
 		"assign": "myshop_sales_window_title",
@@ -4887,7 +4887,7 @@
 	{
 		"assign": "myshop_sales_tab_2",
 		"jp_text": "プレイヤーIDネーム",
-		"tr_text": "Player ID Name"
+		"tr_text": "Player ID"
 	},
 	{
 		"assign": "myshop_sales_tab_3",
@@ -4962,12 +4962,12 @@
 	{
 		"assign": "myshop_keyword_over",
 		"jp_text": "該当件数が多すぎます。\n文字列を追加して絞り込みを\n行ってください。",
-		"tr_text": "Too many keywords.\nPlease refine your search."
+		"tr_text": "Demasiadas palabras clave\nPor favor, refina tu búsqueda."
 	},
 	{
 		"assign": "myshop_keyword_gentime",
 		"jp_text": "候補検索リスト作成時間：{0}",
-		"tr_text": "List generated on: {0}"
+		"tr_text": "Lista generada en: {0}"
 	},
 	{
 		"assign": "questcounter_guide_00",
@@ -5077,7 +5077,7 @@
 	{
 		"assign": "quest_counter_departure_t",
 		"jp_text": "出発確認",
-		"tr_text": "Starting Confirmation"
+		"tr_text": "Iniciando la Confirmación"
 	},
 	{
 		"assign": "quest_counter_departure_b",
@@ -5237,12 +5237,12 @@
 	{
 		"assign": "quest_counter_caption_incident",
 		"jp_text": "未確認エネミー",
-		"tr_text": "Unknown"
+		"tr_text": "Desconocido"
 	},
 	{
 		"assign": "quest_counter_caption_limited_class",
 		"jp_text": "受注可能クラス",
-		"tr_text": "Class Limit"
+		"tr_text": "Limite de clase"
 	},
 	{
 		"assign": "quest_counter_window_areainfo",
@@ -5257,12 +5257,12 @@
 	{
 		"assign": "quest_counter_caption_enemy",
 		"jp_text": "エネミー情報",
-		"tr_text": "Enemy Info"
+		"tr_text": "Info del enemigo"
 	},
 	{
 		"assign": "quest_counter_label_target",
 		"jp_text": "討伐目標",
-		"tr_text": "Target Enemy"
+		"tr_text": "Enemigo objetivo"
 	},
 	{
 		"assign": "quest_counter_label_weakpoint",
@@ -5282,27 +5282,27 @@
 	{
 		"assign": "quest_counter_class_error_t",
 		"jp_text": "受注できないクラス",
-		"tr_text": "Class Restriction"
+		"tr_text": "Restriccion de clase"
 	},
 	{
 		"assign": "quest_counter_class_error_b",
 		"jp_text": "現在のクラスでは受注できません。\n受注可能クラス：<%arksclass>",
-		"tr_text": "Cannot take this Quest.\nClass Required： <%arksclass>"
+		"tr_text": "No se puede tomar esta mision.\nSe requiere la siguiente clase: <%arksclass>"
 	},
 	{
 		"assign": "quest_counter_label_medama",
 		"jp_text": "出現アイテム　<color=#68a0a7>/</color>",
-		"tr_text": "Items Found <color=#68a0a7>/</color>"
+		"tr_text": "Objetos encontrados <color=#68a0a7>/</color>"
 	},
 	{
 		"assign": "quest_counter_maxdrive_t",
 		"jp_text": "行動力不足",
-		"tr_text": "Not enough Drive"
+		"tr_text": "No es suficiente Drive"
 	},
 	{
 		"assign": "quest_counter_maxdrive_b",
 		"jp_text": "最大行動力が足りないため\nクエストに出発できません。 ",
-		"tr_text": "You do not have enough Drive\nto start this Quest."
+		"tr_text": "No tienes suficiente Drive para\ncomenzar esta mision."
 	},
 	{
 		"assign": "quest_counter_header_arks",
@@ -5347,7 +5347,7 @@
 	{
 		"assign": "quest_counter_raid_caption_quest",
 		"jp_text": "クエスト情報",
-		"tr_text": "Quest Information"
+		"tr_text": "Info de la mision"
 	},
 	{
 		"assign": "quest_counter_raid_label_passtime",
@@ -5362,7 +5362,7 @@
 	{
 		"assign": "quest_counter_raid_not_accept",
 		"jp_text": "未受注",
-		"tr_text": "Not Ordered"
+		"tr_text": "Sin orden recibida"
 	},
 	{
 		"assign": "quest_counter_raid_passtime2",
@@ -5377,7 +5377,7 @@
 	{
 		"assign": "quest_counter_raid_current_rank_b",
 		"jp_text": "発生期間内にクリアでBランククリア",
-		"tr_text": "B-Rank cleared in the time frame"
+		"tr_text": "Completado en rango B-Rank"
 	},
 	{
 		"assign": "quest_counter_raid_attack_num",
@@ -5387,7 +5387,7 @@
 	{
 		"assign": "quest_counter_raid_caption_progress",
 		"jp_text": "クエスト進行状況",
-		"tr_text": "Quest Progress"
+		"tr_text": "Progreso de la misión"
 	},
 	{
 		"assign": "quest_counter_raid_caption_reward",
@@ -5427,7 +5427,7 @@
 	{
 		"assign": "quest_counter_raid_point_grade",
 		"jp_text": "ポイント×<%param>倍",
-		"tr_text": "Points×<%param>"
+		"tr_text": "Puntos×<%param>"
 	},
 	{
 		"assign": "quest_counter_raid_lineup",
@@ -5442,7 +5442,7 @@
 	{
 		"assign": "quest_counter_raid_other",
 		"jp_text": "その他の報酬　<color=#68a0a7>/</color>",
-		"tr_text": "Other     　<color=#68a0a7>/</color>"
+		"tr_text": "Otro     　<color=#68a0a7>/</color>"
 	},
 	{
 		"assign": "questcounter_questlist_error_t",
@@ -5452,12 +5452,12 @@
 	{
 		"assign": "questcounter_questlist_error_b",
 		"jp_text": "エリアが見つかりませんでした。\nロビーに戻ります",
-		"tr_text": "Area failed to load.\nReturning to Lobby."
+		"tr_text": "El área no se pudo cargar.\nRegresando al Lobby."
 	},
 	{
 		"assign": "questcounter_raid_reward_etc",
 		"jp_text": "他にも様々な報酬が手に入るチャンス！",
-		"tr_text": "Chance of numerous rewards!"
+		"tr_text": "Posibilidad de numerosas recompensas!"
 	},
 	{
 		"assign": "questcounter_reward_grinder",
@@ -5472,7 +5472,7 @@
 	{
 		"assign": "questcounter_raid_reward_dialog_b",
 		"jp_text": "緊急クエストの情報が更新されました。\nロビートップに戻ります。",
-		"tr_text": "Emergency Quest info has been updated.\nRetuning to lobby."
+		"tr_text": "La información de Emergency\nQuest ha sido actualizada.\nVolver al lobby."
 	},
 	{
 		"assign": "quest_counter_raid_sp_dialog_00_t",
@@ -5482,7 +5482,7 @@
 	{
 		"assign": "quest_counter_raid_sp_dialog_00_b",
 		"jp_text": "「超級トリガー」を所持していません。",
-		"tr_text": "You do not own a 'Super Hard Trigger'."
+		"tr_text": "No tienes un 'Super Hard Trigger'."
 	},
 	{
 		"assign": "quest_counter_raid_sp_dialog_01_t",
@@ -6462,7 +6462,7 @@
 	{
 		"assign": "questresult_result_title",
 		"jp_text": "クエスト報酬",
-		"tr_text": "Resultados de la mision"
+		"tr_text": "   Resultados de la mision"
 	},
 	{
 		"assign": "questresult_result_getexp",
@@ -6532,7 +6532,7 @@
 	{
 		"assign": "questresult_item_title",
 		"jp_text": "獲得アイテム一覧",
-		"tr_text": "Items Adquirido"
+		"tr_text": "Objeto Adquirido"
 	},
 	{
 		"assign": "questresult_item_button",
@@ -7057,7 +7057,7 @@
 	{
 		"assign": "title_chara_name_t",
 		"jp_text": "キャラクター名入力",
-		"tr_text": "Character Input"
+		"tr_text": "Entrada de personajes"
 	},
 	{
 		"assign": "title_chara_name_botton",
@@ -7067,37 +7067,37 @@
 	{
 		"assign": "title_onetime_pass_paste",
 		"jp_text": "貼り付け",
-		"tr_text": "Paste"
+		"tr_text": "Pegar"
 	},
 	{
 		"assign": "title_onetime_pass_botton",
 		"jp_text": "送信 ",
-		"tr_text": "Transmit "
+		"tr_text": "Transmitir "
 	},
 	{
 		"assign": "title_chara_linked_pso2",
 		"jp_text": "PSO2連動キャラクター",
-		"tr_text": "Not yet linked"
+		"tr_text": "Todavía no vinculado"
 	},
 	{
 		"assign": "title_chara_select_class_t",
 		"jp_text": "クラス確認",
-		"tr_text": "Class Select"
+		"tr_text": "Selección de clase"
 	},
 	{
 		"assign": "title_chara_select_class_b",
 		"jp_text": "{0}でゲームを始めます。\nよろしいですか？",
-		"tr_text": "Start the game with {0}?"
+		"tr_text": "Comienza el juego con {0}?"
 	},
 	{
 		"assign": "title_not_inheriting_t",
 		"jp_text": "端末引き継ぎ",
-		"tr_text": "Device Transfer"
+		"tr_text": "Transferencia de dispositivo"
 	},
 	{
 		"assign": "title_not_inheriting_b",
 		"jp_text": "入力されたアカウントは\nすでにこの端末でログインしています。",
-		"tr_text": "You are already logged in with this character."
+		"tr_text": "Ya has iniciado sesión con este personaje."
 	},
 	{
 		"assign": "title_connect_t",
@@ -7107,17 +7107,17 @@
 	{
 		"assign": "title_connect_b",
 		"jp_text": "『PSO2』へのキャラクター連動処理を再開します。\n\n処理完了までは数十秒程度の時間がかかります。\n通信を行いますので、\n電波状況の良い場所で開始して下さい。\n連動が完了すると、タイトル画面に戻ります。",
-		"tr_text": "\"PSO2\" Resume Device transfer.\n\nThis may take a moment.\nPlease ensure you are in a\ngood reception area.\nReturning to Lobby when Complete."
+		"tr_text": "\"PSO2\" Esto puede tomar un momento.\nAsegúrate de tener una buena coneccion.\nRegresando al lobby cuando esté completo."
 	},
 	{
 		"assign": "system_dialog_t_stackover01",
 		"jp_text": "所持数オーバー",
-		"tr_text": "Stack Limit Reached"
+		"tr_text": "Límite alcanzado de Stack"
 	},
 	{
 		"assign": "system_dialog_b_stackover01",
 		"jp_text": "入手した消費アイテムのうち\n所持しきれないものを\nメールに添付して送信しました。\nコミュニティメニュー内の受信メールをご確認下さい。",
-		"tr_text": "Cannot receive item.\nYou are over the limit.\nItem has been sent via Mail.\nPlease check your Mailbox to receive it."
+		"tr_text": "No puede recibir el objeto\nUsted está por encima del límite.\nEl objeto ha sido enviado por correo.\nPor favor revisa tu buzón para recibirlo."
 	},
 	{
 		"assign": "pse_attack",
@@ -7142,72 +7142,72 @@
 	{
 		"assign": "player_abnormal_burn",
 		"jp_text": "<color=\"#ffffff\">ステータスが状態異常「バーン」になった。</color>",
-		"tr_text": "<color=\"#ffffff\">You are afflicted by Burn!</color>"
+		"tr_text": "<color=\"#ffffff\">Has sido afectado con Burn!</color>"
 	},
 	{
 		"assign": "player_abnormal_freeze",
 		"jp_text": "<color=\"#ffffff\">ステータスが状態異常「フリーズ」になった。</color>",
-		"tr_text": "<color=\"#ffffff\">You are afflicted by Freeze!</color>"
+		"tr_text": "<color=\"#ffffff\">Has sido afectado con Freeze!</color>"
 	},
 	{
 		"assign": "player_abnormal_shock",
 		"jp_text": "<color=\"#ffffff\">ステータスが状態異常「ショック」になった。</color>",
-		"tr_text": "<color=\"#ffffff\">You are afflicted by Shock!</color>"
+		"tr_text": "<color=\"#ffffff\">Has sido afectado con Shock!</color>"
 	},
 	{
 		"assign": "player_abnormal_mirage",
 		"jp_text": "<color=\"#ffffff\">ステータスが状態異常「ミラージュ」になった。</color>",
-		"tr_text": "<color=\"#ffffff\">You are afflicted by Mirage!</color>"
+		"tr_text": "<color=\"#ffffff\">Has sido afectado con Mirage!</color>"
 	},
 	{
 		"assign": "player_abnormal_poison",
 		"jp_text": "<color=\"#ffffff\">ステータスが状態異常「ポイズン」になった。</color>",
-		"tr_text": "<color=\"#ffffff\">You are afflicted by Poison!</color>"
+		"tr_text": "<color=\"#ffffff\">Has sido afectado con Poison!</color>"
 	},
 	{
 		"assign": "player_abnormal_panic",
 		"jp_text": "<color=\"#ffffff\">ステータスが状態異常「パニック」になった。</color>",
-		"tr_text": "<color=\"#ffffff\">You are afflicted by Panic!</color>"
+		"tr_text": "<color=\"#ffffff\">Has sido afectado con Panic!</color>"
 	},
 	{
 		"assign": "player_abnormal_stan",
 		"jp_text": "<color=\"#ffffff\">ステータスが状態異常「スタン」になった。</color>",
-		"tr_text": "<color=\"#ffffff\">You have been Stunned!</color>"
+		"tr_text": "<color=\"#ffffff\">¡Has quedado aturdido!</color>"
 	},
 	{
 		"assign": "enemy_abnormal_burn",
 		"jp_text": "<color=\"#ffffff\">エネミーが状態異常「バーン」になった。</color>",
-		"tr_text": "<color=\"#ffffff\">Enemy is afflicted with Burn.</color>"
+		"tr_text": "<color=\"#ffffff\">¡El enemigo está afligido con Burn.</color>"
 	},
 	{
 		"assign": "enemy_abnormal_freeze",
 		"jp_text": "<color=\"#ffffff\">エネミーが状態異常「フリーズ」になった。</color>",
-		"tr_text": "<color=\"#ffffff\">Enemy is afflicted with Freeze.</color>"
+		"tr_text": "<color=\"#ffffff\">¡El enemigo está afligido con Freeze.</color>"
 	},
 	{
 		"assign": "enemy_abnormal_shock",
 		"jp_text": "<color=\"#ffffff\">エネミーが状態異常「ショック」になった。</color>",
-		"tr_text": "<color=\"#ffffff\">Enemy is afflicted with Shock.</color>"
+		"tr_text": "<color=\"#ffffff\">¡El enemigo está afligido con Shock.</color>"
 	},
 	{
 		"assign": "enemy_abnormal_mirage",
 		"jp_text": "<color=\"#ffffff\">エネミーが状態異常「ミラージュ」になった。</color>",
-		"tr_text": "<color=\"#ffffff\">Enemy is afflicted with Mirage.</color>"
+		"tr_text": "<color=\"#ffffff\">¡El enemigo está afligido con Mirage.</color>"
 	},
 	{
 		"assign": "enemy_abnormal_poison",
 		"jp_text": "<color=\"#ffffff\">エネミーが状態異常「ポイズン」になった。</color>",
-		"tr_text": "<color=\"#ffffff\">Enemy is afflicted with Poison.</color>"
+		"tr_text": "<color=\"#ffffff\">¡El enemigo está afligido con Poison.</color>"
 	},
 	{
 		"assign": "enemy_abnormal_panic",
 		"jp_text": "<color=\"#ffffff\">エネミーが状態異常「パニック」になった。</color>",
-		"tr_text": "<color=\"#ffffff\">Enemy is afflicted with Panic.</color>"
+		"tr_text": "<color=\"#ffffff\">¡El enemigo está afligido con Panic.</color>"
 	},
 	{
 		"assign": "enemy_abnormal_stan",
 		"jp_text": "<color=\"#ffffff\">エネミーが状態異常「スタン」になった。</color>",
-		"tr_text": "<color=\"#ffffff\">Enemy is Stunned.</color>"
+		"tr_text": "<color=\"#ffffff\">El enemigo esta aturdido.</color>"
 	},
 	{
 		"assign": "player_abnormal_burn_01",
@@ -7437,41 +7437,41 @@
 	{
 		"assign": "time_count_sec",
 		"jp_text": "$（second）秒",
-		"tr_text": "$（second）"
+		"tr_text": "$(segundo)"
 	},
 	{
 		"assign": "time_count",
 		"jp_text": "$（minute）:$（second）",
-		"tr_text": ""
+		"tr_text": "$（minuto）:$（segundo）"
 	},
 	{
 		"assign": "time",
 		"jp_text": "$（hour）時$（minute）分",
-		"tr_text": "$（hour）:$（minute）"
+		"tr_text": "$（hora）:$（minute）"
 	},
 	{
 		"assign": "time_sec",
 		"jp_text": "$（hour）時$（minute）分$（second）秒",
-		"tr_text": "$（hour）:$（minute）:$（second）"
+		"tr_text": "$（hora）:$（minuto）:$（segundo）"
 	},
 	{
 		"assign": "datetime",
 		"jp_text": "$（year）年$（month）月$（day）日$（hour）時$（minute）分",
-		"tr_text": "$（year）/$（month）/$（day） $（hour）:$（minute）"
+		"tr_text": "$（año）/$（mes）/$（día） $（hora）:$（minuto）"
 	},
 	{
 		"assign": "datetime_v",
 		"jp_text": "$（year）/$（month）/$（day） $（hour）:$（minute）",
-		"tr_text": ""
+		"tr_text": "$（año）/$（mes）/$（día） $（hora）:$（minuto）"
 	},
 	{
 		"assign": "datetime_sec",
 		"jp_text": "$（year）年$（month）月$（day）日$（hour）時$（minute）分$（second）秒",
-		"tr_text": "$（year）/$（month）/$（day） $（hour）:$（minute）:$（second）"
+		"tr_text": "$（año）/$（mes）/$（día） $（hora）:$（minuto）:$（segundo）"
 	},
 	{
 		"assign": "datetime_sec_v",
-		"jp_text": "$（year）/$（month）/$（day） $（hour）:$（minute）:$（second）",
+		"jp_text": "$（año）/$（mes）/$（día） $（hora）:$（minuto）:$（segundo）",
 		"tr_text": ""
 	},
 	{
@@ -7482,22 +7482,22 @@
 	{
 		"assign": "period",
 		"jp_text": "$（hour）時間$（minute）分",
-		"tr_text": "$（hour）:$（minute）"
+		"tr_text": "$（hora）:$（minuto）"
 	},
 	{
 		"assign": "period_min",
 		"jp_text": "$（minute）分間",
-		"tr_text": "$（minute）"
+		"tr_text": "$（minuto）"
 	},
 	{
 		"assign": "leave_hour",
 		"jp_text": "$（hour）時間$（minute）分",
-		"tr_text": "$（hour）:$（minute）"
+		"tr_text": "$（hora）:$（minuto）"
 	},
 	{
 		"assign": "leave_min",
 		"jp_text": "$（minute）分",
-		"tr_text": "$（minute）"
+		"tr_text": "$（minuto）"
 	},
 	{
 		"assign": "tips_now_loading",
@@ -7572,7 +7572,7 @@
 	{
 		"assign": "possess_num",
 		"jp_text": "所持数",
-		"tr_text": "Held"
+		"tr_text": "Ayuda"
 	},
 	{
 		"assign": "storage_num",
@@ -7582,7 +7582,7 @@
 	{
 		"assign": "rearrange",
 		"jp_text": "並び替え",
-		"tr_text": "Sort"
+		"tr_text": "Ordenar"
 	},
 	{
 		"assign": "equip_hp",
@@ -7602,7 +7602,7 @@
 	{
 		"assign": "costume_select",
 		"jp_text": "コスチューム選択",
-		"tr_text": "Costume"
+		"tr_text": "Traje"
 	},
 	{
 		"assign": "parts_body_select",
@@ -7637,7 +7637,7 @@
 	{
 		"assign": "chipequip_cost",
 		"jp_text": "コスト",
-		"tr_text": "Cost"
+		"tr_text": "Costo"
 	},
 	{
 		"assign": "chipequip_chip_lv",
@@ -7657,7 +7657,7 @@
 	{
 		"assign": "chipequip_classbonus",
 		"jp_text": "クラスボーナス",
-		"tr_text": "Class bonus"
+		"tr_text": "Clase bonus"
 	},
 	{
 		"assign": "chipequip_ability",
@@ -7667,7 +7667,7 @@
 	{
 		"assign": "chipequip_effect",
 		"jp_text": "効果説明     <color=\"#688ca7\">/</color> {0}",
-		"tr_text": "Effect     <color=\"#688ca7\">/</color> {0}"
+		"tr_text": "Efecto     <color=\"#688ca7\">/</color> {0}"
 	},
 	{
 		"assign": "chipequip_ability_lv",
@@ -7692,27 +7692,27 @@
 	{
 		"assign": "chipequip_next_lv",
 		"jp_text": "次のレベルまで",
-		"tr_text": "To next Lv."
+		"tr_text": "Al proximo Lv."
 	},
 	{
 		"assign": "chipequip_limit",
 		"jp_text": "限定",
-		"tr_text": "Limit"
+		"tr_text": "Limite"
 	},
 	{
 		"assign": "chip_type_active",
 		"jp_text": "アクティブ",
-		"tr_text": "Active"
+		"tr_text": "Activo"
 	},
 	{
 		"assign": "chip_type_support",
 		"jp_text": "サポート",
-		"tr_text": "Support"
+		"tr_text": "Apoyo"
 	},
 	{
 		"assign": "chip_type_name_1",
 		"jp_text": "キャラクター",
-		"tr_text": "Character"
+		"tr_text": "Personaje"
 	},
 	{
 		"assign": "chip_type_name_2",
@@ -7752,7 +7752,7 @@
 	{
 		"assign": "chip_type_name_9",
 		"jp_text": "超時空エネミー",
-		"tr_text": "Dimensional Enemy"
+		"tr_text": "Enemigo dimensional"
 	},
 	{
 		"assign": "chip_type_name_10",
@@ -8607,7 +8607,7 @@
 	{
 		"assign": "item_grind_detail_menu",
 		"jp_text": "アイテム詳細",
-		"tr_text": "Item details"
+		"tr_text": "Detalles de objetos"
 	},
 	{
 		"assign": "item_grind_option_menu",
@@ -9062,7 +9062,7 @@
 	{
 		"assign": "lobby_support_body",
 		"jp_text": "「{0}」さんなどの\nクエストに同行した報酬が届いています。\n\n同行回数　<color=#f0df60>{1}回</color>\n<color=#f0df60>{2}FUN</color>を獲得しました！\n\n<size=19>※前回のログインから現時点までの獲得合計を表示しています。</size>",
-		"tr_text": "「{0}」 used your\nFriend Partner for a quest.\n\nTimes used: <color=#f0df60>{1}</color>\n<color=#f0df60>{2} FUN</color> was awarded!\n\n<size=19>※Displaying the previous total from the last login session.</size>"
+		"tr_text": "「{0}」 Te usó \ncomo compañero para una misión.\n\nVeses: <color=#f0df60>{1}</color>\nObtienes<color=#f0df60>{2} FUN</color>!\n\n<size=19>※Mostrando el total anterior de la\núltima sesión de inicio de sesión</size>"
 	},
 	{
 		"assign": "lobby_charainfo_lv",
@@ -9072,7 +9072,7 @@
 	{
 		"assign": "lobby_buff_dialog_t",
 		"jp_text": "発生中の効果一覧",
-		"tr_text": "Effect "
+		"tr_text": "Efecto "
 	},
 	{
 		"assign": "menu_charainfo_lv",
@@ -9092,12 +9092,12 @@
 	{
 		"assign": "menu_charainfo_premium_unused",
 		"jp_text": "未使用",
-		"tr_text": "Unused"
+		"tr_text": "No usado"
 	},
 	{
 		"assign": "menu_charainfo_premium_expired",
 		"jp_text": "期限切れ",
-		"tr_text": "Expired"
+		"tr_text": "Vencido"
 	},
 	{
 		"assign": "menu_charainfo_drive",
@@ -9112,12 +9112,12 @@
 	{
 		"assign": "menu_charainfo_label_charaname",
 		"jp_text": "キャラクター名",
-		"tr_text": "Character Name"
+		"tr_text": "Nombre del personaje"
 	},
 	{
 		"assign": "menu_charainfo_label_id",
 		"jp_text": "プレイヤーIDネーム",
-		"tr_text": "Player ID Name"
+		"tr_text": "Player ID"
 	},
 	{
 		"assign": "menu_charainfo_label_drive",
@@ -9692,7 +9692,7 @@
 	{
 		"assign": "community_mail",
 		"jp_text": "メール",
-		"tr_text": "Mail"
+		"tr_text": "Correo"
 	},
 	{
 		"assign": "community_friend",
@@ -14552,12 +14552,12 @@
 	{
 		"assign": "quest_final_check_friend",
 		"jp_text": "<color=#fffa00>フレンド</color>",
-		"tr_text": "<color=#fffa00>Friend</color>"
+		"tr_text": "<color=#fffa00>Amigo</color>"
 	},
 	{
 		"assign": "quest_final_check_guest",
 		"jp_text": "ゲスト",
-		"tr_text": "Guest"
+		"tr_text": "Invitado"
 	},
 	{
 		"assign": "quest_final_check_equip",
@@ -14567,32 +14567,32 @@
 	{
 		"assign": "menu_invite_title",
 		"jp_text": "友達招待",
-		"tr_text": "Friend Referral"
+		"tr_text": "Invita amigos"
 	},
 	{
 		"assign": "menu_invite_guide",
 		"jp_text": "<color=#f0df60>『ＰＳＯ２ｅｓ』を新しくプレイし始めるお友達に、あなたのコードを教えてプレゼントを獲得しましょう！</color>",
-		"tr_text": "<color=#f0df60>You can give new players of PSO2es your referral code!</color>"
+		"tr_text": "<color=#f0df60>¡Puede darles a los nuevos jugadores de PSO2es su código de referencia!</color>"
 	},
 	{
 		"assign": "menu_invite_explain",
 		"jp_text": "<color=#ffff00>招待コードをお友達に教えよう！</color>",
-		"tr_text": "<color=#ffff00>You can give a referral code to your friends</color>"
+		"tr_text": "<color=#ffff00>Puedes dar un código de referencia a tus amigos</color>"
 	},
 	{
 		"assign": "menu_invite_player_code",
 		"jp_text": "あなたの招待コード",
-		"tr_text": "Your Referral Code"
+		"tr_text": "Su código de referencia"
 	},
 	{
 		"assign": "menu_invite_clipboard",
 		"jp_text": "コピー",
-		"tr_text": "Copy"
+		"tr_text": "Copiar"
 	},
 	{
 		"assign": "menu_invite_paste",
 		"jp_text": "貼る",
-		"tr_text": "Paste"
+		"tr_text": "Pegar"
 	},
 	{
 		"assign": "menu_invite_tab_input_title",
@@ -14607,12 +14607,12 @@
 	{
 		"assign": "menu_invite_tab_input_explain",
 		"jp_text": "<color=#ffff00>お友達のコードを入力してプレゼントを獲得！</color>",
-		"tr_text": "<color=#ffff00>By entering a referral code, uou can receive a gift from friends!</color>"
+		"tr_text": "<color=#ffff00>¡Al ingresar un código de referencia, puede recibir un regalo de amigos!</color>"
 	},
 	{
 		"assign": "menu_invite_tab_input_code",
 		"jp_text": "お友達の招待コード\n（１回のみ入力可能）",
-		"tr_text": "Friend Referral Code (Only one can be used)"
+		"tr_text": "Código de referencia de amigo (solo se puede usar uno)"
 	},
 	{
 		"assign": "menu_invite_tab_input_reward",
@@ -14627,7 +14627,7 @@
 	{
 		"assign": "menu_invite_tab_reward_title",
 		"jp_text": "招待報酬",
-		"tr_text": "Referral Rewards"
+		"tr_text": "Recompensas de recomendación"
 	},
 	{
 		"assign": "menu_invite_tab_reward_explain",
@@ -14647,12 +14647,12 @@
 	{
 		"assign": "menu_invite_tab_reward_next_condition",
 		"jp_text": "<color=#ffff00>次の報酬まであと {0} 人！</color>",
-		"tr_text": "<color=#ffff00>{0} more untill next reward!</color>"
+		"tr_text": "<color=#ffff00>{0} Hasta la próxima recompensa!</color>"
 	},
 	{
 		"assign": "menu_invite_reward_list_title_input",
 		"jp_text": "招待コード入力で手に入るプレゼント一覧",
-		"tr_text": ""
+		"tr_text": "Lista de regalos disponibles para ingresar un código de invitación"
 	},
 	{
 		"assign": "menu_invite_reward_list_title_invite",
@@ -16477,7 +16477,7 @@
 	{
 		"assign": "lobby_help_etc",
 		"jp_text": "その他",
-		"tr_text": "Other"
+		"tr_text": "Otro"
 	},
 	{
 		"assign": "lookback_event_title",
@@ -16612,7 +16612,7 @@
 	{
 		"assign": "sort_other",
 		"jp_text": "その他",
-		"tr_text": "Other"
+		"tr_text": "Otro"
 	},
 	{
 		"assign": "sort_category",
