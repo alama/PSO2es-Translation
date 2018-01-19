@@ -4878,7 +4878,7 @@
 	{
 		"assign": "myshop_sales_window_title",
 		"jp_text": "売り上げ確認",
-		"tr_text": "Sell Items"
+		"tr_text": "Vender"
 	},
 	{
 		"assign": "myshop_sales_tab_1",
@@ -4893,12 +4893,12 @@
 	{
 		"assign": "myshop_sales_tab_3",
 		"jp_text": "回収状況",
-		"tr_text": "Collections"
+		"tr_text": "Colecciones"
 	},
 	{
 		"assign": "myshop_sales_collect_true",
 		"jp_text": "回収済み",
-		"tr_text": "Collected"
+		"tr_text": "Coleccionado"
 	},
 	{
 		"assign": "myshop_sales_collect_false",
@@ -4923,7 +4923,7 @@
 	{
 		"assign": "myshop_history_title",
 		"jp_text": "検索履歴",
-		"tr_text": "History"
+		"tr_text": "Historia"
 	},
 	{
 		"assign": "myshop_history_date",
@@ -5268,7 +5268,7 @@
 	{
 		"assign": "quest_counter_label_weakpoint",
 		"jp_text": "有効属性予想",
-		"tr_text": "Weakness"
+		"tr_text": "Debilidad"
 	},
 	{
 		"assign": "quest_counter_window_questinfo",
@@ -7523,7 +7523,7 @@
 	{
 		"assign": "player_attack_status",
 		"jp_text": "プレイヤー攻撃ステータス",
-		"tr_text": "Player Status"
+		"tr_text": "Estado del jugador"
 	},
 	{
 		"assign": "total_chip_cost",
@@ -7593,7 +7593,7 @@
 	{
 		"assign": "equip_defaultcp",
 		"jp_text": "初期CP",
-		"tr_text": "Initial CP"
+		"tr_text": "CP Inicial"
 	},
 	{
 		"assign": "weapon_select",
@@ -7768,7 +7768,7 @@
 	{
 		"assign": "chip_type_name_12",
 		"jp_text": "ヒストリー",
-		"tr_text": "History"
+		"tr_text": "Historia"
 	},
 	{
 		"assign": "chip_type_name_weaponoid",
@@ -7833,7 +7833,7 @@
 	{
 		"assign": "chipequip_chip_detail",
 		"jp_text": "チップ詳細",
-		"tr_text": "Chip Details"
+		"tr_text": "Detalles del Chip"
 	},
 	{
 		"assign": "equip_return_lobby",
@@ -8013,27 +8013,27 @@
 	{
 		"assign": "view_weapon_name",
 		"jp_text": "武器名表示",
-		"tr_text": "Show Names"
+		"tr_text": "Mostrar nombres"
 	},
 	{
 		"assign": "view_unit_name",
 		"jp_text": "ユニット名表示",
-		"tr_text": "Show Names"
+		"tr_text": "Mostrar nombres"
 	},
 	{
 		"assign": "player_status",
 		"jp_text": "プレイヤーステータス",
-		"tr_text": "Player Status"
+		"tr_text": "Estado del jugador"
 	},
 	{
 		"assign": "illustrator_label",
 		"jp_text": "illustrated by",
-		"tr_text": "Illustrated by"
+		"tr_text": "Ilustrado por"
 	},
 	{
 		"assign": "cv_label",
 		"jp_text": "character voice",
-		"tr_text": "Voiced by"
+		"tr_text": "Expresado por"
 	},
 	{
 		"assign": "release_gauge",
@@ -8053,12 +8053,12 @@
 	{
 		"assign": "guard_equip",
 		"jp_text": "コスチューム",
-		"tr_text": "Costume"
+		"tr_text": "Traje"
 	},
 	{
 		"assign": "player_guard_status",
 		"jp_text": "プレイヤー防御ステータス",
-		"tr_text": "Protection Status"
+		"tr_text": "Estatus de Protección"
 	},
 	{
 		"assign": "guard_palette",
@@ -8078,7 +8078,7 @@
 	{
 		"assign": "costume_palette_title",
 		"jp_text": "コスチューム",
-		"tr_text": "Costume"
+		"tr_text": "Traje"
 	},
 	{
 		"assign": "outer_palette_title",
@@ -8113,7 +8113,7 @@
 	{
 		"assign": "item_sale",
 		"jp_text": "アイテム売却／交換",
-		"tr_text": "Sell items"
+		"tr_text": "Vender"
 	},
 	{
 		"assign": "item_sale_button",
@@ -9218,7 +9218,7 @@
 	{
 		"assign": "menu_shop_mshop",
 		"jp_text": "売却／交換",
-		"tr_text": "Sell items"
+		"tr_text": "Vender"
 	},
 	{
 		"assign": "menu_shop_acshop",
@@ -9228,12 +9228,12 @@
 	{
 		"assign": "menu_equip_title",
 		"jp_text": "編成メニュー",
-		"tr_text": "Equipment menu"
+		"tr_text": "Menú del equipo"
 	},
 	{
 		"assign": "menu_sale_title",
 		"jp_text": "売却メニュー",
-		"tr_text": "Sell Menu"
+		"tr_text": "Menu de ventas"
 	},
 	{
 		"assign": "menu_equip_weapon",
@@ -9243,7 +9243,7 @@
 	{
 		"assign": "menu_equip_guard",
 		"jp_text": "コスチューム",
-		"tr_text": "Costume"
+		"tr_text": "Traje"
 	},
 	{
 		"assign": "menu_equip_class",
@@ -9253,7 +9253,7 @@
 	{
 		"assign": "menu_sale_button",
 		"jp_text": "売却",
-		"tr_text": "Sell"
+		"tr_text": "Vender"
 	},
 	{
 		"assign": "caption_equip",
@@ -9528,7 +9528,7 @@
 	{
 		"assign": "sell",
 		"jp_text": "売却",
-		"tr_text": "Sell"
+		"tr_text": "Vender"
 	},
 	{
 		"assign": "chip_over_num",
@@ -13713,7 +13713,7 @@
 	{
 		"assign": "botton_yes",
 		"jp_text": "はい",
-		"tr_text": "Yes"
+		"tr_text": "Si"
 	},
 	{
 		"assign": "botton_no",
@@ -15358,7 +15358,7 @@
 	{
 		"assign": "depot_take_button",
 		"jp_text": "取り出す",
-		"tr_text": "Retrieve"
+		"tr_text": "Recuperar"
 	},
 	{
 		"assign": "depot_dialog_title",
@@ -17968,7 +17968,7 @@
 	{
 		"assign": "acceptbox_window_sale_tab_title",
 		"jp_text": "売却",
-		"tr_text": "Sell"
+		"tr_text": "Vender"
 	},
 	{
 		"assign": "acceptbox_no_sale_item",
@@ -17978,7 +17978,7 @@
 	{
 		"assign": "acceptbox_sale_successed_dialog_title",
 		"jp_text": "アイテムを売却",
-		"tr_text": "Sell Items"
+		"tr_text": "Vender"
 	},
 	{
 		"assign": "acceptbox_sale_successed_dialog_text",
@@ -17988,7 +17988,7 @@
 	{
 		"assign": "acceptbox_sale_rare_warning_dialog_title",
 		"jp_text": "アイテムを売却",
-		"tr_text": "Sell Items"
+		"tr_text": "Vender"
 	},
 	{
 		"assign": "acceptbox_sale_rare_warning_dialog_text",
@@ -17998,7 +17998,7 @@
 	{
 		"assign": "acceptbox_sale_stargem_warning_dialog_title",
 		"jp_text": "アイテムを売却",
-		"tr_text": "Sell Items"
+		"tr_text": "Vender"
 	},
 	{
 		"assign": "acceptbox_sale_stargem_warning_dialog_text",
@@ -18148,7 +18148,7 @@
 	{
 		"assign": "photondice_doubleup_dialog_b_01",
 		"jp_text": "獲得LCを賭けてダブルアップに挑戦しますか？",
-		"tr_text": "¿Quieres desafiar por el doble por la adquisición de apuestas LC?"
+		"tr_text": "¿Quieres desafiar por el doble por la adquisición de\napuestas LC?"
 	},
 	{
 		"assign": "photondice_doubleup_dialog_b_02",
@@ -18388,7 +18388,7 @@
 	{
 		"assign": "quest_linkskill_week_element",
 		"jp_text": "有効属性予想",
-		"tr_text": "Weakness"
+		"tr_text": "Debilidad"
 	},
 	{
 		"assign": "quest_lobby_guide_01",
@@ -18813,7 +18813,7 @@
 	{
 		"assign": "towerquest_fp_weakpoint_title",
 		"jp_text": "弱点属性",
-		"tr_text": "Weakness"
+		"tr_text": "Debilidad"
 	},
 	{
 		"assign": "towerquest_top_floor_unit",
