@@ -3417,7 +3417,7 @@
 	{
 		"assign": "myshop_dialog_t_06",
 		"jp_text": "商品検索",
-		"tr_text": Buscar
+		"tr_text": "Buscar"
 	},
 	{
 		"assign": "myshop_dialog_b_06",
