@@ -367,8 +367,7 @@
 	{
 		"assign": "acshop_dialog_t_22",
 		"jp_text": "年齢認証",
-		"tr_text": "Verificación de edad
-"
+		"tr_text": "Verificación de edad"
 	},
 	{
 		"assign": "acshop_dialog_b_22",
