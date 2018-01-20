@@ -1166,7 +1166,7 @@
 		"jp_text": "ギ・バータ",
 		"tr_text": "Gibarta",
 		"jp_explain": "中級の氷属性テクニック。\nフォトンを媒介に、大気を急速冷却し\n前方広範囲に氷の礫を発生させる。",
-		"tr_explain": "Técnica de hielo intermedio.\nEnfría rápidamente la atmósfera,\nproduciendo metralla helada en el frente."
+		"tr_explain": "Técnica de hielo intermedio. Enfría\nrápidamente la atmósfera,\nproduciendo metralla helada en el\nfrente."
 	},
 	{
 		"assign": "Ice03",
