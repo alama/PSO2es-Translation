@@ -3378,14 +3378,14 @@
 		"jp_explainShort": "攻撃力が極度に増加＋光属性上限上昇",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 攻撃力を極度に増加する。\n② リンクスロットに装備したチップの属性が\n　　 光属性の場合、光属性の上限値が上昇する。\n③ このチップを装備中は光属性の必殺技・法術の\n　　 チップコストが減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": Los JA activan un efecto que aumenta el ataque\na niveles extremos. Cuando un chip elemental de\nLuz está equipado en la ranura de enlace, su límite\nelemental de Luz aumentará. Reduce los costos\nde chips de Light PA/Techniques cuando este chip\nestá equipado.\n<color=yellow>[E-Frame]</color>"
+		"tr_explainLong": "Los JA activan un efecto que aumenta el ataque\na niveles extremos. Cuando un chip elemental de\nLuz está equipado en la ranura de enlace, su límite\nelemental de Luz aumentará. Reduce los costos\nde chips de Light PA/Techniques cuando este chip\nestá equipado.\n<color=yellow>[E-Frame]</color>"
 	},
 	{
 		"assign": "31560",
 		"jp_explainShort": "攻撃力が極度に増加＋光属性上限上昇",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 攻撃力を極度に増加する。\n② リンクスロットに装備したチップの属性が\n　　 光属性の場合、光属性の上限値が上昇する。\n③ このチップを装備中は光属性の必殺技・法術の\n　　 チップコストが減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": Los JA activan un efecto que aumenta el ataque\na niveles extremos. Cuando un chip elemental de\nLuz está equipado en la ranura de enlace, su límite\nelemental de Luz aumentará. Reduce los costos\nde chips de Light PA/Techniques cuando este chip\nestá equipado.\n<color=yellow>[E-Frame]</color>"
+		"tr_explainLong": "Los JA activan un efecto que aumenta el ataque\na niveles extremos. Cuando un chip elemental de\nLuz está equipado en la ranura de enlace, su límite\nelemental de Luz aumentará. Reduce los costos\nde chips de Light PA/Techniques cuando este chip\nestá equipado.\n<color=yellow>[E-Frame]</color>"
 	},
 	{
 		"assign": "31561",
