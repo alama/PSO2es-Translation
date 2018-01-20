@@ -3132,17 +3132,17 @@
 	{
 		"assign": "mail_dialog_t_00",
 		"jp_text": "メール削除",
-		"tr_text": "Delete Mail"
+		"tr_text": "Borrar correo"
 	},
 	{
 		"assign": "mail_dialog_b_00",
 		"jp_text": "このメールを削除しますか？",
-		"tr_text": "Are you sure you want to Delete?"
+		"tr_text": "¿Estas seguro que quieres borrarlo?"
 	},
 	{
 		"assign": "mail_dialog_t_01",
 		"jp_text": "アイテム受け取り",
-		"tr_text": "Receive Items"
+		"tr_text": "Recibir obj"
 	},
 	{
 		"assign": "mail_dialog_b_01",
@@ -3152,7 +3152,7 @@
 	{
 		"assign": "mail_dialog_t_02",
 		"jp_text": "アイテム受け取り",
-		"tr_text": "Receive Items"
+		"tr_text": "Recibir obj"
 	},
 	{
 		"assign": "mail_dialog_b_02",
@@ -9012,7 +9012,7 @@
 	{
 		"assign": "loginbonus_end",
 		"jp_text": "を獲得しました。",
-		"tr_text": "received."
+		"tr_text": "recibido."
 	},
 	{
 		"assign": "loginbonus_account_begin",
@@ -9037,22 +9037,22 @@
 	{
 		"assign": "loginbonus_first_message",
 		"jp_text": "<color=#000000>今日もはりきって行きましょうね！</color>",
-		"tr_text": "<color=#000000>Let's do our best today!</color>"
+		"tr_text": "<color=#000000>Vamos a hacer nuestro mejor hoy!</color>"
 	},
 	{
 		"assign": "loginbonus_selafy_next",
 		"jp_text": "<color=#000000>明日も待ってます！</color>",
-		"tr_text": "<color=#000000>I'll be waiting tomorrow!</color>"
+		"tr_text": "<color=#000000>¡Estaré esperando mañana!</color>"
 	},
 	{
 		"assign": "loginbonus_selafy_complete",
 		"jp_text": "<color=#000000>リーダー、おめでとうございます！</color>",
-		"tr_text": "<color=#000000>Leader, congratulations!</color>"
+		"tr_text": "<color=#000000>Líder, ¡felicidades!</color>"
 	},
 	{
 		"assign": "loginbonus_premium_warning",
 		"jp_text": "※ボーナス獲得時にプレミアム期間内であった場合適用されます。",
-		"tr_text": "※Applied during when premium is active."
+		"tr_text": "※Aplica cuando tienes premium activo."
 	},
 	{
 		"assign": "lobby_support_title",
@@ -11467,72 +11467,72 @@
 	{
 		"assign": "ef_0001_n00_b",
 		"jp_text": "<color=black>森林エリアの探索任務\nおつかれさまでした！</color>",
-		"tr_text": "<color=black>The mission in the forest was completed.\nGood Work!</color>"
+		"tr_text": "<color=black>La misión en el bosque se completó.\n¡Buen trabajo!</color>"
 	},
 	{
 		"assign": "ef_0001_n01_b",
 		"jp_text": "<color=black>ひとつ、ニュースがあります。\nあなたが探索したエリアから\n旧式の「メッセージパック」が\n発見されました。</color>",
-		"tr_text": "<color=black>In the area you searched,\nthere was an old message\npack that was discovered.</color>"
+		"tr_text": "<color=black>En el area que ha buscado,\nhabía un viejo paquete de mensaje\nque fue descubierto.</color>"
 	},
 	{
 		"assign": "ef_0001_n02_b",
 		"jp_text": "<color=black>メッセージパックとは\nアークスの支援のために\nフィールドに配置される\n情報装置なのですが……</color>",
-		"tr_text": "<color=black>Message Packs support\nARKS members when they're\nin the field...</color>"
+		"tr_text": "<color=black>Los paquetes de mensajes son \nherramientas de apoyo informativo\npara los ARKS y se encuentran en\nel campo de batalla...</color>"
 	},
 	{
 		"assign": "ef_0001_n03_b",
 		"jp_text": "<color=black>今回発見されたメッセージパックは\n数年前に使われていた\n旧式のものとのことです。\nもしかしたら、遭難者が残した\nものかもしれませんね……</color>",
-		"tr_text": "<color=black>We've discovered that this\nmessage pack was last\nused years ago.\nPerhaps a lone survivor lost...</color>"
+		"tr_text": "<color=black>Descubrimos que este paquete de\nmensajes se usó por última vez hace años.\nTal vez un único sobreviviente perdido...</color>"
 	},
 	{
 		"assign": "ef_0001_n04_b",
 		"jp_text": "<color=black>メッセージパックについては\n現在、データを解析中です。\n新しい情報が入ったら\nお伝えしますね。</color>",
-		"tr_text": "<color=black>We're still analyzing\nthe message pack.\nWe'll keep you updated.</color>"
+		"tr_text": "<color=black>Todavía estamos analizando\nel paquete de mensajes.\nTe mantendremos actualizado</color>"
 	},
 	{
 		"assign": "ef_0001_n05_b",
 		"jp_text": "<color=black>さて、それでは次の任務です。\n「惑星アムドゥスキア」の\n「火山洞窟」エリアの探索を\nお願いします。</color>",
-		"tr_text": "<color=black>Next area is \"Amduscia\".\nYou'll be searching in\nthe volcanic caverns.</color>"
+		"tr_text": "<color=black>La siguiente área es Amduscia.\nEstarás buscando en las cuevas\nvolcánicas.</color>"
 	},
 	{
 		"assign": "ef_0001_n06_b",
 		"jp_text": "<color=black>アムドゥスキアは、火山活動が活発な惑星です。\n「龍族」と呼ばれる生物がすんでいるのですが\n龍族の一部も、何らかの理由で凶暴化しています。</color>",
-		"tr_text": "<color=black>Amduscia is an Active Volcanic Planet.\nBut there's local inhabitants\ncalled Dragonkin, they're a bit barbaric.</color>"
+		"tr_text": "<color=black>Amduscia es un planeta volcánico activo.\nPero hay habitantes locales llamados\nDragonkin, son un poco bárbaros.</color>"
 	},
 	{
 		"assign": "ef_0001_n07_b",
 		"jp_text": "<color=black>火山洞窟エリアを探索しつつ\n立ちふさがる凶暴化した龍族については\n交渉の余地がありませんので\nやむを得ないですが、倒してください。</color>",
-		"tr_text": "<color=black>While searching, please be careful.\nThe Dragonkin are known to be\naggressive, and refused formal negotiations.\nAttack only when attacked.</color>"
+		"tr_text": "<color=black>Mientras busca, tenga cuidado.\nSe sabe que los Dragonkin son\nagresivos y rechazan las negociaciones\nformales. Ataque solo cuando es atacado.</color>"
 	},
 	{
 		"assign": "ef_0001_n08_b",
 		"jp_text": "<color=black>龍族のエネミーの弱点は「氷」属性です。\nチップを氷属性のチップに装備変更しておくと\n戦いが楽になりますよ。\nでは、健闘を祈っています！</color>",
-		"tr_text": "<color=black>However, they're weak to ice.\nIf you have an ice weapon or chip,\nplease use them.\nGood luck out there!</color>"
+		"tr_text": "<color=black>Sin embargo, son débiles al hielo.\nSi tienes un arma de hielo o un chip,\núsalas. ¡Buena suerte!</color>"
 	},
 	{
 		"assign": "ef_0002_n00_b",
 		"jp_text": "<color=black>火山洞窟エリアの探索\nおつかれさまでした。</color>",
-		"tr_text": "<color=black>The mission in the caves\nwas completed.\nGood Work!</color>"
+		"tr_text": "<color=black>La misión en la cueva se completó.\n¡Buen trabajo!</color>"
 	},
 	{
 		"assign": "ef_0002_n01_b",
 		"jp_text": "<color=black>ひとつ、新しい情報があります。\n以前、あなたがナベリウスの\n森林エリアで発見した\n旧式のメッセージパックですが……</color>",
-		"tr_text": "<color=black>There is new information\nreguarding the message pack you\nfound back in Naberius....</color>"
+		"tr_text": "<color=black>Hay nueva información sobre\nel paquete de mensajes que\nencontraste en Naberius....</color>"
 	},
 	{
 		"assign": "ef_0002_n02_b",
 		"jp_text": "<color=black>４年前、探索任務中に消息を絶った\n「コーエン博士」が残したものだと\nいうことがわかりました……</color>",
-		"tr_text": "<color=black>It reported about the\ndisappearance of Dr. Cohen 4 years ago...</color>"
+		"tr_text": "<color=black>Informó sobre la desaparición del Dr.\nCohen hace 4 años...</color>"
 	},
 	{
 		"assign": "ef_0002_n03_b",
 		"jp_text": "<color=black>コーエン博士は\n「チップ」システムを開発した\nアークスでも有数の\n優秀な技術者でした。</color>",
-		"tr_text": "<color=black>Dr. Cohen developed the Chip System.\nHe was a brilliant scientist\nwithin ARKS.</color>"
+		"tr_text": "<color=black>El Dr. Cohen desarrolló el Sistema de Chip.\nEra un brillante científico dentro de ARKS.</color>"
 	},
 	{
 		"assign": "ef_0002_n04_b",
 		"jp_text": "<color=black>メッセージパックには\n「ナベリウスの凍土地帯に向かう」\nという博士のメッセージが\n残されていたとのことです……</color>",
-		"tr_text": "<color=black>The message pack read\n\"I am headed to the Tundra\narea of Naberius. - Dr. Cohen.\" </color>"
+		"tr_text": "<color=black>El mensajes leído decia:\nme dirijo a la zona de Tundra de Naberius\nDr. Cohen. </color>"
 	},
 	{
 		"assign": "ef_0002_n05_b",
@@ -11542,177 +11542,177 @@
 	{
 		"assign": "ef_0002_n06_b",
 		"jp_text": "<color=black>あっ、ごめんなさい。\n説明の途中でしたね。\nちょっと別なことを考えてました……\n失礼しました。</color>",
-		"tr_text": "<color=black>I'm sorry.\nIn the middle of the description,\nI was thinking of something else.\nPardon me.</color>"
+		"tr_text": "<color=black>Lo siento.\nEn el medio de la descripción,\nEstaba pensando en otra cosa.\nPerdóname.</color>"
 	},
 	{
 		"assign": "ef_0002_n07_b",
 		"jp_text": "<color=black>今回の任務は\n博士の手がかりを追って\n惑星ナベリウスの「凍土」エリアを\n探索していただきます。</color>",
-		"tr_text": "<color=black>Your new mission is to search\nfor the whereabouts of Dr. Cohen.\nStarting from the Tundra.</color>"
+		"tr_text": "<color=black>Tu nueva misión es buscar el\nparadero del Dr. Cohen. en Tundra.</color>"
 	},
 	{
 		"assign": "ef_0002_n08_b",
 		"jp_text": "<color=black>ナベリウスの凍土エリアは、雪と氷に閉ざされており\n森林エリアと同様に原生種が棲息しています。\n弱点も、同じく「炎」属性です。</color>",
-		"tr_text": "<color=black>The Tundra area was closed off due\nto the Ice and Snow.\nThe wildife adapted to this climate,\nbut share weakness of Fire.</color>"
+		"tr_text": "<color=black>El área de Tundra esta bloqueado\ndebido al hielo y la nieve.\nLa vida silvestre se adapta a este clima,\npero comparte la debilidad del Fuego.</color>"
 	},
 	{
 		"assign": "ef_0002_n09_b",
 		"jp_text": "<color=black>強力なエネミーの出現情報も寄せられています。\nチップを炎属性に装備変更するなど\n準備は万全にしていってくださいね。</color>",
-		"tr_text": "<color=black>The appearance of a powerful eneny\nhas been confirmed.\nPlease equip Fire chips\nwhen possible.</color>"
+		"tr_text": "<color=black>Ha sido confirmada la presencia\nde un poderoso enemigo.\nPor favor, equipe chips de fuego\ncuando sea posible.</color>"
 	},
 	{
 		"assign": "ef_0002_n10_b",
 		"jp_text": "<color=black>そして……コーエン博士の情報が見つかることも\n祈っています！\nがんばってくださいね！　待ってます！</color>",
-		"tr_text": "<color=black>As you search, I hope you'll find\nmore info on Dr. Cohen's whereabouts.\nGood luck and do your best!</color>"
+		"tr_text": "<color=black>Mientras busca, espero que encuentre\nmás información sobre el paradero\ndel Dr. Cohen.\n¡Buena suerte y haz tu mejor esfuerzo!</color>"
 	},
 	{
 		"assign": "ef_0003_n00_b",
 		"jp_text": "<color=black>大変です！\nアークスシップの市街地エリアに\n「ダーカー」の侵入警報が発令されました！</color>",
-		"tr_text": "<color=black>Alert!\nDarkers have invaded the\nARKS Ship's  \"Urban Area\", </color><color=red>slaughter them all!</color>"
+		"tr_text": "<color=black>Alert!\n¡Los Darkers han invadido el\nÁrea urbana de la ARKS Ship,\n</color><color=red>¡Masacren a todos!</color>"
 	},
 	{
 		"assign": "ef_0003_n01_b",
 		"jp_text": "<color=black>アークスシップは、われわれが暮らす母船ですが\nその一部の市街地エリアに\nダーカーが侵入した模様です。</color>",
-		"tr_text": "<color=black>The ARKS Ship is a mothership we live in.\nThe city district is where\nthe Darkers invaded.</color>"
+		"tr_text": "<color=black>La nave ARKS es la nave nodriza\nen la que vivimos, el distrito de la ciudad\nes donde los Darkers invadieron.</color>"
 	},
 	{
 		"assign": "ef_0003_n02_b",
 		"jp_text": "<color=black>ダーカーは、宇宙の至るところに現れる\n正体不明のエネミーです。\nさまざまな種類が確認されていますが\nおおむねどの種も黒色の体を持っているようです。</color>",
-		"tr_text": "<color=black>Darkers, they appear everywhere\nin the universe.\nWe don't know their origins,\nbut we have identified several types.</color>"
+		"tr_text": "<color=black>Los Darkers aparecen por todas\n partes del universo.\nNo conocemos sus orígenes,\npero hemos identificado varios tipos.</color>"
 	},
 	{
 		"assign": "ef_0003_n03_b",
 		"jp_text": "<color=black>今回侵入を許したのは、蟲系のダーカーで\n弱点は「炎」「光」属性が有効です。\n戦う前に、チップ装備の確認をお忘れなく！</color>",
-		"tr_text": "<color=black>We identified the Darker type as Insectoid.\nWeak to Light and Fire, ensure you\nhave equipped the right chips!</color>"
+		"tr_text": "<color=black>Identificamos Darker tipo Insectoide.\nque es débil a la luz y al fuego,\n¡asegúrese de haber equipado\nlos chips adecuados!</color>"
 	},
 	{
 		"assign": "ef_0003_n04_b",
 		"jp_text": "<color=black>それでは、至急市街地エリアに向かい\nダーカーたちを撃退してきてください！</color>",
-		"tr_text": "<color=black>Now go towards the Urban Area\nand repel the Darkers!</color>"
+		"tr_text": "<color=black>Ahora ve hacia el Área Urbana\ny repele a los Darkers.</color>"
 	},
 	{
 		"assign": "ef_0004_n00_b",
 		"jp_text": "<color=black>おめでとうございます！\nこれまでの活躍が認められ\nより難易度の高い、★３クエストの\n任務が解放されました！</color>",
-		"tr_text": "<color=black>Congrats!\nWe have observed your work.\nA ★3 ranked mission has\nbeen assigned to you!</color>"
+		"tr_text": "<color=black>Felicidades!\nHemos observado su trabajo.\n¡Se le ha asignado una misión de 3★!</color>"
 	},
 	{
 		"assign": "ef_0004_n01_b",
 		"jp_text": "<color=black>そして、久々に新情報です！\nコーエン博士が残したと思われる\nメッセージパックが発見されました！</color>",
-		"tr_text": "<color=black>Finally, new information!\nI think it's more messages\nthat Dr. Cohen left behind!</color>"
+		"tr_text": "<color=black>Finalmente, nueva información!\n¡Piensa que son más los mensajes\nque dejó el Dr. Cohen!</color>"
 	},
 	{
 		"assign": "ef_0004_n02_b",
 		"jp_text": "<color=black>パックが発見されたのは\n「惑星リリーパ」の「砂漠」エリア。\nリリーパは、地表全体が砂漠におおわれた惑星です。</color>",
-		"tr_text": "<color=black>The message pack seems to have\nlogged info about the desert of\nthe desert planet \"Lillipa.\"</color>"
+		"tr_text": "<color=black>El paquete de mensajes parece tener\ninformación sobre el desierto\ndel planeta Lillipa.</color>"
 	},
 	{
 		"assign": "ef_0004_n03_b",
 		"jp_text": "<color=black>そこで発見されたメッセージパックには\n砂漠エリアの生物の観察記録とともに\n「実験を開始する」という内容の文章が\n残されていたそうです。</color>",
-		"tr_text": "<color=black>The message pack,\nobservation data logs recorded info\nabout the planet's organisms,\nand a message, \"Let's start the experiement.\"</color>"
+		"tr_text": "<color=black>El paquete de mensajes, registraron\ninformación sobre los organismos del\nplaneta, y un mensaje:\ncomencemos el experimento.</color>"
 	},
 	{
 		"assign": "ef_0004_n04_b",
 		"jp_text": "<color=black>実験……何を意味しているのでしょうか。</color>",
-		"tr_text": "<color=black>I wonder what they meant by \"Experiement,\" hmm...</color>"
+		"tr_text": "<color=black>Me pregunto qué querían decir con Experimento, hmm...</color>"
 	},
 	{
 		"assign": "ef_0004_n05_b",
 		"jp_text": "<color=black>それはともかく、リリーパの砂漠エリアの\n探索許可がおりました。\n砂漠エリアには「機甲種」と呼ばれる\nこの惑星でかつて栄えた古い文明の\n防衛兵器が出現します。</color>",
-		"tr_text": "<color=black>Anyways, permission granted to\ngo to Lillipa.\nAn ancient civiliation once dwelled there.\nNow their creations, the\n\"Armored Machines\" act as defense systems.</color>"
+		"tr_text": "<color=black>De todos modos, se concede permiso\npara ir a Lillipa. Una antigua civilización\nvivia en ese lugar.\nAhora sus creaciones, las Máquinas\nactúan como sistemas de defensa.</color>"
 	},
 	{
 		"assign": "ef_0004_n06_b",
 		"jp_text": "<color=black>「機甲種」は「雷」属性が弱点となっています。\nただし、砂漠エリアではダーカーの出現頻度も\n高くなっていますので、その点も踏まえて\nチップ装備を整えてください。\nそれでは、健闘を祈っています！</color>",
-		"tr_text": "<color=black>These Machines are weak to Lightning.\nHowever, there's reported sightings of Darkers.\nPlease equip yourself appropriately.\nGood Luck!</color>"
+		"tr_text": "<color=black>Estas máquinas son débiles contra\nLightning. Sin embargo, hay\navistamientos reportados de Darkers.\nPor favor equípate apropiadamente.\n¡Buena suerte!</color>"
 	},
 	{
 		"assign": "es_0001_n00_b",
 		"jp_text": "<color=black>おかえりなさい！\n凍土エリアで、コーエン博士の\n情報は見つかりましたか！？</color>",
-		"tr_text": "<color=black>Welcome back!\nHave you found Dr. Cohen's\ninformation in the Tundra region!?</color>"
+		"tr_text": "<color=black>¡Bienvenido!\n¿Has encontrado la información del\nDr. Cohen en la región de Tundra?</color>"
 	},
 	{
 		"assign": "es_0001_n01_b",
 		"jp_text": "<color=black>そうですか……\n見つかりませんでしたか。\n残念です……</color>",
-		"tr_text": "<color=black>Is that so....\nThe info could not be found。\nThat's too bad....</color>"
+		"tr_text": "<color=black>Es eso así...\nLa información no pudo ser encontrada.\nEso es muy malo...</color>"
 	},
 	{
 		"assign": "es_0001_n02_b",
 		"jp_text": "<color=black>あっ、ごめんなさい！\nあなたが一生懸命に戦って\n任務を達成してくれたことには\nとても感謝しています！</color>",
-		"tr_text": "<color=black>Ah, I'm sorry!\nYou're fighting so hard,\nit's helping us achieve our goal.\nI appreciate it very much!</color>"
+		"tr_text": "<color=black>Ah, ¡Lo siento!\nEstás luchando tanto, nos está\nayudando a lograr nuestro objetivo.\n¡Se lo agradezco mucho!</color>"
 	},
 	{
 		"assign": "es_0001_n03_b",
 		"jp_text": "<color=black>引き続き、あせらず気長に\n情報を集めていくしか\nなさそうですね。\n任務完了、お疲れさまでした。</color>",
-		"tr_text": "<color=black>There's no need to rush\nyour search for information.\nMission Cleared, Good Work.</color>"
+		"tr_text": "<color=black>No hay necesidad de apresurar\nsu búsqueda de información.\nMisión completada, buen trabajo.</color>"
 	},
 	{
 		"assign": "es_0002_n00_b",
 		"jp_text": "<color=black>おめでとうございます！\nこれまでの活躍が認められ\nより難易度の高い、★２クエストの\n任務が解放されました！</color>",
-		"tr_text": "<color=black>Congratulations!\nBecause of what you did,\na ★2 difficulty mission has\nbeen released!</color>"
+		"tr_text": "<color=black>Felicitaciones!\nPor lo que hiciste:\nuna misión dificultad★2\nha sido activada!</color>"
 	},
 	{
 		"assign": "es_0002_n01_b",
 		"jp_text": "<color=black>そして、あなたには\n行方不明になったコーエン博士の\n捜索と発見という極秘の特命が\n本部より発令されました。</color>",
-		"tr_text": "<color=black>A Top-Secret Search and\nDiscovery Mission for\nDr. Cohen has been issued\nfrom headquarters.</color>"
+		"tr_text": "<color=black>Una Misión de Descubrimiento y\n Búsqueda Confidencial del Dr.\nCohen ha sido publicada en la\noficina central.</color>"
 	},
 	{
 		"assign": "es_0002_n02_b",
 		"jp_text": "<color=black>といっても、現時点は\n特に新しい情報がありませんので\n当面は各惑星のエリアを再探索し\nコーエン博士のメッセージパックを\n探していくことになります。</color>",
-		"tr_text": "<color=black>We currently do not\nhave any newer information,\nso we need you to examine every\nplanet for any messages left\nby Dr. Cohen.</color>"
+		"tr_text": "<color=black>Actualmente no tenemos información\nmás reciente, por lo que necesitamos\nque examines todos los planetas en\nbusca del mensajes que dejo el Dr. Cohen</color>"
 	},
 	{
 		"assign": "es_0002_n03_b",
 		"jp_text": "<color=black>コーエン博士は、４年前に\n惑星の探索に向かうと言い残して\n具体的な目的地を告げずに\nアークスシップから出発したまま\n行方不明になっています。</color>",
-		"tr_text": "<color=black>4 years ago, Dr. Cohen decided\nto leave without any mention\nto ARKS of his destination.\nHe disappeared since.</color>"
+		"tr_text": "<color=black>Hace 4 años, el Dr. Cohen decidió irse\nsin ninguna mención a ARKS de su destino.\nÉl desapareció desde.</color>"
 	},
 	{
 		"assign": "es_0002_n04_b",
 		"jp_text": "<color=black>博士は技術者で戦闘の経験がないため\nドノヴァンというベテランハンターが\nいつも帯同していたのですが\nそのドノヴァンも同時に\n行方不明になっています。</color>",
-		"tr_text": "<color=black>Because the Doctor didn't have\ncombat experience, he took along a\nveteran hunter named Donovan, who\nalso is missing along with him.</color>"
+		"tr_text": "<color=black>Debido a que el Dr no tenía experiencia\nen combate, se llevó consigo a un cazador\nveterano llamado Donovan, que también\nestá desaparecido junto con él.</color>"
 	},
 	{
 		"assign": "es_0002_n05_b",
 		"jp_text": "<color=black>アークスとしての通常任務と\nコーエン博士捜索の特命任務を\n並行して進めていくことになりますが\nがんばっていきましょう！\nこれからもよろしくお願いします！</color>",
-		"tr_text": "<color=black>While carrying out your\nnormal duties as an ARKS, and in\nparallel, the special assignment\nregarding Dr. Cohen,\nlet us work hard!</color>"
+		"tr_text": "<color=black>Mientras lleva a cabo sus tareas normales\ncomo ARKS, y en paralelo, la tarea especial\ncon respecto al Dr. Cohen, ¡trabajemos duro!</color>"
 	},
 	{
 		"assign": "es_0003_n00_b",
 		"jp_text": "<color=black>大変です！\nまたも、市街地エリアに\nダーカー侵入の警報です。\n至急、市街地に向かってください！</color>",
-		"tr_text": "<color=black>Once again, the Darkers\nhave invaded! As soon as possible,\nplease head towards the center!</color>"
+		"tr_text": "<color=black>Una vez más, \nlos Darkers nos han invadido!\n¡Diríjase hacia el centro, lo antes posible!</color>"
 	},
 	{
 		"assign": "es_0003_n01_b",
 		"jp_text": "<color=black>それにしても……\nダーカーは本当に\nやっかいな存在ですね……</color>",
-		"tr_text": "<color=black>Anyways....\nDarkers are a real\ntroublesome presence...</color>"
+		"tr_text": "<color=black>De todos modo...\nLa precencia de los Darkers es\nrealmente problemática...</color>"
 	},
 	{
 		"assign": "es_0003_n02_b",
 		"jp_text": "<color=black>たとえダーカーを倒しても\nフォトンの力を持たない生物や機械の場合\n消滅したダーカーの残滓に侵され凶暴化してしまい\nやがては自滅してしまうんです。</color>",
-		"tr_text": "<color=black>Even defeated Darkers,\nover time, will infect biological and\nmechanical organisms which do not\nhave photons, causing them to go berserk.</color>"
+		"tr_text": "<color=black>Incluso los Darkers derrotados,\ncon el tiempo, infectarán organismos\nbiológicos y mecánicos que no tienen\nphotons, haciendo que se vuelvan locos.</color>"
 	},
 	{
 		"assign": "es_0003_n03_b",
 		"jp_text": "<color=black>ですから、ダーカーと戦うことができるのは\nフォトンの力を持っている\nあなたたち、「アークス」だけなのです。</color>",
-		"tr_text": "<color=black>Hence why, to fight Darkers,\nwe 「ARKS」 have the power\nof photons.</color>"
+		"tr_text": "<color=black>Por eso, podemos luchar contra los\nDarkers, ya que nosotros los ARKS\ntenemos el poder de los photons.</color>"
 	},
 	{
 		"assign": "es_0003_n04_b",
 		"jp_text": "<color=black>コーエン博士がチップを開発したのも\nダーカーの攻撃で絶滅の危機にひんした\nさまざまな生物たちの遺伝子情報や\n生態情報・特性を記憶しておくことが目的でした。</color>",
-		"tr_text": "<color=black>Dr. Cohen had developed a chip,\nthat stores the genetic info of\nvarious creatures including their ecological\ninformation and characteristics.</color>"
+		"tr_text": "<color=black>El Dr. Cohen había desarrollado un chip que\nalmacena la información genética de varias\ncriaturas, incluida su información y\ncaracterísticas ecológicas.</color>"
 	},
 	{
 		"assign": "es_0003_n05_b",
 		"jp_text": "<color=black>今はチップデバイスの進歩で\nフォトンアーツやテクニックなど\n体術的な情報も記憶・再現ができるようになりましたが\n元々は、チップは生物保護のための道具なのです。</color>",
-		"tr_text": "<color=black>Advances in the chip system allows\nfor photon arts and techniques, as well\nas body art to be stored and reproduced.\nIt was originally made for protection.</color>"
+		"tr_text": "<color=black>Los avances en el sistema de chips permiten\nque se almacenen y reproduzcan las artes y\ntécnicas de photon, así como el arte corporal.\nOriginalmente fue hecho para protección.</color>"
 	},
 	{
 		"assign": "es_0003_n06_b",
 		"jp_text": "<color=black>チップは戦いの道具として進化しましたが\n依然、ダーカーの脅威は去らず、宇宙の各地で\nさまざまな生物が日々、絶滅しています。</color>",
-		"tr_text": "<color=black>Although the chip has evolved\ninto a battle tool, the threat of the\ndarkers has caused many organisms in\nvarious parts of the universe to go extinct.</color>"
+		"tr_text": "<color=black>Aunque el chip se ha convertido en una\nherramienta de batalla, la amenaza de\nlos darkers ha hecho que muchos\norganismos en diversas partes del\nuniverso se hayan extinguido..</color>"
 	},
 	{
 		"assign": "es_0003_n07_b",
 		"jp_text": "<color=black>コーエン博士は技術者であると同時に\nすぐれた生物学者でもありました。\nコーエン博士がもし生きていたら……\n今の現状を、どう思うでしょうね……</color>",
-		"tr_text": "<color=black>Dr. Cohen was both an excellent\nbiologist and scientist.\nI wonder however, if he were\nstill alive, what would he think...</color>"
+		"tr_text": "<color=black>El Dr. Cohen fue un excelente biólogo\ny científico. Sin embargo, me pregunto\nsi, si estuviera vivo, ¿qué pensaría?</color>"
 	},
 	{
 		"assign": "es_0004_n00_b",
@@ -17317,12 +17317,12 @@
 	{
 		"assign": "system_dialog_b_acceptbox01",
 		"jp_text": "入手したアイテムを受け取りボックスに送りました。\nロビーの「受け取り」ボタンからアイテムを\n受け取ってください。",
-		"tr_text": "Items were sent to the Reception Box."
+		"tr_text": "Objetos enviados a la caja de recepción."
 	},
 	{
 		"assign": "system_linetext_acceptbox01",
 		"jp_text": "入手したアイテムを受け取りボックスに送りました。\nロビーの「受け取り」ボタンからアイテムを受け取ってください。",
-		"tr_text": "Items were sent to the Reception Box."
+		"tr_text": "Objetos enviados a la caja de recepción."
 	},
 	{
 		"assign": "acceptbox_dialog_t_01",
@@ -17332,7 +17332,7 @@
 	{
 		"assign": "acceptbox_dialog_b_01",
 		"jp_text": "受け取りボックスの受信数をオーバーしています。\n\n受け取りボックスから取り出して整理してください。\n<color=red><%over></color>個オーバーしています。\n",
-		"tr_text": "You have no more room for these items.\n\nPlease make room in your inventory.\n<color=red><%over></color> items over.\n"
+		"tr_text": "No tienes más espacio para mas obj.\n\nPor favor deja espacio en tu inventario.\n<color=red><%over></color> items over.\n"
 	},
 	{
 		"assign": "acceptbox_over_yes",
@@ -17377,7 +17377,7 @@
 	{
 		"assign": "reward_dialog_text",
 		"jp_text": "<%chara>が遭遇した\n「<%quest>」をクリア!!",
-		"tr_text": "Encountered <%chara>\nCleared 「<%quest>」!!"
+		"tr_text": "Encuentro <%chara>\nCompletado 「<%quest>」!!"
 	},
 	{
 		"assign": "reward_button_next",
@@ -17487,7 +17487,7 @@
 	{
 		"assign": "collect_search_window_aheetselect",
 		"jp_text": "コレクトシート選択",
-		"tr_text": "Seleccione una hoja"
+		"tr_text": "Escoge una hoja"
 	},
 	{
 		"assign": "collect_search_count_title",
