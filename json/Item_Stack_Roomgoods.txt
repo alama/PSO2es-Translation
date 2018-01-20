@@ -2,72 +2,72 @@
 	{
 		"assign": "3500",
 		"jp_text": "ウェルカムマット",
-		"tr_text": "Alfombra de bienvenida",
+		"tr_text": "Welcome Mat",
 		"jp_explain": "入り口などに敷かれる特殊なマット。\nマットに乗ると任意の歓迎メッセージが\n表示される機能がユニークで人気。",
-		"tr_explain": "Una alfombra especial usualmente colocada\n en la entrada. Esta alfombrilla única y popular\nle permite configurar un mensaje que se\nmuestra al pisar."
+		"tr_explain": "A special mat usually placed at the\nentrance. This unique and popular\nmat allows you to set a message\nthat displays when stepped on."
 	},
 	{
 		"assign": "3501",
 		"jp_text": "モダンソファ",
-		"tr_text": "Sofá moderno",
+		"tr_text": "Modern Sofa",
 		"jp_explain": "マイルーム配置用の二人掛けソファ。\n奇抜にも見える特徴的なデザインが\n目をひき、人気となった一品。",
-		"tr_explain": "Un sofá de dos plazas para My Room.\nUn modelo popular por sus colores\nvivos y diseño raro."
+		"tr_explain": "A two-seater sofa for My Room. A\nmodel made popular for its vivid\ncolors and wacky design."
 	},
 	{
 		"assign": "3502",
 		"jp_text": "クラシックソファ",
-		"tr_text": "Sofá clásico",
+		"tr_text": "Classic Sofa",
 		"jp_explain": "マイルーム配置用の二人掛けソファ。\n外観はクラシックでも造りは最新技術に\n裏打ちされ、低反発スプリングが好評。",
-		"tr_explain": "Un sofá de dos plazas para My Room.\nA pesar de la apariencia clásica, este \nsofá está hecho con nueva tecnología ."
+		"tr_explain": "A two-seater sofa for My Room.\nDespite the classic appearance, this\nsofa is made with new technology\nfor its low-bouncing springs."
 	},
 	{
 		"assign": "3503",
 		"jp_text": "ゴシックソファ",
-		"tr_text": "Sofá gótico",
+		"tr_text": "Gothic Sofa",
 		"jp_explain": "マイルーム配置用の二人掛けソファ。\n歴史を感じさせる古風な装いが\nコーディネイト心をくすぐる一品。",
-		"tr_explain": "Un sofá de dos plazas para My Room.\nSu diseño antiguo te hace cuestionar\nla historia de este mueble."
+		"tr_explain": "A two-seater sofa for My Room. Its\nantique design makes you question\nthis furniture's history."
 	},
 	{
 		"assign": "3504",
 		"jp_text": "モダンローテーブル",
 		"tr_text": "Modern Low Table",
 		"jp_explain": "小物や装飾品を置くためのテーブル。\n存在感あふれるヴィヴィッドな色合いで\n置いた物の見た目を引き立てる家具。",
-		"tr_explain": "Una mesa para colocar pequeñas decoraciones.\nEste mobiliario realza el aspecto de cualquier\nobjeto colocado con sus colores vivos."
+		"tr_explain": "A table for placing small decorations.\nThis furniture enhances the look of\nany placed object with its vivid\ncolors and strong presence."
 	},
 	{
 		"assign": "3505",
 		"jp_text": "クラシックローテーブル",
 		"tr_text": "Classic Low Table",
 		"jp_explain": "小物や装飾品を置くためのテーブル。\n白基調の上品な色合いで周囲になじみ、\n置いた物の見た目を引き立てる家具。",
-		"tr_explain": "Una mesa para colocar pequeños adornos.\nThis furniture enhances the look of\nany placed object with its classy and\nelegant white design."
+		"tr_explain": "A table for placing small decorations.\nThis furniture enhances the look of\nany placed object with its classy and\nelegant white design."
 	},
 	{
 		"assign": "3506",
 		"jp_text": "オリエントローテーブル",
 		"tr_text": "Orient Low Table",
 		"jp_explain": "小物や装飾品を置くためのテーブル。\n暖かみを感じさせる木目と落ち着きある\n濃い色合いでくつろぎを与える家具。",
-		"tr_explain": "Una mesa para colocar pequeños adornos.\nThis furniture's deep shade gives off\na very relaxing feeling and warmth."
+		"tr_explain": "A table for placing small decorations.\nThis furniture's deep shade gives off\na very relaxing feeling and warmth."
 	},
 	{
 		"assign": "3507",
 		"jp_text": "ゴシックローテーブル",
 		"tr_text": "Gothic Low Table",
 		"jp_explain": "小物や装飾品を置くためのテーブル。\n華美な装飾が特徴で、レイアウトの\nセンスが問われる一品。",
-		"tr_explain": "Una mesa para colocar pequeños adornos.\nIts sensible design and gorgeous\nfeatures makes you think twice\nabout placing objects on it."
+		"tr_explain": "A table for placing small decorations.\nIts sensible design and gorgeous\nfeatures makes you think twice\nabout placing objects on it."
 	},
 	{
 		"assign": "3508",
 		"jp_text": "モダンマット",
 		"tr_text": "Modern Mat",
 		"jp_explain": "マイルームの床に敷くためのマット。\n目を引く鮮烈な色合いで来訪者を迎え\n個性的な空間を演出する一品。",
-		"tr_explain": "Una alfombra de piso para My Room. Its vivid\ncolors and design will surely catch\nthe attention of your visitors."
+		"tr_explain": "A floor mat for My Room. Its vivid\ncolors and design will surely catch\nthe attention of your visitors."
 	},
 	{
 		"assign": "3509",
 		"jp_text": "クラシックマット",
 		"tr_text": "Classic Mat",
 		"jp_explain": "マイルームの床に敷くためのマット。\n落ち着きのある色合いで来訪者を迎え\n柔らかな踏み心地を提供する一品。",
-		"tr_explain": "Una alfombra de piso para My Room. Welcome\nyour vistors with its calming design\nand noticable softness when stepped\non."
+		"tr_explain": "A floor mat for My Room. Welcome\nyour vistors with its calming design\nand noticable softness when stepped\non."
 	},
 	{
 		"assign": "35010",
@@ -81,140 +81,140 @@
 		"jp_text": "ゴシックマット",
 		"tr_text": "Gothic Mat",
 		"jp_explain": "マイルームの床に敷くためのマット。\n古風で流麗な装飾が施された一品で\n部屋全体の雰囲気を引き締める。",
-		"tr_explain": "Una alfombra de piso para My Room. Its antique\nand elegant design tightens the\natmosphere of the whole room."
+		"tr_explain": "A floor mat for My Room. Its antique\nand elegant design tightens the\natmosphere of the whole room."
 	},
 	{
 		"assign": "35012",
 		"jp_text": "モダンクッション",
 		"tr_text": "Modern Cushion",
 		"jp_explain": "マイルームで利用可能なクッション。\n高級真綿を詰め込み、やや硬めの感触は\n慣れると身体に馴染むと評判。",
-		"tr_explain": "Un cojín para My Room. Made from\nhigh-grade silk which is known for its\nflexibility and toughness, making it\nmore resistant to wear and tear."
+		"tr_explain": "A cushion for My Room. Made from\nhigh-grade silk which is known for its\nflexibility and toughness, making it\nmore resistant to wear and tear."
 	},
 	{
 		"assign": "35013",
 		"jp_text": "クラシッククッション",
 		"tr_text": "Classic Cushion",
 		"jp_explain": "マイルームで利用可能なクッション。\n高級羽毛をぎっしり詰め込み、柔らかな\n感触を楽しめる。カバーは交換不可。",
-		"tr_explain": "Un cojín para My Room. Features the\nsoftness of tightly packed feathers.\nThe cover is irreplaceable."
+		"tr_explain": "A cushion for My Room. Features the\nsoftness of tightly packed feathers.\nThe cover is irreplaceable."
 	},
 	{
 		"assign": "35014",
 		"jp_text": "ゴシッククッション",
 		"tr_text": "Gothic Cushion",
 		"jp_explain": "マイルームで利用可能なクッション。\n鮮やかさと穏やかさを兼ね備えた模様の\n刺繍で、どんな部屋にも馴染む一品。",
-		"tr_explain": "Un cojín para My Room. Its pattern\ndesign that combines both tranquility\nand vividness allows for great\nadaptability in any room."
+		"tr_explain": "A cushion for My Room. Its pattern\ndesign that combines both tranquility\nand vividness allows for great\nadaptability in any room."
 	},
 	{
 		"assign": "35015",
 		"jp_text": "ザ・ブトン",
 		"tr_text": "Za Buton",
 		"jp_explain": "マイルームで座るためのクッション。\nほどよい固さの高級綿を詰め込み、形が\n崩れにくく疲れにくいと好評の一品。",
-		"tr_explain": "Un cojín para My Room. Made from\nhigh-grade cotton with moderate\ntoughness, making it more resistant\nto wear and tear."
+		"tr_explain": "A cushion for My Room. Made from\nhigh-grade cotton with moderate\ntoughness, making it more resistant\nto wear and tear."
 	},
 	{
 		"assign": "35016",
 		"jp_text": "ラッピープラトゥ",
 		"tr_text": "Rappy Plate",
 		"jp_explain": "マイルームに設置可能な飾り皿。\n皿の中央にラッピーが描かれており\nマニアに高額で取引される美術品。",
-		"tr_explain": "Un plato ornamental para My Room.\nA tradeable dish for Rappy collectors\ndue to the Rappy artwork at the\ncenter."
+		"tr_explain": "An ornamental plate for My Room.\nA tradeable dish for Rappy collectors\ndue to the Rappy artwork at the\ncenter."
 	},
 	{
 		"assign": "35017",
 		"jp_text": "モダンベッド",
 		"tr_text": "Modern Bed",
 		"jp_explain": "マイルーム用のダブルサイズベッド。\n目の覚める個性的な彩色ながら、\n柔らかく身体を包み込む実用品。",
-		"tr_explain": "Una cama doble para My Room.\nNot only does it have a distinctive\ncolor, but it also wraps the body\nsoftly."
+		"tr_explain": "A double-sized bed for My Room.\nNot only does it have a distinctive\ncolor, but it also wraps the body\nsoftly."
 	},
 	{
 		"assign": "35018",
 		"jp_text": "クラシックベッド",
 		"tr_text": "Classic Bed",
 		"jp_explain": "マイルーム用のダブルサイズベッド。\n目に優しい白基調の落ち着いた装飾で、\n自然な眠りへと誘う骨董家具。",
-		"tr_explain": "Una cama doble para My Room.\nIts classic white design and\nornaments are pleasant to the eyes,\nmaking it easy to sleep naturally."
+		"tr_explain": "A double-sized bed for My Room.\nIts classic white design and\nornaments are pleasant to the eyes,\nmaking it easy to sleep naturally."
 	},
 	{
 		"assign": "35019",
 		"jp_text": "ゴシックベッド",
 		"tr_text": "Gothic Bed",
 		"jp_explain": "マイルーム用のダブルサイズベッド。\n装飾にこだわり、眠るときだけでなく\n視覚的にも楽しませようと作られた品。",
-		"tr_explain": "Una cama doble para My Room.\nNot only is this designed to look\nvisually elegant, but is also meant for\nsleeping as well."
+		"tr_explain": "A double-sized bed for My Room.\nNot only is this designed to look\nvisually elegant, but is also meant for\nsleeping as well."
 	},
 	{
 		"assign": "35020",
 		"jp_text": "フトン",
 		"tr_text": "Futon",
 		"jp_explain": "マイルームで利用可能な寝具。\n床に直接敷いて利用でき、腰を痛めた\nアークスのメンバーにとっての必需品。",
-		"tr_explain": "Un colchón para My Room.\nA must have for any ARKS member.\nYou can spread this directly on the\nfloor. May cause hip pain."
+		"tr_explain": "A mattress for My Room.\nA must have for any ARKS member.\nYou can spread this directly on the\nfloor. May cause hip pain."
 	},
 	{
 		"assign": "35022",
 		"jp_text": "エレガントバスタブ",
 		"tr_text": "Elegant Bathtub",
 		"jp_explain": "マイルームに設置可能なバスタブ。\n花びらが浮かぶ水面が揺らぐその様は\nまさに優雅の一言につきる。",
-		"tr_explain": "Una bañera para My Room.\nAn elegant and relaxing bathtub with\npetals floating on the water surface."
+		"tr_explain": "A bathtub for My Room.\nAn elegant and relaxing bathtub with\npetals floating on the water surface."
 	},
 	{
 		"assign": "35023",
 		"jp_text": "宇宙の泉",
 		"tr_text": "Cosmo Fountain",
 		"jp_explain": "マイルームに設置可能なトイレ便座。\n最新性能の温水洗浄機能つきで、至高の\n使い心地を誇りながら水量を抑えた。",
-		"tr_explain": "Un inodoro para My Room.\nEquipped with the latest technology,\nit uses warm water for its cleaning\nsystem. Now you can sit worry free!"
+		"tr_explain": "A toilet seat for My Room.\nEquipped with the latest technology,\nit uses warm water for its cleaning\nsystem. Now you can sit worry free!"
 	},
 	{
 		"assign": "35025",
 		"jp_text": "セン・タク・キー",
 		"tr_text": "Sen Taku Ki",
 		"jp_explain": "マイルームに設置可能な洗濯機。\nすでに廃れた機器だが、こちらのほうが\n綺麗になると使用を続ける人もいる。",
-		"tr_explain": "Una lavadora para My Room.\nAn obsolete home appliance, but\nsome people still use it for washing."
+		"tr_explain": "A washing machine for My Room.\nAn obsolete home appliance, but\nsome people still use it for washing."
 	},
 	{
 		"assign": "35026",
 		"jp_text": "ウェイトチェッカー",
 		"tr_text": "Weight Scale",
 		"jp_explain": "マイルームに設置可能な体重計。\n己の肉体を構成する重さを測定する。\n多くの人々が怖くて乗るのを避ける。",
-		"tr_explain": "Una escala para My Room.\nA tool that can measure weight.\nAvoid use in front of others if you\nare conscious about your weight."
+		"tr_explain": "A scale for My Room.\nA tool that can measure weight.\nAvoid use in front of others if you\nare conscious about your weight."
 	},
 	{
 		"assign": "35029",
 		"jp_text": "オリエントシャンデリア",
 		"tr_text": "Orient Chandelier",
 		"jp_explain": "マイルームに設置する照明器具。\n目にやさしく暖かみのある電球色で\n室内に落ち着きをもたらす。",
-		"tr_explain": "Una lámpara para My Room.\nBathes the room with a calming light\nthat is also gentle to the eyes."
+		"tr_explain": "A lighting fixture for My Room.\nBathes the room with a calming light\nthat is also gentle to the eyes."
 	},
 	{
 		"assign": "35030",
 		"jp_text": "モダンシャンデリア",
 		"tr_text": "Modern Chandelier",
 		"jp_explain": "マイルームに設置する照明器具。\nどんな空間にもマッチするシンプルな\nデザインで、室内を明るく彩る。",
-		"tr_explain": "Una lámpara para My Room.\nIts simple design can match and\nbrighten any room."
+		"tr_explain": "A lighting fixture for My Room.\nIts simple design can match and\nbrighten any room."
 	},
 	{
 		"assign": "35031",
 		"jp_text": "クラシックシャンデリア",
 		"tr_text": "Classic Chandelier",
 		"jp_explain": "マイルームに設置する照明器具。\n目に優しく明るすぎない光度で\n室内をあたたかく照らし出す。",
-		"tr_explain": "Una lámpara para My Room.\nWhite ornate chandelier that bathes\nthe room with a calming light."
+		"tr_explain": "A lighting fixture for My Room.\nWhite ornate chandelier that bathes\nthe room with a calming light."
 	},
 	{
 		"assign": "35032",
 		"jp_text": "ゴシックシャンデリア",
 		"tr_text": "Gothic Chandelier",
 		"jp_explain": "マイルームに設置する照明器具。\n黒基調の凝った装飾で落ち着きある\nムードを演出し空間を彩る。",
-		"tr_explain": "Una lámpara para My Room.\nBlack ornate chandelier that bathes\nthe room with a calming light."
+		"tr_explain": "A lighting fixture for My Room.\nBlack ornate chandelier that bathes\nthe room with a calming light."
 	},
 	{
 		"assign": "35033",
 		"jp_text": "メッセージボード",
 		"tr_text": "Message Board",
 		"jp_explain": "マイルームで利用可能な伝言板。\n設定したメッセージを表示し\nゲストに用件を伝える実用的な一品。",
-		"tr_explain": "Tablero de mensajes para My Room.\nA must when you want to receive\nand send messages to visitors."
+		"tr_explain": "Message board for My Room.\nA must when you want to receive\nand send messages to visitors."
 	},
 	{
 		"assign": "35034",
 		"jp_text": "ロッカー",
 		"tr_text": "Locker",
 		"jp_explain": "マイルームで利用可能な扉つき戸棚。\n場所を取らないコンパクト設計で\n地味な存在感を発揮。",
-		"tr_explain": "Puerta para armario My Room.\nIts compact design allows it to\nconsume just a little space and is\nbarely noticeable."
+		"tr_explain": "Door locker for My Room.\nIts compact design allows it to\nconsume just a little space and is\nbarely noticeable."
 	},
 	{
 		"assign": "35036",
@@ -228,7 +228,7 @@
 		"jp_text": "プライベートプール",
 		"tr_text": "Private Pool",
 		"jp_explain": "マイルームで利用可能なゴム製プール。\n密着すれば二人まで同時に入ることが\nでき、一気に親密度を高められる。",
-		"tr_explain": "Un fondo de goma para My Room.\nCan hold two people at the same\ntime if they stick together.\nEnhances intimacy between the two."
+		"tr_explain": "A rubber pool for My Room.\nCan hold two people at the same\ntime if they stick together.\nEnhances intimacy between the two."
 	},
 	{
 		"assign": "35038",
@@ -368,7 +368,7 @@
 		"jp_text": "ターンショーテーブル",
 		"tr_text": "Turn Show Table",
 		"jp_explain": "小物や装飾品を置くショーテーブル。\nゆったりと回転するため、テーブル上の\nオブジェを全角度から楽しめる。",
-		"tr_explain": "Una mesa para colocar pequeños adornos.\nRotates slowly so you can enjoy the\nview of the displayed object from\ndifferent angles."
+		"tr_explain": "A table for placing small decorations.\nRotates slowly so you can enjoy the\nview of the displayed object from\ndifferent angles."
 	},
 	{
 		"assign": "35075",
@@ -725,7 +725,7 @@
 		"jp_text": "バス・タブ",
 		"tr_text": "Bath Tub",
 		"jp_explain": "マイルームに設置可能な湯船。\nレトロなタイル張りで、ゆったりと足を\n伸ばして入浴でき、泳ぎたくなる広さ。",
-		"tr_explain": "Una bañera para My Room.\nA relaxing bath covered with tiles,\nit makes you want to swim."
+		"tr_explain": "A bathtub for My Room.\nA relaxing bath covered with tiles,\nit makes you want to swim."
 	},
 	{
 		"assign": "350126",
@@ -739,7 +739,7 @@
 		"jp_text": "ヨーガマット",
 		"tr_text": "Yoga Mat",
 		"jp_explain": "マイルームで利用可能なマット。\n心身の統一や瞑想に適したサイズと\n座りごこちで、落ち着きを感じさせる。",
-		"tr_explain": "Una alfombra de piso para My Room. The size is\nsuitable for meditation to unite both\nmind and soul. Comfortable to sit on\nand very calming."
+		"tr_explain": "A floor mat for My Room. The size is\nsuitable for meditation to unite both\nmind and soul. Comfortable to sit on\nand very calming."
 	},
 	{
 		"assign": "350128",
@@ -767,7 +767,7 @@
 		"jp_text": "キノコテーブル",
 		"tr_text": "Mushroom Table",
 		"jp_explain": "小物や装飾品を置くためのテーブル。\nとある惑星に自生するボッテキノコが\nベースで、触るだけでピリピリする。",
-		"tr_explain": "Una mesa para colocar pequeños adornos.\nA huge mushroom from a certain\nplanet. Perfect for a table, but it\nleaves a tingling sensation."
+		"tr_explain": "A table for placing small decorations.\nA huge mushroom from a certain\nplanet. Perfect for a table, but it\nleaves a tingling sensation."
 	},
 	{
 		"assign": "350132",
@@ -844,14 +844,14 @@
 		"jp_text": "クラシックテーブル",
 		"tr_text": "Classic Table",
 		"jp_explain": "小物や装飾品を置くためのテーブル。\n安心感のあるデザインが人気の\n汎用性の高い標準モデル。",
-		"tr_explain": "Una mesa para colocar pequeños adornos.\nA very popular standard model with\nhigh flexibility and secure design."
+		"tr_explain": "A table for placing small decorations.\nA very popular standard model with\nhigh flexibility and secure design."
 	},
 	{
 		"assign": "350143",
 		"jp_text": "ゴシックテーブルＢ",
 		"tr_text": "Gothic Table B",
 		"jp_explain": "小物や装飾品を置くためのテーブル。\nラグジュアリーながら落ち着きのある\nブラックが目を引く逸品。",
-		"tr_explain": "Una mesa para colocar pequeños adornos.\nIts purple color and elegant design\neasily attracts attention."
+		"tr_explain": "A table for placing small decorations.\nIts purple color and elegant design\neasily attracts attention."
 	},
 	{
 		"assign": "350144",
@@ -1026,28 +1026,28 @@
 		"jp_text": "チェリーレッドテーブル",
 		"tr_text": "Cherry Red Table",
 		"jp_explain": "マイルームに設置可能なテーブル。\nポップなカラーバリエーションが人気の\n４色シリーズの中の１色。",
-		"tr_explain": "Una mesa para colocar pequeños adornos.\nOne of the 4-color series made\npopular due to its different color\nvariations."
+		"tr_explain": "A table for placing small decorations.\nOne of the 4-color series made\npopular due to its different color\nvariations."
 	},
 	{
 		"assign": "350169",
 		"jp_text": "ソルトブルーテーブル",
 		"tr_text": "Salt Blue Table",
 		"jp_explain": "マイルームに設置可能なテーブル。\nポップなカラーバリエーションが人気の\n４色シリーズの中の１色。",
-		"tr_explain": "Una mesa para colocar pequeños adornos.\nOne of the 4-color series made\npopular due to its different color\nvariations."
+		"tr_explain": "A table for placing small decorations.\nOne of the 4-color series made\npopular due to its different color\nvariations."
 	},
 	{
 		"assign": "350170",
 		"jp_text": "ハーブグリーンテーブル",
 		"tr_text": "Herb Green Table",
 		"jp_explain": "マイルームに設置可能なテーブル。\nポップなカラーバリエーションが人気の\n４色シリーズの中の１色。",
-		"tr_explain": "Una mesa para colocar pequeños adornos.\nOne of the 4-color series made\npopular due to its different color\nvariations."
+		"tr_explain": "A table for placing small decorations.\nOne of the 4-color series made\npopular due to its different color\nvariations."
 	},
 	{
 		"assign": "350171",
 		"jp_text": "ハニーイエローテーブル",
 		"tr_text": "Honey Yellow Table",
 		"jp_explain": "マイルームに設置可能なテーブル。\nポップなカラーバリエーションが人気の\n４色シリーズの中の１色。",
-		"tr_explain": "Una mesa para colocar pequeños adornos.\nOne of the 4-color series made\npopular due to its different color\nvariations."
+		"tr_explain": "A table for placing small decorations.\nOne of the 4-color series made\npopular due to its different color\nvariations."
 	},
 	{
 		"assign": "350172",
@@ -1488,14 +1488,14 @@
 		"jp_text": "ゴシックローテーブルＲ",
 		"tr_text": "Gothic Low Table R",
 		"jp_explain": "小物や装飾品を置くためのテーブル。\n華美な装飾が特徴で、レイアウトの\nセンスが問われる一品。",
-		"tr_explain": "Una mesa para colocar pequeños adornos.\nIts sensible design and gorgeous\nfeatures makes you think twice\nabout placing objects on it."
+		"tr_explain": "A table for placing small decorations.\nIts sensible design and gorgeous\nfeatures makes you think twice\nabout placing objects on it."
 	},
 	{
 		"assign": "350235",
 		"jp_text": "ゴシックベッドＲ",
 		"tr_text": "Gothic Bed R",
 		"jp_explain": "マイルーム用のダブルサイズベッド。\n装飾にこだわり、眠るときだけでなく\n視覚的にも楽しませようと作られた品。",
-		"tr_explain": "Una cama doble para My Room.\nNot only is this designed to look\nvisually elegant, but is also meant for\nsleeping as well."
+		"tr_explain": "A double-sized bed for My Room.\nNot only is this designed to look\nvisually elegant, but is also meant for\nsleeping as well."
 	},
 	{
 		"assign": "350236",
@@ -1523,7 +1523,7 @@
 		"jp_text": "ゴシックマットＲ",
 		"tr_text": "Gothic Mat R",
 		"jp_explain": "マイルームの床に敷くためのマット。\n古風で流麗な装飾が施された一品で\n部屋全体の雰囲気を引き締める。",
-		"tr_explain": "Una alfombra de piso para My Room. Its antique\nand elegant design tightens the\natmosphere of the whole room."
+		"tr_explain": "A floor mat for My Room. Its antique\nand elegant design tightens the\natmosphere of the whole room."
 	},
 	{
 		"assign": "350240",
@@ -1537,14 +1537,14 @@
 		"jp_text": "ゴシックローテーブルＢ",
 		"tr_text": "Gothic Low Table B",
 		"jp_explain": "小物や装飾品を置くためのテーブル。\n華美な装飾が特徴で、レイアウトの\nセンスが問われる一品。",
-		"tr_explain": "Una mesa para colocar pequeños adornos.\nIts sensible design and gorgeous\nfeatures makes you think twice\nabout placing objects on it."
+		"tr_explain": "A table for placing small decorations.\nIts sensible design and gorgeous\nfeatures makes you think twice\nabout placing objects on it."
 	},
 	{
 		"assign": "350242",
 		"jp_text": "ゴシックベッドＢ",
 		"tr_text": "Gothic Bed B",
 		"jp_explain": "マイルーム用のダブルサイズベッド。\n装飾にこだわり、眠るときだけでなく\n視覚的にも楽しませようと作られた品。",
-		"tr_explain": "Una cama doble para My Room.\nNot only is this designed to look\nvisually elegant, but is also meant for\nsleeping as well."
+		"tr_explain": "A double-sized bed for My Room.\nNot only is this designed to look\nvisually elegant, but is also meant for\nsleeping as well."
 	},
 	{
 		"assign": "350243",
@@ -1572,21 +1572,21 @@
 		"jp_text": "ゴシックマットＢ",
 		"tr_text": "Gothic Mat B",
 		"jp_explain": "マイルームの床に敷くためのマット。\n古風で流麗な装飾が施された一品で\n部屋全体の雰囲気を引き締める。",
-		"tr_explain": "Una alfombra de piso para My Room. Its antique\nand elegant design tightens the\natmosphere of the whole room."
+		"tr_explain": "A floor mat for My Room. Its antique\nand elegant design tightens the\natmosphere of the whole room."
 	},
 	{
 		"assign": "350247",
 		"jp_text": "ベーシックベッドＢ",
 		"tr_text": "Basic Bed B",
 		"jp_explain": "マイルーム用のダブルサイズベッド。\n寝転がるだけですぐに睡魔が襲ってくる\nふかふかのベッドが人気の一品。",
-		"tr_explain": "Una cama doble para My Room.\nA bed made popular for its softness.\nYou'll immediately feel sleepy the\nmoment you lie down."
+		"tr_explain": "A double-sized bed for My Room.\nA bed made popular for its softness.\nYou'll immediately feel sleepy the\nmoment you lie down."
 	},
 	{
 		"assign": "350248",
 		"jp_text": "ベーシックマットＢ",
 		"tr_text": "Basic Mat B",
 		"jp_explain": "マイルームの床に敷くためのマット。\n目立つデザインではないが、その分\nどのような部屋にも合うつくり。",
-		"tr_explain": "Una alfombra de piso para My Room. Its design\nisn't something impressive but it\nsomehow blends with any kind of\nroom."
+		"tr_explain": "A floor mat for My Room. Its design\nisn't something impressive but it\nsomehow blends with any kind of\nroom."
 	},
 	{
 		"assign": "350249",
@@ -1600,7 +1600,7 @@
 		"jp_text": "ベーシックローテーブルＢ",
 		"tr_text": "Basic Low Table B",
 		"jp_explain": "小物や装飾品を置くためのテーブル。\nいかなる用途でも適応する、柔軟性に\n優れた標準的なモデル。",
-		"tr_explain": "Una mesa para colocar pequeños adornos.\nThis standard model is known for its\nflexibility to adapt to any\natmosphere."
+		"tr_explain": "A table for placing small decorations.\nThis standard model is known for its\nflexibility to adapt to any\natmosphere."
 	},
 	{
 		"assign": "350251",
@@ -1628,14 +1628,14 @@
 		"jp_text": "ベーシックベッドＰ",
 		"tr_text": "Basic Bed P",
 		"jp_explain": "マイルーム用のダブルサイズベッド。\n寝転がるだけですぐに睡魔が襲ってくる\nふかふかのベッドが人気の一品。",
-		"tr_explain": "Una cama doble para My Room.\nA bed made popular for its softness.\nYou'll immediately feel sleepy the\nmoment you lie down."
+		"tr_explain": "A double-sized bed for My Room.\nA bed made popular for its softness.\nYou'll immediately feel sleepy the\nmoment you lie down."
 	},
 	{
 		"assign": "350255",
 		"jp_text": "ベーシックマットＰ",
 		"tr_text": "Basic Mat P",
 		"jp_explain": "マイルームの床に敷くためのマット。\n目立つデザインではないが、その分\nどのような部屋にも合うつくり。",
-		"tr_explain": "Una alfombra de piso para My Room. Its design\nisn't something impressive but it\nsomehow blends with any kind of\nroom."
+		"tr_explain": "A floor mat for My Room. Its design\nisn't something impressive but it\nsomehow blends with any kind of\nroom."
 	},
 	{
 		"assign": "350256",
@@ -1649,7 +1649,7 @@
 		"jp_text": "ベーシックローテーブルＰ",
 		"tr_text": "Basic Low Table P",
 		"jp_explain": "小物や装飾品を置くためのテーブル。\nいかなる用途でも適応する、柔軟性に\n優れた標準的なモデル。",
-		"tr_explain": "Una mesa para colocar pequeños adornos.\nThis standard model is known for its\nflexibility to adapt to any\natmosphere."
+		"tr_explain": "A table for placing small decorations.\nThis standard model is known for its\nflexibility to adapt to any\natmosphere."
 	},
 	{
 		"assign": "350258",
@@ -1677,21 +1677,21 @@
 		"jp_text": "ベーシックシャンデリア",
 		"tr_text": "Basic Chandelier",
 		"jp_explain": "マイルームに設置する照明器具。\n無駄な装飾を省き、機能性に特化した\nデザインで、室内を明るく照らす。",
-		"tr_explain": "Una lámpara para My Room.\nDesigned without any unnecessary\nornaments and specializes in\nfunctionality."
+		"tr_explain": "A lighting fixture for My Room.\nDesigned without any unnecessary\nornaments and specializes in\nfunctionality."
 	},
 	{
 		"assign": "350262",
 		"jp_text": "モダンベッドＹ",
 		"tr_text": "Modern Bed Y",
 		"jp_explain": "マイルーム用のダブルサイズベッド。\n目の覚める個性的な彩色ながら、\n柔らかく身体を包み込む実用品。",
-		"tr_explain": "Una cama doble para My Room.\nNot only does it have a distinctive\ncolor, but it also wraps the body\nsoftly."
+		"tr_explain": "A double-sized bed for My Room.\nNot only does it have a distinctive\ncolor, but it also wraps the body\nsoftly."
 	},
 	{
 		"assign": "350263",
 		"jp_text": "モダンマットＹ",
 		"tr_text": "Modern Mat Y",
 		"jp_explain": "マイルームの床に敷くためのマット。\n目を引く鮮烈な色合いで来訪者を迎え\n個性的な空間を演出する一品。",
-		"tr_explain": "Una alfombra de piso para My Room. Its vivid\ncolors and design will surely catch\nthe attention of your visitors."
+		"tr_explain": "A floor mat for My Room. Its vivid\ncolors and design will surely catch\nthe attention of your visitors."
 	},
 	{
 		"assign": "350264",
@@ -1705,7 +1705,7 @@
 		"jp_text": "モダンローテーブルＹ",
 		"tr_text": "Modern Low Table Y",
 		"jp_explain": "小物や装飾品を置くためのテーブル。\n存在感あふれるハイカラな色合いで\n置いた物の見た目を引き立てる家具。",
-		"tr_explain": "Una mesa para colocar pequeños adornos.\nThis furniture enhances the look of\nany placed object with its vivid\ncolors and strong presence."
+		"tr_explain": "A table for placing small decorations.\nThis furniture enhances the look of\nany placed object with its vivid\ncolors and strong presence."
 	},
 	{
 		"assign": "350266",
@@ -1726,14 +1726,14 @@
 		"jp_text": "モダンベッドＢ",
 		"tr_text": "Modern Bed B",
 		"jp_explain": "マイルーム用のダブルサイズベッド。\n目の覚める個性的な彩色ながら、\n柔らかく身体を包み込む実用品。",
-		"tr_explain": "Una cama doble para My Room.\nNot only does it have a distinctive\ncolor, but it also wraps the body\nsoftly."
+		"tr_explain": "A double-sized bed for My Room.\nNot only does it have a distinctive\ncolor, but it also wraps the body\nsoftly."
 	},
 	{
 		"assign": "350269",
 		"jp_text": "モダンマットＢ",
 		"tr_text": "Modern Mat B",
 		"jp_explain": "マイルームの床に敷くためのマット。\n目を引く鮮烈な色合いで来訪者を迎え\n個性的な空間を演出する一品。",
-		"tr_explain": "Una alfombra de piso para My Room. Its vivid\ncolors and design will surely catch\nthe attention of your visitors."
+		"tr_explain": "A floor mat for My Room. Its vivid\ncolors and design will surely catch\nthe attention of your visitors."
 	},
 	{
 		"assign": "350270",
@@ -1747,7 +1747,7 @@
 		"jp_text": "モダンローテーブルＢ",
 		"tr_text": "Modern Low Table B",
 		"jp_explain": "小物や装飾品を置くためのテーブル。\n存在感を引き締めるシックな色合いで\n置いた物の見た目を引き立てる家具。",
-		"tr_explain": "Una mesa para colocar pequeños adornos.\nThis furniture enhances the look of\nany placed object with its vivid\ncolors and strong presence."
+		"tr_explain": "A table for placing small decorations.\nThis furniture enhances the look of\nany placed object with its vivid\ncolors and strong presence."
 	},
 	{
 		"assign": "350272",
@@ -1768,14 +1768,14 @@
 		"jp_text": "クラシックベッドＰ",
 		"tr_text": "Classic Bed P",
 		"jp_explain": "マイルーム用のダブルサイズベッド。\n目に優しい桃基調の落ち着いた装飾で、\n自然な眠りへと誘う骨董家具。",
-		"tr_explain": "Una cama doble para My Room.\nIts classic white design and\nornaments are pleasant to the eyes,\nmaking it easy to sleep naturally."
+		"tr_explain": "A double-sized bed for My Room.\nIts classic white design and\nornaments are pleasant to the eyes,\nmaking it easy to sleep naturally."
 	},
 	{
 		"assign": "350275",
 		"jp_text": "クラシックマットＰ",
 		"tr_text": "Classic Mat P",
 		"jp_explain": "マイルームの床に敷くためのマット。\n落ち着きのある色合いで来訪者を迎え\n柔らかな踏み心地を提供する一品。",
-		"tr_explain": "Una alfombra de piso para My Room. Welcome\nyour vistors with its calming design\nand noticable softness when stepped\non."
+		"tr_explain": "A floor mat for My Room. Welcome\nyour vistors with its calming design\nand noticable softness when stepped\non."
 	},
 	{
 		"assign": "350276",
@@ -1789,7 +1789,7 @@
 		"jp_text": "クラシックローテーブルＰ",
 		"tr_text": "Classic Low Table P",
 		"jp_explain": "小物や装飾品を置くためのテーブル。\n桃基調の上品な色合いで周囲になじみ、\n置いた物の見た目を引き立てる家具。",
-		"tr_explain": "Una mesa para colocar pequeños adornos.\nThis furniture enhances the look of\nany placed object with its classy and\nelegant white design."
+		"tr_explain": "A table for placing small decorations.\nThis furniture enhances the look of\nany placed object with its classy and\nelegant white design."
 	},
 	{
 		"assign": "350278",
@@ -1824,14 +1824,14 @@
 		"jp_text": "クラシックベッドＣ",
 		"tr_text": "Classic Bed C",
 		"jp_explain": "マイルーム用のダブルサイズベッド。\n目に優しい茶基調の落ち着いた装飾で、\n自然な眠りへと誘う骨董家具。",
-		"tr_explain": "Una cama doble para My Room.\nIts classic white design and\nornaments are pleasant to the eyes,\nmaking it easy to sleep naturally."
+		"tr_explain": "A double-sized bed for My Room.\nIts classic white design and\nornaments are pleasant to the eyes,\nmaking it easy to sleep naturally."
 	},
 	{
 		"assign": "350283",
 		"jp_text": "クラシックマットＣ",
 		"tr_text": "Classic Mat C",
 		"jp_explain": "マイルームの床に敷くためのマット。\n落ち着きのある色合いで来訪者を迎え\n柔らかな踏み心地を提供する一品。",
-		"tr_explain": "Una alfombra de piso para My Room. Welcome\nyour vistors with its calming design\nand noticable softness when stepped\non."
+		"tr_explain": "A floor mat for My Room. Welcome\nyour vistors with its calming design\nand noticable softness when stepped\non."
 	},
 	{
 		"assign": "350284",
@@ -1845,7 +1845,7 @@
 		"jp_text": "クラシックローテーブルＣ",
 		"tr_text": "Classic Low Table C",
 		"jp_explain": "小物や装飾品を置くためのテーブル。\n茶基調の上品な色合いで周囲になじみ、\n置いた物の見た目を引き立てる家具。",
-		"tr_explain": "Una mesa para colocar pequeños adornos.\nThis furniture enhances the look of\nany placed object with its classy and\nelegant white design."
+		"tr_explain": "A table for placing small decorations.\nThis furniture enhances the look of\nany placed object with its classy and\nelegant white design."
 	},
 	{
 		"assign": "350286",
@@ -1908,14 +1908,14 @@
 		"jp_text": "ベーシックベッド",
 		"tr_text": "Basic Bed",
 		"jp_explain": "マイルーム用のダブルサイズベッド。\n寝転がるだけですぐに睡魔が襲ってくる\nふかふかのベッドが人気の一品。",
-		"tr_explain": "Una cama doble para My Room.\nA bed made popular for its softness.\nYou'll immediately feel sleepy the\nmoment you lie down."
+		"tr_explain": "A double-sized bed for My Room.\nA bed made popular for its softness.\nYou'll immediately feel sleepy the\nmoment you lie down."
 	},
 	{
 		"assign": "350295",
 		"jp_text": "ベーシックマット",
 		"tr_text": "Basic Mat",
 		"jp_explain": "マイルームの床に敷くためのマット。\n目立つデザインではないが、その分\nどのような部屋にも合うつくり。",
-		"tr_explain": "Una alfombra de piso para My Room. Its design\nisn't something impressive but it\nsomehow blends with any kind of\nroom."
+		"tr_explain": "A floor mat for My Room. Its design\nisn't something impressive but it\nsomehow blends with any kind of\nroom."
 	},
 	{
 		"assign": "350296",
@@ -1929,7 +1929,7 @@
 		"jp_text": "ベーシックローテーブル",
 		"tr_text": "Basic Low Table",
 		"jp_explain": "小物や装飾品を置くためのテーブル。\nいかなる用途でも適応する、柔軟性に\n優れた標準的なモデル。",
-		"tr_explain": "Una mesa para colocar pequeños adornos.\nThis standard model is known for its\nflexibility to adapt to any\natmosphere."
+		"tr_explain": "A table for placing small decorations.\nThis standard model is known for its\nflexibility to adapt to any\natmosphere."
 	},
 	{
 		"assign": "350298",
@@ -1978,28 +1978,28 @@
 		"jp_text": "ゴシックテーブル",
 		"tr_text": "Gothic Table",
 		"jp_explain": "小物や装飾品を置くためのテーブル。\nラグジュアリーながら落ち着きのある\nパープルが目を引く逸品。",
-		"tr_explain": "Una mesa para colocar pequeños adornos.\nIts purple color and elegant design\neasily attracts attention."
+		"tr_explain": "A table for placing small decorations.\nIts purple color and elegant design\neasily attracts attention."
 	},
 	{
 		"assign": "350305",
 		"jp_text": "ゴシックテーブルＲ",
 		"tr_text": "Gothic Table R",
 		"jp_explain": "小物や装飾品を置くためのテーブル。\nラグジュアリーながら落ち着きのある\nレッドが目を引く逸品。",
-		"tr_explain": "Una mesa para colocar pequeños adornos.\nIts purple color and elegant design\neasily attracts attention."
+		"tr_explain": "A table for placing small decorations.\nIts purple color and elegant design\neasily attracts attention."
 	},
 	{
 		"assign": "350306",
 		"jp_text": "クラシックテーブルＰ",
 		"tr_text": "Classic Table P",
 		"jp_explain": "小物や装飾品を置くためのテーブル。\n安心感のあるデザインが人気の\n汎用性の高い標準モデル。",
-		"tr_explain": "Una mesa para colocar pequeños adornos.\nA very popular standard model with\nhigh flexibility and secure design."
+		"tr_explain": "A table for placing small decorations.\nA very popular standard model with\nhigh flexibility and secure design."
 	},
 	{
 		"assign": "350307",
 		"jp_text": "クラシックテーブルＣ",
 		"tr_text": "Classic Table C",
 		"jp_explain": "小物や装飾品を置くためのテーブル。\n安心感のあるデザインが人気の\n汎用性の高い標準モデル。",
-		"tr_explain": "Una mesa para colocar pequeños adornos.\nA very popular standard model with\nhigh flexibility and secure design."
+		"tr_explain": "A table for placing small decorations.\nA very popular standard model with\nhigh flexibility and secure design."
 	},
 	{
 		"assign": "350308",
@@ -2146,7 +2146,7 @@
 		"jp_text": "スイートベッド",
 		"tr_text": "Sweet Bed",
 		"jp_explain": "マイルーム用のダブルサイズベッド。\nカラメルの香りが乙女に大人気。\n究極のスイーツだが食べられない。",
-		"tr_explain": "Una cama doble para My Room.\nThe scent of caramel makes it\npopular with the ladies. The ultimate\ntreat that you cannot eat."
+		"tr_explain": "A double-sized bed for My Room.\nThe scent of caramel makes it\npopular with the ladies. The ultimate\ntreat that you cannot eat."
 	},
 	{
 		"assign": "350333",
@@ -2160,7 +2160,7 @@
 		"jp_text": "スイートローテーブル",
 		"tr_text": "Sweet Low Table",
 		"jp_explain": "小物や装飾品を置くためのテーブル。\nクリームチーズの香りが食欲をそそる。\n究極のスイーツだが食べられない。",
-		"tr_explain": "Una mesa para colocar pequeños adornos.\nThe scent of cream is appetizing. The\nultimate treat that you cannot eat."
+		"tr_explain": "A table for placing small decorations.\nThe scent of cream is appetizing. The\nultimate treat that you cannot eat."
 	},
 	{
 		"assign": "350335",
@@ -2181,7 +2181,7 @@
 		"jp_text": "スイートベッドＢ",
 		"tr_text": "Sweet Bed B",
 		"jp_explain": "マイルーム用のダブルサイズベッド。\nチョコの香りが乙女に大人気。\n究極のスイーツだが食べられない。",
-		"tr_explain": "Una cama doble para My Room.\nThe scent of caramel makes it\npopular with the ladies. The ultimate\ntreat that you cannot eat."
+		"tr_explain": "A double-sized bed for My Room.\nThe scent of caramel makes it\npopular with the ladies. The ultimate\ntreat that you cannot eat."
 	},
 	{
 		"assign": "350338",
@@ -2195,7 +2195,7 @@
 		"jp_text": "スイートローテーブルＢ",
 		"tr_text": "Sweet Low Table B",
 		"jp_explain": "小物や装飾品を置くためのテーブル。\nシュー生地の香りが食欲をそそる。\n究極のスイーツだが食べられない。",
-		"tr_explain": "Una mesa para colocar pequeños adornos.\nThe scent of cream is appetizing. The\nultimate treat that you cannot eat."
+		"tr_explain": "A table for placing small decorations.\nThe scent of cream is appetizing. The\nultimate treat that you cannot eat."
 	},
 	{
 		"assign": "350340",
@@ -2216,7 +2216,7 @@
 		"jp_text": "スイートベッドＣ",
 		"tr_text": "Sweet Bed C",
 		"jp_explain": "マイルーム用のダブルサイズベッド。\n抹茶の香りが乙女に大人気。\n究極のスイーツだが食べられない。",
-		"tr_explain": "Una cama doble para My Room.\nThe scent of caramel makes it\npopular with the ladies. The ultimate\ntreat that you cannot eat."
+		"tr_explain": "A double-sized bed for My Room.\nThe scent of caramel makes it\npopular with the ladies. The ultimate\ntreat that you cannot eat."
 	},
 	{
 		"assign": "350343",
@@ -2230,7 +2230,7 @@
 		"jp_text": "スイートローテーブルＣ",
 		"tr_text": "Sweet Low Table C",
 		"jp_explain": "小物や装飾品を置くためのテーブル。\nクリームの香りが食欲をそそる。\n究極のスイーツだが食べられない。",
-		"tr_explain": "Una mesa para colocar pequeños adornos.\nThe scent of cream is appetizing. The\nultimate treat that you cannot eat."
+		"tr_explain": "A table for placing small decorations.\nThe scent of cream is appetizing. The\nultimate treat that you cannot eat."
 	},
 	{
 		"assign": "350345",
@@ -2258,7 +2258,7 @@
 		"jp_text": "チャイナベッド",
 		"tr_text": "China Bed",
 		"jp_explain": "マイルーム用のダブルサイズベッド。\n寝転がるだけで贅沢な気分を味わえる。",
-		"tr_explain": "Una cama doble para My Room.\nYou can feel the luxury just by lying\non it."
+		"tr_explain": "A double-sized bed for My Room.\nYou can feel the luxury just by lying\non it."
 	},
 	{
 		"assign": "350349",
@@ -2272,14 +2272,14 @@
 		"jp_text": "チャイナローテーブル",
 		"tr_text": "China Low Table",
 		"jp_explain": "小物や装飾品を置くためのテーブル。\n側面に彫られた独特の模様がウリで\n部屋の雰囲気を引き締める一品。",
-		"tr_explain": "Una mesa para colocar pequeños adornos.\nIts unique design and engravings\ngives it a very strong presence\ninside the room."
+		"tr_explain": "A table for placing small decorations.\nIts unique design and engravings\ngives it a very strong presence\ninside the room."
 	},
 	{
 		"assign": "350351",
 		"jp_text": "チャイナマット",
 		"tr_text": "China Mat",
 		"jp_explain": "マイルームの床に敷くためのマット。\n全体に編み込まれた模様は独特で\n部屋の雰囲気を一変させる。",
-		"tr_explain": "Una alfombra de piso para My Room. Its unique\nwoven design enhances the\natmosphere of the room."
+		"tr_explain": "A floor mat for My Room. Its unique\nwoven design enhances the\natmosphere of the room."
 	},
 	{
 		"assign": "350352",
@@ -2293,7 +2293,7 @@
 		"jp_text": "チャイナベッドＧ",
 		"tr_text": "China Bed G",
 		"jp_explain": "マイルーム用のダブルサイズベッド。\n寝転がるだけで贅沢な気分を味わえる。",
-		"tr_explain": "Una cama doble para My Room.\nYou can feel the luxury just by lying\non it."
+		"tr_explain": "A double-sized bed for My Room.\nYou can feel the luxury just by lying\non it."
 	},
 	{
 		"assign": "350354",
@@ -2307,14 +2307,14 @@
 		"jp_text": "チャイナローテーブルＧ",
 		"tr_text": "China Low Table G",
 		"jp_explain": "小物や装飾品を置くためのテーブル。\n側面に彫られた独特の模様がウリで\n部屋の雰囲気を引き締める一品。",
-		"tr_explain": "Una mesa para colocar pequeños adornos.\nIts unique design and engravings\ngives it a very strong presence\ninside the room."
+		"tr_explain": "A table for placing small decorations.\nIts unique design and engravings\ngives it a very strong presence\ninside the room."
 	},
 	{
 		"assign": "350356",
 		"jp_text": "チャイナマットＧ",
 		"tr_text": "China Mat G",
 		"jp_explain": "マイルームの床に敷くためのマット。\n全体に編み込まれた模様は独特で\n部屋の雰囲気を一変させる。",
-		"tr_explain": "Una alfombra de piso para My Room. Its unique\nwoven design enhances the\natmosphere of the room."
+		"tr_explain": "A floor mat for My Room. Its unique\nwoven design enhances the\natmosphere of the room."
 	},
 	{
 		"assign": "350357",
@@ -2370,7 +2370,7 @@
 		"jp_text": "ウェスタンベッドＡ",
 		"tr_text": "Western Bed A",
 		"jp_explain": "マイルーム用のダブルサイズベッド。\n古風かつ粋な作りで、寝転ぶと\nワイルドな気分になれる。",
-		"tr_explain": "Una cama doble para My Room. Its\nold-fashioned and stylish design will\ngive you a wild feeling when lying\ndown."
+		"tr_explain": "A double-sized bed for My Room. Its\nold-fashioned and stylish design will\ngive you a wild feeling when lying\ndown."
 	},
 	{
 		"assign": "350365",
@@ -2384,14 +2384,14 @@
 		"jp_text": "ウェスタンローテーブルＡ",
 		"tr_text": "Western Low Table A",
 		"jp_explain": "小物や装飾品を置くためのテーブル。\n木製のおおざっぱな作りだが、強度は\n高く、拳をたたきつけても壊れない。",
-		"tr_explain": "Una mesa para colocar pequeños adornos.\nDespite the rough wooden structure,\nthis table is actually quite tough and\ndoesn't break easily."
+		"tr_explain": "A table for placing small decorations.\nDespite the rough wooden structure,\nthis table is actually quite tough and\ndoesn't break easily."
 	},
 	{
 		"assign": "350367",
 		"jp_text": "ウェスタンラグマットＡ",
 		"tr_text": "Western Rug Mat A",
 		"jp_explain": "マイルームの床に敷くためのマット。\nぼろ布のようなその見た目が逆に\nワイルドな雰囲気を持つと人気。",
-		"tr_explain": "Una alfombra de piso para My Room. Despite its\ntattered design, it is actually popular\ndue to the wild atmosphere it gives."
+		"tr_explain": "A floor mat for My Room. Despite its\ntattered design, it is actually popular\ndue to the wild atmosphere it gives."
 	},
 	{
 		"assign": "350368",
@@ -2475,21 +2475,21 @@
 		"jp_text": "ウェスタンシャンデリア",
 		"tr_text": "Western Chandelier",
 		"jp_explain": "マイルームに設置する照明器具。\n扇風機付きのレトロなデザインで\nワイルドな世代に人気がある。",
-		"tr_explain": "Una lámpara para My Room. A\nchandelier with a fan, made popular\nfor its wild and retro design."
+		"tr_explain": "A lighting fixture for My Room. A\nchandelier with a fan, made popular\nfor its wild and retro design."
 	},
 	{
 		"assign": "350380",
 		"jp_text": "フトンＢ",
 		"tr_text": "Futon B",
 		"jp_explain": "マイルームで利用可能な寝具。\n床に直接敷いて利用でき、腰を痛めた\nアークスのメンバーにとっての必需品。",
-		"tr_explain": "Un colchón para My Room.\nA must have for any ARKS member.\nYou can spread this directly on the\nfloor. May cause hip pain."
+		"tr_explain": "A mattress for My Room.\nA must have for any ARKS member.\nYou can spread this directly on the\nfloor. May cause hip pain."
 	},
 	{
 		"assign": "350381",
 		"jp_text": "オリエントローテーブルＢ",
 		"tr_text": "Orient Low Table B",
 		"jp_explain": "小物や装飾品を置くためのテーブル。\n暖かみを感じさせる木目と落ち着きある\n濃い色合いでくつろぎを与える家具。",
-		"tr_explain": "Una mesa para colocar pequeños adornos.\nThis furniture's deep shade gives off\na very relaxing feeling and warmth."
+		"tr_explain": "A table for placing small decorations.\nThis furniture's deep shade gives off\na very relaxing feeling and warmth."
 	},
 	{
 		"assign": "350382",
@@ -2510,14 +2510,14 @@
 		"jp_text": "フトンＣ",
 		"tr_text": "Futon C",
 		"jp_explain": "マイルームで利用可能な寝具。\n床に直接敷いて利用でき、腰を痛めた\nアークスのメンバーにとっての必需品。",
-		"tr_explain": "Un colchón para My Room.\nA must have for any ARKS member.\nYou can spread this directly on the\nfloor. May cause hip pain."
+		"tr_explain": "A mattress for My Room.\nA must have for any ARKS member.\nYou can spread this directly on the\nfloor. May cause hip pain."
 	},
 	{
 		"assign": "350385",
 		"jp_text": "オリエントローテーブルＣ",
 		"tr_text": "Orient Low Table C",
 		"jp_explain": "小物や装飾品を置くためのテーブル。\n暖かみを感じさせる木目と落ち着きある\n濃い色合いでくつろぎを与える家具。",
-		"tr_explain": "Una mesa para colocar pequeños adornos.\nThis furniture's deep shade gives off\na very relaxing feeling and warmth."
+		"tr_explain": "A table for placing small decorations.\nThis furniture's deep shade gives off\na very relaxing feeling and warmth."
 	},
 	{
 		"assign": "350386",
@@ -2664,7 +2664,7 @@
 		"jp_text": "ジェイドバス",
 		"tr_text": "Jade Bath",
 		"jp_explain": "マイルームに設置可能なオブジェクト。\n浮遊大陸の鉱石を用いて作られた風呂。\n魂まで洗われると評判。",
-		"tr_explain": "Una bañera para My Room.\nA bath made from materials found in\nthe Skyscapes. Rumored to\nbe able to cleanse the soul."
+		"tr_explain": "A bathtub for My Room.\nA bath made from materials found in\nthe Skyscapes. Rumored to\nbe able to cleanse the soul."
 	},
 	{
 		"assign": "350407",
@@ -3231,14 +3231,14 @@
 		"jp_text": "レトロベッド",
 		"tr_text": "Retro Bed",
 		"jp_explain": "マイルーム用のダブルサイズベッド。\n華奢な見た目に反して頑丈なつくり。\n寝転ぶとレトロな気分になれる。",
-		"tr_explain": "Una cama doble para My Room.\nSturdy despite its delicate\nappearance. You can feel the retro\njust from lying down."
+		"tr_explain": "A double-sized bed for My Room.\nSturdy despite its delicate\nappearance. You can feel the retro\njust from lying down."
 	},
 	{
 		"assign": "350503",
 		"jp_text": "レトロテーブル",
 		"tr_text": "Retro Table",
 		"jp_explain": "小物や装飾品を置くためのテーブル。\n天板から覗く歯車が時計を思わせる\nデザインになっている。",
-		"tr_explain": "Una mesa para colocar pequeños adornos.\nThe gears visible from the top were\ndesigned to run similar to a clock."
+		"tr_explain": "A table for placing small decorations.\nThe gears visible from the top were\ndesigned to run similar to a clock."
 	},
 	{
 		"assign": "350504",
@@ -3259,7 +3259,7 @@
 		"jp_text": "レトロシャンデリア",
 		"tr_text": "Retro Chandelier",
 		"jp_explain": "マイルームに設置する照明器具。\nパンチメタルのシェードから\n漏れる光が特徴的。",
-		"tr_explain": "Una lámpara para My Room.\nA unique chandelier that provides\nlight through punctured steel."
+		"tr_explain": "A lighting fixture for My Room.\nA unique chandelier that provides\nlight through punctured steel."
 	},
 	{
 		"assign": "350507",
@@ -3301,14 +3301,14 @@
 		"jp_text": "レトロベッドＢ",
 		"tr_text": "Retro Bed B",
 		"jp_explain": "マイルーム用のダブルサイズベッド。\n華奢な見た目に反して頑丈なつくり。\n寝転ぶとレトロな気分になれる。",
-		"tr_explain": "Una cama doble para My Room.\nSturdy despite its delicate\nappearance. You can feel the retro\njust from lying down."
+		"tr_explain": "A double-sized bed for My Room.\nSturdy despite its delicate\nappearance. You can feel the retro\njust from lying down."
 	},
 	{
 		"assign": "350513",
 		"jp_text": "レトロテーブルＢ",
 		"tr_text": "Retro Table B",
 		"jp_explain": "小物や装飾品を置くためのテーブル。\n天板から覗く歯車が時計を思わせる\nデザインになっている。",
-		"tr_explain": "Una mesa para colocar pequeños adornos.\nThe gears visible from the top were\ndesigned to run similar to a clock."
+		"tr_explain": "A table for placing small decorations.\nThe gears visible from the top were\ndesigned to run similar to a clock."
 	},
 	{
 		"assign": "350514",
@@ -3329,7 +3329,7 @@
 		"jp_text": "レトロシャンデリアＢ",
 		"tr_text": "Retro Chandelier B",
 		"jp_explain": "マイルームに設置する照明器具。\nパンチメタルのシェードから\n漏れる光が特徴的。",
-		"tr_explain": "Una lámpara para My Room.\nA unique chandelier that provides\nlight through punctured steel."
+		"tr_explain": "A lighting fixture for My Room.\nA unique chandelier that provides\nlight through punctured steel."
 	},
 	{
 		"assign": "350517",
@@ -3511,7 +3511,7 @@
 		"jp_text": "ファンシーベッド",
 		"tr_text": "Fancy Bed",
 		"jp_explain": "マイルーム用のダブルサイズベッド。\n白を基調とした可愛らしいデザイン。\n寝転ぶと乙女チックな気分になれる。",
-		"tr_explain": "Una cama doble para My Room.\nIts pretty design makes you feel like\na little girl just by lying down."
+		"tr_explain": "A double-sized bed for My Room.\nIts pretty design makes you feel like\na little girl just by lying down."
 	},
 	{
 		"assign": "350543",
@@ -3539,7 +3539,7 @@
 		"jp_text": "ファンシーシャンデリア",
 		"tr_text": "Fancy Chandelier",
 		"jp_explain": "マイルームに設置する照明器具。\n過度の装飾を廃したシンプルな\n作りは乙女に好評。",
-		"tr_explain": "Una lámpara para My Room.\nA pretty simple chandelier which\nbecame popular with young girls."
+		"tr_explain": "A lighting fixture for My Room.\nA pretty simple chandelier which\nbecame popular with young girls."
 	},
 	{
 		"assign": "350547",
@@ -3581,7 +3581,7 @@
 		"jp_text": "ファンシーベッドＢ",
 		"tr_text": "Fancy Bed B",
 		"jp_explain": "マイルーム用のダブルサイズベッド。\n黒を基調とした可愛らしいデザイン。\n寝転ぶと乙女チックな気分になれる。",
-		"tr_explain": "Una cama doble para My Room.\nIts pretty design makes you feel like\na little girl just by lying down."
+		"tr_explain": "A double-sized bed for My Room.\nIts pretty design makes you feel like\na little girl just by lying down."
 	},
 	{
 		"assign": "350553",
@@ -4358,7 +4358,7 @@
 		"jp_text": "ＰＳＯ２ビジュアルマット",
 		"tr_text": "PSO2 Visual Mat",
 		"jp_explain": "マイルームの床に敷くためのマット。\n美麗なイラストがプリントされており\n踏むに踏めない一品。",
-		"tr_explain": "Una alfombra de piso para My Room. Make sure\nnot to step on the beautiful\nillustrations when walking on it."
+		"tr_explain": "A floor mat for My Room. Make sure\nnot to step on the beautiful\nillustrations when walking on it."
 	},
 	{
 		"assign": "350700",
