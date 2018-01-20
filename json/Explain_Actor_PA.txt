@@ -1159,14 +1159,14 @@
 		"jp_text": "バータ",
 		"tr_text": "Barta",
 		"jp_explain": "初級の氷属性テクニック。\nフォトンを媒介にして、大気を冷却し\n射線上に氷柱を走らせる。",
-		"tr_explain": "Basic ice technique.\nFreezes the air to fire a line of icicles."
+		"tr_explain": "Técnica básica de hielo.\nCongela el aire para disparar\nuna línea de trozos de hielo\n."
 	},
 	{
 		"assign": "Ice02",
 		"jp_text": "ギ・バータ",
 		"tr_text": "Gibarta",
 		"jp_explain": "中級の氷属性テクニック。\nフォトンを媒介に、大気を急速冷却し\n前方広範囲に氷の礫を発生させる。",
-		"tr_explain": "Intermediate ice technique.\nQuickly cools the atmosphere,\nproducing icy shrapnel in front."
+		"tr_explain": "Técnica de hielo intermedio.\nEnfría rápidamente la atmósfera,\nproduciendo metralla helada en el frente."
 	},
 	{
 		"assign": "Ice03",
