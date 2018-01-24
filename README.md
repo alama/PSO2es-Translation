@@ -1,4 +1,4 @@
-# Phantasy Star Online 2 es Projecto de Traduccion al Español
+# Phantasy Star Online 2 es Proyecto de Traduccion al Español
 
 [![CircleCI](https://circleci.com/gh/TheBlazter/PSO2es-Translation/tree/master.svg?style=svg)](https://circleci.com/gh/TheBlazter/workflows/PSO2es-Translation/tree/master)
 
