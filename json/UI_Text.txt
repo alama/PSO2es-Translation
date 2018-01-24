@@ -92,7 +92,7 @@
 	{
 		"assign": "acshop_premium_term",
 		"jp_text": "プレミアム有効期限",
-		"tr_text": "Premium Expire Date"
+		"tr_text": "Fecha de Expiracion de Premium"
 	},
 	{
 		"assign": "acshop_item_list",
@@ -167,7 +167,7 @@
 	{
 		"assign": "acshop_dialog_t_02",
 		"jp_text": "<%AC>ショップ",
-		"tr_text": "<%AC> Shop"
+		"tr_text": "Tienda <%AC>"
 	},
 	{
 		"assign": "acshop_dialog_b_02",
@@ -177,17 +177,17 @@
 	{
 		"assign": "acshop_dialog_t_03",
 		"jp_text": "<%AC>ショップ",
-		"tr_text": "<%AC> Shop"
+		"tr_text": "Tienda <%AC>"
 	},
 	{
 		"assign": "acshop_dialog_b_03",
 		"jp_text": "チップパックを拡張しました。",
-		"tr_text": "Chip Storage extendido."
+		"tr_text": "Almacen de Chips extendido."
 	},
 	{
 		"assign": "acshop_dialog_t_04",
 		"jp_text": "<%AC>ショップ",
-		"tr_text": "<%AC> Shop"
+		"tr_text": "Tienda <%AC>"
 	},
 	{
 		"assign": "acshop_dialog_b_04",
@@ -442,7 +442,7 @@
 	{
 		"assign": "acshop_dialog_b_29",
 		"jp_text": "最大所持数を超えてしまうため、\n購入できません。",
-		"tr_text": "You cannot exceed the\nmaximum limit owned."
+		"tr_text": "No puedes exceder el\nlimite maximo obtenido."
 	},
 	{
 		"assign": "acshop_dialog_t_30",
