@@ -612,7 +612,7 @@
 	{
 		"assign": "002_b",
 		"jp_text": "このプレイヤーIDネームは、\r\n他のプレイヤーがすでに使用しています。",
-		"tr_text": "El Player ID esta en use.\r\nPor favor intente usando otra."
+		"tr_text": "El Player ID esta en uso.\r\nPor favor intente usando otra."
 	},
 	{
 		"assign": "003_b",
@@ -632,12 +632,12 @@
 	{
 		"assign": "114_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "115_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "108_b",
@@ -647,7 +647,7 @@
 	{
 		"assign": "109_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "122_b",
@@ -677,7 +677,7 @@
 	{
 		"assign": "125_b",
 		"jp_text": "新しいバージョンが配信されています。\r\nアップデートを行ってから\r\nゲームをお楽しみください。",
-		"tr_text": "New version has been released.\r\nPlease update now."
+		"tr_text": "Hay una nueva version disponible.\r\nPor favor actualize ahora."
 	},
 	{
 		"assign": "126_b",
@@ -692,262 +692,262 @@
 	{
 		"assign": "221_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "211_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "204_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "205_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "300_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "303_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "301_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "311_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "313_b",
 		"jp_text": "既にボスが討伐されています。",
-		"tr_text": "Boss already defeated."
+		"tr_text": "El jefe ya fue derrotado."
 	},
 	{
 		"assign": "304_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "302_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "305_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "306_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "307_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "308_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "309_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "313_b",
 		"jp_text": "既にボスが討伐されています。",
-		"tr_text": "Boss already defeated."
+		"tr_text": "El jefe ya fue derrotado."
 	},
 	{
 		"assign": "310_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "312_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "314_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "315_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "229_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "224_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "206_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "207_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "208_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "209_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "212_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "214_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "245_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "246_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "247_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "248_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "215_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "249_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "250_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "251_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "252_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "253_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "254_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "255_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "256_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "257_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "258_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "259_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "260_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "261_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "262_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "408_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "409_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "400_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "401_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "402_b",
@@ -982,22 +982,22 @@
 	{
 		"assign": "442_b",
 		"jp_text": "フレンド数が上限に達しています。",
-		"tr_text": "Reached Max Friends."
+		"tr_text": "Se a superado el Maximo de Amigos."
 	},
 	{
 		"assign": "400_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "225_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "221_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "279_b",
@@ -1012,12 +1012,12 @@
 	{
 		"assign": "283_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "216_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "217_b",
@@ -1027,12 +1027,12 @@
 	{
 		"assign": "128_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "213_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "240_b",
@@ -1042,17 +1042,17 @@
 	{
 		"assign": "242_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "243_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "244_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "280_b",
@@ -1067,17 +1067,17 @@
 	{
 		"assign": "284_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "285_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "218_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "230_b",
@@ -1097,12 +1097,12 @@
 	{
 		"assign": "110_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "111_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "112_b",
@@ -1122,12 +1122,12 @@
 	{
 		"assign": "120_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "121_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "102_b",
@@ -1137,16 +1137,16 @@
 	{
 		"assign": "231_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "232_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	},
 	{
 		"assign": "233_b",
 		"jp_text": "サーバーエラーが発生しました。\r\nタイトル画面に戻ります。",
-		"tr_text": "A server error has occured.\nYou will be returned to the title screen."
+		"tr_text": "A ocurrido un error en el servidor.\nSe regresara ha la pantalla de titulo."
 	}
 ]
