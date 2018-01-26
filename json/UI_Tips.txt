@@ -7,12 +7,12 @@
 	{
 		"assign": "1",
 		"jp_text": "<color=black>私は、セラフィと申します。\r\nこの『PSO2es』で、皆様の案内役を\r\n担当させていただきます。\r\n悩みは、画面映りが地味なことです。\r\nどうぞよろしくお願いいたします。</color>",
-		"tr_text": "<color=black>Mi nombre es Seraphy.\r\nAqui en『PSO2es』, estare acargo de\r\nser su guia.\r\nLamento los problemas con los reflejos de la pantalla.\r\nMuchas gracias por atender.</color>"
+		"tr_text": "<color=black>Mi nombre es Seraphy.\r\nAqui en [PSO2es], estare acargo de\r\nser su guia.\r\nLamento los problemas con los reflejos de la pantalla.\r\nMuchas gracias por atender.</color>"
 	},
 	{
 		"assign": "2",
 		"jp_text": "<color=black>さて、この『PSO2es』の最大の特徴は\r\n何と言っても、『PSO2』と\r\nキャラクターデータを連動して\r\nプレイできることです。</color>",
-		"tr_text": "<color=black>Bien, la principal caracteristica de\r\n『PSO2es』es poder jugar con los datos\r\nconjuntos de tu personaje\r\nde『PSO2』.</color>"
+		"tr_text": "<color=black>Bien, la principal caracteristica de\r\n[PSO2es] es poder jugar con los datos\r\nconjuntos de tu personaje\r\nde『PSO2』.</color>"
 	},
 	{
 		"assign": "3",
