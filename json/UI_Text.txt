@@ -47,12 +47,12 @@
 	{
 		"assign": "acshop_top_menu_title",
 		"jp_text": "<%AC>ショップメニュー",
-		"tr_text": "<%AC> Shop Menu"
+		"tr_text": "Menu de Tienda <%AC>"
 	},
 	{
 		"assign": "acshop_btn_acshop",
 		"jp_text": "<%AC>ショップ",
-		"tr_text": "<%AC> Shop"
+		"tr_text": "Tienda <%AC>"
 	},
 	{
 		"assign": "acshop_btn_accharge",
@@ -72,17 +72,17 @@
 	{
 		"assign": "acshop_btn_premium_30",
 		"jp_text": "プレミアムセット３０日",
-		"tr_text": "Premium Set 30 Days"
+		"tr_text": "Premium Set 30 Dias"
 	},
 	{
 		"assign": "acshop_btn_premium_60",
 		"jp_text": "プレミアムセット６０日",
-		"tr_text": "Premium Set 60 Days"
+		"tr_text": "Premium Set 60 Dias"
 	},
 	{
 		"assign": "acshop_btn_premium_90",
 		"jp_text": "プレミアムセット９０日",
-		"tr_text": "Premium Set 90 Days"
+		"tr_text": "Premium Set 90 Dias"
 	},
 	{
 		"assign": "acshop_btn_premium_1",
@@ -92,7 +92,7 @@
 	{
 		"assign": "acshop_premium_term",
 		"jp_text": "プレミアム有効期限",
-		"tr_text": "Fecha de Expiracion de Premium"
+		"tr_text": "Expiracion de Premium"
 	},
 	{
 		"assign": "acshop_item_list",
@@ -137,7 +137,7 @@
 	{
 		"assign": "acshop_dialog_obt_t_00",
 		"jp_text": "<%AC>ショップについて",
-		"tr_text": "Acerca de <%AC> Shop"
+		"tr_text": "Acerca de Tienda <%AC>"
 	},
 	{
 		"assign": "acshop_dialog_obt_b_00",
@@ -147,7 +147,7 @@
 	{
 		"assign": "acshop_dialog_t_00",
 		"jp_text": "<%AC>ショップ",
-		"tr_text": "<%AC> Shop"
+		"tr_text": "Tienda <%AC>"
 	},
 	{
 		"assign": "acshop_dialog_b_00",
@@ -207,7 +207,7 @@
 	{
 		"assign": "acshop_dialog_t_06",
 		"jp_text": "<%AC>ショップ",
-		"tr_text": "<%AC> Shop"
+		"tr_text": "Tienda <%AC>"
 	},
 	{
 		"assign": "acshop_dialog_b_06",
@@ -217,7 +217,7 @@
 	{
 		"assign": "acshop_dialog_t_07",
 		"jp_text": "<%AC>ショップ",
-		"tr_text": "<%AC> Shop"
+		"tr_text": "Tienda <%AC>"
 	},
 	{
 		"assign": "acshop_dialog_b_07",
@@ -467,7 +467,7 @@
 	{
 		"assign": "acshop_dialog_t_32",
 		"jp_text": "必要OP不足",
-		"tr_text": "You lack the necessary OP"
+		"tr_text": "Falta el OP nesesario"
 	},
 	{
 		"assign": "acshop_dialog_b_32",
@@ -517,7 +517,7 @@
 	{
 		"assign": "acshop_dialog_t_37",
 		"jp_text": "アイテム使用数確認",
-		"tr_text": "Use Item"
+		"tr_text": "Use Objeto"
 	},
 	{
 		"assign": "acshop_dialog_b_37",
@@ -612,7 +612,7 @@
 	{
 		"assign": "acshop_item_unit",
 		"jp_text": "現在の所持数：",
-		"tr_text": "Owned: "
+		"tr_text": "Tienes: "
 	},
 	{
 		"assign": "acshop_oprecovery_pass_buff_01",
@@ -687,7 +687,7 @@
 	{
 		"assign": "acshop_dialog_t_41",
 		"jp_text": "<%AC>ショップ",
-		"tr_text": "<%AC> Shop"
+		"tr_text": "Tienda <%AC>"
 	},
 	{
 		"assign": "acshop_dialog_b_41",
@@ -1647,7 +1647,7 @@
 	{
 		"assign": "equip_dialog_b_00",
 		"jp_text": "装備しているチップを全て解除します。\nよろしいですか？",
-		"tr_text": "Esto removera todos los Chips\nactualmenteequipados.\n¿Continuar?"
+		"tr_text": "Esto removera todos los Chips\nactualmente equipados.\n¿Continuar?"
 	},
 	{
 		"assign": "equip_dialog_t_01",
@@ -2077,7 +2077,7 @@
 	{
 		"assign": "labo_dialog_b_06",
 		"jp_text": "メセタが不足しているため\n解放することができません。",
-		"tr_text": "Cannot proceed.\nNot enough Meseta."
+		"tr_text": "No es posible proceder.\nNo hay suficiente Meseta."
 	},
 	{
 		"assign": "labo_dialog_t_07",
@@ -2142,7 +2142,7 @@
 	{
 		"assign": "item_grind_need_grinder_num",
 		"jp_text": "<color=#ffff00>必要グラインダー数：<%grind_num></color>",
-		"tr_text": "<color=#ffff00>Required grinders: <%grind_num></color>"
+		"tr_text": "<color=#ffff00>Grinders requeridos: <%grind_num></color>"
 	},
 	{
 		"assign": "item_grind_own_grinder_num",
@@ -2462,7 +2462,7 @@
 	{
 		"assign": "menu_dialog_t_02",
 		"jp_text": "シップ選択",
-		"tr_text": "Selección de Ship"
+		"tr_text": "Selección de Nave"
 	},
 	{
 		"assign": "menu_dialog_b_02",
@@ -2792,7 +2792,7 @@
 	{
 		"assign": "menu_dialog_button_ship",
 		"jp_text": "シップ選択へ",
-		"tr_text": "Selección de Ship"
+		"tr_text": "Selección de Nave"
 	},
 	{
 		"assign": "menu_dialog_t_24",
@@ -2832,7 +2832,7 @@
 	{
 		"assign": "mag_menu_00",
 		"jp_text": "アイテムを与える",
-		"tr_text": "Give Items"
+		"tr_text": "Dar Objetos"
 	},
 	{
 		"assign": "mag_menu_01",
@@ -2842,7 +2842,7 @@
 	{
 		"assign": "mag_dialog_t_00",
 		"jp_text": "アイテムを与える",
-		"tr_text": "Give Items"
+		"tr_text": "Dar Objetos"
 	},
 	{
 		"assign": "mag_dialog_b_00",
@@ -2892,7 +2892,7 @@
 	{
 		"assign": "mag_dialog_t_05",
 		"jp_text": "アイテムを与える",
-		"tr_text": "Give Items"
+		"tr_text": "Dar Objetos"
 	},
 	{
 		"assign": "mag_dialog_b_05",
@@ -2902,7 +2902,7 @@
 	{
 		"assign": "mag_dialog_t_06",
 		"jp_text": "アイテムを与える",
-		"tr_text": "Give Items"
+		"tr_text": "Dar Objetos"
 	},
 	{
 		"assign": "mag_dialog_b_06",
@@ -2912,7 +2912,7 @@
 	{
 		"assign": "mag_dialog_t_07",
 		"jp_text": "アイテムを与える",
-		"tr_text": "Give Items"
+		"tr_text": "Dar Objetos"
 	},
 	{
 		"assign": "mag_dialog_b_07",
@@ -2922,7 +2922,7 @@
 	{
 		"assign": "mag_dialog_t_08",
 		"jp_text": "アイテムを与える",
-		"tr_text": "Give Items"
+		"tr_text": "Dar Objetos"
 	},
 	{
 		"assign": "mag_dialog_b_08",
@@ -2967,17 +2967,17 @@
 	{
 		"assign": "mag_item_list_name",
 		"jp_text": "マグに与えるアイテム",
-		"tr_text": "Give Items To Mag"
+		"tr_text": "Dar Objetos al Mag"
 	},
 	{
 		"assign": "mag_device_list_name",
 		"jp_text": "マグに与えるデバイス",
-		"tr_text": "Give Mag Device"
+		"tr_text": "Dar Mag Device"
 	},
 	{
 		"assign": "mag_list_title",
 		"jp_text": "選択",
-		"tr_text": "Select"
+		"tr_text": "Seleccione"
 	},
 	{
 		"assign": "mag_dialog_t_14",
@@ -9222,7 +9222,7 @@
 	{
 		"assign": "menu_shop_acshop",
 		"jp_text": "<%AC>ショップ",
-		"tr_text": "<%AC> Shop"
+		"tr_text": "Tienda <%AC>"
 	},
 	{
 		"assign": "menu_equip_title",
@@ -14262,7 +14262,7 @@
 	{
 		"assign": "RaidEvent_tab_00",
 		"jp_text": "進行状況",
-		"tr_text": "Progress"
+		"tr_text": "Progreso"
 	},
 	{
 		"assign": "RaidEvent_tab_01",
@@ -15502,7 +15502,7 @@
 	{
 		"assign": "pet_selectmenu_window_title",
 		"jp_text": "選択",
-		"tr_text": "Select"
+		"tr_text": "Seleccione"
 	},
 	{
 		"assign": "pet_selectmenu_give_egg",
@@ -15662,12 +15662,12 @@
 	{
 		"assign": "pet_recovery_dialog_no",
 		"jp_text": "キャンセル",
-		"tr_text": "Cancel"
+		"tr_text": "Cancelar"
 	},
 	{
 		"assign": "pet_recovery_window_title",
 		"jp_text": "購入完了",
-		"tr_text": "Purchased"
+		"tr_text": "Comprado"
 	},
 	{
 		"assign": "pet_recovery_window_body",
@@ -15892,12 +15892,12 @@
 	{
 		"assign": "SideSt_Weaponoid_Sort_Got",
 		"jp_text": "入手済",
-		"tr_text": "Owned"
+		"tr_text": "Tienes"
 	},
 	{
 		"assign": "SideSt_Weaponoid_Sort_Progress",
 		"jp_text": "進行度",
-		"tr_text": "Progress"
+		"tr_text": "Progreso"
 	},
 	{
 		"assign": "ItemDetail_Parameter_GammaExpCaption",
@@ -16002,12 +16002,12 @@
 	{
 		"assign": "wpc_list_sorttype_isalreadyhave",
 		"jp_text": "入手済",
-		"tr_text": "Owned"
+		"tr_text": "Tienes"
 	},
 	{
 		"assign": "wpc_list_sorttype_progress",
 		"jp_text": "進行度",
-		"tr_text": "Progress"
+		"tr_text": "Progreso"
 	},
 	{
 		"assign": "sidestory_voice_play_locked_title",
@@ -18122,7 +18122,7 @@
 	{
 		"assign": "photondice_special_dialog_b_02",
 		"jp_text": "所持スペシャルプレイチケット：",
-		"tr_text": "Sp. Tickets Owned: "
+		"tr_text": "Sp. Tickets que Tienes: "
 	},
 	{
 		"assign": "photondice_has_not_dialog_t_01",
