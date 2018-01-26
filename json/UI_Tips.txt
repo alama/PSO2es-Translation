@@ -12,7 +12,7 @@
 	{
 		"assign": "2",
 		"jp_text": "<color=black>さて、この『PSO2es』の最大の特徴は\r\n何と言っても、『PSO2』と\r\nキャラクターデータを連動して\r\nプレイできることです。</color>",
-		"tr_text": "<color=black>Bien, la principal caracteristica de\r\n[PSO2es] es poder jugar con los datos\r\nconjuntos de tu personaje\r\nde『PSO2』.</color>"
+		"tr_text": "<color=black>Bien, la principal caracteristica de\r\n[PSO2es] es poder jugar con los datos\r\nconjuntos de tu personaje\r\nde [PSO2].</color>"
 	},
 	{
 		"assign": "3",
