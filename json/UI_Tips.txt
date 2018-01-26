@@ -2,17 +2,17 @@
 	{
 		"assign": "0",
 		"jp_text": "<color=black>皆様、『PSO2es』にようこそ！\r\nクローズドβテストに\r\nご協力いただきありがとうございます。\r\nまずは、私の自己紹介から……</color>",
-		"tr_text": "<color=black>Welcome everyone, to PSO2es!\nThis is the closed beta test.\nThank you for your help!\nBut first, let me introduce myself...</color>"
+		"tr_text": "<color=black>Todos sean bienvenidos, a PSO2es!\nEsta es un Beta Test Cerrado.\nGracias por tu ayuda!\nPero primero, me presento...</color>"
 	},
 	{
 		"assign": "1",
 		"jp_text": "<color=black>私は、セラフィと申します。\r\nこの『PSO2es』で、皆様の案内役を\r\n担当させていただきます。\r\n悩みは、画面映りが地味なことです。\r\nどうぞよろしくお願いいたします。</color>",
-		"tr_text": "<color=black>私は、セラフィと申します。\r\nこの『PSO2es』で、皆様の案内役を\r\n担当させていただきます。\r\n悩みは、画面映りが地味なことです。\r\nどうぞよろしくお願いいたします。</color>"
+		"tr_text": "<color=black>Mi nombre es Seraphy.\r\nAqui en『PSO2es』, estare acargo de\r\nser su guia.\r\nLamento los problemas con los reflejos de la pantalla.\r\nMuchas gracias por atender.</color>"
 	},
 	{
 		"assign": "2",
 		"jp_text": "<color=black>さて、この『PSO2es』の最大の特徴は\r\n何と言っても、『PSO2』と\r\nキャラクターデータを連動して\r\nプレイできることです。</color>",
-		"tr_text": "<color=black>さて、この『PSO2es』の最大の特徴は\r\n何と言っても、『PSO2』と\r\nキャラクターデータを連動して\r\nプレイできることです。</color>"
+		"tr_text": "<color=black>Bien, la principal caracteristica de\r\n『PSO2es』es poder jugar con los datos\r\nconjuntos de tu personaje\r\nde『PSO2』.</color>"
 	},
 	{
 		"assign": "3",
@@ -72,7 +72,7 @@
 	{
 		"assign": "14",
 		"jp_text": "<color=black>……どうやら、まだダウンロードに\r\n時間がかかっている模様です。\r\n皆様には長い時間お待たせさせてしまい\r\n大変申し訳ありません。</color>",
-		"tr_text": "<color=black>...Apparently, the download is\ntaking a long time. Sorry.</color>"
+		"tr_text": "<color=black>...Aparentemente, la descarga esta\ntomando bastante tiempo. Lo siento.</color>"
 	},
 	{
 		"assign": "15",

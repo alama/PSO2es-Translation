@@ -482,12 +482,12 @@
 	{
 		"assign": "280_t",
 		"jp_text": "スクラッチ選択",
-		"tr_text": "Scratch Selection"
+		"tr_text": "Seleccion de Loteria"
 	},
 	{
 		"assign": "281_t",
 		"jp_text": "スクラッチ選択",
-		"tr_text": "Scratch Selection"
+		"tr_text": "Seleccion de Loteria"
 	},
 	{
 		"assign": "284_t",
@@ -592,27 +592,27 @@
 	{
 		"assign": "103_b",
 		"jp_text": "入力されたワンタイムパスワードが\r\n正しくありません。",
-		"tr_text": "The one-time password you\nentered is incorrect."
+		"tr_text": "El one-time password\ningresado es incorrecto."
 	},
 	{
 		"assign": "104_b",
 		"jp_text": "５回連続で入力に失敗しました。\r\nしばらくたってから入力し直してください。",
-		"tr_text": "You have failed to enter the password\n5 times in a row. Please try again later."
+		"tr_text": "Has errado en introducir tu clave\n5 veces seguidas. Favor intente luego."
 	},
 	{
 		"assign": "105_b",
 		"jp_text": "ワンタイムパスワード認証開始時に\r\nエラーが発生しました。\r\n\r\n時間をおいて再度お試し頂くか、\r\nお問い合わせフォームより障害状況の\r\nご報告をお願いいたします。",
-		"tr_text": "You have exceeded the maximum\nattempts at logging in with a one-time\npassword. This account has been locked.\nPlease contact support through\nthe PSO2 website."
+		"tr_text": "Has excedido la cantidad de\nintentos en ingresar con one-time\npassword. Esta cuenta ha sido bloqueada.\nPor favor contactate con el soporte\natravez de la pagina de PSO2."
 	},
 	{
 		"assign": "106_b",
 		"jp_text": "ワンタイムパスワード認証開始時に\r\nエラーが発生しました。\r\n\r\n時間をおいて再度お試し頂くか、\r\nお問い合わせフォームより障害状況の\r\nご報告をお願いいたします。",
-		"tr_text": "OTP authentication error\r\nhas occurred.\r\n\r\nPlease try again later,\r\nand file a report at the support\r\npage on the players site."
+		"tr_text": "Ha ocurrido un error con la\r\nhautenticacion OTP.\r\n\r\nPor favor intente luego,\r\ny escriba un reporte en\r\nla pagina de jugadores."
 	},
 	{
 		"assign": "002_b",
 		"jp_text": "このプレイヤーIDネームは、\r\n他のプレイヤーがすでに使用しています。",
-		"tr_text": "Player ID is in use.\r\nPlease try another."
+		"tr_text": "El Player ID esta en use.\r\nPor favor intente usando otra."
 	},
 	{
 		"assign": "003_b",
