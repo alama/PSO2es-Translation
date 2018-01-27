@@ -8477,7 +8477,7 @@
 	{
 		"assign": "item_detail_prev",
 		"jp_text": "前",
-		"tr_text": "Prev"
+		"tr_text": "Anterior"
 	},
 	{
 		"assign": "item_detail_next",
@@ -8487,7 +8487,7 @@
 	{
 		"assign": "dict_current_chip_num",
 		"jp_text": "現在の調査済チップ数 {0}",
-		"tr_text": "Currently owned: {0}"
+		"tr_text": "Tienes actualmente: {0}"
 	},
 	{
 		"assign": "dict_present_list_title",
@@ -8997,17 +8997,17 @@
 	{
 		"assign": "loginbonus_begin",
 		"jp_text": "■<%day>日目のログインボーナス",
-		"tr_text": "■<%day> Daily Bonus Start"
+		"tr_text": "■<%day> Inicio de Bono Diario"
 	},
 	{
 		"assign": "loginbonus_begin_next",
 		"jp_text": "■キャラクターログインボーナス",
-		"tr_text": "■ Next Login Bonus"
+		"tr_text": "■ Siguiente Bono de Login"
 	},
 	{
 		"assign": "loginbonus_begin_comp",
 		"jp_text": "■コンプリートボーナス",
-		"tr_text": "■ Bonus Completed"
+		"tr_text": "■ Bono Completado"
 	},
 	{
 		"assign": "loginbonus_end",
@@ -9802,42 +9802,42 @@
 	{
 		"assign": "mail_first",
 		"jp_text": "最初",
-		"tr_text": "Primero"
+		"tr_text": " << "
 	},
 	{
 		"assign": "mail_prev",
 		"jp_text": "前",
-		"tr_text": "Anterior"
+		"tr_text": " < "
 	},
 	{
 		"assign": "mail_next",
 		"jp_text": "次",
-		"tr_text": "Siguiente"
+		"tr_text": " > "
 	},
 	{
 		"assign": "mail_last",
 		"jp_text": "最後",
-		"tr_text": "Último"
+		"tr_text": " >> "
 	},
 	{
 		"assign": "mail_first_shadow",
 		"jp_text": "<color=black>最初</color>",
-		"tr_text": "<color=black>Primero</color>"
+		"tr_text": "<color=black> << </color>"
 	},
 	{
 		"assign": "mail_prev_shadow",
 		"jp_text": "<color=black>前</color>",
-		"tr_text": "<color=black>Prev</color>"
+		"tr_text": "<color=black> < </color>"
 	},
 	{
 		"assign": "mail_next_shadow",
 		"jp_text": "<color=black>次</color>",
-		"tr_text": "<color=black>Siguiente</color>"
+		"tr_text": "<color=black> > </color>"
 	},
 	{
 		"assign": "mail_last_shadow",
 		"jp_text": "<color=black>最後</color>",
-		"tr_text": "<color=black>Último</color>"
+		"tr_text": "<color=black> >> </color>"
 	},
 	{
 		"assign": "mail_new",
@@ -17142,27 +17142,27 @@
 	{
 		"assign": "acceptbox_sort_standard",
 		"jp_text": "入手順",
-		"tr_text": "Order"
+		"tr_text": "Orden"
 	},
 	{
 		"assign": "acceptbox_sort_expiration",
 		"jp_text": "期限",
-		"tr_text": "Expira"
+		"tr_text": "Expiracion"
 	},
 	{
 		"assign": "acceptbox_sort_chip",
 		"jp_text": "チップ優先",
-		"tr_text": "Sort Chip"
+		"tr_text": "Chips"
 	},
 	{
 		"assign": "acceptbox_sort_item",
 		"jp_text": "アイテム優先",
-		"tr_text": "Sort Items"
+		"tr_text": "Objetos"
 	},
 	{
 		"assign": "acceptbox_sort_point",
 		"jp_text": "ポイント優先",
-		"tr_text": "Sort Point"
+		"tr_text": "Puntos"
 	},
 	{
 		"assign": "acceptbox_sort",
@@ -17172,62 +17172,62 @@
 	{
 		"assign": "acceptbox_first",
 		"jp_text": "最初",
-		"tr_text": "Primero"
+		"tr_text": " << "
 	},
 	{
 		"assign": "acceptbox_last",
 		"jp_text": "最後",
-		"tr_text": "Último"
+		"tr_text": " >> "
 	},
 	{
 		"assign": "acceptbox_next",
 		"jp_text": "次",
-		"tr_text": "Siguiente"
+		"tr_text": " > "
 	},
 	{
 		"assign": "acceptbox_prev",
 		"jp_text": "前",
-		"tr_text": "Anterior"
+		"tr_text": " < "
 	},
 	{
 		"assign": "acceptbox_first_shadow",
 		"jp_text": "<color=black>最初</color>",
-		"tr_text": "<color=black>First</color>"
+		"tr_text": "<color=black> << </color>"
 	},
 	{
 		"assign": "acceptbox_last_shadow",
 		"jp_text": "<color=black>最後</color>",
-		"tr_text": "<color=black>Last</color>"
+		"tr_text": "<color=black> >> </color>"
 	},
 	{
 		"assign": "acceptbox_next_shadow",
 		"jp_text": "<color=black>次</color>",
-		"tr_text": "<color=black>Next</color>"
+		"tr_text": "<color=black> > </color>"
 	},
 	{
 		"assign": "acceptbox_prev_shadow",
 		"jp_text": "<color=black>前</color>",
-		"tr_text": "<color=black>Prev.</color>"
+		"tr_text": "<color=black> < </color>"
 	},
 	{
 		"assign": "acceptbox_recieve",
 		"jp_text": "選択対象を受け取る",
-		"tr_text": "Grab Selected"
+		"tr_text": "Recibir seleccionado"
 	},
 	{
 		"assign": "acceptbox_point_recieve",
 		"jp_text": "チップ・アイテム以外を受取",
-		"tr_text": "Grab Non-Chip Items"
+		"tr_text": "Recibir Objetos (No Chips)"
 	},
 	{
 		"assign": "acceptbox_page_recieve",
 		"jp_text": "一括受取（ページ内）",
-		"tr_text": "Bulk Receive (Single Page)"
+		"tr_text": "Recibir esta pagina"
 	},
 	{
 		"assign": "acceptbox_no_item",
 		"jp_text": "受け取れるアイテムはありません。",
-		"tr_text": "Usted no tiene ningún objeto."
+		"tr_text": "No hay objetos pendientes por recibir."
 	},
 	{
 		"assign": "acceptbox_recieve_end",
@@ -17242,7 +17242,7 @@
 	{
 		"assign": "acceptbox_dialog_t_1",
 		"jp_text": "期限切れ間近アイテム",
-		"tr_text": "Item Expiring Soon"
+		"tr_text": "Hay objetos que expirarán pronto"
 	},
 	{
 		"assign": "acceptbox_dialog_b_1",
@@ -17252,7 +17252,7 @@
 	{
 		"assign": "acceptbox_dialog_t_2",
 		"jp_text": "キャンセル確認",
-		"tr_text": "Confirm Cancel"
+		"tr_text": "Confirmar Cancelacion"
 	},
 	{
 		"assign": "acceptbox_dialog_b_2",
@@ -17262,22 +17262,22 @@
 	{
 		"assign": "acceptbox_dialog_t_3",
 		"jp_text": "受け取り完了",
-		"tr_text": "Receive Complete"
+		"tr_text": "Recepcion Completa"
 	},
 	{
 		"assign": "acceptbox_dialog_b_3",
 		"jp_text": "以下のアイテムを受け取りました。",
-		"tr_text": "Accepted the Items(s)."
+		"tr_text": "Aceptado los objeto(s)."
 	},
 	{
 		"assign": "acceptbox_dialog_t_4",
 		"jp_text": "チップアイテム以外受取完了",
-		"tr_text": "Accepted the Chip(s)"
+		"tr_text": "Aceptado los Chip(s)"
 	},
 	{
 		"assign": "acceptbox_dialog_b_4",
 		"jp_text": "以下のアイテムを受け取りました。",
-		"tr_text": "I recieved the item(s)."
+		"tr_text": "He recibido objeto(s)."
 	},
 	{
 		"assign": "acceptbox_dialog_t_5",
@@ -17312,7 +17312,7 @@
 	{
 		"assign": "system_dialog_t_acceptbox01",
 		"jp_text": "受け取りボックス",
-		"tr_text": "Reception Box"
+		"tr_text": "Caja de Recepcion"
 	},
 	{
 		"assign": "system_dialog_b_acceptbox01",
