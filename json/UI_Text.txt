@@ -467,7 +467,7 @@
 	{
 		"assign": "acshop_dialog_t_32",
 		"jp_text": "必要OP不足",
-		"tr_text": "Falta el OP nesesario"
+		"tr_text": "Falta el OP necesario"
 	},
 	{
 		"assign": "acshop_dialog_b_32",
@@ -822,7 +822,7 @@
 	{
 		"assign": "rshop_dialog_b_00",
 		"jp_text": "交換の対象となるアイテムを持っていません。",
-		"tr_text": "No tienes los objetos nesesarios."
+		"tr_text": "No tienes los objetos necesarios."
 	},
 	{
 		"assign": "rshop_dialog_t_01",
@@ -8312,17 +8312,17 @@
 	{
 		"assign": "recycle_item_trade_info",
 		"jp_text": "交換に必要：{0} {1}個",
-		"tr_text": "Nesesitas x{1} {0}."
+		"tr_text": "Necesitas x{1} {0}."
 	},
 	{
 		"assign": "recycle_item_trade_info_sheet",
 		"jp_text": "交換に必要：{0} {1}枚",
-		"tr_text": "Nesesitas {1} {0} to exchange."
+		"tr_text": "Necesitas {1} {0} para intercambiar."
 	},
 	{
 		"assign": "recycle_item_trade_info_pt",
 		"jp_text": "交換に必要：{0} {1}pt",
-		"tr_text": "Nesesitas {1} {0}pts"
+		"tr_text": "Necesitas {1} {0}pts"
 	},
 	{
 		"assign": "recycle_item_trade_limit_info",
@@ -8332,7 +8332,7 @@
 	{
 		"assign": "recycle_item_trade_rest",
 		"jp_text": "交換可能数：　<color=#ffff00>あと{0}個</color>",
-		"tr_text": "Limit: {0}"
+		"tr_text": "Limite: {0}"
 	},
 	{
 		"assign": "recycle_shop_trade_item",
@@ -11082,7 +11082,7 @@
 	{
 		"assign": "tu_0006_w13_b",
 		"jp_text": "メニュー『キャラクター連動』において、\n『PSO2』で所持しているマグを育成できるようになりました。",
-		"tr_text": "Because you linked your character\nwith PSO2, you can now feed your mag."
+		"tr_text": "Ya que has enlazado tu personaje\ncon PSO2, ahora puedes alimentar tu mag."
 	},
 	{
 		"assign": "tu_0006_w14_b",
@@ -13677,7 +13677,7 @@
 	{
 		"assign": "sns_dialog_9_b",
 		"jp_text": "Twitter連動に成功しました",
-		"tr_text": "Twitter was successfully linked."
+		"tr_text": "Twitter se ha enlazado satisfactoriamente."
 	},
 	{
 		"assign": "sns_dialog_10_t",
@@ -13702,12 +13702,12 @@
 	{
 		"assign": "sns_post_b",
 		"jp_text": "45文字まで入力可能",
-		"tr_text": "Message Limit: 45 characters."
+		"tr_text": "Limite del Mensaje: 45 caracteres."
 	},
 	{
 		"assign": "sns_post_replace",
 		"jp_text": "セラフィがあなたのツイートをお待ちしています！",
-		"tr_text": "Seraphy is waiting for your tweet!"
+		"tr_text": "Seraphy esta esperando por tu tweet!"
 	},
 	{
 		"assign": "botton_yes",
