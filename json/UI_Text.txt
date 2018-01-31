@@ -9062,7 +9062,7 @@
 	{
 		"assign": "lobby_support_body",
 		"jp_text": "「{0}」さんなどの\nクエストに同行した報酬が届いています。\n\n同行回数　<color=#f0df60>{1}回</color>\n<color=#f0df60>{2}FUN</color>を獲得しました！\n\n<size=19>※前回のログインから現時点までの獲得合計を表示しています。</size>",
-		"tr_text": "「{0}」 Te usó \ncomo compañero para una misión.\n\nVeses: <color=#f0df60>{1}</color>\nObtienes<color=#f0df60>{2} FUN</color>!\n\n<size=19>※Mostrando el total anterior de la\núltima sesión de inicio de sesión</size>"
+		"tr_text": "「{0}」 Te usó \ncomo compañero para una misión.\n\nVeces: <color=#f0df60>{1}</color>\nObtienes<color=#f0df60>{2} FUN</color>!\n\n<size=19>※Mostrando el total anterior de la\núltima sesión de inicio de sesión</size>"
 	},
 	{
 		"assign": "lobby_charainfo_lv",
