@@ -20,9 +20,15 @@
 			"いっくぜー！\r\nいざジンジョーに、勝負！"
 		],
 		"tr_patterns": [
+<<<<<<< HEAD
 			"Bien, ¡hagamos esto!",
 			"¡Giren! ¡Mis dados!",
 			"Una cosa más!\r\nUn juego contra Jinjo!"
+=======
+			"Alright, let's do this!",
+			"Go! My dice!",
+			"Once more!\nYou can do it, win or lose!"
+>>>>>>> upstream/master
 		]
 	},
 	{
@@ -33,9 +39,15 @@
 			"いっえーい！\r\nこのまま勝たせてもらうってば！"
 		],
 		"tr_patterns": [
+<<<<<<< HEAD
 			"¿Cómo estás?",
 			"Lo hice!\r\n¡Eso es bueno!",
 			"¡Hola!\r\n¡Me gustaría que lo ganaras!"
+=======
+			"Hey, how's it going!",
+			"Hooray!\nThis is great!",
+			"Alright!\nHope I win!"
+>>>>>>> upstream/master
 		]
 	},
 	{

@@ -284,7 +284,7 @@
 		"jp_text": "ライブリアクト",
 		"tr_text": "Live React",
 		"jp_explain": "最先端の生体工学を応用し開発された\n魔装脚。高純度培養液の循環により\n摩耗が軽減され、耐久性が増した。",
-		"tr_explain": "A weapon that was designed from a\nstate-of-the-art bio-engineering\nprocess, enhancing its photon source."
+		"tr_explain": "Jet boots made with state-of-the-art\nbioengineering. Enhanced with a\nhigh-purity culture solution."
 	},
 	{
 		"assign": "116056",
@@ -333,7 +333,7 @@
 		"jp_text": "ネメシスシューズ",
 		"tr_text": "Nemesis Shoes",
 		"jp_explain": "古の時代に封印された聖なる魔装脚。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
-		"tr_explain": "A sealed holy weapon from an early\nera. It releases its hidden purifying\npowers in tandem to the user's will."
+		"tr_explain": "A sealed holy weapon from an early\nera. It releases its hidden purifying\npower in tandem with the user's will."
 	},
 	{
 		"assign": "116073",
@@ -550,6 +550,13 @@
 		"jp_text": "ノクスプラシス",
 		"tr_text": "Nox Placis",
 		"jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き魔装脚。装者も\n恐怖するほどの法撃性能を宿す。",
+		"tr_explain": "Black jet boots produced in an illicit\nritual. Their Technique performance\nterrifies even their wielder."
+	},
+	{
+		"assign": "1160145",
+		"jp_text": "レーテプラシス",
+		"tr_text": "Raete Placis",
+		"jp_explain": "正当な手順を経た儀式により\n生み出された白き魔装脚。装者を多くの\n敵や困難から守る法撃力を宿す。",
 		"tr_explain": ""
 	},
 	{
@@ -641,6 +648,13 @@
 		"jp_text": "シューズレボルシオ",
 		"tr_text": "Shoes Revolucio",
 		"jp_explain": "新開発の演算装置を搭載した魔装脚。\n装者の思考や戦況を分析することで\n出力を最適に保ち、負荷を軽減する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1160181",
+		"jp_text": "シューズドミナシオ",
+		"tr_text": "Shoes Dominacio",
+		"jp_explain": "新開発の演算装置を搭載した魔装脚。\n優れた最高出力を誇る反面、戦闘中は\n脳にかなりの負荷がかかる。",
 		"tr_explain": ""
 	},
 	{
@@ -793,9 +807,9 @@
 	{
 		"assign": "1160214",
 		"jp_text": "ノクスプラシス-NT",
-		"tr_text": "Nox Plasis-NT",
+		"tr_text": "Nox Placis-NT",
 		"jp_explain": "外法にも近い特別な儀式によって\n生み出された黒き魔装脚。装者も\n恐怖するほどの法撃性能を宿す。",
-		"tr_explain": ""
+		"tr_explain": "Black jet boots produced in an illicit\nritual. Their Technique performance\nterrifies even their wielder."
 	},
 	{
 		"assign": "1160215",
@@ -858,7 +872,7 @@
 		"jp_text": "アストラドライブ",
 		"tr_text": "Astra Drive",
 		"jp_explain": "マザーの残滓たる、幻創の魔装脚。\n身につけていると、衝動的にどこか\n遠く暗い所へ行ってしまいそうになる。",
-		"tr_explain": "Jet Boots imbued with Mother's\npower. It forces the user to revisit\nthe darkest corners of their minds."
+		"tr_explain": "Phantom boots imbued with Mother's\npower. They drive their wearer into\nthe darkest corners of their mind."
 	},
 	{
 		"assign": "1160236",
@@ -921,7 +935,7 @@
 		"jp_text": "ネメシスシューズ-NT",
 		"tr_text": "Nemesis Shoes-NT",
 		"jp_explain": "古の時代に封印された聖なる魔装脚。\n装者の精神と同調することで\n秘められた浄化の力を発揮する。",
-		"tr_explain": "A sealed holy weapon from an early\nera. It releases its hidden purifying\npowers in tandem to the user's will."
+		"tr_explain": "A sealed holy weapon from an early\nera. It releases its hidden purifying\npower in tandem with the user's will."
 	},
 	{
 		"assign": "1160262",

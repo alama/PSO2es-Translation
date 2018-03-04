@@ -4,21 +4,21 @@
 		"jp_text": "フロンティアウィング",
 		"tr_text": "Frontier Wing",
 		"jp_explain": "カジュアルウィングスーツ。\n未来に向かって羽ばたく想いが\n込められている。",
-		"tr_explain": ""
+		"tr_explain": "A casual wing suit.\nFilled with feelings of flying\ntowards the future."
 	},
 	{
 		"assign": "2101",
 		"jp_text": "ヘヴィスクード",
 		"tr_text": "Heavy Scudo",
 		"jp_explain": "戦闘用に作られたアークスの服装。\n衝撃吸収用のアブソーバーが各所に\n取り付けられており、安定性が高い。",
-		"tr_explain": ""
+		"tr_explain": "ARKS clothing built for battle.\nCovered in shock absorbers, making\nit extremely stable."
 	},
 	{
 		"assign": "2102",
 		"jp_text": "アドヴェントス",
 		"tr_text": "Adventos",
 		"jp_explain": "試験的に作られたアークス用の戦闘服。\n露出をできるだけ抑え、かつフォトンの\n吸収を阻害しないよう考えられている。",
-		"tr_explain": ""
+		"tr_explain": "Experimental ARKS battle clothing.\nDesigned to maximise coverage while\nnot inhibiting Photon absorption."
 	},
 	{
 		"assign": "2103",
@@ -46,14 +46,14 @@
 		"jp_text": "クローズクォーター",
 		"tr_text": "Close Quarter",
 		"jp_explain": "アークス用戦闘服。ハンタークラスの\n初期支給品で、動きやすさを重視した\n軽装の服となっている。",
-		"tr_explain": ""
+		"tr_explain": "An ARKS combat suit. Light clothing\nthat emphasises mobility, supplied to\nnew Hunter-class ARKS."
 	},
 	{
 		"assign": "2107",
 		"jp_text": "シャープオーダー",
 		"tr_text": "Sharp Order",
 		"jp_explain": "アークス用戦闘服。レンジャークラスの\n初期支給品で、射撃補助に重点を置いた\n合理的な設計がされている。",
-		"tr_explain": ""
+		"tr_explain": "An ARKS combat suit. Designed with\na focus on aim-assistance, and\nsupplied to new Ranger-class ARKS."
 	},
 	{
 		"assign": "2108",
@@ -74,7 +74,7 @@
 		"jp_text": "センシアスコート",
 		"tr_text": "Sensuous Coat",
 		"jp_explain": "アークス用戦闘服。フォースクラスの\n初期支給品で、フォトン励起を誘う\n特殊な素材が用いられている。",
-		"tr_explain": ""
+		"tr_explain": "An ARKS combat suit. Made to be\nconducive to Photon excitation, and\nsupplied to new Force-class ARKS."
 	},
 	{
 		"assign": "21012",
@@ -172,84 +172,84 @@
 		"jp_text": "クローズクォーター影",
 		"tr_text": "Close Quarter Shadow",
 		"jp_explain": "アークス用戦闘服。ハンタークラスの\n初期支給品で、動きやすさを重視した\n軽装の服となっている。",
-		"tr_explain": ""
+		"tr_explain": "An ARKS combat suit. Light clothing\nthat emphasises mobility, supplied to\nnew Hunter-class ARKS."
 	},
 	{
 		"assign": "21029",
 		"jp_text": "クローズクォーター雪",
 		"tr_text": "Close Quarter Snow",
 		"jp_explain": "アークス用戦闘服。ハンタークラスの\n初期支給品で、動きやすさを重視した\n軽装の服となっている。",
-		"tr_explain": ""
+		"tr_explain": "An ARKS combat suit. Light clothing\nthat emphasises mobility, supplied to\nnew Hunter-class ARKS."
 	},
 	{
 		"assign": "21030",
 		"jp_text": "クローズクォーター紅",
 		"tr_text": "Close Quarter Crimson",
 		"jp_explain": "アークス用戦闘服。ハンタークラスの\n初期支給品で、動きやすさを重視した\n軽装の服となっている。",
-		"tr_explain": ""
+		"tr_explain": "An ARKS combat suit. Light clothing\nthat emphasises mobility, supplied to\nnew Hunter-class ARKS."
 	},
 	{
 		"assign": "21031",
 		"jp_text": "クローズクォーター鋼",
 		"tr_text": "Close Quarter Steel",
 		"jp_explain": "アークス用戦闘服。ハンタークラスの\n初期支給品で、動きやすさを重視した\n軽装の服となっている。",
-		"tr_explain": ""
+		"tr_explain": "An ARKS combat suit. Light clothing\nthat emphasises mobility, supplied to\nnew Hunter-class ARKS."
 	},
 	{
 		"assign": "21032",
 		"jp_text": "シャープオーダー影",
 		"tr_text": "Sharp Order Shadow",
 		"jp_explain": "アークス用戦闘服。レンジャークラスの\n初期支給品で、射撃補助に重点を置いた\n合理的な設計がされている。",
-		"tr_explain": ""
+		"tr_explain": "An ARKS combat suit. Designed with\na focus on aim-assistance, and\nsupplied to new Ranger-class ARKS."
 	},
 	{
 		"assign": "21033",
 		"jp_text": "シャープオーダー月",
 		"tr_text": "Sharp Order Moon",
 		"jp_explain": "アークス用戦闘服。レンジャークラスの\n初期支給品で、射撃補助に重点を置いた\n合理的な設計がされている。",
-		"tr_explain": ""
+		"tr_explain": "An ARKS combat suit. Designed with\na focus on aim-assistance, and\nsupplied to new Ranger-class ARKS."
 	},
 	{
 		"assign": "21034",
 		"jp_text": "シャープオーダー紅",
 		"tr_text": "Sharp Order Crimson",
 		"jp_explain": "アークス用戦闘服。レンジャークラスの\n初期支給品で、射撃補助に重点を置いた\n合理的な設計がされている。",
-		"tr_explain": ""
+		"tr_explain": "An ARKS combat suit. Designed with\na focus on aim-assistance, and\nsupplied to new Ranger-class ARKS."
 	},
 	{
 		"assign": "21035",
 		"jp_text": "シャープオーダー葉",
 		"tr_text": "Sharp Order Leaf",
 		"jp_explain": "アークス用戦闘服。レンジャークラスの\n初期支給品で、射撃補助に重点を置いた\n合理的な設計がされている。",
-		"tr_explain": ""
+		"tr_explain": "An ARKS combat suit. Designed with\na focus on aim-assistance, and\nsupplied to new Ranger-class ARKS."
 	},
 	{
 		"assign": "21036",
 		"jp_text": "センシアスコート桜",
 		"tr_text": "Sensuous Coat Sakura",
 		"jp_explain": "アークス用戦闘服。フォースクラスの\n初期支給品で、フォトン励起を誘う\n特殊な素材が用いられている。",
-		"tr_explain": ""
+		"tr_explain": "An ARKS combat suit. Made to be\nconducive to Photon excitation, and\nsupplied to new Force-class ARKS."
 	},
 	{
 		"assign": "21037",
 		"jp_text": "センシアスコート葉",
 		"tr_text": "Sensuous Coat Leaf",
 		"jp_explain": "アークス用戦闘服。フォースクラスの\n初期支給品で、フォトン励起を誘う\n特殊な素材が用いられている。",
-		"tr_explain": ""
+		"tr_explain": "An ARKS combat suit. Made to be\nconducive to Photon excitation, and\nsupplied to new Force-class ARKS."
 	},
 	{
 		"assign": "21038",
 		"jp_text": "センシアスコート海",
 		"tr_text": "Sensuous Coat Sea",
 		"jp_explain": "アークス用戦闘服。フォースクラスの\n初期支給品で、フォトン励起を誘う\n特殊な素材が用いられている。",
-		"tr_explain": ""
+		"tr_explain": "An ARKS combat suit. Made to be\nconducive to Photon excitation, and\nsupplied to new Force-class ARKS."
 	},
 	{
 		"assign": "21039",
 		"jp_text": "センシアスコート陽",
 		"tr_text": "Sensuous Coat Sun",
 		"jp_explain": "アークス用戦闘服。フォースクラスの\n初期支給品で、フォトン励起を誘う\n特殊な素材が用いられている。",
-		"tr_explain": ""
+		"tr_explain": "An ARKS combat suit. Made to be\nconducive to Photon excitation, and\nsupplied to new Force-class ARKS."
 	},
 	{
 		"assign": "21040",
@@ -557,28 +557,28 @@
 		"jp_text": "アドヴェントス影",
 		"tr_text": "Adventos Shadow",
 		"jp_explain": "試験的に作られたアークス用の戦闘服。\n露出をできるだけ抑え、かつフォトンの\n吸収を阻害しないよう考えられている。",
-		"tr_explain": ""
+		"tr_explain": "Experimental ARKS battle clothing.\nDesigned to maximise coverage while\nnot inhibiting Photon absorption."
 	},
 	{
 		"assign": "21092",
 		"jp_text": "アドヴェントス鋼",
 		"tr_text": "Adventos Steel",
 		"jp_explain": "試験的に作られたアークス用の戦闘服。\n露出をできるだけ抑え、かつフォトンの\n吸収を阻害しないよう考えられている。",
-		"tr_explain": ""
+		"tr_explain": "Experimental ARKS battle clothing.\nDesigned to maximise coverage while\nnot inhibiting Photon absorption."
 	},
 	{
 		"assign": "21093",
 		"jp_text": "アドヴェントス銀",
 		"tr_text": "Adventos Silver",
 		"jp_explain": "試験的に作られたアークス用の戦闘服。\n露出をできるだけ抑え、かつフォトンの\n吸収を阻害しないよう考えられている。",
-		"tr_explain": ""
+		"tr_explain": "Experimental ARKS battle clothing.\nDesigned to maximise coverage while\nnot inhibiting Photon absorption."
 	},
 	{
 		"assign": "21094",
 		"jp_text": "アドヴェントス陽",
 		"tr_text": "Adventos Sun",
 		"jp_explain": "試験的に作られたアークス用の戦闘服。\n露出をできるだけ抑え、かつフォトンの\n吸収を阻害しないよう考えられている。",
-		"tr_explain": ""
+		"tr_explain": "Experimental ARKS battle clothing.\nDesigned to maximise coverage while\nnot inhibiting Photon absorption."
 	},
 	{
 		"assign": "21095",
@@ -725,28 +725,28 @@
 		"jp_text": "ヘヴィスクード葉",
 		"tr_text": "Heavy Scudo Leaf",
 		"jp_explain": "戦闘用に作られたアークスの服装。\n衝撃吸収用のアブソーバーが各所に\n取り付けられており、安定性が高い。",
-		"tr_explain": ""
+		"tr_explain": "ARKS clothing built for battle.\nCovered in shock absorbers, making\nit extremely stable."
 	},
 	{
 		"assign": "210117",
 		"jp_text": "ヘヴィスクード鋼",
 		"tr_text": "Heavy Scudo Steel",
 		"jp_explain": "戦闘用に作られたアークスの服装。\n衝撃吸収用のアブソーバーが各所に\n取り付けられており、安定性が高い。",
-		"tr_explain": ""
+		"tr_explain": "ARKS clothing built for battle.\nCovered in shock absorbers, making\nit extremely stable."
 	},
 	{
 		"assign": "210118",
 		"jp_text": "ヘヴィスクード陽",
 		"tr_text": "Heavy Scudo Sun",
 		"jp_explain": "戦闘用に作られたアークスの服装。\n衝撃吸収用のアブソーバーが各所に\n取り付けられており、安定性が高い。",
-		"tr_explain": ""
+		"tr_explain": "ARKS clothing built for battle.\nCovered in shock absorbers, making\nit extremely stable."
 	},
 	{
 		"assign": "210119",
 		"jp_text": "ヘヴィスクード紅",
 		"tr_text": "Heavy Scudo Crimson",
 		"jp_explain": "戦闘用に作られたアークスの服装。\n衝撃吸収用のアブソーバーが各所に\n取り付けられており、安定性が高い。",
-		"tr_explain": ""
+		"tr_explain": "ARKS clothing built for battle.\nCovered in shock absorbers, making\nit extremely stable."
 	},
 	{
 		"assign": "210120",
@@ -2538,7 +2538,7 @@
 		"jp_text": "フロンティアウィング紅",
 		"tr_text": "Frontier Wing Crimson",
 		"jp_explain": "カジュアルウィングスーツ。\n未来に向かって羽ばたく想いが\n込められている。",
-		"tr_explain": ""
+		"tr_explain": "A casual wing suit.\nFilled with feelings of flying\ntowards the future."
 	},
 	{
 		"assign": "210432",
@@ -3266,7 +3266,7 @@
 		"jp_text": "クローズクォーター影Ｇ",
 		"tr_text": "Close Quarter Shadow G",
 		"jp_explain": "アークス用戦闘服。ハンタークラスの\n初期支給品で、動きやすさを重視した\n軽装の服となっている。",
-		"tr_explain": ""
+		"tr_explain": "An ARKS combat suit. Light clothing\nthat emphasises mobility, supplied to\nnew Hunter-class ARKS."
 	},
 	{
 		"assign": "210547",
@@ -3441,35 +3441,35 @@
 		"jp_text": "グランコレット",
 		"tr_text": "Gran Colette",
 		"jp_explain": "大きな襟と独特の模様が特徴的な\nアークスの戦闘服。タイトな作りだが\n動きやすく、丈夫な素材でできている。",
-		"tr_explain": ""
+		"tr_explain": "ARKS battle wear notable for its\nlarge collar and distinctive pattern.\nTight-fitting, yet unrestrictive."
 	},
 	{
 		"assign": "210573",
 		"jp_text": "グランコレット雅",
 		"tr_text": "Gran Colette Elegance",
 		"jp_explain": "大きな襟と独特の模様が特徴的な\nアークスの戦闘服。タイトな作りだが\n動きやすく、丈夫な素材でできている。",
-		"tr_explain": ""
+		"tr_explain": "ARKS battle wear notable for its\nlarge collar and distinctive pattern.\nTight-fitting, yet unrestrictive."
 	},
 	{
 		"assign": "210574",
 		"jp_text": "グランコレット銀",
 		"tr_text": "Gran Colette Silver",
 		"jp_explain": "大きな襟と独特の模様が特徴的な\nアークスの戦闘服。タイトな作りだが\n動きやすく、丈夫な素材でできている。",
-		"tr_explain": ""
+		"tr_explain": "ARKS battle wear notable for its\nlarge collar and distinctive pattern.\nTight-fitting, yet unrestrictive."
 	},
 	{
 		"assign": "210575",
 		"jp_text": "グランコレット紅",
 		"tr_text": "Gran Colette Crimson",
 		"jp_explain": "大きな襟と独特の模様が特徴的な\nアークスの戦闘服。タイトな作りだが\n動きやすく、丈夫な素材でできている。",
-		"tr_explain": ""
+		"tr_explain": "ARKS battle wear notable for its\nlarge collar and distinctive pattern.\nTight-fitting, yet unrestrictive."
 	},
 	{
 		"assign": "210576",
 		"jp_text": "グランコレット海",
 		"tr_text": "Gran Colette Sea",
 		"jp_explain": "大きな襟と独特の模様が特徴的な\nアークスの戦闘服。タイトな作りだが\n動きやすく、丈夫な素材でできている。",
-		"tr_explain": ""
+		"tr_explain": "ARKS battle wear notable for its\nlarge collar and distinctive pattern.\nTight-fitting, yet unrestrictive."
 	},
 	{
 		"assign": "210577",
@@ -4104,42 +4104,42 @@
 	{
 		"assign": "210747",
 		"jp_text": "事代守人衣",
-		"tr_text": "Kotoshiro Protector's Clothes",
+		"tr_text": "Kotoshiro's Clothes",
 		"jp_explain": "灰の神子の守人であるコトシロ用に\nスクナヒメが作り上げた専用の服。\n神子の力で紡ぎ上げられた礼装。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "210748",
 		"jp_text": "事代守人衣　影",
-		"tr_text": "Kotoshiro Protector's Clothes Black",
+		"tr_text": "Kotoshiro's Clothes Shadow",
 		"jp_explain": "灰の神子の守人であるコトシロ用に\nスクナヒメが作り上げた専用の服。\n神子の力で紡ぎ上げられた礼装。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "210749",
 		"jp_text": "事代守人衣　紅",
-		"tr_text": "Kotoshiro Protector's Clothes Red",
+		"tr_text": "Kotoshiro's Clothes Crimson",
 		"jp_explain": "灰の神子の守人であるコトシロ用に\nスクナヒメが作り上げた専用の服。\n神子の力で紡ぎ上げられた礼装。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "210750",
 		"jp_text": "事代守人衣　海",
-		"tr_text": "Kotoshiro Protector's Clothes Sea",
+		"tr_text": "Kotoshiro's Clothes Sea",
 		"jp_explain": "灰の神子の守人であるコトシロ用に\nスクナヒメが作り上げた専用の服。\n神子の力で紡ぎ上げられた礼装。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "210751",
 		"jp_text": "事代守人衣　雅",
-		"tr_text": "Kotoshiro Protector's Clothes Purple",
+		"tr_text": "Kotoshiro's Clothes Elegance",
 		"jp_explain": "灰の神子の守人であるコトシロ用に\nスクナヒメが作り上げた専用の服。\n神子の力で紡ぎ上げられた礼装。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "210752",
 		"jp_text": "事代守人衣　月",
-		"tr_text": "Kotoshiro Protector's Clothes Moon",
+		"tr_text": "Kotoshiro's Clothes Moon",
 		"jp_explain": "灰の神子の守人であるコトシロ用に\nスクナヒメが作り上げた専用の服。\n神子の力で紡ぎ上げられた礼装。",
 		"tr_explain": ""
 	},
@@ -4477,7 +4477,7 @@
 		"jp_text": "フロンティアウィング雪",
 		"tr_text": "Frontier Wing Snow",
 		"jp_explain": "カジュアルウィングスーツ。\n未来に向かって羽ばたく想いが\n込められている。",
-		"tr_explain": ""
+		"tr_explain": "A casual wing suit.\nFilled with feelings of flying\ntowards the future."
 	},
 	{
 		"assign": "210802",
@@ -4505,7 +4505,7 @@
 		"jp_text": "フロンティアウィングＣ",
 		"tr_text": "Frontier Wing C",
 		"jp_explain": "カジュアルウィングスーツ。\n未来に向かって羽ばたく想いが\n込められている。",
-		"tr_explain": ""
+		"tr_explain": "A casual wing suit.\nFilled with feelings of flying\ntowards the future."
 	},
 	{
 		"assign": "210806",
@@ -4827,7 +4827,7 @@
 		"jp_text": "グランコレットＣ",
 		"tr_text": "Gran Colette C",
 		"jp_explain": "大きな襟と独特の模様が特徴的な\nアークスの戦闘服。タイトな作りだが\n動きやすく、丈夫な素材でできている。",
-		"tr_explain": ""
+		"tr_explain": "ARKS battle wear notable for its\nlarge collar and distinctive pattern.\nTight-fitting, yet unrestrictive."
 	},
 	{
 		"assign": "210852",
@@ -5086,14 +5086,14 @@
 		"jp_text": "アドヴェントスＣ",
 		"tr_text": "Adventos C",
 		"jp_explain": "試験的に作られたアークス用の戦闘服。\n露出をできるだけ抑え、かつフォトンの\n吸収を阻害しないよう考えられている。",
-		"tr_explain": ""
+		"tr_explain": "Experimental ARKS battle clothing.\nDesigned to maximise coverage while\nnot inhibiting Photon absorption."
 	},
 	{
 		"assign": "210889",
 		"jp_text": "ヘヴィスクードＣ",
 		"tr_text": "Heavy Scudo C",
 		"jp_explain": "戦闘用に作られたアークスの服装。\n衝撃吸収用のアブソーバーが各所に\n取り付けられており、安定性が高い。",
-		"tr_explain": ""
+		"tr_explain": "ARKS clothing built for battle.\nCovered in shock absorbers, making\nit extremely stable."
 	},
 	{
 		"assign": "210890",
@@ -5506,14 +5506,14 @@
 		"jp_text": "ヒューマー・レプカ",
 		"tr_text": "HUmar Repca",
 		"jp_explain": "大型宇宙船パイオニア２に搭乗していた\nヒューマンのハンター専用戦闘服。\nハンターズの一員の証でもある。",
-		"tr_explain": ""
+		"tr_explain": "Clothing worn by Human Hunters\naboard Pioneer 2. Shows the wearer\nto be a member of the Hunters."
 	},
 	{
 		"assign": "210952",
 		"jp_text": "ヒューマー・レプカＣ",
 		"tr_text": "HUmar Repca C",
 		"jp_explain": "大型宇宙船パイオニア２に搭乗していた\nヒューマンのハンター専用戦闘服。\nハンターズの一員の証でもある。",
-		"tr_explain": ""
+		"tr_explain": "Clothing worn by Human Hunters\naboard Pioneer 2. Shows the wearer\nto be a member of the Hunters."
 	},
 	{
 		"assign": "210953",
@@ -5772,14 +5772,14 @@
 		"jp_text": "レイキャスト・レプカ",
 		"tr_text": "RAcast Repca",
 		"jp_explain": "大型宇宙船パイオニア２に搭乗していた\nキャストのレンジャー専用戦闘服。\nハンターズの一員の証でもある。",
-		"tr_explain": ""
+		"tr_explain": "Clothing worn by Android Rangers\naboard Pioneer 2. Shows the wearer\nto be a member of the Hunters."
 	},
 	{
 		"assign": "210992",
 		"jp_text": "レイキャスト・レプカＣ",
 		"tr_text": "RAcast Repca C",
 		"jp_explain": "大型宇宙船パイオニア２に搭乗していた\nキャストのレンジャー専用戦闘服。\nハンターズの一員の証でもある。",
-		"tr_explain": ""
+		"tr_explain": "Clothing worn by Android Rangers\naboard Pioneer 2. Shows the wearer\nto be a member of the Hunters."
 	},
 	{
 		"assign": "210993",
@@ -5814,14 +5814,14 @@
 		"jp_text": "フォーマー・レプカ",
 		"tr_text": "FOmar Repca",
 		"jp_explain": "大型宇宙船パイオニア２に搭乗していた\nヒューマンのフォース専用戦闘服。\nハンターズの一員の証でもある。",
-		"tr_explain": ""
+		"tr_explain": "Clothing worn by Human Forces\naboard Pioneer 2. Shows the wearer\nto be a member of the Hunters."
 	},
 	{
 		"assign": "210998",
 		"jp_text": "フォーマー・レプカＣ",
 		"tr_text": "FOmar Repca C",
 		"jp_explain": "大型宇宙船パイオニア２に搭乗していた\nヒューマンのフォース専用戦闘服。\nハンターズの一員の証でもある。",
-		"tr_explain": ""
+		"tr_explain": "Clothing worn by Human Forces\naboard Pioneer 2. Shows the wearer\nto be a member of the Hunters."
 	},
 	{
 		"assign": "210999",
@@ -6108,14 +6108,14 @@
 		"jp_text": "ヒューキャスト・レプカ",
 		"tr_text": "HUcast Repca",
 		"jp_explain": "大型宇宙船パイオニア２に搭乗していた\nキャストのハンター専用戦闘服。\nハンターズの一員の証でもある。",
-		"tr_explain": ""
+		"tr_explain": "Clothing worn by Android Hunters\naboard Pioneer 2. Shows the wearer\nto be a member of the Hunters."
 	},
 	{
 		"assign": "2101041",
 		"jp_text": "ヒューキャスト・レプカＣ",
 		"tr_text": "HUcast Repca C",
 		"jp_explain": "大型宇宙船パイオニア２に搭乗していた\nキャストのハンター専用戦闘服。\nハンターズの一員の証でもある。",
-		"tr_explain": ""
+		"tr_explain": "Clothing worn by Android Hunters\naboard Pioneer 2. Shows the wearer\nto be a member of the Hunters."
 	},
 	{
 		"assign": "2101042",
@@ -6269,14 +6269,14 @@
 		"jp_text": "レイマー・レプカ",
 		"tr_text": "RAmar Repca",
 		"jp_explain": "大型宇宙船パイオニア２に搭乗していた\nヒューマンのレンジャー専用戦闘服。\nハンターズの一員の証でもある。",
-		"tr_explain": ""
+		"tr_explain": "Clothing worn by Human Rangers\naboard Pioneer 2. Shows the wearer\nto be a member of the Hunters."
 	},
 	{
 		"assign": "2101064",
 		"jp_text": "レイマー・レプカＣ",
 		"tr_text": "RAmar Repca C",
 		"jp_explain": "大型宇宙船パイオニア２に搭乗していた\nヒューマンのレンジャー専用戦闘服。\nハンターズの一員の証でもある。",
-		"tr_explain": ""
+		"tr_explain": "Clothing worn by Human Rangers\naboard Pioneer 2. Shows the wearer\nto be a member of the Hunters."
 	},
 	{
 		"assign": "2101065",
@@ -6430,14 +6430,14 @@
 		"jp_text": "フォニューム・レプカ",
 		"tr_text": "FOnewm Repca",
 		"jp_explain": "大型宇宙船パイオニア２に搭乗していた\nニューマンのフォース専用戦闘服。\nハンターズの一員の証でもある。",
-		"tr_explain": ""
+		"tr_explain": "Clothing worn by Newman Forces\naboard Pioneer 2. Shows the wearer\nto be a member of the Hunters."
 	},
 	{
 		"assign": "2101088",
 		"jp_text": "フォニューム・レプカＣ",
 		"tr_text": "FOnewm Repca C",
 		"jp_explain": "大型宇宙船パイオニア２に搭乗していた\nニューマンのフォース専用戦闘服。\nハンターズの一員の証でもある。",
-		"tr_explain": ""
+		"tr_explain": "Clothing worn by Newman Forces\naboard Pioneer 2. Shows the wearer\nto be a member of the Hunters."
 	},
 	{
 		"assign": "2101089",
@@ -6458,7 +6458,7 @@
 		"jp_text": "シャープオーダー雅Ｇ",
 		"tr_text": "Sharp Order Elegance G",
 		"jp_explain": "アークス用戦闘服。レンジャークラスの\n初期支給品で、射撃補助に重点を置いた\n合理的な設計がされている。",
-		"tr_explain": ""
+		"tr_explain": "An ARKS combat suit. Designed with\na focus on aim-assistance, and\nsupplied to new Ranger-class ARKS."
 	},
 	{
 		"assign": "2101092",
@@ -6666,7 +6666,7 @@
 	{
 		"assign": "2101122",
 		"jp_text": "事代守人衣７１１",
-		"tr_text": "Kotoshiro Protector's Clothes 711",
+		"tr_text": "Kotoshiro's Clothes 711",
 		"jp_explain": "灰の神子の守人であるコトシロ用に\nスクナヒメが作り上げた専用の服。\n神子の力で紡ぎ上げられた礼装。",
 		"tr_explain": ""
 	},
@@ -7646,21 +7646,21 @@
 	{
 		"assign": "2101268",
 		"jp_text": "事代守人衣　雪",
-		"tr_text": "Kotoshiro Protector's Clothes Snow",
+		"tr_text": "Kotoshiro's Clothes Snow",
 		"jp_explain": "灰の神子の守人であるコトシロ用に\nスクナヒメが作り上げた専用の服。\n神子の力で紡ぎ上げられた礼装。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2101269",
 		"jp_text": "事代守人衣　玄",
-		"tr_text": "Kotoshiro Protector's Clothes Mysterious",
+		"tr_text": "Kotoshiro's Clothes Mysterious",
 		"jp_explain": "灰の神子の守人であるコトシロ用に\nスクナヒメが作り上げた専用の服。\n神子の力で紡ぎ上げられた礼装。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2101270",
 		"jp_text": "事代守人衣　夜",
-		"tr_text": "Kotoshiro Protector's Clothes Night",
+		"tr_text": "Kotoshiro's Clothes Night",
 		"jp_explain": "灰の神子の守人であるコトシロ用に\nスクナヒメが作り上げた専用の服。\n神子の力で紡ぎ上げられた礼装。",
 		"tr_explain": ""
 	},
@@ -8243,42 +8243,42 @@
 		"jp_text": "リュウ・レプカ",
 		"tr_text": "Ryu Repca",
 		"jp_explain": "古来より続く隼流忍術を\n現代に受け継ぐ超忍が\n着用する衣装のレプリカ。",
-		"tr_explain": ""
+		"tr_explain": "Replica of the costume worn by the\nSuper Ninja who has inherited the\nancient Hayabusa style ninjutsu."
 	},
 	{
 		"assign": "2101370",
 		"jp_text": "リュウ・レプカ紅",
 		"tr_text": "Ryu Repca Crimson",
 		"jp_explain": "古来より続く隼流忍術を\n現代に受け継ぐ超忍が\n着用する衣装のレプリカ。",
-		"tr_explain": ""
+		"tr_explain": "Replica of the costume worn by the\nSuper Ninja who has inherited the\nancient Hayabusa style ninjutsu."
 	},
 	{
 		"assign": "2101371",
 		"jp_text": "リュウ・レプカ夜",
 		"tr_text": "Ryu Repca Night",
 		"jp_explain": "古来より続く隼流忍術を\n現代に受け継ぐ超忍が\n着用する衣装のレプリカ。",
-		"tr_explain": ""
+		"tr_explain": "Replica of the costume worn by the\nSuper Ninja who has inherited the\nancient Hayabusa style ninjutsu."
 	},
 	{
 		"assign": "2101372",
 		"jp_text": "リュウ・レプカ雪",
 		"tr_text": "Ryu Repca Snow",
 		"jp_explain": "古来より続く隼流忍術を\n現代に受け継ぐ超忍が\n着用する衣装のレプリカ。",
-		"tr_explain": ""
+		"tr_explain": "Replica of the costume worn by the\nSuper Ninja who has inherited the\nancient Hayabusa style ninjutsu."
 	},
 	{
 		"assign": "2101373",
 		"jp_text": "リュウ・レプカ雅",
 		"tr_text": "Ryu Repca Elegance",
 		"jp_explain": "古来より続く隼流忍術を\n現代に受け継ぐ超忍が\n着用する衣装のレプリカ。",
-		"tr_explain": ""
+		"tr_explain": "Replica of the costume worn by the\nSuper Ninja who has inherited the\nancient Hayabusa style ninjutsu."
 	},
 	{
 		"assign": "2101374",
 		"jp_text": "リュウ・レプカ陽",
 		"tr_text": "Ryu Repca Sun",
 		"jp_explain": "古来より続く隼流忍術を\n現代に受け継ぐ超忍が\n着用する衣装のレプリカ。",
-		"tr_explain": ""
+		"tr_explain": "Replica of the costume worn by the\nSuper Ninja who has inherited the\nancient Hayabusa style ninjutsu."
 	},
 	{
 		"assign": "2101375",
@@ -8292,6 +8292,13 @@
 		"jp_text": "トナカイ着ぐるみ・ミニ",
 		"tr_text": "Reindeer Costume Mini",
 		"jp_explain": "真っ赤なお鼻よりもおなかの出べそが\nカワイイと評判のトナカイ着ぐるみ。\nいつもみんなの人気者。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101378",
+		"jp_text": "リリーパスーツ・ミニ",
+		"tr_text": "Lillipa Suit Mini",
+		"jp_explain": "リリーパ族に警戒されないように\n彼らを模して作られた着ぐるみ。\n腹部の柔らかい毛はとてももふもふ。",
 		"tr_explain": ""
 	},
 	{
@@ -8327,6 +8334,244 @@
 		"jp_text": "ピンクラッピースーツ・ミニ",
 		"tr_text": "Pink Rappy Suit Mini",
 		"jp_explain": "ふわふわでかわいいラッピーの姿に\n虜になったメンバーが作り上げた服。\nピンクのかわいい色合いが特徴。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101385",
+		"jp_text": "テムジン７０７Ｇ　１Ｐ",
+		"tr_text": "",
+		"jp_explain": "第二世代バーチャロイド。\n背面のマインド・ブースターが\n特徴的な高汎用性標準機体。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101386",
+		"jp_text": "上条専用テムジン７０７Ｇ",
+		"tr_text": "",
+		"jp_explain": "上条当麻が愛機とするＶＲ。\nマインド・ブースターは、上条のような\n無能力者に対しても効果的に作用する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101387",
+		"jp_text": "ライデン５０２Ｈ　１Ｐ",
+		"tr_text": "",
+		"jp_explain": "第二世代バーチャロイド。\n肩部にスタイヴ８００Ｚを有する\n高性能光学兵器装備重攻機体。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101388",
+		"jp_text": "御坂専用ライデン５０２Ｈ",
+		"tr_text": "",
+		"jp_explain": "御坂美琴が愛機とするＶＲ。御坂が\n所属するチーム「Judge Igniters」\n仕様のカラーリングが施されている。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101389",
+		"jp_text": "ブルーラッピースーツ・ミニ",
+		"tr_text": "",
+		"jp_explain": "ふわふわでかわいいラッピーの姿に\n虜になったメンバーが作り上げた服。\nさわやかなブルーの色合いが特徴。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101390",
+		"jp_text": "結城友奈・レプカＭ",
+		"tr_text": "Yuki Yuna Repca M",
+		"jp_explain": "神樹の勇者となった結城友奈の\n勇者服を模したレプリカ。\n可憐ながら動きやすいコスチューム。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101391",
+		"jp_text": "結城友奈・レプカＭ影",
+		"tr_text": "Yuki Yuna Repca M Shadow",
+		"jp_explain": "神樹の勇者となった結城友奈の\n勇者服を模したレプリカ。\n可憐ながら動きやすいコスチューム。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101392",
+		"jp_text": "結城友奈・レプカＭ空",
+		"tr_text": "Yuki Yuna Repca M Sky",
+		"jp_explain": "神樹の勇者となった結城友奈の\n勇者服を模したレプリカ。\n可憐ながら動きやすいコスチューム。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101393",
+		"jp_text": "結城友奈・レプカＭ雪",
+		"tr_text": "Yuki Yuna Repca M Snow",
+		"jp_explain": "神樹の勇者となった結城友奈の\n勇者服を模したレプリカ。\n可憐ながら動きやすいコスチューム。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101394",
+		"jp_text": "結城友奈・レプカＭ紅",
+		"tr_text": "Yuki Yuna Repca M Crimson",
+		"jp_explain": "神樹の勇者となった結城友奈の\n勇者服を模したレプリカ。\n可憐ながら動きやすいコスチューム。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101395",
+		"jp_text": "東郷美森・レプカＭ",
+		"tr_text": "Togo Mimori Repca M",
+		"jp_explain": "神樹の勇者となった東郷美森の\n勇者服を模したレプリカ。\n凛とした気品のあるコスチューム。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101396",
+		"jp_text": "東郷美森・レプカＭ影",
+		"tr_text": "Togo Mimori Repca M Shadow",
+		"jp_explain": "神樹の勇者となった東郷美森の\n勇者服を模したレプリカ。\n凛とした気品のあるコスチューム。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101397",
+		"jp_text": "東郷美森・レプカＭ海",
+		"tr_text": "Togo Mimori Repca M Sea",
+		"jp_explain": "神樹の勇者となった東郷美森の\n勇者服を模したレプリカ。\n凛とした気品のあるコスチューム。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101398",
+		"jp_text": "東郷美森・レプカＭ紅",
+		"tr_text": "Togo Mimori Repca M Crimson",
+		"jp_explain": "神樹の勇者となった東郷美森の\n勇者服を模したレプリカ。\n凛とした気品のあるコスチューム。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101399",
+		"jp_text": "東郷美森・レプカＭ桜",
+		"tr_text": "Togo Mimori Repca M Sakura",
+		"jp_explain": "神樹の勇者となった東郷美森の\n勇者服を模したレプリカ。\n凛とした気品のあるコスチューム。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101400",
+		"jp_text": "ノーブルロングコート",
+		"tr_text": "",
+		"jp_explain": "上質な生地で作られた服装。\nシックで上品なデザインが\nスマートな印象を与えてくれる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101401",
+		"jp_text": "ノーブルロングコート雪",
+		"tr_text": "",
+		"jp_explain": "上質な生地で作られた服装。\nシックで上品なデザインが\nスマートな印象を与えてくれる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101402",
+		"jp_text": "ノーブルロングコート紅",
+		"tr_text": "",
+		"jp_explain": "上質な生地で作られた服装。\nシックで上品なデザインが\nスマートな印象を与えてくれる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101403",
+		"jp_text": "ノーブルロングコート夜",
+		"tr_text": "",
+		"jp_explain": "上質な生地で作られた服装。\nシックで上品なデザインが\nスマートな印象を与えてくれる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101404",
+		"jp_text": "ノーブルロングコート栗",
+		"tr_text": "",
+		"jp_explain": "上質な生地で作られた服装。\nシックで上品なデザインが\nスマートな印象を与えてくれる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101405",
+		"jp_text": "ノーブルロングコート葉",
+		"tr_text": "",
+		"jp_explain": "上質な生地で作られた服装。\nシックで上品なデザインが\nスマートな印象を与えてくれる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101406",
+		"jp_text": "ヴィテスシュタルク",
+		"tr_text": "",
+		"jp_explain": "正義の味方を気取るアークススーツ。\nそこにいるだけで子どもたちに信頼され\n熱い眼差しで見つめられること確実。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101407",
+		"jp_text": "ヴィテスシュタルク雪",
+		"tr_text": "",
+		"jp_explain": "正義の味方を気取るアークススーツ。\nそこにいるだけで子どもたちに信頼され\n熱い眼差しで見つめられること確実。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101408",
+		"jp_text": "ヴィテスシュタルク陽",
+		"tr_text": "",
+		"jp_explain": "正義の味方を気取るアークススーツ。\nそこにいるだけで子どもたちに信頼され\n熱い眼差しで見つめられること確実。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101409",
+		"jp_text": "ヴィテスシュタルク海",
+		"tr_text": "",
+		"jp_explain": "正義の味方を気取るアークススーツ。\nそこにいるだけで子どもたちに信頼され\n熱い眼差しで見つめられること確実。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101410",
+		"jp_text": "ヴィテスシュタルク雅",
+		"tr_text": "",
+		"jp_explain": "正義の味方を気取るアークススーツ。\nそこにいるだけで子どもたちに信頼され\n熱い眼差しで見つめられること確実。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101411",
+		"jp_text": "ヴィテスシュタルク紅",
+		"tr_text": "",
+		"jp_explain": "正義の味方を気取るアークススーツ。\nそこにいるだけで子どもたちに信頼され\n熱い眼差しで見つめられること確実。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101413",
+		"jp_text": "カクワネスーツ雪",
+		"tr_text": "",
+		"jp_explain": "とある惑星の原生生物を模した\n着ぐるみ。ある時期になると\n大量発生するらしい。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101414",
+		"jp_text": "セルレイダーＲ",
+		"tr_text": "",
+		"jp_explain": "男性アークス用の特別仕様戦闘服。\n誰よりも前に立ち、皆の盾となるため\n装甲部の補強が重視された服装。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101415",
+		"jp_text": "セルレイダーＲ影",
+		"tr_text": "",
+		"jp_explain": "男性アークス用の特別仕様戦闘服。\n誰よりも前に立ち、皆の盾となるため\n装甲部の補強が重視された服装。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101416",
+		"jp_text": "セルレイダーＲ雪",
+		"tr_text": "",
+		"jp_explain": "男性アークス用の特別仕様戦闘服。\n誰よりも前に立ち、皆の盾となるため\n装甲部の補強が重視された服装。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101417",
+		"jp_text": "セルレイダーＲ紅",
+		"tr_text": "",
+		"jp_explain": "男性アークス用の特別仕様戦闘服。\n誰よりも前に立ち、皆の盾となるため\n装甲部の補強が重視された服装。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101418",
+		"jp_text": "セルレイダーＲ夜",
+		"tr_text": "",
+		"jp_explain": "男性アークス用の特別仕様戦闘服。\n誰よりも前に立ち、皆の盾となるため\n装甲部の補強が重視された服装。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101419",
+		"jp_text": "セルレイダーＲ月",
+		"tr_text": "",
+		"jp_explain": "男性アークス用の特別仕様戦闘服。\n誰よりも前に立ち、皆の盾となるため\n装甲部の補強が重視された服装。",
 		"tr_explain": ""
 	}
 ]
