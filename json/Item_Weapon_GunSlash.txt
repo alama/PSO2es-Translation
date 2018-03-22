@@ -438,14 +438,14 @@
 		"jp_text": "赤のガンスラッシュ",
 		"tr_text": "Red Gunslash",
 		"jp_explain": "試験的にカラーリングを\nシンボリックにした銃剣。\n目映い赤色は必然的に目を引く。",
-		"tr_explain": ""
+		"tr_explain": "A gunslash whose experimental\ncoloring has become iconic. The\ndazzling red catches the eye."
 	},
 	{
 		"assign": "17077",
 		"jp_text": "青のガンスラッシュ",
 		"tr_text": "Blue Gunslash",
 		"jp_explain": "試験的にカラーリングを\nシンボリックにした銃剣。\n目映い青色は必然的に目を引く。",
-		"tr_explain": ""
+		"tr_explain": "A gunslash whose experimental\ncoloring has become iconic. The\ndazzling blue catches the eye."
 	},
 	{
 		"assign": "17079",
@@ -1069,5 +1069,12 @@
 		"tr_text": "Chuushuumaru-NT",
 		"jp_explain": "葉の色変わりを表現した刃が美しい\n伝統的な装飾の施された銃剣。\n振るうのがためらわれるほどの出来。",
 		"tr_explain": ""
+	},
+	{
+		"assign": "170302",
+		"jp_text": "インヴェイドバスター-NT",
+		"tr_text": "Invade Buster-NT",
+		"jp_explain": "【深遠なる闇】より生まれし負の銃剣。\n装者は非常なる辣腕を有するも\n禍災をもたらす牽引者と化す。",
+		"tr_explain": "Born from the [Profound Darkness].\nIt's the manifestation of woefulness\nthat bears the fruit of shrewdness."
 	}
 ]

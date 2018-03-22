@@ -431,7 +431,7 @@
 		"jp_text": "テンイムソウ",
 		"tr_text": "Tenimusou",
 		"jp_explain": "邪念を吸い取ることで浄化する両剣。\n浄化した邪念のエネルギーを\n自身の力として取り込んでしまう。",
-		"tr_explain": "A weapon that absorbs and purifies\nevil thoughts. The energy is then\nassimilated into it's own power."
+		"tr_explain": "A weapon that absorbs and purifies\nevil thoughts. The energy is then\nassimilated into its own power."
 	},
 	{
 		"assign": "15070",
@@ -445,14 +445,14 @@
 		"jp_text": "赤のダブルセイバー",
 		"tr_text": "Red Double Saber",
 		"jp_explain": "試験的にカラーリングを\nシンボリックにした両剣。\n目映い赤色は必然的に目を引く。",
-		"tr_explain": ""
+		"tr_explain": "A double saber whose experimental\ncoloring has become iconic. The\ndazzling red catches the eye."
 	},
 	{
 		"assign": "15072",
 		"jp_text": "青のダブルセイバー",
 		"tr_text": "Blue Double Saber",
 		"jp_explain": "試験的にカラーリングを\nシンボリックにした両剣。\n目映い青色は必然的に目を引く。",
-		"tr_explain": ""
+		"tr_explain": "A double saber whose experimental\ncoloring has become iconic. The\ndazzling blue catches the eye."
 	},
 	{
 		"assign": "15073",
@@ -1103,6 +1103,13 @@
 		"jp_text": "双蓮華-NT",
 		"tr_text": "Sourenge-NT",
 		"jp_explain": "魂を込めて冶金された逆刃の剣を\n対にしてつなぎあわせた両剣。\n舞うたびに血の華が散るゆえの銘。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "150340",
+		"jp_text": "インヴェイドエッジ-NT",
+		"tr_text": "Invade Edge-NT",
+		"jp_explain": "【深遠なる闇】より生まれし負の両剣。\n装者は武の極致に魅せられ、戦乱と\n殲滅だけを求める暴虐の徒へと変わる。",
 		"tr_explain": ""
 	}
 ]

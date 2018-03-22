@@ -67,14 +67,14 @@
 		"jp_text": "赤のバレットボウ",
 		"tr_text": "Red Bullet Bow",
 		"jp_explain": "試験的にカラーリングを\nシンボリックにした強弓。\n目映い赤色は必然的に目を引く。",
-		"tr_explain": ""
+		"tr_explain": "A bow whose experimental coloring\nhas become iconic. The dazzling red\ncatches the eye."
 	},
 	{
 		"assign": "115016",
 		"jp_text": "青のバレットボウ",
 		"tr_text": "Blue Bullet Bow",
 		"jp_explain": "試験的にカラーリングを\nシンボリックにした強弓。\n目映い青色は必然的に目を引く。",
-		"tr_explain": ""
+		"tr_explain": "A bow whose experimental coloring\nhas become iconic. The dazzling blue\ncatches the eye."
 	},
 	{
 		"assign": "115017",
@@ -1047,6 +1047,20 @@
 		"jp_text": "天河一位-NT",
 		"tr_text": "Tenkawa Ichii-NT",
 		"jp_explain": "引き絞られたその弓は、天に浮かぶ\n星すら射貫くといわれる強弓。\n不思議な力を持つ樹を素材として利用。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1150289",
+		"jp_text": "インヴェイドボーゲン-NT",
+		"tr_text": "Invade Bogen-NT",
+		"jp_explain": "【深遠なる闇】より生まれし負の強弓。\n装者は非常なる辣腕を有するも\n災禍を導く扇動者となる。",
+		"tr_explain": "Born from the [Profound Darkness],\nthis Bullet Bow is known to be an\ninstigator of doom."
+	},
+	{
+		"assign": "1150291",
+		"jp_text": "リカウテリ-NT",
+		"tr_text": "Rikauteri-NT",
+		"jp_explain": "最高級フォトンリアクターでしか\n作れないフォトンアローが人気の\n超高級限定生産型強弓。",
 		"tr_explain": ""
 	}
 ]

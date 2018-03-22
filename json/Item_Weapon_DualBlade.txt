@@ -67,14 +67,14 @@
 		"jp_text": "赤のデュアルブレード",
 		"tr_text": "Red Dual Blade",
 		"jp_explain": "試験的にカラーリングを\nシンボリックにした飛翔剣。\n目映い赤色は必然的に目を引く。",
-		"tr_explain": ""
+		"tr_explain": "Dual blades whose experimental\ncoloring has become iconic. The\ndazzling red catches the eye."
 	},
 	{
 		"assign": "117016",
 		"jp_text": "青のデュアルブレード",
 		"tr_text": "Blue Dual Blade",
 		"jp_explain": "試験的にカラーリングを\nシンボリックにした飛翔剣。\n目映い青色は必然的に目を引く。",
-		"tr_explain": ""
+		"tr_explain": "Dual blades whose experimental\ncoloring has become iconic. The\ndazzling blue catches the eye."
 	},
 	{
 		"assign": "117017",
@@ -928,6 +928,13 @@
 		"jp_text": "落秋水-NT",
 		"tr_text": "Raku Shusui-NT",
 		"jp_explain": "流水に散る紅葉が描かれた刀身が\n美しい飛翔剣。山吹色の見事な刃は\n曇りひとつなく、研ぎ澄まされている。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1170319",
+		"jp_text": "インヴェイドセイヴァー-NT",
+		"tr_text": "Invade Savior-NT",
+		"jp_explain": "【深遠なる闇】より生まれし負の\n飛翔剣。古の言霊に魅せられ\n万能だけを渇望する追求者となる。",
 		"tr_explain": ""
 	}
 ]

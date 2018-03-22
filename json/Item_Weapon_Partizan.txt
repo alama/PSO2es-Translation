@@ -410,14 +410,14 @@
 		"jp_text": "赤のパルチザン",
 		"tr_text": "Red Partizan",
 		"jp_explain": "試験的にカラーリングを\nシンボリックにした長槍。\n目映い赤色は必然的に目を引く。",
-		"tr_explain": ""
+		"tr_explain": "A partizan whose experimental\ncoloring has become iconic. The\ndazzling red catches the eye."
 	},
 	{
 		"assign": "13070",
 		"jp_text": "青のパルチザン",
 		"tr_text": "Blue Partizan",
 		"jp_explain": "試験的にカラーリングを\nシンボリックにした長槍。\n目映い青色は必然的に目を引く。",
-		"tr_explain": ""
+		"tr_explain": "A partizan whose experimental\ncoloring has become iconic. The\ndazzling blue catches the eye."
 	},
 	{
 		"assign": "13071",
@@ -1131,6 +1131,13 @@
 		"jp_text": "秋断-NT",
 		"tr_text": "Akidachi-NT",
 		"jp_explain": "ひとつの季、ひとつの節に別れを\n告げるために作られた儀式長槍。\n決して刃こぼれのしない刃を持つ。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "130325",
+		"jp_text": "インヴェイドスピアー-NT",
+		"tr_text": "Invade Spear-NT",
+		"jp_explain": "【深遠なる闇】より生まれし負の長槍。\n装者は比類なき力を手にするが\n暴虐と崩壊だけが意志となる。",
 		"tr_explain": ""
 	}
 ]
