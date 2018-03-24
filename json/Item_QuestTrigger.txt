@@ -9,30 +9,30 @@
 	{
 		"assign": "37301",
 		"jp_text": "防衛戦：襲来トリガー",
-		"tr_text": "Mining Base Invasion Trigger",
+		"tr_text": "Base Minera Invasion Trigger",
 		"jp_explain": "採掘基地防衛戦：襲来を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
-		"tr_explain": "[Mining Base Defense: Invasion]\npodrá elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespués de su consumo.<c>"
+		"tr_explain": "[Defensa de Base Minera: Invasion]\npodrá elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespués de su consumo.<c>"
 	},
 	{
 		"assign": "37302",
 		"jp_text": "防衛戦：侵入トリガー",
-		"tr_text": "Mining Base Intrusion Trigger",
+		"tr_text": "Base Minera Intrusion Trigger",
 		"jp_explain": "採掘基地防衛戦：侵入を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
-		"tr_explain": "[Mining Base Defense: Intrusion]\npodrá elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespués de su consumo.<c>"
+		"tr_explain": "[Defensa de Base Minera: Intrusion]\npodrá elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespués de su consumo.<c>"
 	},
 	{
 		"assign": "37303",
 		"jp_text": "防衛戦：絶望トリガー",
-		"tr_text": "Mining Base Despair Trigger",
+		"tr_text": "Base Minera Despair Trigger",
 		"jp_explain": "採掘基地防衛戦：絶望を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
-		"tr_explain": "[Mining Base Defense: Despair]\npodrá elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespués de su consumo.<c>"
+		"tr_explain": "[Defensa de Base Minera: Despair]\npodrá elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespués de su consumo.<c>"
 	},
 	{
 		"assign": "37304",
 		"jp_text": "防衛戦：終焉トリガー",
-		"tr_text": "Mining Base Demise Trigger",
+		"tr_text": "Base Minera Demise Trigger",
 		"jp_explain": "採掘基地防衛戦：終焉を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
-		"tr_explain": "[Mining Base Defense: Demise]\npodrá elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespués de su consumo.<c>"
+		"tr_explain": "[Defensa de Base Minera: Demise]\npodrá elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespués de su consumo.<c>"
 	},
 	{
 		"assign": "37308",
@@ -46,7 +46,7 @@
 		"jp_text": "輪廻の徒花トリガー",
 		"tr_text": "Profound Darkness Trigger",
 		"jp_explain": "世界を堕とす輪廻の徒花を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
-		"tr_explain": "[A Perennial Apocalypse]\npodrá elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespués de su consumo.<c>"
+		"tr_explain": "[Un Perpetuo Apocalipsis]\npodrá elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespués de su consumo.<c>"
 	},
 	{
 		"assign": "373010",
@@ -95,7 +95,7 @@
 		"jp_text": "輝光：輪廻の徒花トリガー",
 		"tr_text": "Solo T: Profound Darkness",
 		"jp_explain": "輝光を屠る輪廻の徒花を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
-		"tr_explain": "[Eternal Darkness]\npodrá elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespués de su consumo.<c>"
+		"tr_explain": "[Oscuridad Eterna]\npodrá elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespués de su consumo.<c>"
 	},
 	{
 		"assign": "373017",
@@ -130,7 +130,7 @@
 		"jp_text": "幻創の造神トリガー",
 		"tr_text": "Phantom God Trigger",
 		"jp_explain": "新世を成す幻創の造神を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
-		"tr_explain": "[The Creator Phantom]\npodrá elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespués de su consumo.<c>"
+		"tr_explain": "[El Creador Phantom]\npodrá elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespués de su consumo.<c>"
 	},
 	{
 		"assign": "373022",
@@ -193,7 +193,7 @@
 		"jp_text": "紅き邪竜トリガー",
 		"tr_text": "Crimson Evil Dragon Trigger",
 		"jp_explain": "壊城に舞う紅き邪竜を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
-		"tr_explain": "[Crimson Castle Crusher]\npodrá elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespués de su consumo.<c>"
+		"tr_explain": "[El Tritura Castillos Carmesi]\npodrá elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespués de su consumo.<c>"
 	},
 	{
 		"assign": "373031",
