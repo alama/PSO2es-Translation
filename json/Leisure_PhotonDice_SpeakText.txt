@@ -7,9 +7,9 @@
 			"リーダー、よろしくなっ！\r\nオレの強さ、見せてやるぜ！"
 		],
 		"tr_patterns": [
-			"Hey Líder!\n¡Vamos a jugar juntos!",
-			"¡Líder!\n¡Luchemos usando dados!",
-			"Ok Líder!\n¡Te mostraré mi fuerza!"
+			"Hey Lider!\n¡Vamos a jugar juntos!",
+			"¡Lider!\n¡Luchemos usando dados!",
+			"Ok Lider!\n¡Te mostrare mi fuerza!"
 		]
 	},
 	{
@@ -22,7 +22,7 @@
 		"tr_patterns": [
 			"Bien, ¡hagamos esto!",
 			"¡Giren! ¡Mis dados!",
-			"Una cosa más!\r\nUn juego contra Jinjo!"
+			"Una cosa mas!\r\nUn juego contra Jinjo!"
 		]
 	},
 	{
@@ -33,9 +33,9 @@
 			"いっえーい！\r\nこのまま勝たせてもらうってば！"
 		],
 		"tr_patterns": [
-			"¿Cómo estás?",
+			"¿Como estas?",
 			"Lo hice!\r\n¡Eso es bueno!",
-			"¡Hola!\r\n¡Me gustaría que lo ganaras!"
+			"¡Hola!\r\n¡Me gustaria que lo ganaras!"
 		]
 	},
 	{

@@ -2,7 +2,7 @@
 	{
 		"assign": "200_t",
 		"jp_text": "SEGA ID認証",
-		"tr_text": "Autentificación de SEGA ID"
+		"tr_text": "Autentificacion de SEGA ID"
 	},
 	{
 		"assign": "201_t",
@@ -12,27 +12,27 @@
 	{
 		"assign": "203_t",
 		"jp_text": "PSO2にログイン中",
-		"tr_text": "iniciado sesión en PSO2"
+		"tr_text": "iniciado sesion en PSO2"
 	},
 	{
 		"assign": "103_t",
 		"jp_text": "ワンタイムパスワード認証",
-		"tr_text": "Autenticación de One-Time Password"
+		"tr_text": "Autenticacion de One-Time Password"
 	},
 	{
 		"assign": "104_t",
 		"jp_text": "ワンタイムパスワード認証",
-		"tr_text": "Autenticación de One-Time Password"
+		"tr_text": "Autenticacion de One-Time Password"
 	},
 	{
 		"assign": "105_t",
 		"jp_text": "ワンタイムパスワード認証",
-		"tr_text": "Autenticación de One-Time Password"
+		"tr_text": "Autenticacion de One-Time Password"
 	},
 	{
 		"assign": "106_t",
 		"jp_text": "ワンタイムパスワード認証",
-		"tr_text": "Autenticación de One-Time Password"
+		"tr_text": "Autenticacion de One-Time Password"
 	},
 	{
 		"assign": "002_t",
@@ -57,12 +57,12 @@
 	{
 		"assign": "114_t",
 		"jp_text": "モバイルセットアップ未完了",
-		"tr_text": "Configuración incompleta"
+		"tr_text": "Configuracion incompleta"
 	},
 	{
 		"assign": "115_t",
 		"jp_text": "モバイルセットアップ済み",
-		"tr_text": "Configuración completa"
+		"tr_text": "Configuracion completa"
 	},
 	{
 		"assign": "108_t",
@@ -97,22 +97,22 @@
 	{
 		"assign": "202_t",
 		"jp_text": "ゲームバージョンチェック",
-		"tr_text": "Verificar versión del juego"
+		"tr_text": "Verificar version del juego"
 	},
 	{
 		"assign": "125_t",
 		"jp_text": "ゲームバージョンチェック",
-		"tr_text": "Verificar versión del juego"
+		"tr_text": "Verificar version del juego"
 	},
 	{
 		"assign": "126_t",
 		"jp_text": "ゲームバージョンチェック",
-		"tr_text": "Verificar versión del juego"
+		"tr_text": "Verificar version del juego"
 	},
 	{
 		"assign": "127_t",
 		"jp_text": "ゲームバージョンチェック",
-		"tr_text": "Verificar versión del juego"
+		"tr_text": "Verificar version del juego"
 	},
 	{
 		"assign": "221_t",
@@ -447,7 +447,7 @@
 	{
 		"assign": "217_t",
 		"jp_text": "課金コンテンツ利用",
-		"tr_text": "Facturación"
+		"tr_text": "Facturacion"
 	},
 	{
 		"assign": "128_t",
@@ -512,17 +512,17 @@
 	{
 		"assign": "100_t",
 		"jp_text": "接続エラー",
-		"tr_text": "Error de conexión"
+		"tr_text": "Error de conexion"
 	},
 	{
 		"assign": "101_t",
 		"jp_text": "データバージョン不一致",
-		"tr_text": "No coincide la versión"
+		"tr_text": "No coincide la version"
 	},
 	{
 		"assign": "110_t",
 		"jp_text": "接続エラー",
-		"tr_text": "Error de conexión"
+		"tr_text": "Error de conexion"
 	},
 	{
 		"assign": "111_t",
@@ -577,17 +577,17 @@
 	{
 		"assign": "200_b",
 		"jp_text": "SEGA IDの認証に失敗しました。\r\nSEGA IDまたはパスワードをご確認の上、\r\n再度入力してください。",
-		"tr_text": "La autenticación de identificación\nde SEGA falló. Por favor revise\nSu ID y contraseña\ne intente de nuevo."
+		"tr_text": "La autenticacion de identificacion\nde SEGA fallo. Por favor revise\nSu ID y contraseйa\ne intente de nuevo."
 	},
 	{
 		"assign": "201_b",
 		"jp_text": "ただいま当アカウントのご利用を\r\n停止させていただいております。",
-		"tr_text": "Actualmente estás usando\nesta cuenta"
+		"tr_text": "Actualmente estas usando\nesta cuenta"
 	},
 	{
 		"assign": "203_b",
 		"jp_text": "PSO2にログインしているため\r\nPSO2esにログインできません。",
-		"tr_text": "Como has iniciado sesión en PSO2,\nno puedes iniciar sesión en PSO2es."
+		"tr_text": "Como has iniciado sesion en PSO2,\nno puedes iniciar sesion en PSO2es."
 	},
 	{
 		"assign": "103_b",

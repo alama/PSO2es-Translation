@@ -5429,42 +5429,42 @@
 		"jp_explainShort": "氷柱を直線状に走らせる氷属性初級の法術",
 		"tr_explainShort": "[Ice Technique] - Barta",
 		"jp_explainLong": "「初級の氷属性の法術」\n大気を冷却し、直線状に氷柱を走らせる。",
-		"tr_explainLong": "Técnica básica de hielo.\nCongela el aire para disparar\nuna línea de trozos de hielo."
+		"tr_explainLong": "Tecnica basica de hielo.\nCongela el aire para disparar\nuna linea de trozos de hielo."
 	},
 	{
 		"assign": "70620",
 		"jp_explainShort": "氷柱を直線状に走らせる氷属性初級の法術",
 		"tr_explainShort": "[Ice Technique] - Barta",
 		"jp_explainLong": "「初級の氷属性の法術」\n大気を冷却し、直線状に氷柱を走らせる。",
-		"tr_explainLong": "Técnica básica de hielo.\nCongela el aire para disparar\nuna línea de trozos de hielo."
+		"tr_explainLong": "Tecnica basica de hielo.\nCongela el aire para disparar\nuna linea de trozos de hielo."
 	},
 	{
 		"assign": "70630",
 		"jp_explainShort": "氷柱を直線状に走らせる氷属性初級の法術",
 		"tr_explainShort": "[Ice Technique] - Barta",
 		"jp_explainLong": "「初級の氷属性の法術」\n大気を冷却し、直線状に氷柱を走らせる。",
-		"tr_explainLong": "Técnica básica de hielo.\nCongela el aire para disparar\nuna línea de trozos de hielo."
+		"tr_explainLong": "Tecnica basica de hielo.\nCongela el aire para disparar\nuna linea de trozos de hielo."
 	},
 	{
 		"assign": "70640",
 		"jp_explainShort": "氷柱を直線状に走らせる氷属性初級の法術",
 		"tr_explainShort": "[Ice Technique] - Barta",
 		"jp_explainLong": "「初級の氷属性の法術」\n大気を冷却し、直線状に氷柱を走らせる。",
-		"tr_explainLong": "Técnica básica de hielo.\nCongela el aire para disparar\nuna línea de trozos de hielo."
+		"tr_explainLong": "Tecnica basica de hielo.\nCongela el aire para disparar\nuna linea de trozos de hielo."
 	},
 	{
 		"assign": "70650",
 		"jp_explainShort": "氷柱を直線状に走らせる氷属性初級の法術",
 		"tr_explainShort": "[Ice Technique] - Barta",
 		"jp_explainLong": "「初級の氷属性の法術」\n大気を冷却し、直線状に氷柱を走らせる。",
-		"tr_explainLong": "Técnica básica de hielo.\nCongela el aire para disparar\nuna línea de trozos de hielo."
+		"tr_explainLong": "Tecnica basica de hielo.\nCongela el aire para disparar\nuna linea de trozos de hielo."
 	},
 	{
 		"assign": "70660",
 		"jp_explainShort": "氷柱を直線状に走らせる氷属性初級の法術",
 		"tr_explainShort": "[Ice Technique] - Barta",
 		"jp_explainLong": "「初級の氷属性の法術」\n大気を冷却し、直線状に氷柱を走らせる。",
-		"tr_explainLong": "Técnica básica de hielo.\nCongela el aire para disparar\nuna línea de trozos de hielo."
+		"tr_explainLong": "Tecnica basica de hielo.\nCongela el aire para disparar\nuna linea de trozos de hielo."
 	},
 	{
 		"assign": "70710",

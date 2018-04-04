@@ -27,7 +27,7 @@
 	{
 		"assign": "0005",
 		"jp_text": "<color=#f0df60>＜ＣＰを回復するテクニック＞</color>\nＣＰは時間とともに少しずつ増えていきますが\nエネミーに攻撃を命中させると、さらに増えるんです。\nＣＰをためて、チップをどんどん発動させましょう。",
-		"tr_text": "<color=#f0df60><Consejos para el jugador></color>\nPuedes recuperar tu CP ligeramente\natacando usando ataques normales.\nLos diferentes requisitos de CP \nvarían según el chip,\nasí que asegúrese de examinarlos todos."
+		"tr_text": "<color=#f0df60><Consejos para el jugador></color>\nPuedes recuperar tu CP ligeramente\natacando usando ataques normales.\nLos diferentes requisitos de CP \nvarian según el chip,\nasi que asegúrese de examinarlos todos."
 	},
 	{
 		"assign": "0006",
@@ -37,7 +37,7 @@
 	{
 		"assign": "0007",
 		"jp_text": "<color=#f0df60>＜フレンドアシスト＞</color>\nフレンドアシスト、活用していますか？\nバトル中、画面右下の武器のアイコンが点灯したら\n発動できますよ。",
-		"tr_text": "<color=#f0df60><Ayuda de amigo></color>\n¿Has usado el sistema de ayuda de amigos?\nPuedes usarlo en la batalla cuando el ícono\ndel arma en la esquina derecha se enciende."
+		"tr_text": "<color=#f0df60><Ayuda de amigo></color>\n¿Has usado el sistema de ayuda de amigos?\nPuedes usarlo en la batalla cuando el icono\ndel arma en la esquina derecha se enciende."
 	},
 	{
 		"assign": "0008",
@@ -47,7 +47,7 @@
 	{
 		"assign": "0009",
 		"jp_text": "<color=#f0df60>＜戦闘不能になったら＞</color>\n戦闘不能になったときは、復活薬などで\nその場で復活することができますよ。\nエネミーのＨＰはそのままなので\n「あと少しで倒せそう」というときなどに、どうぞ。",
-		"tr_text": "<color=#f0df60><Cuando estás muerto></color>\nCuando eres derrotado, puede recuperarse\nde este estado utilizando Rappy Coins,\n AC o elementos de recuperación\ncomo Scape Dolls."
+		"tr_text": "<color=#f0df60><Cuando estas muerto></color>\nCuando eres derrotado, puede recuperarse\nde este estado utilizando Rappy Coins,\n AC o elementos de recuperacion\ncomo Scape Dolls."
 	},
 	{
 		"assign": "0010",
@@ -57,7 +57,7 @@
 	{
 		"assign": "0011",
 		"jp_text": "<color=#f0df60>＜エリアについて＞</color>\n冒険に出発するときは\nまず、出撃するマップである「エリア」を選び\n次に、エリアの中から「クエスト」を選びます。",
-		"tr_text": "<color=#f0df60><Area></color>\nAl comenzar una misión, primero selecciona\nel área a la que te gustaría viajar,\nluego selecciona una misión."
+		"tr_text": "<color=#f0df60><Area></color>\nAl comenzar una mision, primero selecciona\nel area a la que te gustaria viajar,\nluego selecciona una mision."
 	},
 	{
 		"assign": "0012",
@@ -142,7 +142,7 @@
 	{
 		"assign": "0028",
 		"jp_text": "<color=#f0df60>＜グラインダーで強化＞</color>\n編成メニューの「武器／ユニット強化」では\n武器やユニットを強化することができるんです。\n強化には、グラインダーというアイテムが必要です。",
-		"tr_text": "<color=#f0df60><Utilizando Grinders></color>\nPuedes aumentar las estadísticas de tu equipo \n usando grinders en \"Grind Items\"."
+		"tr_text": "<color=#f0df60><Utilizando Grinders></color>\nPuedes aumentar las estadisticas de tu equipo \n usando grinders en \"Grind Items\"."
 	},
 	{
 		"assign": "0029",
@@ -167,12 +167,12 @@
 	{
 		"assign": "0033",
 		"jp_text": "<color=#f0df60>＜セラフィのひとりごと１＞</color>\nもしプライベートで遊びに行けるのなら\n惑星ナベリウスで森林浴かなぁ……\nあっ、でも惑星リリーパの砂漠に沈む夕日を\n見に行くのも悪くないかも！",
-		"tr_text": "<color=#f0df60><Monólogo de Seraphy #1></color>\nEn el planeta Naberius, hay un baño privado\nen el bosque, ahh ... ¡La puesta de sol en el\ndesierto en Lillipa tampoco está nada mal!"
+		"tr_text": "<color=#f0df60><Monologo de Seraphy #1></color>\nEn el planeta Naberius, hay un baйo privado\nen el bosque, ahh ... ¡La puesta de sol en el\ndesierto en Lillipa tampoco esta nada mal!"
 	},
 	{
 		"assign": "0034",
 		"jp_text": "<color=#f0df60>＜セラフィのひとりごと２＞</color>\n『PSO2』では、エステというところがあって\n体型や髪型などを\n自由にカスタマイズできるんですって！\nいいなぁ……私も、もう少し細くなりたい……",
-		"tr_text": "<color=#f0df60><Monólogo de Seraphy #2></color>\n\"PSO2\" ¡Hay un lugar llamado \"Salon\" que te permite\npersonalizar tu tipo de cabello y trajes!\n\nUhh.... Con eso yo podria ser mas delgada..."
+		"tr_text": "<color=#f0df60><Monologo de Seraphy #2></color>\n\"PSO2\" ¡Hay un lugar llamado \"Salon\" que te permite\npersonalizar tu tipo de cabello y trajes!\n\nUhh.... Con eso yo podria ser mas delgada..."
 	},
 	{
 		"assign": "0035",
@@ -207,12 +207,12 @@
 	{
 		"assign": "0041",
 		"jp_text": "<color=#f0df60>＜セラフィのひとりごと３＞</color>\n昔の父は、家族を大事にしてくれる\nやさしい人でしたが\n失踪する数年前から、ふさぎ込みがちになり\n自室で研究に没頭するようになってしまいました。",
-		"tr_text": "<color=#f0df60><Monólogo de Seraphy #3></color>\nMi padre, fue amigable con nuestra familia\ny nuestra gente.\nEstaba tan inmerso en su investigación,\nantes de su desaparición hace unos años."
+		"tr_text": "<color=#f0df60><Monologo de Seraphy #3></color>\nMi padre, fue amigable con nuestra familia\ny nuestra gente.\nEstaba tan inmerso en su investigacion,\nantes de su desaparicion hace unos aйos."
 	},
 	{
 		"assign": "0042",
 		"jp_text": "<color=#f0df60>＜セラフィのひとりごと４＞</color>\nいろんな惑星に探索に行けて\nアークスって、楽しそうですよね……\nあー、私もアークスになりたかったなぁ……",
-		"tr_text": "<color=#f0df60><Monólogo de Seraphy #4></color>\nQuería ir a otros planetas como\n ARKS y divertirme...\n¿Por qué quería convertirme en ARKS?"
+		"tr_text": "<color=#f0df60><Monologo de Seraphy #4></color>\nQueria ir a otros planetas como\n ARKS y divertirme...\n¿Por que queria convertirme en ARKS?"
 	},
 	{
 		"assign": "0043",
@@ -222,12 +222,12 @@
 	{
 		"assign": "0044",
 		"jp_text": "<color=#f0df60>＜ダーカーの弱点属性＞</color>\n蟲系ダーカーは炎と光、\n魚介系ダーカーは雷と光が弱点属性です。\nいずれのダーカーも、光属性は共通した弱点ですね。",
-		"tr_text": "<color=#f0df60><Debilidades de los Darker></color>\nLos Darkers son generalmente débiles\ncontra Fuego y Luz. Los Darkers acuáticos\nson débiles contra Lightning y Light. \nLa mayoría de los Darkers \nson débiles contra la luz."
+		"tr_text": "<color=#f0df60><Debilidades de los Darker></color>\nLos Darkers son generalmente debiles\ncontra Fuego y Luz. Los Darkers acuaticos\nson debiles contra Lightning y Light. \nLa mayoria de los Darkers \nson debiles contra la luz."
 	},
 	{
 		"assign": "0045",
 		"jp_text": "<color=#f0df60>＜レアドロップ＞</color>\nクエスト選択画面の「クエスト情報」では\nボスがまれに落とす「レアドロップ」アイテムが\n表示されています。\nほしいアイテムがあったら、そのクエストに\n何度もチャレンジしてみましょう。",
-		"tr_text": "<color=#f0df60><Rare Drops></color>\n.La información de misión mostrará\nrare drop que el jefe puede soltar.\nSi desea estos objetos, puede que\ntenga que repetir la mision varias veces."
+		"tr_text": "<color=#f0df60><Rare Drops></color>\n.La informacion de mision mostrara\nrare drop que el jefe puede soltar.\nSi desea estos objetos, puede que\ntenga que repetir la mision varias veces."
 	},
 	{
 		"assign": "0046",
@@ -262,7 +262,7 @@
 	{
 		"assign": "0052",
 		"jp_text": "<color=#f0df60>＜コスチュームについて＞</color>\n『PSO2』および『PSO2es』のコスチュームには\nバトルに関係するパラメータはありません。\nですので、強さなどを気にすることなく\n見た目が好みのコスチュームを選ぶとよいでしょう。",
-		"tr_text": "<color=#f0df60><Trajes></color>\nLos Trajes de \"PSO2\" y \"PSO2es\"\nno afectan tus estadísticas, así que\nno dudes en ponerte lo que te gusta."
+		"tr_text": "<color=#f0df60><Trajes></color>\nLos Trajes de \"PSO2\" y \"PSO2es\"\nno afectan tus estadisticas, asi que\nno dudes en ponerte lo que te gusta."
 	},
 	{
 		"assign": "0053",
@@ -467,7 +467,7 @@
 	{
 		"assign": "0093",
 		"jp_text": "<color=#f0df60>＜ダーカーの第二波＞</color>\nダーカー侵入群の、第一波は食い止めました。\nですが引き続き、第二波が押し寄せてきています。\n撃退をお願いします！",
-		"tr_text": "<color=#f0df60><Segunda ola de Darkers></color>\nHas detenido la primera ola de Darkers.\nPero ahora una segunda ola está atacando.\nPor favor, repelerlos!"
+		"tr_text": "<color=#f0df60><Segunda ola de Darkers></color>\nHas detenido la primera ola de Darkers.\nPero ahora una segunda ola esta atacando.\nPor favor, repelerlos!"
 	},
 	{
 		"assign": "0094",
@@ -487,12 +487,12 @@
 	{
 		"assign": "0097",
 		"jp_text": "<color=#f0df60>＜期間限定クエストでフレンドを作ろう＞</color>\nこのクエストでは、冒険中のほかのアークスと\n遭遇することがありますよ。\nぜひフレンド申請して\nフレンドをたくさん作っちゃいましょう。",
-		"tr_text": "<color=#f0df60><Traducciones!></color>\nSi desea ayudar a traducir PSO2es,\nvisítenos en github.com/PolCPP/PSO2es-Translation\no en facebook.com/PSO2spanish/."
+		"tr_text": "<color=#f0df60><Traducciones!></color>\nSi desea ayudar a traducir PSO2es,\nvisitenos en github.com/PolCPP/PSO2es-Translation\no en facebook.com/PSO2spanish/."
 	},
 	{
 		"assign": "0098",
 		"jp_text": "<color=#f0df60>＜期間限定クエストで武器入手＞</color>\nこのクエストでは\nいい武器やユニットがドロップしやすいんですよ。\n思いがけないレアアイテムが\n手に入っちゃうかも？",
-		"tr_text": "<color=#f0df60><Limited Quest Rewards></color>\nEn estas misiones, es fácil obtener\nmuchas armas y unit buenas.\n¿Tal vez incluso objetos raros?"
+		"tr_text": "<color=#f0df60><Limited Quest Rewards></color>\nEn estas misiones, es facil obtener\nmuchas armas y unit buenas.\n¿Tal vez incluso objetos raros?"
 	},
 	{
 		"assign": "0099",
@@ -532,22 +532,22 @@
 	{
 		"assign": "0106",
 		"jp_text": "<color=#f0df60>＜クラス「ファイター」を解放しよう＞</color>\nこのクエストをクリアすると、追加クラス\n「ファイター」が選択できるようになりますよ。\nがんばってくださいね！",
-		"tr_text": "<color=#f0df60><Desbloquear Fighter></color>\nSi completas esta misión, desbloquearás la clase \"Fighter\" \n¡Haz tu mejor esfuerzo!"
+		"tr_text": "<color=#f0df60><Desbloquear Fighter></color>\nSi completas esta mision, desbloquearas la clase \"Fighter\" \n¡Haz tu mejor esfuerzo!"
 	},
 	{
 		"assign": "0107",
 		"jp_text": "<color=#f0df60>＜クラス「ガンナー」を解放しよう＞</color>\nこのクエストをクリアすると、追加クラス\n「ガンナー」が選択できるようになりますよ。\nがんばってくださいね！",
-		"tr_text": "<color=#f0df60><Desbloquear Gunner></color>\nSi completas esta misión, desbloquearás la clase \"Gunner\" \n¡Haz tu mejor esfuerzo!"
+		"tr_text": "<color=#f0df60><Desbloquear Gunner></color>\nSi completas esta mision, desbloquearas la clase \"Gunner\" \n¡Haz tu mejor esfuerzo!"
 	},
 	{
 		"assign": "0108",
 		"jp_text": "<color=#f0df60>＜クラス「テクター」を解放しよう＞</color>\nこのクエストをクリアすると、追加クラス\n「テクター」が選択できるようになりますよ。\nがんばってくださいね！",
-		"tr_text": "<color=#f0df60><Desbloquear Techer></color>\nSi completas esta misión, desbloquearás la clase \"Techer\" \n¡Haz tu mejor esfuerzo!"
+		"tr_text": "<color=#f0df60><Desbloquear Techer></color>\nSi completas esta mision, desbloquearas la clase \"Techer\" \n¡Haz tu mejor esfuerzo!"
 	},
 	{
 		"assign": "0109",
 		"jp_text": "<color=#f0df60>＜コーエン博士を追って＞</color>\n父は、まだ惑星アムドゥスキアに\nいるのでしょうか？\n手がかりをおって、浮遊大陸を探索しましょう。",
-		"tr_text": "<color=#f0df60><Traducciones!></color>\nSi desea ayudar a traducir PSO2es,\nvisítenos en github.com/PolCPP/PSO2es-Translation\no en facebook.com/PSO2spanish/."
+		"tr_text": "<color=#f0df60><Traducciones!></color>\nSi desea ayudar a traducir PSO2es,\nvisitenos en github.com/PolCPP/PSO2es-Translation\no en facebook.com/PSO2spanish/."
 	},
 	{
 		"assign": "0110",
@@ -577,7 +577,7 @@
 	{
 		"assign": "0115",
 		"jp_text": "<color=#f0df60>＜緊急クエストへの再出撃＞</color>\n緊急クエストは、一度で目標のエネミーを倒せなくても\n前回のバトルで与えたダメージはそのままで\nクエストに再挑戦できます。\n何度もチャレンジして、目標の撃破をめざしましょう！",
-		"tr_text": "<color=#f0df60><Emergency Quests></color>\nDurante una Emergency Quest, puedes volver a\ndesafiar la misma misión hasta que el enemigo\n sea derrotado o te hayas quedado sin OP.\n¡Haz tu mejor esfuerzo!"
+		"tr_text": "<color=#f0df60><Emergency Quests></color>\nDurante una Emergency Quest, puedes volver a\ndesafiar la misma mision hasta que el enemigo\n sea derrotado o te hayas quedado sin OP.\n¡Haz tu mejor esfuerzo!"
 	},
 	{
 		"assign": "0116",
@@ -587,12 +587,12 @@
 	{
 		"assign": "0117",
 		"jp_text": "<color=#f0df60>＜討伐スコアを手に入れよう＞</color>\n緊急クエストのクリア時には、討伐スコアに応じて\nアークス本部より特別報酬が支給されます。\n目標にダメージをたくさん与えて、討伐スコアを\n手に入れましょう！",
-		"tr_text": "<color=#f0df60><Scores></color>\nUna vez que hayas derrotado al enemigo\ncon éxito, obtendrás puntos y una\nrecompensa especial. Puede utilizar estos \npuntos para canjear por un ecualizador\nde EQ especial. ¡Derrotemos al enemigo\ny ganemos más puntos!"
+		"tr_text": "<color=#f0df60><Scores></color>\nUna vez que hayas derrotado al enemigo\ncon exito, obtendras puntos y una\nrecompensa especial. Puede utilizar estos \npuntos para canjear por un ecualizador\nde EQ especial. ¡Derrotemos al enemigo\ny ganemos mas puntos!"
 	},
 	{
 		"assign": "0118",
 		"jp_text": "<color=#f0df60>＜短時間でのクリアをめざそう＞</color>\n緊急クエストは、クリアまでの時間が短いほど\nクリア評価が高くなります。\n評価が高いと、参加した全員に対して\nボーナスの討伐スコアが与えられますよ！",
-		"tr_text": "<color=#f0df60><Traducciones!></color>\nSi desea ayudar a traducir PSO2es,\nvisítenos en github.com/PolCPP/PSO2es-Translation\no en facebook.com/PSO2spanish/."
+		"tr_text": "<color=#f0df60><Traducciones!></color>\nSi desea ayudar a traducir PSO2es,\nvisitenos en github.com/PolCPP/PSO2es-Translation\no en facebook.com/PSO2spanish/."
 	},
 	{
 		"assign": "0119",
@@ -667,7 +667,7 @@
 	{
 		"assign": "0133",
 		"jp_text": "<color=#f0df60>＜超強力エネミー登場！＞</color>\nこのクエストでは、上級をはるかに超える\n強力なエネミーが出現するようです。\n心してかかってください！",
-		"tr_text": "<color=#f0df60><Un poderoso enemigo!></color>\nEn esta misión, existe la posibilidad de\nque aparezca un enemigo poderoso.\nPor favor derrotalo!"
+		"tr_text": "<color=#f0df60><Un poderoso enemigo!></color>\nEn esta mision, existe la posibilidad de\nque aparezca un enemigo poderoso.\nPor favor derrotalo!"
 	},
 	{
 		"assign": "0134",
@@ -677,7 +677,7 @@
 	{
 		"assign": "0135",
 		"jp_text": "<color=#f0df60>＜条件を達成して報酬をもらおう＞</color>\n緊急クエストで一定数以上の目標を討伐するなどの\n条件を達成するとイベントページで\n報酬を獲得できます。\n報酬の入手条件はイベントページで確認しましょう！",
-		"tr_text": "<color=#f0df60><Condiciones de recompensa></color>\nAl completar objetivos adicionales,\npuedes ganar recompensas adicionales.\nRevisa la página del evento para más\ndetalles!"
+		"tr_text": "<color=#f0df60><Condiciones de recompensa></color>\nAl completar objetivos adicionales,\npuedes ganar recompensas adicionales.\nRevisa la pagina del evento para mas\ndetalles!"
 	},
 	{
 		"assign": "0136",
@@ -727,7 +727,7 @@
 	{
 		"assign": "0145",
 		"jp_text": "<color=#f0df60>＜セラフィに話が……＞</color>\nこのクエストをクリアしたら\n遺跡での任務は完了ですよ。がんばってください！\nえ、大事な話がある？\nもう出撃時間ですよ。さあ急いで！",
-		"tr_text": "<color=#f0df60><Traducciones!></color>\nSi desea ayudar a traducir PSO2es,\nvisítenos en github.com/PolCPP/PSO2es-Translation\no en facebook.com/PSO2spanish/."
+		"tr_text": "<color=#f0df60><Traducciones!></color>\nSi desea ayudar a traducir PSO2es,\nvisitenos en github.com/PolCPP/PSO2es-Translation\no en facebook.com/PSO2spanish/."
 	},
 	{
 		"assign": "0146",
@@ -807,7 +807,7 @@
 	{
 		"assign": "0161",
 		"jp_text": "<color=#f0df60>＜システムメッセージ＞</color>\nアークス管理官・セラフィへの通信は\n現在、接続不能となっています。",
-		"tr_text": "<color=#f0df60><Mensaje del sistema></color>\nPerdimos la conexión con la\nAdministradora Gestiónes ARKS\nSeraphy."
+		"tr_text": "<color=#f0df60><Mensaje del sistema></color>\nPerdimos la conexion con la\nAdministradora Gestiones ARKS\nSeraphy."
 	},
 	{
 		"assign": "0162",

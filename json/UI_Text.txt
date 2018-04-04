@@ -2,7 +2,7 @@
 	{
 		"assign": "lobby_guide_00",
 		"jp_text": "<color=#f0df60>タッチ操作で項目を選択することができます。</color>",
-		"tr_text": "<color=#f0df60>Seleccione lo que desea hacer tocando los íconos.</color>"
+		"tr_text": "<color=#f0df60>Seleccione lo que desea hacer tocando los iconos.</color>"
 	},
 	{
 		"assign": "lobby_guide_01",
@@ -32,12 +32,12 @@
 	{
 		"assign": "acshop_npc_b_01",
 		"jp_text": "<color=black>ご使用になりたい\nプレミアムセット(チケット)を\n選択してください。</color>",
-		"tr_text": "<color=black>Por favor seleccione qué\nSet Premium desea usar.</color>"
+		"tr_text": "<color=black>Por favor seleccione que\nSet Premium desea usar.</color>"
 	},
 	{
 		"assign": "acshop_guide_00",
 		"jp_text": "<color=#f0df60>利用したい項目を選択してください。</color>",
-		"tr_text": "<color=#f0df60>Por favor seleccione la opción que desee. Puede comprar AC seleccionando cargar AC.</color>"
+		"tr_text": "<color=#f0df60>Por favor seleccione la opcion que desee. Puede comprar AC seleccionando cargar AC.</color>"
 	},
 	{
 		"assign": "acshop_guide_01",
@@ -117,7 +117,7 @@
 	{
 		"assign": "acshop_chipexpand_back_btn",
 		"jp_text": "戻る",
-		"tr_text": "Atrás"
+		"tr_text": "Atras"
 	},
 	{
 		"assign": "acshop_driveheal_rappy_btn",
@@ -132,7 +132,7 @@
 	{
 		"assign": "acshop_driveheal_back_btn",
 		"jp_text": "戻る",
-		"tr_text": "Atrás"
+		"tr_text": "Atras"
 	},
 	{
 		"assign": "acshop_dialog_obt_t_00",
@@ -152,7 +152,7 @@
 	{
 		"assign": "acshop_dialog_b_00",
 		"jp_text": "ラッピーメダルか<%AC>を消費して\nチップパックを拡張しますか？\n\nパックサイズ（<%current_pack_size>）→<color=red>（<%after_pack_size>）</color>\n※チップパックは<%max_pack_size>まで拡張できます。\n\n必要ラッピーメダル：<%consume_rappy_coin>枚\n所持ラッピーメダル：<%current_rappy_coin>\n\n必要<%AC>：<%consume_AC>\n所持<%AC>：<%current_AC>",
-		"tr_text": "Esto ampliará\ntu Chip Storage.\n\nChip Storage（<%current_pack_size>）→<color=red>（<%after_pack_size>）</color>\n※Puede extenderse a un Máximo de <%max_pack_size>.\n\nRappy Coins necesario: <%consume_rappy_coin>枚\nRappy Coins en propiedad：<%current_rappy_coin>枚\n\nAC necesario: <%consume_AC>\nAC Actual：<%current_AC>"
+		"tr_text": "Esto ampliara\ntu Chip Storage.\n\nChip Storage（<%current_pack_size>）→<color=red>（<%after_pack_size>）</color>\n※Puede extenderse a un Maximo de <%max_pack_size>.\n\nRappy Coins necesario: <%consume_rappy_coin>枚\nRappy Coins en propiedad：<%current_rappy_coin>枚\n\nAC necesario: <%consume_AC>\nAC Actual：<%current_AC>"
 	},
 	{
 		"assign": "acshop_dialog_t_01",
@@ -172,7 +172,7 @@
 	{
 		"assign": "acshop_dialog_b_02",
 		"jp_text": "チップパックが最大まで拡張されているので\nこれ以上拡張できません。",
-		"tr_text": "No se puede expandir el almacenamiento de chips.\nYa está al máximo."
+		"tr_text": "No se puede expandir el almacenamiento de chips.\nYa esta al maximo."
 	},
 	{
 		"assign": "acshop_dialog_t_03",
@@ -192,7 +192,7 @@
 	{
 		"assign": "acshop_dialog_b_04",
 		"jp_text": "ラッピーメダルか<%AC>を消費して\n行動力を回復しますか？\n\n行動力（<%current_drive>）→<color=red>（<%after_drive>）</color>\n\n必要ラッピーメダル：<%consume_rappy_coin>枚\n所持ラッピーメダル：<%current_rappy_coin>\n\n必要<%AC>：<%consume_AC>\n所持<%AC>：<%current_AC>",
-		"tr_text": "Esto restaurará\ntu Drive points.\n\nDrive（<%current_drive>）→<color=red>（<%after_drive>）</color>\n\nRappy Coins needed：<%consume_rappy_coin>枚\nRappy Coins owned：<%current_rappy_coin>枚\n\nAC needed：<%consume_AC>\nAC owned：<%current_AC>"
+		"tr_text": "Esto restaurara\ntu Drive points.\n\nDrive（<%current_drive>）→<color=red>（<%after_drive>）</color>\n\nRappy Coins needed：<%consume_rappy_coin>枚\nRappy Coins owned：<%current_rappy_coin>枚\n\nAC needed：<%consume_AC>\nAC owned：<%current_AC>"
 	},
 	{
 		"assign": "acshop_dialog_t_05",
@@ -232,7 +232,7 @@
 	{
 		"assign": "acshop_dialog_b_08",
 		"jp_text": "所持<%AC>が不足しています。\n<%AC>をチャージしますか？\n\n必要<%AC>：<%consume_AC>\n所持<%AC>：<%current_AC>",
-		"tr_text": "<%AC> Insuficiente.\n¿Quieres comprar más <%AC>?\n\n<%AC> necesario: <%consume_AC>\n<%AC> actual：<%current_AC>"
+		"tr_text": "<%AC> Insuficiente.\n¿Quieres comprar mas <%AC>?\n\n<%AC> necesario: <%consume_AC>\n<%AC> actual：<%current_AC>"
 	},
 	{
 		"assign": "acshop_dialog_t_09",
@@ -252,7 +252,7 @@
 	{
 		"assign": "acshop_dialog_b_10",
 		"jp_text": "これ以上、有効期限を追加することはできません。\n\nプレミアム有効期限：<%expiration_date>\n※プレミアム有効期限は最大<%max_days>日まで追加できます。",
-		"tr_text": "No se puede comprar Máximo excedido.\n\nVencimiento：<%expiration_date>\n※Premium Set se puede comprar hasta <%max_days> Days."
+		"tr_text": "No se puede comprar Maximo excedido.\n\nVencimiento：<%expiration_date>\n※Premium Set se puede comprar hasta <%max_days> Days."
 	},
 	{
 		"assign": "acshop_dialog_t_11",
@@ -282,7 +282,7 @@
 	{
 		"assign": "acshop_dialog_b_13",
 		"jp_text": "アイテムパックの空き容量不足\nまたは所持限界数を超えるため購入できません。",
-		"tr_text": "No hay suficiente almacenamiento,\no ha excedido el máximo."
+		"tr_text": "No hay suficiente almacenamiento,\no ha excedido el maximo."
 	},
 	{
 		"assign": "acshop_dialog_t_14",
@@ -302,7 +302,7 @@
 	{
 		"assign": "acshop_dialog_b_15",
 		"jp_text": "購入前に年齢確認を実施いたします。\n\n【年齢確認】\nあなたは20歳以上ですか？",
-		"tr_text": "Se requiere verificación de edad antes de la compra.\n\n【Verificación de edad】\n¿Tienes 20 años o más?"
+		"tr_text": "Se requiere verificacion de edad antes de la compra.\n\n【Verificacion de edad】\n¿Tienes 20 aйos o mas?"
 	},
 	{
 		"assign": "acshop_dialog_t_16",
@@ -312,7 +312,7 @@
 	{
 		"assign": "acshop_dialog_b_16",
 		"jp_text": "20歳未満の方は、必ず保護者の許可を得てから\n購入手続きを行ってください。\n\n【許可の確認】\n保護者の許可は得ていますか？",
-		"tr_text": "Si tienes menos de 20 años de edad, por favor\nadquiera el permiso antes de la compra.\n\n【Prueba de permiso】\n¿Tienes permiso para comprar?"
+		"tr_text": "Si tienes menos de 20 aйos de edad, por favor\nadquiera el permiso antes de la compra.\n\n【Prueba de permiso】\n¿Tienes permiso para comprar?"
 	},
 	{
 		"assign": "acshop_dialog_t_17",
@@ -322,7 +322,7 @@
 	{
 		"assign": "acshop_dialog_b_17",
 		"jp_text": "保護者の許可を得てから再度購入手続きを\n実施してください。",
-		"tr_text": "Por favor, inténtelo de nuevo luego de\nobtener el permiso de sus padres."
+		"tr_text": "Por favor, intentelo de nuevo luego de\nobtener el permiso de sus padres."
 	},
 	{
 		"assign": "acshop_dialog_t_18",
@@ -342,7 +342,7 @@
 	{
 		"assign": "acshop_dialog_b_19",
 		"jp_text": "<%AC>の購入に失敗しました。\n前回購入分の<%AC>が未反映の可能性があります\nので、お手数ですが再度ログインし直して<%AC>が\n反映されるかご確認ください。",
-		"tr_text": "La compra de <%AC> falló.\nTodavía es posible que la carga tenga éxito.\nPara estar seguro, reinicie PSO2es\ny confirme que se le ha cargado"
+		"tr_text": "La compra de <%AC> fallo.\nTodavia es posible que la carga tenga exito.\nPara estar seguro, reinicie PSO2es\ny confirme que se le ha cargado"
 	},
 	{
 		"assign": "acshop_dialog_t_20",
@@ -352,7 +352,7 @@
 	{
 		"assign": "acshop_dialog_b_20",
 		"jp_text": "<%AC>の購入をキャンセルしました。",
-		"tr_text": "Se canceló la compra de <%AC>."
+		"tr_text": "Se cancelo la compra de <%AC>."
 	},
 	{
 		"assign": "acshop_dialog_t_21",
@@ -362,17 +362,17 @@
 	{
 		"assign": "acshop_dialog_b_21",
 		"jp_text": "Googleアカウントにログインしていない場合、\nACをご購入することはできません。\n\nGoogle Playに接続できることをご確認の上、\n再度お試しください。",
-		"tr_text": "No puedes comprar <%AC> sin\niniciar sesión en su cuenta de Google.\n\nConfirma que puedes conectarte a\nPlay Store y vuelve a intentarlo."
+		"tr_text": "No puedes comprar <%AC> sin\niniciar sesion en su cuenta de Google.\n\nConfirma que puedes conectarte a\nPlay Store y vuelve a intentarlo."
 	},
 	{
 		"assign": "acshop_dialog_t_22",
 		"jp_text": "年齢認証",
-		"tr_text": "Verificación de edad"
+		"tr_text": "Verificacion de edad"
 	},
 	{
 		"assign": "acshop_dialog_b_22",
 		"jp_text": "購入するには年齢認証が必要となります。\n年齢別の1ヶ月当たりの限度額は以下の通りです。\n\n・13歳未満　5,000円\n・20歳未満　20,000円\n\n<color=#ff0000>※この登録は一度のみで次回以降は不要です。\n※登録情報は年齢認証以外には使用しません。</color>",
-		"tr_text": "La edad debe ser verificada antes de la compra.\nLos límites de las transacciones por mes son:\n\n・13 años　5,000 yen\n・20 años　20,000 yen\n\n<color=#ff0000>※Esta es una verificación única.\n※La información de edad no se usa para nada más.</color>"
+		"tr_text": "La edad debe ser verificada antes de la compra.\nLos limites de las transacciones por mes son:\n\n・13 aйos　5,000 yen\n・20 aйos　20,000 yen\n\n<color=#ff0000>※Esta es una verificacion única.\n※La informacion de edad no se usa para nada mas.</color>"
 	},
 	{
 		"assign": "acshop_dialog_t_23",
@@ -382,17 +382,17 @@
 	{
 		"assign": "acshop_dialog_b_23",
 		"jp_text": "お客様の生年月を入力してください。\n<color=#ff0000>\n※生年月になると年齢情報が更新されます。\n※この登録は一度のみで次回以降は不要です。\n※登録情報は年齢認証以外には使用しません。\n</color>",
-		"tr_text": "Por favor, introduce tu fecha de nacimiento.\n<color=#ff0000>\n※La información sobre la edad se actualizará.\n※Esta es una verificación única.\n※La información de edad no se usa para nada más.\n</color>"
+		"tr_text": "Por favor, introduce tu fecha de nacimiento.\n<color=#ff0000>\n※La informacion sobre la edad se actualizara.\n※Esta es una verificacion única.\n※La informacion de edad no se usa para nada mas.\n</color>"
 	},
 	{
 		"assign": "acshop_dialog_t_24",
 		"jp_text": "内容確認",
-		"tr_text": "Confirmación"
+		"tr_text": "Confirmacion"
 	},
 	{
 		"assign": "acshop_dialog_b_24",
 		"jp_text": "以下の内容で登録を行います。\nよろしいでしょうか？\n\n生年月：{0}年/{1}月",
-		"tr_text": "Estás a punto de confirmar.\n¿Esta información es precisa?\n\nFecha de nacimiento：{0}/{1}"
+		"tr_text": "Estas a punto de confirmar.\n¿Esta informacion es precisa?\n\nFecha de nacimiento：{0}/{1}"
 	},
 	{
 		"assign": "acshop_dialog_t_25",
@@ -402,17 +402,17 @@
 	{
 		"assign": "acshop_dialog_b_25",
 		"jp_text": "年齢認証登録が完了しました。\n引き続き、『PSO2es』をお楽しみください。",
-		"tr_text": "Verificación de edad completada.\nPor favor, continúe disfrutando de PSO2es."
+		"tr_text": "Verificacion de edad completada.\nPor favor, continúe disfrutando de PSO2es."
 	},
 	{
 		"assign": "acshop_dialog_t_26",
 		"jp_text": "上限額に達しています",
-		"tr_text": "Máximo alcanzado"
+		"tr_text": "Maximo alcanzado"
 	},
 	{
 		"assign": "acshop_dialog_b_26",
 		"jp_text": "1ヶ月に購入可能な上限額に達してしまうため\n追加購入をすることができません。\n・選択メニュー：{0:N0}円\n・今月の購入額：{1:N0}円\n・今月の上限額：{2:N0}円\n\n※上限額は毎月1日にリセットされます。",
-		"tr_text": "Se ha alcanzado el cargo máximo\npor 1 mes. No puede continuar.\n・Seleccionado：{0:N0}円\n・Comprado este mes：{1:N0}円\n・Monto máximo：{2:N0}円\n\n※El límite se reinicia el primer día del proximo mes"
+		"tr_text": "Se ha alcanzado el cargo maximo\npor 1 mes. No puede continuar.\n・Seleccionado：{0:N0}円\n・Comprado este mes：{1:N0}円\n・Monto maximo：{2:N0}円\n\n※El limite se reinicia el primer dia del proximo mes"
 	},
 	{
 		"assign": "acshop_dialog_t_27",
@@ -422,12 +422,12 @@
 	{
 		"assign": "acshop_dialog_b_27",
 		"jp_text": "入力内容が正しくありません。\n生まれ年は半角数字4ケタ、\n生まれ月は半角数字1～2ケタで\n入力してください。",
-		"tr_text": "La entrada es incorrecta.\nAsegúrese de ingresar 4 dígitos por año\ny 1-2 dígitos por mes."
+		"tr_text": "La entrada es incorrecta.\nAsegúrese de ingresar 4 digitos por aйo\ny 1-2 digitos por mes."
 	},
 	{
 		"assign": "acshop_dialog_t_28",
 		"jp_text": "アイテム購入確認",
-		"tr_text": "Confirmación de compra de objeto"
+		"tr_text": "Confirmacion de compra de objeto"
 	},
 	{
 		"assign": "acshop_dialog_b_28",
@@ -437,7 +437,7 @@
 	{
 		"assign": "acshop_dialog_t_29",
 		"jp_text": "アイテム購入確認",
-		"tr_text": "Confirmación de compra de objeto"
+		"tr_text": "Confirmacion de compra de objeto"
 	},
 	{
 		"assign": "acshop_dialog_b_29",
@@ -447,7 +447,7 @@
 	{
 		"assign": "acshop_dialog_t_30",
 		"jp_text": "アイテム購入確認",
-		"tr_text": "Confirmación de compra de objeto"
+		"tr_text": "Confirmacion de compra de objeto"
 	},
 	{
 		"assign": "acshop_dialog_b_30",
@@ -457,7 +457,7 @@
 	{
 		"assign": "acshop_dialog_t_31",
 		"jp_text": "アイテム購入確認",
-		"tr_text": "Confirmación de compra de objeto"
+		"tr_text": "Confirmacion de compra de objeto"
 	},
 	{
 		"assign": "acshop_dialog_b_31",
@@ -477,7 +477,7 @@
 	{
 		"assign": "acshop_dialog_t_33",
 		"jp_text": "アイテム購入確認",
-		"tr_text": "Confirmación de compra de objeto"
+		"tr_text": "Confirmacion de compra de objeto"
 	},
 	{
 		"assign": "acshop_dialog_b_33",
@@ -487,7 +487,7 @@
 	{
 		"assign": "acshop_dialog_t_34",
 		"jp_text": "アイテム購入確認",
-		"tr_text": "Confirmación de compra de objeto"
+		"tr_text": "Confirmacion de compra de objeto"
 	},
 	{
 		"assign": "acshop_dialog_b_34",
@@ -497,7 +497,7 @@
 	{
 		"assign": "acshop_dialog_t_35",
 		"jp_text": "アイテム購入確認",
-		"tr_text": "Confirmación de compra de objeto"
+		"tr_text": "Confirmacion de compra de objeto"
 	},
 	{
 		"assign": "acshop_dialog_b_35",
@@ -507,7 +507,7 @@
 	{
 		"assign": "acshop_dialog_t_36",
 		"jp_text": "アイテム購入確認",
-		"tr_text": "Confirmación de compra de objeto"
+		"tr_text": "Confirmacion de compra de objeto"
 	},
 	{
 		"assign": "acshop_dialog_b_36",
@@ -572,7 +572,7 @@
 	{
 		"assign": "acshop_oprecovery_back_btn",
 		"jp_text": "戻る",
-		"tr_text": "Atrás"
+		"tr_text": "Atras"
 	},
 	{
 		"assign": "acshop_oprecovery_decide_btn",
@@ -677,7 +677,7 @@
 	{
 		"assign": "acshop_label_02",
 		"jp_text": "年",
-		"tr_text": "Año"
+		"tr_text": "Aйo"
 	},
 	{
 		"assign": "acshop_label_03",
@@ -692,7 +692,7 @@
 	{
 		"assign": "acshop_dialog_b_41",
 		"jp_text": "所持数オーバーのアイテムのため使用できません。",
-		"tr_text": "Tiene más del límite de objetos en su inventario."
+		"tr_text": "Tiene mas del limite de objetos en su inventario."
 	},
 	{
 		"assign": "mshop_npc_t_00",
@@ -702,7 +702,7 @@
 	{
 		"assign": "mshop_npc_b_00",
 		"jp_text": "<color=black>いらっしゃいませ！\nこちらではチップやアイテムを\n売却・交換できます。</color>",
-		"tr_text": "<color=black>Bienvenido!\nPuedes vender objetos/chips aquí.</color>"
+		"tr_text": "<color=black>Bienvenido!\nPuedes vender objetos/chips aqui.</color>"
 	},
 	{
 		"assign": "mshop_guide_00",
@@ -712,7 +712,7 @@
 	{
 		"assign": "mshop_guide_01",
 		"jp_text": "<color=#f0df60>売却するチップを選択してください。複数選択することでまとめて売却することができます。</color>",
-		"tr_text": "<color=#f0df60>Seleccione los chips que deseas vender. Puedes vender más de uno a la vez seleccionando múltiples chips.</color>"
+		"tr_text": "<color=#f0df60>Seleccione los chips que deseas vender. Puedes vender mas de uno a la vez seleccionando múltiples chips.</color>"
 	},
 	{
 		"assign": "mshop_guide_02",
@@ -727,7 +727,7 @@
 	{
 		"assign": "mshop_guide_04",
 		"jp_text": "<color=#f0df60>渡すチップまたはアイテムを選んでください。必要な数を選択すると、交換できます。</color>",
-		"tr_text": "<color=#f0df60>Después de haber seleccionado suficientes objetos para el intercambio, puede adquirirlo.</color>"
+		"tr_text": "<color=#f0df60>Despues de haber seleccionado suficientes objetos para el intercambio, puede adquirirlo.</color>"
 	},
 	{
 		"assign": "mshop_guide_05",
@@ -742,12 +742,12 @@
 	{
 		"assign": "mshop_dialog_b_00",
 		"jp_text": "チップを{0}メセタで売却します。\nよろしいですか？",
-		"tr_text": "Recibirás {0} Meseta por vender el\nchip(s) seleccionado(s). ¿Continuar?"
+		"tr_text": "Recibiras {0} Meseta por vender el\nchip(s) seleccionado(s). ¿Continuar?"
 	},
 	{
 		"assign": "mshop_dialog_b_00_rare",
 		"jp_text": "選択したチップの中に<color=#ff0000>★７以上</color>のものが\n含まれています。本当に売却しますか？",
-		"tr_text": "Entre los chips que has seleccionado hay un\n<color=#ff0000>7★</color>\n+ chip. ¿Estás seguro de que quieres continuar?"
+		"tr_text": "Entre los chips que has seleccionado hay un\n<color=#ff0000>7★</color>\n+ chip. ¿Estas seguro de que quieres continuar?"
 	},
 	{
 		"assign": "mshop_dialog_t_01",
@@ -767,12 +767,12 @@
 	{
 		"assign": "mshop_dialog_b_02",
 		"jp_text": "アイテムを{0}メセタで売却します。\nよろしいですか？",
-		"tr_text": "Recibirás {0} Meseta por vender los\nobjetos seleccionados. ¿Continuar?"
+		"tr_text": "Recibiras {0} Meseta por vender los\nobjetos seleccionados. ¿Continuar?"
 	},
 	{
 		"assign": "mshop_dialog_b_02_rare",
 		"jp_text": "選択したアイテムの中に<color=#ff0000>★７以上</color>のものが\n含まれています。本当に売却しますか？",
-		"tr_text": "Entre los objetos que has seleccionado\nhay un<color=#ff0000>7★</color>+ item.\n¿Estás seguro de que quieres continuar?"
+		"tr_text": "Entre los objetos que has seleccionado\nhay un<color=#ff0000>7★</color>+ item.\n¿Estas seguro de que quieres continuar?"
 	},
 	{
 		"assign": "mshop_dialog_t_03",
@@ -792,7 +792,7 @@
 	{
 		"assign": "mshop_dialog_b_04",
 		"jp_text": "売却をキャンセルします。\nよろしいですか？",
-		"tr_text": "Esto cancelará la venta.\n¿Estás seguro?"
+		"tr_text": "Esto cancelara la venta.\n¿Estas seguro?"
 	},
 	{
 		"assign": "mshop_dialog_t_05",
@@ -802,7 +802,7 @@
 	{
 		"assign": "mshop_dialog_b_05",
 		"jp_text": "売却をキャンセルします。\nよろしいですか？",
-		"tr_text": "Esto cancelará la venta.\n¿Estás seguro?"
+		"tr_text": "Esto cancelara la venta.\n¿Estas seguro?"
 	},
 	{
 		"assign": "mshop_dialog_t_06",
@@ -832,7 +832,7 @@
 	{
 		"assign": "rshop_dialog_b_01",
 		"jp_text": "交換をキャンセルします。\nよろしいですか？",
-		"tr_text": "Cancelando el intercambio.\n¿Estás seguro?"
+		"tr_text": "Cancelando el intercambio.\n¿Estas seguro?"
 	},
 	{
 		"assign": "rshop_dialog_t_02",
@@ -842,7 +842,7 @@
 	{
 		"assign": "rshop_dialog_b_02",
 		"jp_text": "{0}\nと、以下のアイテムを交換します。よろしいですか？",
-		"tr_text": "Los objetos serán intercambiados por\n{0} ¿Estás seguro?"
+		"tr_text": "Los objetos seran intercambiados por\n{0} ¿Estas seguro?"
 	},
 	{
 		"assign": "rshop_dialog_t_03",
@@ -872,7 +872,7 @@
 	{
 		"assign": "rshop_dialog_b_05",
 		"jp_text": "交換上限数に達したため、交換できません。",
-		"tr_text": "Llegas al límite de dicho objeto."
+		"tr_text": "Llegas al limite de dicho objeto."
 	},
 	{
 		"assign": "rshop_dialog_t_06",
@@ -917,7 +917,7 @@
 	{
 		"assign": "arcscard_guide_00",
 		"jp_text": "<color=#f0df60>編集したいメッセージをタッチしてください。</color>",
-		"tr_text": "<color=#f0df60>Toca el área que deseas editar.</color>"
+		"tr_text": "<color=#f0df60>Toca el area que deseas editar.</color>"
 	},
 	{
 		"assign": "arcscard_default_00",
@@ -927,7 +927,7 @@
 	{
 		"assign": "arcscard_default_01",
 		"jp_text": "援護します！",
-		"tr_text": "(¡Te cubriré!)"
+		"tr_text": "(¡Te cubrire!)"
 	},
 	{
 		"assign": "charamake_guide_00",
@@ -947,7 +947,7 @@
 	{
 		"assign": "charamake_guide_03",
 		"jp_text": "<color=#f0df60>クラス（職業）を選択してください。クラスはゲーム中に変更することもできます。</color>",
-		"tr_text": "<color=#f0df60>Por favor selecciona una clase Esto se puede cambiar más adelante.</color>"
+		"tr_text": "<color=#f0df60>Por favor selecciona una clase Esto se puede cambiar mas adelante.</color>"
 	},
 	{
 		"assign": "charamake_guide_04",
@@ -957,12 +957,12 @@
 	{
 		"assign": "charamake_guide_05",
 		"jp_text": "<color=#f0df60>カスタマイズしたい項目を選択してください。</color>",
-		"tr_text": "<color=#f0df60>Seleccione una opción de personalización.</color>"
+		"tr_text": "<color=#f0df60>Seleccione una opcion de personalizacion.</color>"
 	},
 	{
 		"assign": "charamake_guide_06",
 		"jp_text": "<color=#f0df60>顔の外見バリエーションを選択できます。</color>",
-		"tr_text": "<color=#f0df60>Edición facial sencilla</color>"
+		"tr_text": "<color=#f0df60>Edicion facial sencilla</color>"
 	},
 	{
 		"assign": "charamake_guide_07",
@@ -1012,7 +1012,7 @@
 	{
 		"assign": "charamake_guide_16",
 		"jp_text": "<color=#f0df60>各種パーツを選択できます。</color>",
-		"tr_text": "<color=#f0df60>Selección de piezas CAST</color>"
+		"tr_text": "<color=#f0df60>Seleccion de piezas CAST</color>"
 	},
 	{
 		"assign": "charamake_guide_17",
@@ -1067,7 +1067,7 @@
 	{
 		"assign": "charamake_race_00",
 		"jp_text": "もっとも基本的な種族。\n全体的な能力のバランスに優れている。",
-		"tr_text": "La Raza Básica. Es el más\nequilibrado en términos de estadísticas."
+		"tr_text": "La Raza Basica. Es el mas\nequilibrado en terminos de estadisticas."
 	},
 	{
 		"assign": "charamake_race_01",
@@ -1077,7 +1077,7 @@
 	{
 		"assign": "charamake_race_02",
 		"jp_text": "屈強な機械の身体を持つ種族。\n精密さと強固さが強み。",
-		"tr_text": "con un cuerpo mecánico robusto.\nLa precisión y la fuerza son su fortalezas"
+		"tr_text": "con un cuerpo mecanico robusto.\nLa precision y la fuerza son su fortalezas"
 	},
 	{
 		"assign": "charamake_race_03",
@@ -1092,32 +1092,32 @@
 	{
 		"assign": "charamake_class_01",
 		"jp_text": "射撃武器による攻撃を主とし\n中間距離での戦闘を得意とするクラス。\n精密な射撃での攻撃が可能。",
-		"tr_text": "Una clase que se enfoca en combates\nde mediano alcance, atacando con\narmas de fuego. Son capaces de\natacaar a distancia con precisión."
+		"tr_text": "Una clase que se enfoca en combates\nde mediano alcance, atacando con\narmas de fuego. Son capaces de\natacaar a distancia con precision."
 	},
 	{
 		"assign": "charamake_class_02",
 		"jp_text": "フォトンを用いたテクニックの使用に長けた\n遠距離戦闘向きのクラス。\n多彩なテクニックを扱える。",
-		"tr_text": "Una clase orientada al combate\na larga distancia utilizando técnicas\nphotonicas tan poderosas como diversas."
+		"tr_text": "Una clase orientada al combate\na larga distancia utilizando tecnicas\nphotonicas tan poderosas como diversas."
 	},
 	{
 		"assign": "charamake_class_03",
 		"jp_text": "タイミングや間合いを重視した武装を用いる\n遠近対応のクラス。\nバランスの取れた能力を持つ。",
-		"tr_text": "Clase equilibrada entre corto y largo\ncombate a distancia. Fortalecerse mediante\nel avance de las habilidades, el tiempo\ny la precisión."
+		"tr_text": "Clase equilibrada entre corto y largo\ncombate a distancia. Fortalecerse mediante\nel avance de las habilidades, el tiempo\ny la precision."
 	},
 	{
 		"assign": "charamake_class_04",
 		"jp_text": "近距離での打撃戦と\n法撃を使った中距離での戦いを\n得意とするクラス。",
-		"tr_text": "Una clase que combina el combate\ncuerpo a cuerpo usando cuchillas con\ncombate de rango medio utilizando tecnología."
+		"tr_text": "Una clase que combina el combate\ncuerpo a cuerpo usando cuchillas con\ncombate de rango medio utilizando tecnologia."
 	},
 	{
 		"assign": "charamake_dialog_t_00",
 		"jp_text": "キャラクタークリエイト",
-		"tr_text": "Creación de personajes"
+		"tr_text": "Creacion de personajes"
 	},
 	{
 		"assign": "charamake_dialog_b_00",
 		"jp_text": "このキャラクターでゲームを始めますか？\n\n<color=#f0df60>＜好みの外見にカスタマイズ！＞</color>\nキャラクター確認画面の\n「キャラクターをカスタマイズする」のボタンから\n顔や体型などを細かくカスタマイズできます。\n自分だけのキャラクターを作成してみましょう！",
-		"tr_text": "¿Deseas comenzar el juego con este personaje?\n\n<color=#f0df60><Customize Appearance!></color>\nPersonalizar pantalla\nAl presionar 'Personalizar personaje'\nte permitirá personalizar\ntu personaje!"
+		"tr_text": "¿Deseas comenzar el juego con este personaje?\n\n<color=#f0df60><Customize Appearance!></color>\nPersonalizar pantalla\nAl presionar 'Personalizar personaje'\nte permitira personalizar\ntu personaje!"
 	},
 	{
 		"assign": "charamake_dialog_t_01",
@@ -1127,7 +1127,7 @@
 	{
 		"assign": "charamake_dialog_b_01",
 		"jp_text": "名前入力画面に戻ります。\n\n現在のカスタマイズ内容は\n破棄されますが、よろしいですか？",
-		"tr_text": "Volviendo a la pantalla de\nentrada de nombre.\ntus personalizaciones se perderán\n¿Continuar?"
+		"tr_text": "Volviendo a la pantalla de\nentrada de nombre.\ntus personalizaciones se perderan\n¿Continuar?"
 	},
 	{
 		"assign": "charamake_dialog_t_02",
@@ -1137,7 +1137,7 @@
 	{
 		"assign": "charamake_dialog_b_02",
 		"jp_text": "キャラクターカスタマイズのための\n追加データをダウンロードします。\nよろしいですか？\n\n※通信環境によって、\nダウンロードにかかる時間が異なりますので\nご注意ください。\n※ゲームデータのダウンロードは\n通信環境のいい場所で行ってください。",
-		"tr_text": "Para la personalización de personajes,\n descargaremos datos adicionales.\n¿Está bien?\n<color=yellow>※Esto llevará tiempo para descargar,\nasí que por favor sea paciente\nAsegúrate de tener buena señal de conección.</color>"
+		"tr_text": "Para la personalizacion de personajes,\n descargaremos datos adicionales.\n¿Esta bien?\n<color=yellow>※Esto llevara tiempo para descargar,\nasi que por favor sea paciente\nAsegúrate de tener buena seйal de coneccion.</color>"
 	},
 	{
 		"assign": "charamake_progress_01",
@@ -1157,7 +1157,7 @@
 	{
 		"assign": "charamake_progress_04",
 		"jp_text": "<color=#ffff00>STEP4/</color> 作成する情報を確認してください。",
-		"tr_text": "<color=#ffff00>STEP4/</color> Por favor revise y confirme su información."
+		"tr_text": "<color=#ffff00>STEP4/</color> Por favor revise y confirme su informacion."
 	},
 	{
 		"assign": "charamake_select_sex_01",
@@ -1172,7 +1172,7 @@
 	{
 		"assign": "charamake_btn_back",
 		"jp_text": "戻る",
-		"tr_text": "Atrás"
+		"tr_text": "Atras"
 	},
 	{
 		"assign": "charamake_title",
@@ -1192,22 +1192,22 @@
 	{
 		"assign": "chmake_gender_window",
 		"jp_text": "性別選択",
-		"tr_text": "Selección de sexo"
+		"tr_text": "Seleccion de sexo"
 	},
 	{
 		"assign": "chmake_race_window",
 		"jp_text": "種族選択",
-		"tr_text": "Selección de raza"
+		"tr_text": "Seleccion de raza"
 	},
 	{
 		"assign": "chmake_class_window",
 		"jp_text": "クラス選択",
-		"tr_text": "Selección de clase"
+		"tr_text": "Seleccion de clase"
 	},
 	{
 		"assign": "chmake_confirm_window",
 		"jp_text": "キャラクター確認",
-		"tr_text": "Confirmación de personaje"
+		"tr_text": "Confirmacion de personaje"
 	},
 	{
 		"assign": "chmake_confirm_name",
@@ -1232,7 +1232,7 @@
 	{
 		"assign": "chmake_detail_menu_window",
 		"jp_text": "詳細編集",
-		"tr_text": "Edición avanzada"
+		"tr_text": "Edicion avanzada"
 	},
 	{
 		"assign": "chmake_detail_menu_face_btn",
@@ -1362,12 +1362,12 @@
 	{
 		"assign": "chmake_accessory_window",
 		"jp_text": "アクセサリー選択",
-		"tr_text": "Selección de accesorios"
+		"tr_text": "Seleccion de accesorios"
 	},
 	{
 		"assign": "chmake_cast_detail_menu_window",
 		"jp_text": "詳細設定",
-		"tr_text": "Edición avanzada"
+		"tr_text": "Edicion avanzada"
 	},
 	{
 		"assign": "chmake_cast_detail_menu_face_btn",
@@ -1557,7 +1557,7 @@
 	{
 		"assign": "option_guide_00",
 		"jp_text": "<color=#f0df60>サウンドのボリューム調整を行うことができます。</color>",
-		"tr_text": "<color=#f0df60>Puede ajustar el volumen del sonido aquí.</color>"
+		"tr_text": "<color=#f0df60>Puede ajustar el volumen del sonido aqui.</color>"
 	},
 	{
 		"assign": "equip_guide_00",
@@ -1567,22 +1567,22 @@
 	{
 		"assign": "equip_guide_01",
 		"jp_text": "<color=#f0df60>武器・チップ・ユニット・リンクスロット装備をタッチすると、装備の変更を行うことができます。アイテムアイコンを長押しすると、詳細情報を確認できます。迷ったらおすすめ装備をタッチしましょう。</color>",
-		"tr_text": "<color=#f0df60>Puede cambiar el equipo tocando Arma, Chip, Unit, Equipo de ranura de enlace. Mantenga presionado el ícono del ítem para verificar la información detallada. Toca el equipo recomendado si te pierdes.</color>"
+		"tr_text": "<color=#f0df60>Puede cambiar el equipo tocando Arma, Chip, Unit, Equipo de ranura de enlace. Mantenga presionado el icono del item para verificar la informacion detallada. Toca el equipo recomendado si te pierdes.</color>"
 	},
 	{
 		"assign": "equip_guide_14",
 		"jp_text": "<color=#f0df60>装備したい武器を選んでください。武器を長押しすると、詳細情報を確認できます。</color>",
-		"tr_text": "<color=#f0df60>Por favor selecciona el arma que te gustaría equipar. Si lo mantienes presionado, puedes ver más información al respecto.</color>"
+		"tr_text": "<color=#f0df60>Por favor selecciona el arma que te gustaria equipar. Si lo mantienes presionado, puedes ver mas informacion al respecto.</color>"
 	},
 	{
 		"assign": "equip_guide_15",
 		"jp_text": "<color=#f0df60>詳細設定を押すと、「おすすめ装備」で選択する条件を細かく指定することができます。</color>",
-		"tr_text": "<color=#f0df60>Al presionar la configuración detallada, puede especificar la condición que se seleccionará en \"Equiporecomendado\" en detalle.</color>"
+		"tr_text": "<color=#f0df60>Al presionar la configuracion detallada, puede especificar la condicion que se seleccionara en \"Equiporecomendado\" en detalle.</color>"
 	},
 	{
 		"assign": "equip_guide_02",
 		"jp_text": "<color=#f0df60>装備したいチップを選んでください。コスト内に収まる装備可能なチップは、明るく表示されます。チップを長押しすると、詳細情報を確認できます。</color>",
-		"tr_text": "<color=#f0df60>Seleccione el chip que le gustaría equipar. El Chips que está dentro de su costo serán más brillantes que otras. Si lo mantienes presionado, puedes ver más información al respecto.</color>"
+		"tr_text": "<color=#f0df60>Seleccione el chip que le gustaria equipar. El Chips que esta dentro de su costo seran mas brillantes que otras. Si lo mantienes presionado, puedes ver mas informacion al respecto.</color>"
 	},
 	{
 		"assign": "equip_guide_03",
@@ -1602,42 +1602,42 @@
 	{
 		"assign": "equip_guide_11",
 		"jp_text": "<color=#f0df60>コスチューム、パーツをタッチすると、装備の変更を行うことができます。アイテムのアイコンを長押しすると、詳細情報を確認できます。</color>",
-		"tr_text": "<color=#f0df60>Toca el Traje, parts, puedes cambiar el equipo. Mantenga presionado el ícono del objeto y puede verificar la información detallada.</color>"
+		"tr_text": "<color=#f0df60>Toca el Traje, parts, puedes cambiar el equipo. Mantenga presionado el icono del objeto y puede verificar la informacion detallada.</color>"
 	},
 	{
 		"assign": "equip_guide_04",
 		"jp_text": "<color=#f0df60>装備したいコスチュームをタッチしてください。長押しすると詳細情報を確認できます。</color>",
-		"tr_text": "<color=#f0df60>Toca el disfraz que quieres equipar. Mantenga presionado para obtener más información al respecto.</color>"
+		"tr_text": "<color=#f0df60>Toca el disfraz que quieres equipar. Mantenga presionado para obtener mas informacion al respecto.</color>"
 	},
 	{
 		"assign": "equip_guide_05",
 		"jp_text": "<color=#f0df60>装備したいパーツ（ボディ）をタッチしてください。長押しすると詳細情報を確認できます。</color>",
-		"tr_text": "<color=#f0df60>Toca el body part  que quieres equipar. Mantenga presionado para obtener más información al respecto.</color>"
+		"tr_text": "<color=#f0df60>Toca el body part  que quieres equipar. Mantenga presionado para obtener mas informacion al respecto.</color>"
 	},
 	{
 		"assign": "equip_guide_06",
 		"jp_text": "<color=#f0df60>装備したいパーツ（アーム）をタッチしてください。長押しすると詳細情報を確認できます。</color>",
-		"tr_text": "<color=#f0df60>Toca el arm part que quieres equipar. Mantenga presionado para obtener más información al respecto.</color>"
+		"tr_text": "<color=#f0df60>Toca el arm part que quieres equipar. Mantenga presionado para obtener mas informacion al respecto.</color>"
 	},
 	{
 		"assign": "equip_guide_07",
 		"jp_text": "<color=#f0df60>装備したいパーツ（レッグ）をタッチしてください。長押しすると詳細情報を確認できます。</color>",
-		"tr_text": "<color=#f0df60>Toca el leg part que quieres equipar. Mantenga presionado para obtener más información al respecto.</color>"
+		"tr_text": "<color=#f0df60>Toca el leg part que quieres equipar. Mantenga presionado para obtener mas informacion al respecto.</color>"
 	},
 	{
 		"assign": "equip_guide_08",
 		"jp_text": "<color=#f0df60>装備したいユニット（リア）をタッチしてください。長押しすると詳細情報を確認できます。</color>",
-		"tr_text": "<color=#f0df60>Toca la rear unit que deseas equipar. Mantenga presionado para obtener más información al respecto.</color>"
+		"tr_text": "<color=#f0df60>Toca la rear unit que deseas equipar. Mantenga presionado para obtener mas informacion al respecto.</color>"
 	},
 	{
 		"assign": "equip_guide_09",
 		"jp_text": "<color=#f0df60>装備したいユニット（アーム）をタッチしてください。長押しすると詳細情報を確認できます。</color>",
-		"tr_text": "<color=#f0df60>Toca la arm unit que deseas equipar. Mantenga presionado para obtener más información al respecto.</color>"
+		"tr_text": "<color=#f0df60>Toca la arm unit que deseas equipar. Mantenga presionado para obtener mas informacion al respecto.</color>"
 	},
 	{
 		"assign": "equip_guide_10",
 		"jp_text": "<color=#f0df60>装備したいユニット（レッグ）をタッチしてください。長押しすると詳細情報を確認できます。</color>",
-		"tr_text": "<color=#f0df60>Toca la leg unit que deseas equipar. Mantenga presionado para obtener más información al respecto.</color>"
+		"tr_text": "<color=#f0df60>Toca la leg unit que deseas equipar. Mantenga presionado para obtener mas informacion al respecto.</color>"
 	},
 	{
 		"assign": "equip_dialog_t_00",
@@ -1657,7 +1657,7 @@
 	{
 		"assign": "equip_dialog_b_01",
 		"jp_text": "選択した武器に対して\n装備条件の合わないチップが装備されています。\n\nこのチップは装備が解除されますが\nよろしいですか？",
-		"tr_text": "No cumple con los requisitos\ndel chip seleccionado.\n\nCancelando la equipacion del chip.\n¿Está bien?"
+		"tr_text": "No cumple con los requisitos\ndel chip seleccionado.\n\nCancelando la equipacion del chip.\n¿Esta bien?"
 	},
 	{
 		"assign": "equip_dialog_t_02",
@@ -1667,7 +1667,7 @@
 	{
 		"assign": "equip_dialog_b_02",
 		"jp_text": "所持数をこえたアイテムは\n装備できません。",
-		"tr_text": "Los objetos que exceden el límite\nde equipaje no pueden estar equipados."
+		"tr_text": "Los objetos que exceden el limite\nde equipaje no pueden estar equipados."
 	},
 	{
 		"assign": "equip_dialog_t_03",
@@ -1687,7 +1687,7 @@
 	{
 		"assign": "equip_dialog_b_04",
 		"jp_text": "所持数をこえたチップは\n装備できません。",
-		"tr_text": "Los Chips que exceden el límite\nde equipo no pueden equiparse."
+		"tr_text": "Los Chips que exceden el limite\nde equipo no pueden equiparse."
 	},
 	{
 		"assign": "equip_dialog_t_05",
@@ -1707,7 +1707,7 @@
 	{
 		"assign": "equip_dialog_b_06",
 		"jp_text": "『PSO2』でアイテムパック内の状態が変更されました。\n条件に合わなくなったチップの装備は解除されます。",
-		"tr_text": "El estado en el paquete de objetos ha sido cambiado con \"PSO2\". El equipo que ya no cumpla con los requisitos será removido."
+		"tr_text": "El estado en el paquete de objetos ha sido cambiado con \"PSO2\". El equipo que ya no cumpla con los requisitos sera removido."
 	},
 	{
 		"assign": "equip_dialog_t_07",
@@ -1717,7 +1717,7 @@
 	{
 		"assign": "equip_dialog_b_07",
 		"jp_text": "このアイテムは同一パレットで\n装備中のため装備できません。",
-		"tr_text": "Este objeto ya está equipado\nen esta paleta."
+		"tr_text": "Este objeto ya esta equipado\nen esta paleta."
 	},
 	{
 		"assign": "equip_dialog_t_08",
@@ -1727,7 +1727,7 @@
 	{
 		"assign": "equip_dialog_b_08",
 		"jp_text": "コスト上限をオーバーしているため\nこのチップは装備できません。",
-		"tr_text": "El chip no se puede equipar ya que\nexcede el límite de costo."
+		"tr_text": "El chip no se puede equipar ya que\nexcede el limite de costo."
 	},
 	{
 		"assign": "equip_dialog_t_09",
@@ -1737,7 +1737,7 @@
 	{
 		"assign": "equip_dialog_b_09",
 		"jp_text": "このアイテムは選択中スロットに\n装備中のため選べません。",
-		"tr_text": "Este objeto ya está equipado\nen esta paleta."
+		"tr_text": "Este objeto ya esta equipado\nen esta paleta."
 	},
 	{
 		"assign": "equip_dialog_t_10",
@@ -1767,7 +1767,7 @@
 	{
 		"assign": "equip_dialog_b_12",
 		"jp_text": "このアイテムを装備するには\n『PSO2』にこのキャラクターで\nログインする必要があります。",
-		"tr_text": "Para equipar este objeto, debe iniciar\nsesión en PSO2 con este personaje."
+		"tr_text": "Para equipar este objeto, debe iniciar\nsesion en PSO2 con este personaje."
 	},
 	{
 		"assign": "equip_dialog_t_13",
@@ -1777,7 +1777,7 @@
 	{
 		"assign": "equip_dialog_b_13",
 		"jp_text": "現在装備している武器を変更すると\n総チップコストをオーバーするチップがあります。\n\n右側に装備しているチップから解除されますが\nよろしいですか？",
-		"tr_text": "Cambiando el arma actualmente equipada\ntiene chips que exceden el costo total del chip.\n\nSe liberará del chip que está equipado\n¿Esta bien?"
+		"tr_text": "Cambiando el arma actualmente equipada\ntiene chips que exceden el costo total del chip.\n\nSe liberara del chip que esta equipado\n¿Esta bien?"
 	},
 	{
 		"assign": "friend_guide_00",
@@ -1787,7 +1787,7 @@
 	{
 		"assign": "friend_guide_01",
 		"jp_text": "<color=#f0df60>フレンドのキャラクター情報です。キャラクター表示すると、フレンドのキャラクターを閲覧できます。</color>",
-		"tr_text": "<color=#f0df60>Esta es la pantalla de información del personaje. Seleccione un amigo para ver su personaje.</color>"
+		"tr_text": "<color=#f0df60>Esta es la pantalla de informacion del personaje. Seleccione un amigo para ver su personaje.</color>"
 	},
 	{
 		"assign": "friend_dialog_t_00",
@@ -1797,7 +1797,7 @@
 	{
 		"assign": "friend_dialog_b_00",
 		"jp_text": "フレンド登録を解除します。\nよろしいですか？",
-		"tr_text": "Esto eliminará a tu amigo.\n¿Estás seguro?"
+		"tr_text": "Esto eliminara a tu amigo.\n¿Estas seguro?"
 	},
 	{
 		"assign": "friend_dialog_t_01",
@@ -1807,7 +1807,7 @@
 	{
 		"assign": "friend_dialog_b_01",
 		"jp_text": "フレンド申請を行います。\nよろしいですか？",
-		"tr_text": "Esto enviará una solicitud de amistad.\n¿Estás seguro?"
+		"tr_text": "Esto enviara una solicitud de amistad.\n¿Estas seguro?"
 	},
 	{
 		"assign": "friend_dialog_t_02",
@@ -1817,7 +1817,7 @@
 	{
 		"assign": "friend_dialog_b_02",
 		"jp_text": "フレンド人数が上限に達しています。\nこれ以上、フレンド登録は行えません。",
-		"tr_text": "Tu lista de amigos está llena.\nNo podrás registrar más amigos."
+		"tr_text": "Tu lista de amigos esta llena.\nNo podras registrar mas amigos."
 	},
 	{
 		"assign": "friend_dialog_t_03",
@@ -1827,7 +1827,7 @@
 	{
 		"assign": "friend_dialog_b_03",
 		"jp_text": "相手のフレンド枠が上限に達しています。",
-		"tr_text": "La lista de amigos de la otra persona está llena."
+		"tr_text": "La lista de amigos de la otra persona esta llena."
 	},
 	{
 		"assign": "friend_dialog_t_04",
@@ -1837,7 +1837,7 @@
 	{
 		"assign": "friend_dialog_b_04",
 		"jp_text": "フレンド登録を解除しました。",
-		"tr_text": "Se eliminó el registro de amigo."
+		"tr_text": "Se elimino el registro de amigo."
 	},
 	{
 		"assign": "friend_dialog_t_05",
@@ -1917,7 +1917,7 @@
 	{
 		"assign": "friend_dialog_b_12",
 		"jp_text": "フレンド申請を取り下げました。",
-		"tr_text": "Retiró la solicitud de amistad."
+		"tr_text": "Retiro la solicitud de amistad."
 	},
 	{
 		"assign": "friend_dialog_t_13",
@@ -1927,7 +1927,7 @@
 	{
 		"assign": "friend_dialog_b_13",
 		"jp_text": "自分のフレンドの最大数に達しています。",
-		"tr_text": "Has alcanzado el máximo permitido."
+		"tr_text": "Has alcanzado el maximo permitido."
 	},
 	{
 		"assign": "labo_scene_name",
@@ -1967,7 +1967,7 @@
 	{
 		"assign": "labo_menu_dialog_t_00",
 		"jp_text": "機能未解放",
-		"tr_text": "La función no está liberada"
+		"tr_text": "La funcion no esta liberada"
 	},
 	{
 		"assign": "labo_menu_dialog_b_00",
@@ -1987,12 +1987,12 @@
 	{
 		"assign": "labo_guide_02",
 		"jp_text": "<color=#f0df60>素材となるチップを選択してください。チップをタッチすることで選択、選択中のチップをタッチすることで選択を解除できます。</color>",
-		"tr_text": "<color=#f0df60>Seleccione el chip para convertirlo en materiales. Seleccione tocando el chip, anule la selección tocándolo nuevamente.</color>"
+		"tr_text": "<color=#f0df60>Seleccione el chip para convertirlo en materiales. Seleccione tocando el chip, anule la seleccion tocandolo nuevamente.</color>"
 	},
 	{
 		"assign": "labo_guide_03",
 		"jp_text": "<color=#f0df60>強化したいチップと素材となるチップを選択して強化ボタンをタッチしてください。強化を実行すると、素材チップは消滅します。また、チップ強化内容の表示にはクラスボーナス適用前のパラメータが表示されています。</color>",
-		"tr_text": "<color=#f0df60>Toque las ranuras de Material para seleccionar los chips que se utilizarán para el material de mejora. Si confirma, los materiales desaparecerán. Además, las estadísticas del chip objetivo y las bonificaciones que obtendrá se muestran a continuación.</color>"
+		"tr_text": "<color=#f0df60>Toque las ranuras de Material para seleccionar los chips que se utilizaran para el material de mejora. Si confirma, los materiales desapareceran. Ademas, las estadisticas del chip objetivo y las bonificaciones que obtendra se muestran a continuacion.</color>"
 	},
 	{
 		"assign": "labo_dialog_t_00",
@@ -2002,7 +2002,7 @@
 	{
 		"assign": "labo_dialog_b_00",
 		"jp_text": "選択中の素材チップをリセットして\n強化チップ選択画面に戻ります。\nよろしいですか？",
-		"tr_text": "Reseting the selection of chips.\nYou will be returned to the previous screen.\n¿Está bien?"
+		"tr_text": "Reseting the selection of chips.\nYou will be returned to the previous screen.\n¿Esta bien?"
 	},
 	{
 		"assign": "labo_dialog_t_01",
@@ -2012,7 +2012,7 @@
 	{
 		"assign": "labo_dialog_b_01",
 		"jp_text": "選択した素材チップに\n★７以上のものが含まれています。\n強化の素材にしたチップは失われますが\nよろしいですか？",
-		"tr_text": "Uno o más de los materiales tiene\nuna rareza de ★7\nEstos se perderán con su uso\n¿Estás seguro?"
+		"tr_text": "Uno o mas de los materiales tiene\nuna rareza de ★7\nEstos se perderan con su uso\n¿Estas seguro?"
 	},
 	{
 		"assign": "labo_dialog_t_02",
@@ -2067,7 +2067,7 @@
 	{
 		"assign": "labo_dialog_b_05",
 		"jp_text": "使用する素材チップに\n★７以上のものが含まれています。\n解放の素材にしたチップは失われますが、\nよろしいですか？",
-		"tr_text": "Uno o más de los materiales tiene\nuna rareza de ★7\nEstos se perderán con su uso\n¿Estás seguro?"
+		"tr_text": "Uno o mas de los materiales tiene\nuna rareza de ★7\nEstos se perderan con su uso\n¿Estas seguro?"
 	},
 	{
 		"assign": "labo_dialog_t_06",
@@ -2462,7 +2462,7 @@
 	{
 		"assign": "menu_dialog_t_02",
 		"jp_text": "シップ選択",
-		"tr_text": "Selección de Nave"
+		"tr_text": "Seleccion de Nave"
 	},
 	{
 		"assign": "menu_dialog_b_02",
@@ -2602,22 +2602,22 @@
 	{
 		"assign": "menu_dialog_t_10",
 		"jp_text": "タイトルへ戻る",
-		"tr_text": "Volver al título"
+		"tr_text": "Volver al titulo"
 	},
 	{
 		"assign": "menu_dialog_b_10",
 		"jp_text": "タイトル画面に戻りますか？",
-		"tr_text": "¿Quieres volver a la pantalla de título?"
+		"tr_text": "¿Quieres volver a la pantalla de titulo?"
 	},
 	{
 		"assign": "menu_dialog_t_23",
 		"jp_text": "タイトルへ戻る",
-		"tr_text": "Volver al título"
+		"tr_text": "Volver al titulo"
 	},
 	{
 		"assign": "menu_dialog_b_23",
 		"jp_text": "タイトル画面、またはシップ選択画面に戻りますか？",
-		"tr_text": "¿Desea volver a la pantalla de selección de título o Ship?"
+		"tr_text": "¿Desea volver a la pantalla de seleccion de titulo o Ship?"
 	},
 	{
 		"assign": "menu_dialog_t_13",
@@ -2627,7 +2627,7 @@
 	{
 		"assign": "menu_dialog_b_13",
 		"jp_text": "ブラウザを起動します。\nよろしいですか？",
-		"tr_text": "Esto abrirá el navegador .\n¿Continuar?"
+		"tr_text": "Esto abrira el navegador .\n¿Continuar?"
 	},
 	{
 		"assign": "menu_dialog_t_14",
@@ -2697,7 +2697,7 @@
 	{
 		"assign": "menu_dialog_b_18",
 		"jp_text": "esアイテムコードの入力に連続で失敗しました。\nしばらくたってから入力し直してください。",
-		"tr_text": "Falló el ingreso demasiadas veces.\nPor favor, inténtelo en otro momento."
+		"tr_text": "Fallo el ingreso demasiadas veces.\nPor favor, intentelo en otro momento."
 	},
 	{
 		"assign": "menu_dialog_t_19",
@@ -2762,7 +2762,7 @@
 	{
 		"assign": "menu_dialog_t_confirmation",
 		"jp_text": "確認",
-		"tr_text": "Confirmación"
+		"tr_text": "Confirmacion"
 	},
 	{
 		"assign": "menu_dialog_button_startlinkage",
@@ -2772,7 +2772,7 @@
 	{
 		"assign": "menu_dialog_button_return",
 		"jp_text": "戻る",
-		"tr_text": "Atrás"
+		"tr_text": "Atras"
 	},
 	{
 		"assign": "menu_dialog_t_completed",
@@ -2787,12 +2787,12 @@
 	{
 		"assign": "menu_dialog_button_title",
 		"jp_text": "タイトルへ",
-		"tr_text": "Pantalla de título"
+		"tr_text": "Pantalla de titulo"
 	},
 	{
 		"assign": "menu_dialog_button_ship",
 		"jp_text": "シップ選択へ",
-		"tr_text": "Selección de Nave"
+		"tr_text": "Seleccion de Nave"
 	},
 	{
 		"assign": "menu_dialog_t_24",
@@ -2802,7 +2802,7 @@
 	{
 		"assign": "menu_dialog_b_24",
 		"jp_text": "データの通信に失敗したため\nプレイヤーを表示しました。",
-		"tr_text": "Debido a un error de comunicación,\nno se puede mostrar el personaje."
+		"tr_text": "Debido a un error de comunicacion,\nno se puede mostrar el personaje."
 	},
 	{
 		"assign": "mag_guide_00",
@@ -2817,7 +2817,7 @@
 	{
 		"assign": "mag_guide_04",
 		"jp_text": "<color=#f0df60>レベルを1つ下げる支援レベルを選択してください。</color>",
-		"tr_text": "<color=#f0df60>Seleccione una estadística que desee reducir en 1 nivel.</color>"
+		"tr_text": "<color=#f0df60>Seleccione una estadistica que desee reducir en 1 nivel.</color>"
 	},
 	{
 		"assign": "mag_guide_01",
@@ -3462,7 +3462,7 @@
 	{
 		"assign": "myshop_dialog_b_08_back",
 		"jp_text": "戻る",
-		"tr_text": "Atrás"
+		"tr_text": "Atras"
 	},
 	{
 		"assign": "myshop_dialog_t_09",
@@ -3502,7 +3502,7 @@
 	{
 		"assign": "myshop_dialog_b_12",
 		"jp_text": "以下のアイテムを出品します。\nよろしいですか？",
-		"tr_text": "Esto mostrará los objetos a vender, ¿continuar?"
+		"tr_text": "Esto mostrara los objetos a vender, ¿continuar?"
 	},
 	{
 		"assign": "myshop_dialog_t_13",
@@ -3522,7 +3522,7 @@
 	{
 		"assign": "myshop_dialog_b_14",
 		"jp_text": "アイテムを出品しました。",
-		"tr_text": "Artículo puesto a la venta."
+		"tr_text": "Articulo puesto a la venta."
 	},
 	{
 		"assign": "myshop_dialog_t_15",
@@ -3532,7 +3532,7 @@
 	{
 		"assign": "myshop_dialog_b_15",
 		"jp_text": "出品最低価格未満の額に設定されています。\n設定金額を以下の額より多く設定してください。\n(設定金額:<%MESETA>メセタ)",
-		"tr_text": "Establezca el precio de venta no inferior\na la cantidad más baja posible.\n(Limite: <%MESETA>)"
+		"tr_text": "Establezca el precio de venta no inferior\na la cantidad mas baja posible.\n(Limite: <%MESETA>)"
 	},
 	{
 		"assign": "myshop_dialog_t_16",
@@ -3592,12 +3592,12 @@
 	{
 		"assign": "myshop_dialog_b_21",
 		"jp_text": "以下の商品をアイテムパックに取り下げます。\nよろしいですか？",
-		"tr_text": "Los siguientes objetos\nserán retirados, ¿está bien?"
+		"tr_text": "Los siguientes objetos\nseran retirados, ¿esta bien?"
 	},
 	{
 		"assign": "myshop_dialog_t_22",
 		"jp_text": "売り上げ回収",
-		"tr_text": "Colección de ganancias"
+		"tr_text": "Coleccion de ganancias"
 	},
 	{
 		"assign": "myshop_dialog_b_22",
@@ -3607,22 +3607,22 @@
 	{
 		"assign": "myshop_dialog_t_23",
 		"jp_text": "アイテム取引パスワード",
-		"tr_text": "Contraseña deShop"
+		"tr_text": "Contraseйa deShop"
 	},
 	{
 		"assign": "myshop_dialog_l_23",
 		"jp_text": "パスワード",
-		"tr_text": "Contraseña"
+		"tr_text": "Contraseйa"
 	},
 	{
 		"assign": "myshop_dialog_b_23",
 		"jp_text": "パスワードを入力して下さい。（半角<color=yellow>数字</color>５文字）\n\n間違ったパスワードが６回入力されると\nアイテム取引パスワードがロックされます。\n<color=yellow>アイテム取引パスワードに関するお問い合わせは\n『ＰＳＯ２』プレイヤーズサイトからお願いします。</color>",
-		"tr_text": "Por favor, introduzca su contraseña.\nTu contraseña es de <color=yellow>5 numeros</color>.\n\nIngresar su contraseña incorrectamente \n6 veces bloqueará su cuenta.\n<color=yellow>※Las consultas sobre las contraseñas de la\ntienda se pueden hacer en el sitio del jugador.</color>"
+		"tr_text": "Por favor, introduzca su contraseйa.\nTu contraseйa es de <color=yellow>5 numeros</color>.\n\nIngresar su contraseйa incorrectamente \n6 veces bloqueara su cuenta.\n<color=yellow>※Las consultas sobre las contraseйas de la\ntienda se pueden hacer en el sitio del jugador.</color>"
 	},
 	{
 		"assign": "myshop_dialog_t_24",
 		"jp_text": "アイテム取引パスワード未設定",
-		"tr_text": "Contraseña no establecida"
+		"tr_text": "Contraseйa no establecida"
 	},
 	{
 		"assign": "myshop_dialog_b_24",
@@ -3632,7 +3632,7 @@
 	{
 		"assign": "myshop_dialog_t_25",
 		"jp_text": "アイテム取引パスワード",
-		"tr_text": "Contraseña"
+		"tr_text": "Contraseйa"
 	},
 	{
 		"assign": "myshop_dialog_b_25",
@@ -3642,7 +3642,7 @@
 	{
 		"assign": "myshop_dialog_t_26",
 		"jp_text": "アイテム取引パスワード",
-		"tr_text": "Contraseña"
+		"tr_text": "Contraseйa"
 	},
 	{
 		"assign": "myshop_dialog_b_26",
@@ -3672,12 +3672,12 @@
 	{
 		"assign": "myshop_dialog_t_29",
 		"jp_text": "アイテム取引パスワード",
-		"tr_text": "Contraseña"
+		"tr_text": "Contraseйa"
 	},
 	{
 		"assign": "myshop_dialog_b_29",
 		"jp_text": "パスワードは半角数字５文字で入力してください。",
-		"tr_text": "Por favor ingrese su contraseña de 5 dígitos."
+		"tr_text": "Por favor ingrese su contraseйa de 5 digitos."
 	},
 	{
 		"assign": "myshop_dialog_t_30",
@@ -3697,7 +3697,7 @@
 	{
 		"assign": "myshop_dialog_b_31",
 		"jp_text": "アイテムを購入しました。\n購入した武器のオーナー登録が完了しました。",
-		"tr_text": "Compra Completada.\nEl objeto ahora está vinculado a su cuenta."
+		"tr_text": "Compra Completada.\nEl objeto ahora esta vinculado a su cuenta."
 	},
 	{
 		"assign": "myshop_dialog_t_32",
@@ -4147,7 +4147,7 @@
 	{
 		"assign": "myshop_sub_item_eyelash_detail",
 		"jp_text": "まつ毛",
-		"tr_text": "Pestañas"
+		"tr_text": "Pestaйas"
 	},
 	{
 		"assign": "myshop_sub_item_facepaint_detail",
@@ -4527,7 +4527,7 @@
 	{
 		"assign": "myshop_ability",
 		"jp_text": "特殊能力",
-		"tr_text": "Habilidad específica"
+		"tr_text": "Habilidad especifica"
 	},
 	{
 		"assign": "myshop_ability_button",
@@ -4567,7 +4567,7 @@
 	{
 		"assign": "myshop_attribute_value_over",
 		"jp_text": "以上",
-		"tr_text": " o más"
+		"tr_text": " o mas"
 	},
 	{
 		"assign": "myshop_grind",
@@ -4577,7 +4577,7 @@
 	{
 		"assign": "myshop_grind_over",
 		"jp_text": "以上",
-		"tr_text": " o más"
+		"tr_text": " o mas"
 	},
 	{
 		"assign": "myshop_ability_num",
@@ -4587,7 +4587,7 @@
 	{
 		"assign": "myshop_ability_num_over",
 		"jp_text": "以上",
-		"tr_text": " o más"
+		"tr_text": " o mas"
 	},
 	{
 		"assign": "myshop_potential",
@@ -4852,7 +4852,7 @@
 	{
 		"assign": "myshop_market_title",
 		"jp_text": "最新価格相場",
-		"tr_text": "Cotización"
+		"tr_text": "Cotizacion"
 	},
 	{
 		"assign": "myshop_withdraw_title",
@@ -4977,12 +4977,12 @@
 	{
 		"assign": "questcounter_guide_01",
 		"jp_text": "<color=#f0df60>プレイするクエストを選択してください。</color>",
-		"tr_text": "<color=#f0df60>Por favor seleccione una misión.</color>"
+		"tr_text": "<color=#f0df60>Por favor seleccione una mision.</color>"
 	},
 	{
 		"assign": "questcounter_guide_02",
 		"jp_text": "<color=#f0df60>クエストに同行するキャラクターを選択してください。</color>",
-		"tr_text": "<color=#f0df60>Seleccione un personaje para que te acompañe en la mision.</color>"
+		"tr_text": "<color=#f0df60>Seleccione un personaje para que te acompaйe en la mision.</color>"
 	},
 	{
 		"assign": "questcounter_guide_03",
@@ -4992,12 +4992,12 @@
 	{
 		"assign": "questcounter_guide_04",
 		"jp_text": "<color=#f0df60>過去に配信された、管理官セラフィをめぐるストーリーです。</color>",
-		"tr_text": "<color=#f0df60>La historia del pasado del Oficial de Administración Seraphy.</color>"
+		"tr_text": "<color=#f0df60>La historia del pasado del Oficial de Administracion Seraphy.</color>"
 	},
 	{
 		"assign": "questcounter_guide_05",
 		"jp_text": "<color=#f0df60>日替わりクエストや期間限定のイベントクエストです。</color>",
-		"tr_text": "<color=#f0df60>Las misiones diarias y limitadas son misión de tiempo limitado.</color>"
+		"tr_text": "<color=#f0df60>Las misiones diarias y limitadas son mision de tiempo limitado.</color>"
 	},
 	{
 		"assign": "questcounter_guide_06",
@@ -5037,7 +5037,7 @@
 	{
 		"assign": "quest_counter_story_bonus_info",
 		"jp_text": "※ストーリー閲覧後に、ストーリーボーナスは\n　受け取りボックスへ送られます。",
-		"tr_text": "※Después de ver la historia, se colocará\nuna bonificación de historia en la caja\nde recepción"
+		"tr_text": "※Despues de ver la historia, se colocara\nuna bonificacion de historia en la caja\nde recepcion"
 	},
 	{
 		"assign": "quest_counter_bonus_exp",
@@ -5077,12 +5077,12 @@
 	{
 		"assign": "quest_counter_departure_t",
 		"jp_text": "出発確認",
-		"tr_text": "Iniciando la Confirmación"
+		"tr_text": "Iniciando la Confirmacion"
 	},
 	{
 		"assign": "quest_counter_departure_b",
 		"jp_text": "クエストに出発しますか？",
-		"tr_text": "Esto iniciará la misión.\n¿Deseas continuar?"
+		"tr_text": "Esto iniciara la mision.\n¿Deseas continuar?"
 	},
 	{
 		"assign": "quest_counter_unarmed_t",
@@ -5097,7 +5097,7 @@
 	{
 		"assign": "questcounter_shortage_drive_b",
 		"jp_text": "クエストの情報が更新されました。\nロビートップに戻ります。",
-		"tr_text": "Información de misión actualizada.\nRegresarás al lobby."
+		"tr_text": "Informacion de mision actualizada.\nRegresaras al lobby."
 	},
 	{
 		"assign": "quest_counter_lv",
@@ -5162,7 +5162,7 @@
 	{
 		"assign": "quest_counter_window_areaselect",
 		"jp_text": "クエストエリア選択",
-		"tr_text": "Selección de áreas"
+		"tr_text": "Seleccion de areas"
 	},
 	{
 		"assign": "quest_counter_button_equip1",
@@ -5187,17 +5187,17 @@
 	{
 		"assign": "quest_counter_button_return",
 		"jp_text": "戻る",
-		"tr_text": "Atrás"
+		"tr_text": "Atras"
 	},
 	{
 		"assign": "quest_counter_window_friend",
 		"jp_text": "同行プレイヤー選択",
-		"tr_text": "Jugador acompañante"
+		"tr_text": "Jugador acompaйante"
 	},
 	{
 		"assign": "quest_counter_title",
 		"jp_text": "クエスト",
-		"tr_text": "Misión"
+		"tr_text": "Mision"
 	},
 	{
 		"assign": "quest_counter_return_lobby",
@@ -5217,7 +5217,7 @@
 	{
 		"assign": "quest_counter_window_questselect",
 		"jp_text": "クエスト選択",
-		"tr_text": "Selección de misiones"
+		"tr_text": "Seleccion de misiones"
 	},
 	{
 		"assign": "quest_counter_caption_place",
@@ -5387,7 +5387,7 @@
 	{
 		"assign": "quest_counter_raid_caption_progress",
 		"jp_text": "クエスト進行状況",
-		"tr_text": "Progreso de la misión"
+		"tr_text": "Progreso de la mision"
 	},
 	{
 		"assign": "quest_counter_raid_caption_reward",
@@ -5397,7 +5397,7 @@
 	{
 		"assign": "quest_counter_raid_caption_point",
 		"jp_text": "討伐スコア",
-		"tr_text": "Puntuación"
+		"tr_text": "Puntuacion"
 	},
 	{
 		"assign": "quest_counter_raid_point",
@@ -5452,7 +5452,7 @@
 	{
 		"assign": "questcounter_questlist_error_b",
 		"jp_text": "エリアが見つかりませんでした。\nロビーに戻ります",
-		"tr_text": "El área no se pudo cargar.\nRegresando al Lobby."
+		"tr_text": "El area no se pudo cargar.\nRegresando al Lobby."
 	},
 	{
 		"assign": "questcounter_raid_reward_etc",
@@ -5472,7 +5472,7 @@
 	{
 		"assign": "questcounter_raid_reward_dialog_b",
 		"jp_text": "緊急クエストの情報が更新されました。\nロビートップに戻ります。",
-		"tr_text": "La información de Emergency\nQuest ha sido actualizada.\nVolver al lobby."
+		"tr_text": "La informacion de Emergency\nQuest ha sido actualizada.\nVolver al lobby."
 	},
 	{
 		"assign": "quest_counter_raid_sp_dialog_00_t",
@@ -5557,7 +5557,7 @@
 	{
 		"assign": "reward_caption_get_score_title",
 		"jp_text": "スコア",
-		"tr_text": "Puntuación"
+		"tr_text": "Puntuacion"
 	},
 	{
 		"assign": "reward_caption_clear",
@@ -5572,7 +5572,7 @@
 	{
 		"assign": "reward_battle_point",
 		"jp_text": "討伐スコア",
-		"tr_text": "Puntuación"
+		"tr_text": "Puntuacion"
 	},
 	{
 		"assign": "reward_rank",
@@ -5942,12 +5942,12 @@
 	{
 		"assign": "scratch_dialog_b_07",
 		"jp_text": "{0}<%AC>で\n{1}を{2}回引きます。\nよろしいですか？\n現在の所持<%AC>：{3}\n",
-		"tr_text": "{0}<%AC>\n{1} {2} se utilizará.\n¿Está bien?\nTienes <%AC>：{3}\n"
+		"tr_text": "{0}<%AC>\n{1} {2} se utilizara.\n¿Esta bien?\nTienes <%AC>：{3}\n"
 	},
 	{
 		"assign": "scratch_dialog_t_08",
 		"jp_text": "購入確認",
-		"tr_text": "Confirmación de compra"
+		"tr_text": "Confirmacion de compra"
 	},
 	{
 		"assign": "scratch_dialog_b_08",
@@ -5957,32 +5957,32 @@
 	{
 		"assign": "scratch_dialog_t_09",
 		"jp_text": "購入確認",
-		"tr_text": "Confirmación de compra"
+		"tr_text": "Confirmacion de compra"
 	},
 	{
 		"assign": "scratch_dialog_b_09",
 		"jp_text": "ACスクラッチ券{0}枚で\n{1}を1回引きます。\nよろしいですか？\n現在の所持スクラッチ券：{2}枚\n",
-		"tr_text": "AC Scratch Tickets:{0}\n{1} 1 se utilizará.\n¿Está bien?\nTienes:{2}\n"
+		"tr_text": "AC Scratch Tickets:{0}\n{1} 1 se utilizara.\n¿Esta bien?\nTienes:{2}\n"
 	},
 	{
 		"assign": "scratch_dialog_t_10",
 		"jp_text": "購入確認",
-		"tr_text": "Confirmación de compra"
+		"tr_text": "Confirmacion de compra"
 	},
 	{
 		"assign": "scratch_dialog_b_10",
 		"jp_text": "ACスクラッチゴールド券{0}枚で\n{1}を1回引きます。\nよろしいですか？\n現在の所持スクラッチG券：{2}枚\n",
-		"tr_text": "Gold Scratch Tickets:{0}\n{1} 1 se utilizará.\n¿Está bien?\nTienes:{2}\n"
+		"tr_text": "Gold Scratch Tickets:{0}\n{1} 1 se utilizara.\n¿Esta bien?\nTienes:{2}\n"
 	},
 	{
 		"assign": "scratch_dialog_t_11",
 		"jp_text": "購入確認",
-		"tr_text": "Confirmación de compra"
+		"tr_text": "Confirmacion de compra"
 	},
 	{
 		"assign": "scratch_dialog_b_11",
 		"jp_text": "ラッピーメダル{0}枚で\n{1}を{2}回引きます。\nよろしいですか？\n現在の所持ラッピーメダル：{3}枚\n",
-		"tr_text": "Rappy Coins requerido: {0}\nPerforming {2}x {1}, ¿Está bien?\nRappy Coins owned: {3}"
+		"tr_text": "Rappy Coins requerido: {0}\nPerforming {2}x {1}, ¿Esta bien?\nRappy Coins owned: {3}"
 	},
 	{
 		"assign": "scratch_message_02",
@@ -5997,12 +5997,12 @@
 	{
 		"assign": "scratch_message_04",
 		"jp_text": "このスクラッチあと<color=#ffff00<%alpha>>{0}回</color>で次のボーナスがもらえます！",
-		"tr_text": "Puedes recibir un bono en <color=#ffff00<%alpha>>{0}</color> veces después de un scratch!"
+		"tr_text": "Puedes recibir un bono en <color=#ffff00<%alpha>>{0}</color> veces despues de un scratch!"
 	},
 	{
 		"assign": "scratch_message_05",
 		"jp_text": "<color=#ffff00<%alpha>>スクラッチ回数ボーナス！</color>\n\nボーナス報酬を受け取りボックスへ送りました。\n\nロビーの「受け取り」ボタンから受け取ってください。",
-		"tr_text": "<color=#ffff00<%alpha>>¡Bonificación actual de Scratch!</color>\n\nEnviado a la Caja de Recepción.\n\nPor favor, acéptelos desde el lobby."
+		"tr_text": "<color=#ffff00<%alpha>>¡Bonificacion actual de Scratch!</color>\n\nEnviado a la Caja de Recepcion.\n\nPor favor, aceptelos desde el lobby."
 	},
 	{
 		"assign": "scratch_dialog_t_12",
@@ -6077,7 +6077,7 @@
 	{
 		"assign": "scratch_bonus_list_status",
 		"jp_text": "あと{0}回",
-		"tr_text": "Después de {0} veces"
+		"tr_text": "Despues de {0} veces"
 	},
 	{
 		"assign": "scratch_bonus_list_status_complete",
@@ -6087,7 +6087,7 @@
 	{
 		"assign": "quest_load",
 		"jp_text": "クエストをロードしています",
-		"tr_text": "Cargando Misión"
+		"tr_text": "Cargando Mision"
 	},
 	{
 		"assign": "quest_load_01",
@@ -6107,7 +6107,7 @@
 	{
 		"assign": "quest_dialog_t_00",
 		"jp_text": "復活確認",
-		"tr_text": "Confirmación de reavivamiento"
+		"tr_text": "Confirmacion de reavivamiento"
 	},
 	{
 		"assign": "quest_dialog_b_00",
@@ -6117,7 +6117,7 @@
 	{
 		"assign": "quest_dialog_t_01",
 		"jp_text": "復活確認",
-		"tr_text": "Confirmación de reavivamiento"
+		"tr_text": "Confirmacion de reavivamiento"
 	},
 	{
 		"assign": "quest_dialog_t_02",
@@ -6127,17 +6127,17 @@
 	{
 		"assign": "quest_dialog_b_02",
 		"jp_text": "ここまでにクエスト中で入手した\nアイテム、経験値、メセタが失われますが\n本当にリタイアしますか？",
-		"tr_text": "Perderás todos los Items, EXP y\nMeseta que hayas ganado durante esta Mision\n¿Estás seguro de que realmente quieres retirarte?"
+		"tr_text": "Perderas todos los Items, EXP y\nMeseta que hayas ganado durante esta Mision\n¿Estas seguro de que realmente quieres retirarte?"
 	},
 	{
 		"assign": "quest_dialog_t_03",
 		"jp_text": "復活確認",
-		"tr_text": "Confirmación de reavivamiento"
+		"tr_text": "Confirmacion de reavivamiento"
 	},
 	{
 		"assign": "quest_dialog_b_03",
 		"jp_text": "ラッピーメダルか復活薬を消費して復活しますか？\nリタイアするとクエスト中に得たアイテム、経験値等がすべて失われます。\n\n<color=#ffff00>復活薬か<%AC>を使って復活するとすべてのPSEがMAX状態で復活します。\nMAX状態は、このバトルをクリアすると元に戻ります。</color>\nラッピーメダルでの復活ではPSEのMAX効果はありません。\n\n必要復活薬：<%consume_scape_doll_es>個\n所持復活薬：<%current_scape_doll_es>\n\n必要ラッピーメダル：<%consume_rappy_coin>枚\n所持ラッピーメダル：<%current_rappy_coin>　　　※復活するとHPとCPが全回復します。",
-		"tr_text": "¿Revive con una Rappy Coin o revivir usando una Scape Doll?\nSi seleccionas retirarse, los objetos obtenidos de la misión actual se perderán..\n\n<color=#ffff00>Cuando se restaura con <%AC> o un Scape Doll, tu PSEs sera\nrestaurado a su estado MÁXIMO hasta que finalice la batalla.</color>\nSolo CP y HP se recuperarán si usa Rappy Coins.\n\nNecesarias Scape Dolls: <%consume_scape_doll_es>\nScape Dolls actual: <%current_scape_doll_es>\n\nRequeridas Rappy Coins: <%consume_rappy_coin>\nRappy Coins actual: <%current_rappy_coin>"
+		"tr_text": "¿Revive con una Rappy Coin o revivir usando una Scape Doll?\nSi seleccionas retirarse, los objetos obtenidos de la mision actual se perderan..\n\n<color=#ffff00>Cuando se restaura con <%AC> o un Scape Doll, tu PSEs sera\nrestaurado a su estado MÁXIMO hasta que finalice la batalla.</color>\nSolo CP y HP se recuperaran si usa Rappy Coins.\n\nNecesarias Scape Dolls: <%consume_scape_doll_es>\nScape Dolls actual: <%current_scape_doll_es>\n\nRequeridas Rappy Coins: <%consume_rappy_coin>\nRappy Coins actual: <%current_rappy_coin>"
 	},
 	{
 		"assign": "quest_dialog_b_03_retire",
@@ -6157,7 +6157,7 @@
 	{
 		"assign": "quest_dialog_t_04",
 		"jp_text": "復活確認",
-		"tr_text": "Confirmación de reavivamiento"
+		"tr_text": "Confirmacion de reavivamiento"
 	},
 	{
 		"assign": "quest_dialog_b_04",
@@ -6192,7 +6192,7 @@
 	{
 		"assign": "quest_npc_b_00",
 		"jp_text": "<%name>さん\n新たなクエストエリアが\n解放されました！",
-		"tr_text": "Felicitaciones, <%name>!\nDebido a su arduo trabajo,\nuna nueva área de misiones está disponible."
+		"tr_text": "Felicitaciones, <%name>!\nDebido a su arduo trabajo,\nuna nueva area de misiones esta disponible."
 	},
 	{
 		"assign": "quest_npc_t_01",
@@ -6202,7 +6202,7 @@
 	{
 		"assign": "quest_npc_b_01",
 		"jp_text": "<%name>さん\n新たなクエストエリアが\n解放されました。",
-		"tr_text": "<%name>\nUna nueva área ha sido desbloqueada."
+		"tr_text": "<%name>\nUna nueva area ha sido desbloqueada."
 	},
 	{
 		"assign": "quest_line_08",
@@ -6217,7 +6217,7 @@
 	{
 		"assign": "quest_line_06",
 		"jp_text": "協力してくれた同行キャラクターに\nフレンド申請を行いますか？",
-		"tr_text": "¿Querías enviar una solicitud de amistad\nal personaje que te acompañó?"
+		"tr_text": "¿Querias enviar una solicitud de amistad\nal personaje que te acompaйo?"
 	},
 	{
 		"assign": "quest_line_07",
@@ -6227,12 +6227,12 @@
 	{
 		"assign": "quest_line_14",
 		"jp_text": "これ以上フレンド申請できません",
-		"tr_text": "No puedes tener más amigos."
+		"tr_text": "No puedes tener mas amigos."
 	},
 	{
 		"assign": "quest_line_13",
 		"jp_text": "このプレイヤーには、これ以上フレンド申請できません",
-		"tr_text": "Este jugador no puede aceptar más amigos."
+		"tr_text": "Este jugador no puede aceptar mas amigos."
 	},
 	{
 		"assign": "quest_line_09",
@@ -6272,7 +6272,7 @@
 	{
 		"assign": "quest_line_12",
 		"jp_text": "ＨＰが全回復しました",
-		"tr_text": "TU HP ahora está completamente restaurado."
+		"tr_text": "TU HP ahora esta completamente restaurado."
 	},
 	{
 		"assign": "quest_line_12_1",
@@ -6287,7 +6287,7 @@
 	{
 		"assign": "quest_line_16",
 		"jp_text": "回復ポッド発見！ ",
-		"tr_text": "¡Encontraste un pod de recuperación!"
+		"tr_text": "¡Encontraste un pod de recuperacion!"
 	},
 	{
 		"assign": "field_exp",
@@ -6307,7 +6307,7 @@
 	{
 		"assign": "field_score",
 		"jp_text": "スコア",
-		"tr_text": "Puntuación"
+		"tr_text": "Puntuacion"
 	},
 	{
 		"assign": "fieldoption_category_windowtitle",
@@ -6392,7 +6392,7 @@
 	{
 		"assign": "questfield_automove_start",
 		"jp_text": "オート移動開始",
-		"tr_text": "Movimiento automático"
+		"tr_text": "Movimiento automatico"
 	},
 	{
 		"assign": "questfield_automove_stop",
@@ -6402,7 +6402,7 @@
 	{
 		"assign": "fieldoption_autoatmove_text01",
 		"jp_text": "通常攻撃の移動補助",
-		"tr_text": "Movimiento de ataque automático"
+		"tr_text": "Movimiento de ataque automatico"
 	},
 	{
 		"assign": "fieldoption_autoatmove_on",
@@ -6442,7 +6442,7 @@
 	{
 		"assign": "quest_result_good_job1",
 		"jp_text": "同行特典としてお互いにFUNを獲得！",
-		"tr_text": "<%name> te envió un buen trabajo!"
+		"tr_text": "<%name> te envio un buen trabajo!"
 	},
 	{
 		"assign": "quest_result_good_job2",
@@ -6487,12 +6487,12 @@
 	{
 		"assign": "questresult_result_nextlevel",
 		"jp_text": "次のレベルまで",
-		"tr_text": "Al próximo Lv."
+		"tr_text": "Al proximo Lv."
 	},
 	{
 		"assign": "questresult_result_record",
 		"jp_text": "クエスト内スコア記録",
-		"tr_text": "Puntuación"
+		"tr_text": "Puntuacion"
 	},
 	{
 		"assign": "questresult_result_level",
@@ -6647,7 +6647,7 @@
 	{
 		"assign": "battleresult_title",
 		"jp_text": "バトル評価",
-		"tr_text": "Evaluación de batalla"
+		"tr_text": "Evaluacion de batalla"
 	},
 	{
 		"assign": "battleresult_time",
@@ -6657,12 +6657,12 @@
 	{
 		"assign": "battleresult_damage",
 		"jp_text": "受けたダメージ",
-		"tr_text": "Daño recibido"
+		"tr_text": "Daйo recibido"
 	},
 	{
 		"assign": "battleresult_score",
 		"jp_text": "獲得スコア",
-		"tr_text": "Puntuación de batalla"
+		"tr_text": "Puntuacion de batalla"
 	},
 	{
 		"assign": "title_guide_00",
@@ -6807,27 +6807,27 @@
 	{
 		"assign": "title_dialog_b_08",
 		"jp_text": "プレイヤーＩＤネームが未登録、もしくは\nキャラクターが存在しません。\nキャラクターがいるシップを選び直すか\n『PSO2』でキャラクターを作成してください。",
-		"tr_text": "Ese PlayerID o nombre no existe, \no no hay personajes en este ship.\nPor favor, confirme la identificación\ny el Ship correctos, o siéntase libre \nde crear un nuevo personaje."
+		"tr_text": "Ese PlayerID o nombre no existe, \no no hay personajes en este ship.\nPor favor, confirme la identificacion\ny el Ship correctos, o sientase libre \nde crear un nuevo personaje."
 	},
 	{
 		"assign": "title_dialog08_button_ship",
 		"jp_text": "シップ選択",
-		"tr_text": "Selección de Ship"
+		"tr_text": "Seleccion de Ship"
 	},
 	{
 		"assign": "title_dialog08_button_new",
 		"jp_text": "タイトルへ戻る",
-		"tr_text": "Volver al título"
+		"tr_text": "Volver al titulo"
 	},
 	{
 		"assign": "title_dialog_t_11",
 		"jp_text": "確認",
-		"tr_text": "Confirmación"
+		"tr_text": "Confirmacion"
 	},
 	{
 		"assign": "title_dialog_b_11",
 		"jp_text": "タイトル画面に戻りますか？",
-		"tr_text": "¿Quieres volver a la pantalla de título?"
+		"tr_text": "¿Quieres volver a la pantalla de titulo?"
 	},
 	{
 		"assign": "title_dialog_t_09",
@@ -6877,17 +6877,17 @@
 	{
 		"assign": "title_dialog_b_14",
 		"jp_text": "登録されている連絡先メールアドレスに\n秘密のパスワードを送りました。\n\n<size=22>※複数回送信すると、毎回、\n秘密のパスワードが更新されます。\n最新の受信メールをご確認ください。</size>",
-		"tr_text": "Correo enviado.\nEl contenido del correo electrónico contiene\nuna nueva ID de dispositivo.\n<size=22>※Cada vez que recupera una nueva ID\n de Dispositivo, se genera uno nuevo</size>"
+		"tr_text": "Correo enviado.\nEl contenido del correo electronico contiene\nuna nueva ID de dispositivo.\n<size=22>※Cada vez que recupera una nueva ID\n de Dispositivo, se genera uno nuevo</size>"
 	},
 	{
 		"assign": "title_send_mail_button",
 		"jp_text": "秘密のパスワードを忘れた場合",
-		"tr_text": "Olvidé mi ID de dispositivo"
+		"tr_text": "Olvide mi ID de dispositivo"
 	},
 	{
 		"assign": "title_login_t",
 		"jp_text": "ログイン",
-		"tr_text": "Iniciar sesión"
+		"tr_text": "Iniciar sesion"
 	},
 	{
 		"assign": "title_login_id",
@@ -6912,7 +6912,7 @@
 	{
 		"assign": "title_login_botton",
 		"jp_text": "ログイン",
-		"tr_text": "Iniciar sesión"
+		"tr_text": "Iniciar sesion"
 	},
 	{
 		"assign": "title_chara_select_t",
@@ -7032,7 +7032,7 @@
 	{
 		"assign": "title_chara_transfer_pass",
 		"jp_text": "秘密のパスワード",
-		"tr_text": "Contraseña"
+		"tr_text": "Contraseйa"
 	},
 	{
 		"assign": "title_chara_transfer_botton",
@@ -7077,12 +7077,12 @@
 	{
 		"assign": "title_chara_linked_pso2",
 		"jp_text": "PSO2連動キャラクター",
-		"tr_text": "Todavía no vinculado"
+		"tr_text": "Todavia no vinculado"
 	},
 	{
 		"assign": "title_chara_select_class_t",
 		"jp_text": "クラス確認",
-		"tr_text": "Selección de clase"
+		"tr_text": "Seleccion de clase"
 	},
 	{
 		"assign": "title_chara_select_class_b",
@@ -7097,7 +7097,7 @@
 	{
 		"assign": "title_not_inheriting_b",
 		"jp_text": "入力されたアカウントは\nすでにこの端末でログインしています。",
-		"tr_text": "Ya has iniciado sesión con este personaje."
+		"tr_text": "Ya has iniciado sesion con este personaje."
 	},
 	{
 		"assign": "title_connect_t",
@@ -7107,17 +7107,17 @@
 	{
 		"assign": "title_connect_b",
 		"jp_text": "『PSO2』へのキャラクター連動処理を再開します。\n\n処理完了までは数十秒程度の時間がかかります。\n通信を行いますので、\n電波状況の良い場所で開始して下さい。\n連動が完了すると、タイトル画面に戻ります。",
-		"tr_text": "\"PSO2\" Esto puede tomar un momento.\nAsegúrate de tener una buena coneccion.\nRegresando al lobby cuando esté completo."
+		"tr_text": "\"PSO2\" Esto puede tomar un momento.\nAsegúrate de tener una buena coneccion.\nRegresando al lobby cuando este completo."
 	},
 	{
 		"assign": "system_dialog_t_stackover01",
 		"jp_text": "所持数オーバー",
-		"tr_text": "Límite alcanzado de Stack"
+		"tr_text": "Limite alcanzado de Stack"
 	},
 	{
 		"assign": "system_dialog_b_stackover01",
 		"jp_text": "入手した消費アイテムのうち\n所持しきれないものを\nメールに添付して送信しました。\nコミュニティメニュー内の受信メールをご確認下さい。",
-		"tr_text": "No puede recibir el objeto\nUsted está por encima del límite.\nEl objeto ha sido enviado por correo.\nPor favor revisa tu buzón para recibirlo."
+		"tr_text": "No puede recibir el objeto\nUsted esta por encima del limite.\nEl objeto ha sido enviado por correo.\nPor favor revisa tu buzon para recibirlo."
 	},
 	{
 		"assign": "pse_attack",
@@ -7177,32 +7177,32 @@
 	{
 		"assign": "enemy_abnormal_burn",
 		"jp_text": "<color=\"#ffffff\">エネミーが状態異常「バーン」になった。</color>",
-		"tr_text": "<color=\"#ffffff\">¡El enemigo está afligido con Burn.</color>"
+		"tr_text": "<color=\"#ffffff\">¡El enemigo esta afligido con Burn.</color>"
 	},
 	{
 		"assign": "enemy_abnormal_freeze",
 		"jp_text": "<color=\"#ffffff\">エネミーが状態異常「フリーズ」になった。</color>",
-		"tr_text": "<color=\"#ffffff\">¡El enemigo está afligido con Freeze.</color>"
+		"tr_text": "<color=\"#ffffff\">¡El enemigo esta afligido con Freeze.</color>"
 	},
 	{
 		"assign": "enemy_abnormal_shock",
 		"jp_text": "<color=\"#ffffff\">エネミーが状態異常「ショック」になった。</color>",
-		"tr_text": "<color=\"#ffffff\">¡El enemigo está afligido con Shock.</color>"
+		"tr_text": "<color=\"#ffffff\">¡El enemigo esta afligido con Shock.</color>"
 	},
 	{
 		"assign": "enemy_abnormal_mirage",
 		"jp_text": "<color=\"#ffffff\">エネミーが状態異常「ミラージュ」になった。</color>",
-		"tr_text": "<color=\"#ffffff\">¡El enemigo está afligido con Mirage.</color>"
+		"tr_text": "<color=\"#ffffff\">¡El enemigo esta afligido con Mirage.</color>"
 	},
 	{
 		"assign": "enemy_abnormal_poison",
 		"jp_text": "<color=\"#ffffff\">エネミーが状態異常「ポイズン」になった。</color>",
-		"tr_text": "<color=\"#ffffff\">¡El enemigo está afligido con Poison.</color>"
+		"tr_text": "<color=\"#ffffff\">¡El enemigo esta afligido con Poison.</color>"
 	},
 	{
 		"assign": "enemy_abnormal_panic",
 		"jp_text": "<color=\"#ffffff\">エネミーが状態異常「パニック」になった。</color>",
-		"tr_text": "<color=\"#ffffff\">¡El enemigo está afligido con Panic.</color>"
+		"tr_text": "<color=\"#ffffff\">¡El enemigo esta afligido con Panic.</color>"
 	},
 	{
 		"assign": "enemy_abnormal_stan",
@@ -7457,21 +7457,21 @@
 	{
 		"assign": "datetime",
 		"jp_text": "$（year）年$（month）月$（day）日$（hour）時$（minute）分",
-		"tr_text": "$（año）/$（mes）/$（día） $（hora）:$（minuto）"
+		"tr_text": "$（aйo）/$（mes）/$（dia） $（hora）:$（minuto）"
 	},
 	{
 		"assign": "datetime_v",
 		"jp_text": "$（year）/$（month）/$（day） $（hour）:$（minute）",
-		"tr_text": "$（año）/$（mes）/$（día） $（hora）:$（minuto）"
+		"tr_text": "$（aйo）/$（mes）/$（dia） $（hora）:$（minuto）"
 	},
 	{
 		"assign": "datetime_sec",
 		"jp_text": "$（year）年$（month）月$（day）日$（hour）時$（minute）分$（second）秒",
-		"tr_text": "$（año）/$（mes）/$（día） $（hora）:$（minuto）:$（segundo）"
+		"tr_text": "$（aйo）/$（mes）/$（dia） $（hora）:$（minuto）:$（segundo）"
 	},
 	{
 		"assign": "datetime_sec_v",
-		"jp_text": "$（año）/$（mes）/$（día） $（hora）:$（minuto）:$（segundo）",
+		"jp_text": "$（aйo）/$（mes）/$（dia） $（hora）:$（minuto）:$（segundo）",
 		"tr_text": ""
 	},
 	{
@@ -7847,7 +7847,7 @@
 	{
 		"assign": "equip_return",
 		"jp_text": "戻る",
-		"tr_text": "Atrás"
+		"tr_text": "Atras"
 	},
 	{
 		"assign": "chip_window_select",
@@ -8057,7 +8057,7 @@
 	{
 		"assign": "player_guard_status",
 		"jp_text": "プレイヤー防御ステータス",
-		"tr_text": "Estatus de Protección"
+		"tr_text": "Estatus de Proteccion"
 	},
 	{
 		"assign": "guard_palette",
@@ -8597,7 +8597,7 @@
 	{
 		"assign": "item_grind_tab_after",
 		"jp_text": "後",
-		"tr_text": "Después"
+		"tr_text": "Despues"
 	},
 	{
 		"assign": "item_grind_select_menu",
@@ -9042,12 +9042,12 @@
 	{
 		"assign": "loginbonus_selafy_next",
 		"jp_text": "<color=#000000>明日も待ってます！</color>",
-		"tr_text": "<color=#000000>¡Estaré esperando mañana!</color>"
+		"tr_text": "<color=#000000>¡Estare esperando maйana!</color>"
 	},
 	{
 		"assign": "loginbonus_selafy_complete",
 		"jp_text": "<color=#000000>リーダー、おめでとうございます！</color>",
-		"tr_text": "<color=#000000>Líder, ¡felicidades!</color>"
+		"tr_text": "<color=#000000>Lider, ¡felicidades!</color>"
 	},
 	{
 		"assign": "loginbonus_premium_warning",
@@ -9062,7 +9062,7 @@
 	{
 		"assign": "lobby_support_body",
 		"jp_text": "「{0}」さんなどの\nクエストに同行した報酬が届いています。\n\n同行回数　<color=#f0df60>{1}回</color>\n<color=#f0df60>{2}FUN</color>を獲得しました！\n\n<size=19>※前回のログインから現時点までの獲得合計を表示しています。</size>",
-		"tr_text": "「{0}」 Te usó \ncomo compañero para una misión.\n\nVeces: <color=#f0df60>{1}</color>\nObtienes<color=#f0df60>{2} FUN</color>!\n\n<size=19>※Mostrando el total anterior de la\núltima sesión de inicio de sesión</size>"
+		"tr_text": "「{0}」 Te uso \ncomo compaйero para una mision.\n\nVeces: <color=#f0df60>{1}</color>\nObtienes<color=#f0df60>{2} FUN</color>!\n\n<size=19>※Mostrando el total anterior de la\núltima sesion de inicio de sesion</size>"
 	},
 	{
 		"assign": "lobby_charainfo_lv",
@@ -9142,7 +9142,7 @@
 	{
 		"assign": "menu_charainfo_label_next_lv",
 		"jp_text": "次のレベルまで",
-		"tr_text": "Al próximo Lv."
+		"tr_text": "Al proximo Lv."
 	},
 	{
 		"assign": "menu_charainfo_linked_exp",
@@ -9392,7 +9392,7 @@
 	{
 		"assign": "menu_fulldownload_t_01",
 		"jp_text": "ダウンロード確認",
-		"tr_text": "Confirmación"
+		"tr_text": "Confirmacion"
 	},
 	{
 		"assign": "menu_fulldownload_b_01",
@@ -9447,7 +9447,7 @@
 	{
 		"assign": "menu_fulldownload_btn_03_2",
 		"jp_text": "戻る",
-		"tr_text": "Atrás"
+		"tr_text": "Atras"
 	},
 	{
 		"assign": "menu_fulldownload_t_04",
@@ -9612,12 +9612,12 @@
 	{
 		"assign": "lobby_top_logout",
 		"jp_text": "タイトルへ戻る",
-		"tr_text": "Volver al título"
+		"tr_text": "Volver al titulo"
 	},
 	{
 		"assign": "community_guide_00",
 		"jp_text": "<color=#f0df60>利用したい項目を選択してください。</color>",
-		"tr_text": "<color=#f0df60>Por favor seleccione la opción que desee. Puede comprar AC seleccionando cargar AC.</color>"
+		"tr_text": "<color=#f0df60>Por favor seleccione la opcion que desee. Puede comprar AC seleccionando cargar AC.</color>"
 	},
 	{
 		"assign": "community_guide_01",
@@ -9792,7 +9792,7 @@
 	{
 		"assign": "mail_address_button",
 		"jp_text": "宛先設定",
-		"tr_text": "Dirección"
+		"tr_text": "Direccion"
 	},
 	{
 		"assign": "mail_recieve_list",
@@ -9947,7 +9947,7 @@
 	{
 		"assign": "friend_login_info",
 		"jp_text": "ログイン状態",
-		"tr_text": "Estado de conección"
+		"tr_text": "Estado de coneccion"
 	},
 	{
 		"assign": "friend_search_result",
@@ -9962,7 +9962,7 @@
 	{
 		"assign": "friend_request_recieve",
 		"jp_text": "受信したフレンド申請",
-		"tr_text": "Petición de amigo recibida"
+		"tr_text": "Peticion de amigo recibida"
 	},
 	{
 		"assign": "friend_requested",
@@ -10192,7 +10192,7 @@
 	{
 		"assign": "return",
 		"jp_text": "戻る",
-		"tr_text": "Atrás"
+		"tr_text": "Atras"
 	},
 	{
 		"assign": "dialog_title_ac_shortage",
@@ -10352,7 +10352,7 @@
 	{
 		"assign": "tu_0000_w02_b",
 		"jp_text": "キャラクターは、画面を左右にスライドすると横に移動し\n上下にスライドすると前後に移動します。",
-		"tr_text": "Tu personaje también puede esquivar hacia la izquierda\no hacia la derecha al deslizar la pantalla hacia la izquierda\no hacia la derecha o hacia adelante y hacia atrás deslizando\nhacia arriba y hacia abajo."
+		"tr_text": "Tu personaje tambien puede esquivar hacia la izquierda\no hacia la derecha al deslizar la pantalla hacia la izquierda\no hacia la derecha o hacia adelante y hacia atras deslizando\nhacia arriba y hacia abajo."
 	},
 	{
 		"assign": "tu_0000_n21_b",
@@ -10432,7 +10432,7 @@
 	{
 		"assign": "tu_0000_s01_b",
 		"jp_text": "＜攻撃の方法＞\n画面をタッチすると、ターゲット中のエネミーに対して\nキャラクターが攻撃を行います。",
-		"tr_text": "<Atacar>\nAl tocar la pantalla,\ntu personaje atacará al objetivo."
+		"tr_text": "<Atacar>\nAl tocar la pantalla,\ntu personaje atacara al objetivo."
 	},
 	{
 		"assign": "tu_0000_s02_b",
@@ -11472,12 +11472,12 @@
 	{
 		"assign": "ef_0001_n00_b",
 		"jp_text": "<color=black>森林エリアの探索任務\nおつかれさまでした！</color>",
-		"tr_text": "<color=black>La misión en el bosque se completó.\n¡Buen trabajo!</color>"
+		"tr_text": "<color=black>La mision en el bosque se completo.\n¡Buen trabajo!</color>"
 	},
 	{
 		"assign": "ef_0001_n01_b",
 		"jp_text": "<color=black>ひとつ、ニュースがあります。\nあなたが探索したエリアから\n旧式の「メッセージパック」が\n発見されました。</color>",
-		"tr_text": "<color=black>En el area que ha buscado,\nhabía un viejo paquete de mensaje\nque fue descubierto.</color>"
+		"tr_text": "<color=black>En el area que ha buscado,\nhabia un viejo paquete de mensaje\nque fue descubierto.</color>"
 	},
 	{
 		"assign": "ef_0001_n02_b",
@@ -11487,22 +11487,22 @@
 	{
 		"assign": "ef_0001_n03_b",
 		"jp_text": "<color=black>今回発見されたメッセージパックは\n数年前に使われていた\n旧式のものとのことです。\nもしかしたら、遭難者が残した\nものかもしれませんね……</color>",
-		"tr_text": "<color=black>Descubrimos que este paquete de\nmensajes se usó por última vez hace años.\nTal vez un único sobreviviente perdido...</color>"
+		"tr_text": "<color=black>Descubrimos que este paquete de\nmensajes se uso por última vez hace aйos.\nTal vez un único sobreviviente perdido...</color>"
 	},
 	{
 		"assign": "ef_0001_n04_b",
 		"jp_text": "<color=black>メッセージパックについては\n現在、データを解析中です。\n新しい情報が入ったら\nお伝えしますね。</color>",
-		"tr_text": "<color=black>Todavía estamos analizando\nel paquete de mensajes.\nTe mantendremos actualizado</color>"
+		"tr_text": "<color=black>Todavia estamos analizando\nel paquete de mensajes.\nTe mantendremos actualizado</color>"
 	},
 	{
 		"assign": "ef_0001_n05_b",
 		"jp_text": "<color=black>さて、それでは次の任務です。\n「惑星アムドゥスキア」の\n「火山洞窟」エリアの探索を\nお願いします。</color>",
-		"tr_text": "<color=black>La siguiente área es Amduscia.\nEstarás buscando en las cuevas\nvolcánicas.</color>"
+		"tr_text": "<color=black>La siguiente area es Amduscia.\nEstaras buscando en las cuevas\nvolcanicas.</color>"
 	},
 	{
 		"assign": "ef_0001_n06_b",
 		"jp_text": "<color=black>アムドゥスキアは、火山活動が活発な惑星です。\n「龍族」と呼ばれる生物がすんでいるのですが\n龍族の一部も、何らかの理由で凶暴化しています。</color>",
-		"tr_text": "<color=black>Amduscia es un planeta volcánico activo.\nPero hay habitantes locales llamados\nDragonkin, son un poco bárbaros.</color>"
+		"tr_text": "<color=black>Amduscia es un planeta volcanico activo.\nPero hay habitantes locales llamados\nDragonkin, son un poco barbaros.</color>"
 	},
 	{
 		"assign": "ef_0001_n07_b",
@@ -11512,32 +11512,32 @@
 	{
 		"assign": "ef_0001_n08_b",
 		"jp_text": "<color=black>龍族のエネミーの弱点は「氷」属性です。\nチップを氷属性のチップに装備変更しておくと\n戦いが楽になりますよ。\nでは、健闘を祈っています！</color>",
-		"tr_text": "<color=black>Sin embargo, son débiles al hielo.\nSi tienes un arma de hielo o un chip,\núsalas. ¡Buena suerte!</color>"
+		"tr_text": "<color=black>Sin embargo, son debiles al hielo.\nSi tienes un arma de hielo o un chip,\núsalas. ¡Buena suerte!</color>"
 	},
 	{
 		"assign": "ef_0002_n00_b",
 		"jp_text": "<color=black>火山洞窟エリアの探索\nおつかれさまでした。</color>",
-		"tr_text": "<color=black>La misión en la cueva se completó.\n¡Buen trabajo!</color>"
+		"tr_text": "<color=black>La mision en la cueva se completo.\n¡Buen trabajo!</color>"
 	},
 	{
 		"assign": "ef_0002_n01_b",
 		"jp_text": "<color=black>ひとつ、新しい情報があります。\n以前、あなたがナベリウスの\n森林エリアで発見した\n旧式のメッセージパックですが……</color>",
-		"tr_text": "<color=black>Hay nueva información sobre\nel paquete de mensajes que\nencontraste en Naberius....</color>"
+		"tr_text": "<color=black>Hay nueva informacion sobre\nel paquete de mensajes que\nencontraste en Naberius....</color>"
 	},
 	{
 		"assign": "ef_0002_n02_b",
 		"jp_text": "<color=black>４年前、探索任務中に消息を絶った\n「コーエン博士」が残したものだと\nいうことがわかりました……</color>",
-		"tr_text": "<color=black>Informó sobre la desaparición del Dr.\nCohen hace 4 años...</color>"
+		"tr_text": "<color=black>Informo sobre la desaparicion del Dr.\nCohen hace 4 aйos...</color>"
 	},
 	{
 		"assign": "ef_0002_n03_b",
 		"jp_text": "<color=black>コーエン博士は\n「チップ」システムを開発した\nアークスでも有数の\n優秀な技術者でした。</color>",
-		"tr_text": "<color=black>El Dr. Cohen desarrolló el Sistema de Chip.\nEra un brillante científico dentro de ARKS.</color>"
+		"tr_text": "<color=black>El Dr. Cohen desarrollo el Sistema de Chip.\nEra un brillante cientifico dentro de ARKS.</color>"
 	},
 	{
 		"assign": "ef_0002_n04_b",
 		"jp_text": "<color=black>メッセージパックには\n「ナベリウスの凍土地帯に向かう」\nという博士のメッセージが\n残されていたとのことです……</color>",
-		"tr_text": "<color=black>El mensajes leído decia:\nme dirijo a la zona de Tundra de Naberius\nDr. Cohen. </color>"
+		"tr_text": "<color=black>El mensajes leido decia:\nme dirijo a la zona de Tundra de Naberius\nDr. Cohen. </color>"
 	},
 	{
 		"assign": "ef_0002_n05_b",
@@ -11547,17 +11547,17 @@
 	{
 		"assign": "ef_0002_n06_b",
 		"jp_text": "<color=black>あっ、ごめんなさい。\n説明の途中でしたね。\nちょっと別なことを考えてました……\n失礼しました。</color>",
-		"tr_text": "<color=black>Lo siento.\nEn el medio de la descripción,\nEstaba pensando en otra cosa.\nPerdóname.</color>"
+		"tr_text": "<color=black>Lo siento.\nEn el medio de la descripcion,\nEstaba pensando en otra cosa.\nPerdoname.</color>"
 	},
 	{
 		"assign": "ef_0002_n07_b",
 		"jp_text": "<color=black>今回の任務は\n博士の手がかりを追って\n惑星ナベリウスの「凍土」エリアを\n探索していただきます。</color>",
-		"tr_text": "<color=black>Tu nueva misión es buscar el\nparadero del Dr. Cohen. en Tundra.</color>"
+		"tr_text": "<color=black>Tu nueva mision es buscar el\nparadero del Dr. Cohen. en Tundra.</color>"
 	},
 	{
 		"assign": "ef_0002_n08_b",
 		"jp_text": "<color=black>ナベリウスの凍土エリアは、雪と氷に閉ざされており\n森林エリアと同様に原生種が棲息しています。\n弱点も、同じく「炎」属性です。</color>",
-		"tr_text": "<color=black>El área de Tundra esta bloqueado\ndebido al hielo y la nieve.\nLa vida silvestre se adapta a este clima,\npero comparte la debilidad del Fuego.</color>"
+		"tr_text": "<color=black>El area de Tundra esta bloqueado\ndebido al hielo y la nieve.\nLa vida silvestre se adapta a este clima,\npero comparte la debilidad del Fuego.</color>"
 	},
 	{
 		"assign": "ef_0002_n09_b",
@@ -11567,7 +11567,7 @@
 	{
 		"assign": "ef_0002_n10_b",
 		"jp_text": "<color=black>そして……コーエン博士の情報が見つかることも\n祈っています！\nがんばってくださいね！　待ってます！</color>",
-		"tr_text": "<color=black>Mientras busca, espero que encuentre\nmás información sobre el paradero\ndel Dr. Cohen.\n¡Buena suerte y haz tu mejor esfuerzo!</color>"
+		"tr_text": "<color=black>Mientras busca, espero que encuentre\nmas informacion sobre el paradero\ndel Dr. Cohen.\n¡Buena suerte y haz tu mejor esfuerzo!</color>"
 	},
 	{
 		"assign": "ef_0003_n00_b",
@@ -11582,12 +11582,12 @@
 	{
 		"assign": "ef_0003_n02_b",
 		"jp_text": "<color=black>ダーカーは、宇宙の至るところに現れる\n正体不明のエネミーです。\nさまざまな種類が確認されていますが\nおおむねどの種も黒色の体を持っているようです。</color>",
-		"tr_text": "<color=black>Los Darkers aparecen por todas\n partes del universo.\nNo conocemos sus orígenes,\npero hemos identificado varios tipos.</color>"
+		"tr_text": "<color=black>Los Darkers aparecen por todas\n partes del universo.\nNo conocemos sus origenes,\npero hemos identificado varios tipos.</color>"
 	},
 	{
 		"assign": "ef_0003_n03_b",
 		"jp_text": "<color=black>今回侵入を許したのは、蟲系のダーカーで\n弱点は「炎」「光」属性が有効です。\n戦う前に、チップ装備の確認をお忘れなく！</color>",
-		"tr_text": "<color=black>Identificamos Darker tipo Insectoide.\nque es débil a la luz y al fuego,\n¡asegúrese de haber equipado\nlos chips adecuados!</color>"
+		"tr_text": "<color=black>Identificamos Darker tipo Insectoide.\nque es debil a la luz y al fuego,\n¡asegúrese de haber equipado\nlos chips adecuados!</color>"
 	},
 	{
 		"assign": "ef_0003_n04_b",
@@ -11597,82 +11597,82 @@
 	{
 		"assign": "ef_0004_n00_b",
 		"jp_text": "<color=black>おめでとうございます！\nこれまでの活躍が認められ\nより難易度の高い、★３クエストの\n任務が解放されました！</color>",
-		"tr_text": "<color=black>Felicidades!\nHemos observado su trabajo.\n¡Se le ha asignado una misión de 3★!</color>"
+		"tr_text": "<color=black>Felicidades!\nHemos observado su trabajo.\n¡Se le ha asignado una mision de 3★!</color>"
 	},
 	{
 		"assign": "ef_0004_n01_b",
 		"jp_text": "<color=black>そして、久々に新情報です！\nコーエン博士が残したと思われる\nメッセージパックが発見されました！</color>",
-		"tr_text": "<color=black>Finalmente, nueva información!\n¡Piensa que son más los mensajes\nque dejó el Dr. Cohen!</color>"
+		"tr_text": "<color=black>Finalmente, nueva informacion!\n¡Piensa que son mas los mensajes\nque dejo el Dr. Cohen!</color>"
 	},
 	{
 		"assign": "ef_0004_n02_b",
 		"jp_text": "<color=black>パックが発見されたのは\n「惑星リリーパ」の「砂漠」エリア。\nリリーパは、地表全体が砂漠におおわれた惑星です。</color>",
-		"tr_text": "<color=black>El paquete de mensajes parece tener\ninformación sobre el desierto\ndel planeta Lillipa.</color>"
+		"tr_text": "<color=black>El paquete de mensajes parece tener\ninformacion sobre el desierto\ndel planeta Lillipa.</color>"
 	},
 	{
 		"assign": "ef_0004_n03_b",
 		"jp_text": "<color=black>そこで発見されたメッセージパックには\n砂漠エリアの生物の観察記録とともに\n「実験を開始する」という内容の文章が\n残されていたそうです。</color>",
-		"tr_text": "<color=black>El paquete de mensajes, registraron\ninformación sobre los organismos del\nplaneta, y un mensaje:\ncomencemos el experimento.</color>"
+		"tr_text": "<color=black>El paquete de mensajes, registraron\ninformacion sobre los organismos del\nplaneta, y un mensaje:\ncomencemos el experimento.</color>"
 	},
 	{
 		"assign": "ef_0004_n04_b",
 		"jp_text": "<color=black>実験……何を意味しているのでしょうか。</color>",
-		"tr_text": "<color=black>Me pregunto qué querían decir con Experimento, hmm...</color>"
+		"tr_text": "<color=black>Me pregunto que querian decir con Experimento, hmm...</color>"
 	},
 	{
 		"assign": "ef_0004_n05_b",
 		"jp_text": "<color=black>それはともかく、リリーパの砂漠エリアの\n探索許可がおりました。\n砂漠エリアには「機甲種」と呼ばれる\nこの惑星でかつて栄えた古い文明の\n防衛兵器が出現します。</color>",
-		"tr_text": "<color=black>De todos modos, se concede permiso\npara ir a Lillipa. Una antigua civilización\nvivia en ese lugar.\nAhora sus creaciones, las Máquinas\nactúan como sistemas de defensa.</color>"
+		"tr_text": "<color=black>De todos modos, se concede permiso\npara ir a Lillipa. Una antigua civilizacion\nvivia en ese lugar.\nAhora sus creaciones, las Maquinas\nactúan como sistemas de defensa.</color>"
 	},
 	{
 		"assign": "ef_0004_n06_b",
 		"jp_text": "<color=black>「機甲種」は「雷」属性が弱点となっています。\nただし、砂漠エリアではダーカーの出現頻度も\n高くなっていますので、その点も踏まえて\nチップ装備を整えてください。\nそれでは、健闘を祈っています！</color>",
-		"tr_text": "<color=black>Estas máquinas son débiles contra\nLightning. Sin embargo, hay\navistamientos reportados de Darkers.\nPor favor equípate apropiadamente.\n¡Buena suerte!</color>"
+		"tr_text": "<color=black>Estas maquinas son debiles contra\nLightning. Sin embargo, hay\navistamientos reportados de Darkers.\nPor favor equipate apropiadamente.\n¡Buena suerte!</color>"
 	},
 	{
 		"assign": "es_0001_n00_b",
 		"jp_text": "<color=black>おかえりなさい！\n凍土エリアで、コーエン博士の\n情報は見つかりましたか！？</color>",
-		"tr_text": "<color=black>¡Bienvenido!\n¿Has encontrado la información del\nDr. Cohen en la región de Tundra?</color>"
+		"tr_text": "<color=black>¡Bienvenido!\n¿Has encontrado la informacion del\nDr. Cohen en la region de Tundra?</color>"
 	},
 	{
 		"assign": "es_0001_n01_b",
 		"jp_text": "<color=black>そうですか……\n見つかりませんでしたか。\n残念です……</color>",
-		"tr_text": "<color=black>Es eso así...\nLa información no pudo ser encontrada.\nEso es muy malo...</color>"
+		"tr_text": "<color=black>Es eso asi...\nLa informacion no pudo ser encontrada.\nEso es muy malo...</color>"
 	},
 	{
 		"assign": "es_0001_n02_b",
 		"jp_text": "<color=black>あっ、ごめんなさい！\nあなたが一生懸命に戦って\n任務を達成してくれたことには\nとても感謝しています！</color>",
-		"tr_text": "<color=black>Ah, ¡Lo siento!\nEstás luchando tanto, nos está\nayudando a lograr nuestro objetivo.\n¡Se lo agradezco mucho!</color>"
+		"tr_text": "<color=black>Ah, ¡Lo siento!\nEstas luchando tanto, nos esta\nayudando a lograr nuestro objetivo.\n¡Se lo agradezco mucho!</color>"
 	},
 	{
 		"assign": "es_0001_n03_b",
 		"jp_text": "<color=black>引き続き、あせらず気長に\n情報を集めていくしか\nなさそうですね。\n任務完了、お疲れさまでした。</color>",
-		"tr_text": "<color=black>No hay necesidad de apresurar\nsu búsqueda de información.\nMisión completada, buen trabajo.</color>"
+		"tr_text": "<color=black>No hay necesidad de apresurar\nsu búsqueda de informacion.\nMision completada, buen trabajo.</color>"
 	},
 	{
 		"assign": "es_0002_n00_b",
 		"jp_text": "<color=black>おめでとうございます！\nこれまでの活躍が認められ\nより難易度の高い、★２クエストの\n任務が解放されました！</color>",
-		"tr_text": "<color=black>Felicitaciones!\nPor lo que hiciste:\nuna misión dificultad★2\nha sido activada!</color>"
+		"tr_text": "<color=black>Felicitaciones!\nPor lo que hiciste:\nuna mision dificultad★2\nha sido activada!</color>"
 	},
 	{
 		"assign": "es_0002_n01_b",
 		"jp_text": "<color=black>そして、あなたには\n行方不明になったコーエン博士の\n捜索と発見という極秘の特命が\n本部より発令されました。</color>",
-		"tr_text": "<color=black>Una Misión de Descubrimiento y\n Búsqueda Confidencial del Dr.\nCohen ha sido publicada en la\noficina central.</color>"
+		"tr_text": "<color=black>Una Mision de Descubrimiento y\n Búsqueda Confidencial del Dr.\nCohen ha sido publicada en la\noficina central.</color>"
 	},
 	{
 		"assign": "es_0002_n02_b",
 		"jp_text": "<color=black>といっても、現時点は\n特に新しい情報がありませんので\n当面は各惑星のエリアを再探索し\nコーエン博士のメッセージパックを\n探していくことになります。</color>",
-		"tr_text": "<color=black>Actualmente no tenemos información\nmás reciente, por lo que necesitamos\nque examines todos los planetas en\nbusca del mensajes que dejo el Dr. Cohen</color>"
+		"tr_text": "<color=black>Actualmente no tenemos informacion\nmas reciente, por lo que necesitamos\nque examines todos los planetas en\nbusca del mensajes que dejo el Dr. Cohen</color>"
 	},
 	{
 		"assign": "es_0002_n03_b",
 		"jp_text": "<color=black>コーエン博士は、４年前に\n惑星の探索に向かうと言い残して\n具体的な目的地を告げずに\nアークスシップから出発したまま\n行方不明になっています。</color>",
-		"tr_text": "<color=black>Hace 4 años, el Dr. Cohen decidió irse\nsin ninguna mención a ARKS de su destino.\nÉl desapareció desde.</color>"
+		"tr_text": "<color=black>Hace 4 aйos, el Dr. Cohen decidio irse\nsin ninguna mencion a ARKS de su destino.\nÉl desaparecio desde.</color>"
 	},
 	{
 		"assign": "es_0002_n04_b",
 		"jp_text": "<color=black>博士は技術者で戦闘の経験がないため\nドノヴァンというベテランハンターが\nいつも帯同していたのですが\nそのドノヴァンも同時に\n行方不明になっています。</color>",
-		"tr_text": "<color=black>Debido a que el Dr no tenía experiencia\nen combate, se llevó consigo a un cazador\nveterano llamado Donovan, que también\nestá desaparecido junto con él.</color>"
+		"tr_text": "<color=black>Debido a que el Dr no tenia experiencia\nen combate, se llevo consigo a un cazador\nveterano llamado Donovan, que tambien\nesta desaparecido junto con el.</color>"
 	},
 	{
 		"assign": "es_0002_n05_b",
@@ -11682,17 +11682,17 @@
 	{
 		"assign": "es_0003_n00_b",
 		"jp_text": "<color=black>大変です！\nまたも、市街地エリアに\nダーカー侵入の警報です。\n至急、市街地に向かってください！</color>",
-		"tr_text": "<color=black>Una vez más, \nlos Darkers nos han invadido!\n¡Diríjase hacia el centro, lo antes posible!</color>"
+		"tr_text": "<color=black>Una vez mas, \nlos Darkers nos han invadido!\n¡Dirijase hacia el centro, lo antes posible!</color>"
 	},
 	{
 		"assign": "es_0003_n01_b",
 		"jp_text": "<color=black>それにしても……\nダーカーは本当に\nやっかいな存在ですね……</color>",
-		"tr_text": "<color=black>De todos modo...\nLa precencia de los Darkers es\nrealmente problemática...</color>"
+		"tr_text": "<color=black>De todos modo...\nLa precencia de los Darkers es\nrealmente problematica...</color>"
 	},
 	{
 		"assign": "es_0003_n02_b",
 		"jp_text": "<color=black>たとえダーカーを倒しても\nフォトンの力を持たない生物や機械の場合\n消滅したダーカーの残滓に侵され凶暴化してしまい\nやがては自滅してしまうんです。</color>",
-		"tr_text": "<color=black>Incluso los Darkers derrotados,\ncon el tiempo, infectarán organismos\nbiológicos y mecánicos que no tienen\nphotons, haciendo que se vuelvan locos.</color>"
+		"tr_text": "<color=black>Incluso los Darkers derrotados,\ncon el tiempo, infectaran organismos\nbiologicos y mecanicos que no tienen\nphotons, haciendo que se vuelvan locos.</color>"
 	},
 	{
 		"assign": "es_0003_n03_b",
@@ -11702,12 +11702,12 @@
 	{
 		"assign": "es_0003_n04_b",
 		"jp_text": "<color=black>コーエン博士がチップを開発したのも\nダーカーの攻撃で絶滅の危機にひんした\nさまざまな生物たちの遺伝子情報や\n生態情報・特性を記憶しておくことが目的でした。</color>",
-		"tr_text": "<color=black>El Dr. Cohen había desarrollado un chip que\nalmacena la información genética de varias\ncriaturas, incluida su información y\ncaracterísticas ecológicas.</color>"
+		"tr_text": "<color=black>El Dr. Cohen habia desarrollado un chip que\nalmacena la informacion genetica de varias\ncriaturas, incluida su informacion y\ncaracteristicas ecologicas.</color>"
 	},
 	{
 		"assign": "es_0003_n05_b",
 		"jp_text": "<color=black>今はチップデバイスの進歩で\nフォトンアーツやテクニックなど\n体術的な情報も記憶・再現ができるようになりましたが\n元々は、チップは生物保護のための道具なのです。</color>",
-		"tr_text": "<color=black>Los avances en el sistema de chips permiten\nque se almacenen y reproduzcan las artes y\ntécnicas de photon, así como el arte corporal.\nOriginalmente fue hecho para protección.</color>"
+		"tr_text": "<color=black>Los avances en el sistema de chips permiten\nque se almacenen y reproduzcan las artes y\ntecnicas de photon, asi como el arte corporal.\nOriginalmente fue hecho para proteccion.</color>"
 	},
 	{
 		"assign": "es_0003_n06_b",
@@ -11717,7 +11717,7 @@
 	{
 		"assign": "es_0003_n07_b",
 		"jp_text": "<color=black>コーエン博士は技術者であると同時に\nすぐれた生物学者でもありました。\nコーエン博士がもし生きていたら……\n今の現状を、どう思うでしょうね……</color>",
-		"tr_text": "<color=black>El Dr. Cohen fue un excelente biólogo\ny científico. Sin embargo, me pregunto\nsi, si estuviera vivo, ¿qué pensaría?</color>"
+		"tr_text": "<color=black>El Dr. Cohen fue un excelente biologo\ny cientifico. Sin embargo, me pregunto\nsi, si estuviera vivo, ¿que pensaria?</color>"
 	},
 	{
 		"assign": "es_0004_n00_b",
@@ -13762,22 +13762,22 @@
 	{
 		"assign": "raid_n_hp05",
 		"jp_text": "目標の体力はまだまだ残っています。\nこのまま継続してダメージを与えていきましょう。",
-		"tr_text": "Todavía tenemos que avanzar.\nPor favor continue su ataque."
+		"tr_text": "Todavia tenemos que avanzar.\nPor favor continue su ataque."
 	},
 	{
 		"assign": "raid_n_hp06",
 		"jp_text": "目標の討伐を目指して頑張りましょう。\nせいいっぱい応援しています！",
-		"tr_text": "Vamos a hacer nuestro mejor esfuerzo,\n¡Bien! ¡Tienes mi máximo apoyo!"
+		"tr_text": "Vamos a hacer nuestro mejor esfuerzo,\n¡Bien! ¡Tienes mi maximo apoyo!"
 	},
 	{
 		"assign": "raid_log_00",
 		"jp_text": "クエストを開始しました。",
-		"tr_text": "Comenzado la misión."
+		"tr_text": "Comenzado la mision."
 	},
 	{
 		"assign": "raid_log_01",
 		"jp_text": "目標に",
-		"tr_text": "Daño:\t"
+		"tr_text": "Daйo:\t"
 	},
 	{
 		"assign": "raid_log_02",
@@ -14417,7 +14417,7 @@
 	{
 		"assign": "raidEvent_SortType_1",
 		"jp_text": "標準",
-		"tr_text": "Estándar"
+		"tr_text": "Estandar"
 	},
 	{
 		"assign": "raidEvent_SortType_2",
@@ -14432,7 +14432,7 @@
 	{
 		"assign": "raid_event_guide_00",
 		"jp_text": "<color=#f0df60>緊急イベントの進行状況画面です。「遊び方」バナーから詳しい遊び方を確認できます。</color>",
-		"tr_text": "<color=#f0df60>Esta es la pantalla de progreso de EQ.  en el boton「遊び方」Puede verificar cómo jugar.</color>"
+		"tr_text": "<color=#f0df60>Esta es la pantalla de progreso de EQ.  en el boton「遊び方」Puede verificar como jugar.</color>"
 	},
 	{
 		"assign": "raid_event_guide_01",
@@ -14577,17 +14577,17 @@
 	{
 		"assign": "menu_invite_guide",
 		"jp_text": "<color=#f0df60>『ＰＳＯ２ｅｓ』を新しくプレイし始めるお友達に、あなたのコードを教えてプレゼントを獲得しましょう！</color>",
-		"tr_text": "<color=#f0df60>¡Puede darles a los nuevos jugadores de PSO2es su código de referencia!</color>"
+		"tr_text": "<color=#f0df60>¡Puede darles a los nuevos jugadores de PSO2es su codigo de referencia!</color>"
 	},
 	{
 		"assign": "menu_invite_explain",
 		"jp_text": "<color=#ffff00>招待コードをお友達に教えよう！</color>",
-		"tr_text": "<color=#ffff00>Puedes dar un código de referencia a tus amigos</color>"
+		"tr_text": "<color=#ffff00>Puedes dar un codigo de referencia a tus amigos</color>"
 	},
 	{
 		"assign": "menu_invite_player_code",
 		"jp_text": "あなたの招待コード",
-		"tr_text": "Su código de referencia"
+		"tr_text": "Su codigo de referencia"
 	},
 	{
 		"assign": "menu_invite_clipboard",
@@ -14612,12 +14612,12 @@
 	{
 		"assign": "menu_invite_tab_input_explain",
 		"jp_text": "<color=#ffff00>お友達のコードを入力してプレゼントを獲得！</color>",
-		"tr_text": "<color=#ffff00>¡Al ingresar un código de referencia, puede recibir un regalo de amigos!</color>"
+		"tr_text": "<color=#ffff00>¡Al ingresar un codigo de referencia, puede recibir un regalo de amigos!</color>"
 	},
 	{
 		"assign": "menu_invite_tab_input_code",
 		"jp_text": "お友達の招待コード\n（１回のみ入力可能）",
-		"tr_text": "Código de referencia de amigo (solo se puede usar uno)"
+		"tr_text": "Codigo de referencia de amigo (solo se puede usar uno)"
 	},
 	{
 		"assign": "menu_invite_tab_input_reward",
@@ -14627,12 +14627,12 @@
 	{
 		"assign": "menu_invite_tab_input_submit",
 		"jp_text": "コードを認証",
-		"tr_text": "Código de autenticación"
+		"tr_text": "Codigo de autenticacion"
 	},
 	{
 		"assign": "menu_invite_tab_reward_title",
 		"jp_text": "招待報酬",
-		"tr_text": "Recompensas de recomendación"
+		"tr_text": "Recompensas de recomendacion"
 	},
 	{
 		"assign": "menu_invite_tab_reward_explain",
@@ -14652,17 +14652,17 @@
 	{
 		"assign": "menu_invite_tab_reward_next_condition",
 		"jp_text": "<color=#ffff00>次の報酬まであと {0} 人！</color>",
-		"tr_text": "<color=#ffff00>{0} Hasta la próxima recompensa!</color>"
+		"tr_text": "<color=#ffff00>{0} Hasta la proxima recompensa!</color>"
 	},
 	{
 		"assign": "menu_invite_reward_list_title_input",
 		"jp_text": "招待コード入力で手に入るプレゼント一覧",
-		"tr_text": "Lista de regalos disponibles para ingresar un código de invitación"
+		"tr_text": "Lista de regalos disponibles para ingresar un codigo de invitacion"
 	},
 	{
 		"assign": "menu_invite_reward_list_title_invite",
 		"jp_text": "友達招待で手に入る報酬一覧",
-		"tr_text": "Lista de premios disponibles en amigo invitación"
+		"tr_text": "Lista de premios disponibles en amigo invitacion"
 	},
 	{
 		"assign": "menu_invite_reward_list_condition",
@@ -14677,7 +14677,7 @@
 	{
 		"assign": "invite_dialog_t_01",
 		"jp_text": "招待コードコピー",
-		"tr_text": "Copiar código de invitación"
+		"tr_text": "Copiar codigo de invitacion"
 	},
 	{
 		"assign": "invite_dialog_b_01",
@@ -14767,7 +14767,7 @@
 	{
 		"assign": "tutorial_battle_ntu_00_01",
 		"jp_text": "<color=black>この短時間での撃破……お見事ですね！</color>",
-		"tr_text": "<color=black>Eso fue rápido... ¡Buen trabajo!</color>"
+		"tr_text": "<color=black>Eso fue rapido... ¡Buen trabajo!</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_00_02",
@@ -14787,7 +14787,7 @@
 	{
 		"assign": "tutorial_battle_ntu_00_05",
 		"jp_text": "<color=black>次の試験もはりきって行きましょう！</color>",
-		"tr_text": "<color=black>¡Pasemos a la siguiente área de prueba!</color>"
+		"tr_text": "<color=black>¡Pasemos a la siguiente area de prueba!</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_00_06",
@@ -14797,7 +14797,7 @@
 	{
 		"assign": "tutorial_battle_ntu_01_00",
 		"jp_text": "<color=black>それでは、次のテストの場所へと移動しましょう。</color>",
-		"tr_text": "<color=black>Así que aquí estamos,\nen la nueva área de prueba.</color>"
+		"tr_text": "<color=black>Asi que aqui estamos,\nen la nueva area de prueba.</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_01_01",
@@ -14807,22 +14807,22 @@
 	{
 		"assign": "tutorial_battle_ntu_01_02",
 		"jp_text": "<color=black>フィールドのマスには\nアイテムが手に入ったり、ＨＰが回復したりと\nいろいろな効果があります。</color>",
-		"tr_text": "<color=black>En ocasiones, encontrará varios dispositivos\nde recuperación de HP y otros objetos.</color>"
+		"tr_text": "<color=black>En ocasiones, encontrara varios dispositivos\nde recuperacion de HP y otros objetos.</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_01_03",
 		"jp_text": "<color=black>うまく利用することで\nクエストを有利に進められますので\n覚えておいてくださいね。\nそれでは、先に進みましょう！</color>",
-		"tr_text": "<color=black>Trate de aprovechar esto tanto como sea posible,\npero recuerde que no siempre aparecerán.</color>"
+		"tr_text": "<color=black>Trate de aprovechar esto tanto como sea posible,\npero recuerde que no siempre apareceran.</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_02_00",
 		"jp_text": "<color=black>それでは、テストを続けます！\n戦いは、攻撃だけでは成り立ちません！\n今度は攻撃を避けるテストです。</color>",
-		"tr_text": "<color=black>Siguiente prueba, no intentes atacar,\nsino más bien esquivar al enemigo.</color>"
+		"tr_text": "<color=black>Siguiente prueba, no intentes atacar,\nsino mas bien esquivar al enemigo.</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_02_01",
 		"jp_text": "<color=black>これから、エネミーが岩を投げてきますので\nそれにぶつからないように……あっ！</color>",
-		"tr_text": "<color=black>Este enemigo intentará arrojar una roca,\n¡por favor, evítala!</color>"
+		"tr_text": "<color=black>Este enemigo intentara arrojar una roca,\n¡por favor, evitala!</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_02_02",
@@ -14832,12 +14832,12 @@
 	{
 		"assign": "tutorial_battle_ntu_02_03",
 		"jp_text": "<color=black>前に出るだけが戦いではありません。</color>",
-		"tr_text": "<color=black>Fallarás la misión si mueres.</color>"
+		"tr_text": "<color=black>Fallaras la mision si mueres.</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_02_04",
 		"jp_text": "<color=black>今度は、いったん後ろに間合いをとって\nカウンター攻撃を狙いましょう！</color>",
-		"tr_text": "<color=black>¡Ahora evitemos el ataque saltando hacia atrás!</color>"
+		"tr_text": "<color=black>¡Ahora evitemos el ataque saltando hacia atras!</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_02_05",
@@ -14857,12 +14857,12 @@
 	{
 		"assign": "tutorial_battle_ntu_02_08",
 		"jp_text": "<color=black>すばらしい成績です！\n基本動作は完璧ですね。</color>",
-		"tr_text": "<color=black>Maravilloso rendimiento!\nOperación completada.</color>"
+		"tr_text": "<color=black>Maravilloso rendimiento!\nOperacion completada.</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_02_09",
 		"jp_text": "<color=black>以上で、基本動作のテストは終了です。\n次で最後のテストとなりますので\nもう少しお付き合いくださいね。</color>",
-		"tr_text": "<color=black>Casi llegamos al tramo final de pruebas.\nContinuemos un poco más.</color>"
+		"tr_text": "<color=black>Casi llegamos al tramo final de pruebas.\nContinuemos un poco mas.</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_02_10",
@@ -14887,7 +14887,7 @@
 	{
 		"assign": "tutorial_battle_ntu_03_03",
 		"jp_text": "<color=black>応援していますから、がんばってくださいね！\nさあ進みましょう！</color>",
-		"tr_text": "<color=black>Vamos a celebrar después de tu éxito.\nPor ahora, ¡vamos a movernos!</color>"
+		"tr_text": "<color=black>Vamos a celebrar despues de tu exito.\nPor ahora, ¡vamos a movernos!</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_04_00",
@@ -14897,7 +14897,7 @@
 	{
 		"assign": "tutorial_battle_ntu_04_01",
 		"jp_text": "<color=black>このエネミーを倒すために\n強力なチップをお貸しします。\nきっとあなたなら、使いこなせるはず！</color>",
-		"tr_text": "<color=black>¡Te prestaré chips poderosos para que puedas\nderrotar a este enemigo!</color>"
+		"tr_text": "<color=black>¡Te prestare chips poderosos para que puedas\nderrotar a este enemigo!</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_04_02",
@@ -14912,17 +14912,17 @@
 	{
 		"assign": "tutorial_battle_ntu_04_04",
 		"jp_text": "<color=black>あのファングバンサーを\nこんな短時間で倒してしまうなんて……！</color>",
-		"tr_text": "<color=black>¡No pensé que lo matarías tan rápido...!</color>"
+		"tr_text": "<color=black>¡No pense que lo matarias tan rapido...!</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_04_05",
 		"jp_text": "<color=black>エネミーとの戦いで見せた\n戦闘能力の高さ、そしてチップへの高い適性……</color>",
-		"tr_text": "<color=black>Has demostrado una increíble capacidad\nde combate y una excelente habilidad\ncon los chips....</color>"
+		"tr_text": "<color=black>Has demostrado una increible capacidad\nde combate y una excelente habilidad\ncon los chips....</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_04_06",
 		"jp_text": "<color=black>あなた達なら、この先、どんな任務も\n乗り越えていけそうですね。</color>",
-		"tr_text": "<color=black>Estaba segura de que tienes lo que se necesita\npara superar nuestra misión principal.</color>"
+		"tr_text": "<color=black>Estaba segura de que tienes lo que se necesita\npara superar nuestra mision principal.</color>"
 	},
 	{
 		"assign": "tutorial_battle_ntu_04_07",
@@ -15072,7 +15072,7 @@
 	{
 		"assign": "storyevent_skip_dialog_b",
 		"jp_text": "ストーリーをスキップしますか？",
-		"tr_text": "¿Estás seguro de que quieres\nsaltearte el diálogo?"
+		"tr_text": "¿Estas seguro de que quieres\nsaltearte el dialogo?"
 	},
 	{
 		"assign": "select_weaponoid_title",
@@ -15087,17 +15087,17 @@
 	{
 		"assign": "fld_productionset_btn",
 		"jp_text": "演出設定",
-		"tr_text": "Animación de Weaponoid"
+		"tr_text": "Animacion de Weaponoid"
 	},
 	{
 		"assign": "fld_productionset_windowtitle",
 		"jp_text": "演出設定",
-		"tr_text": "Animación de Weaponoid"
+		"tr_text": "Animacion de Weaponoid"
 	},
 	{
 		"assign": "fld_productionset_obi",
 		"jp_text": "チップ発動演出",
-		"tr_text": "Efecto de activación"
+		"tr_text": "Efecto de activacion"
 	},
 	{
 		"assign": "fld_productionset_btn_ON",
@@ -15127,7 +15127,7 @@
 	{
 		"assign": "btl_menu_btn_productionset",
 		"jp_text": "演出設定",
-		"tr_text": "Animación de Weaponoid"
+		"tr_text": "Animacion de Weaponoid"
 	},
 	{
 		"assign": "btl_menu_btn_questretire",
@@ -15142,12 +15142,12 @@
 	{
 		"assign": "btl_wep_title",
 		"jp_text": "演出設定",
-		"tr_text": "Animación de Weaponoid"
+		"tr_text": "Animacion de Weaponoid"
 	},
 	{
 		"assign": "btl_wep_obi",
 		"jp_text": "チップ発動演出",
-		"tr_text": "Efecto de activación"
+		"tr_text": "Efecto de activacion"
 	},
 	{
 		"assign": "btl_wep_btn_ON",
@@ -16462,7 +16462,7 @@
 	{
 		"assign": "lobby_help_quest",
 		"jp_text": "クエスト",
-		"tr_text": "Misión "
+		"tr_text": "Mision "
 	},
 	{
 		"assign": "lobby_help_community",
@@ -17122,12 +17122,12 @@
 	{
 		"assign": "acceptbox_return",
 		"jp_text": "戻る",
-		"tr_text": "Atrás"
+		"tr_text": "Atras"
 	},
 	{
 		"assign": "acceptbox_guide_00",
 		"jp_text": "<color=#f0df60>受け取りボックスの中には、受け取り期限のあるアイテムがあります。期限が過ぎると受け取れなくなりますので、ご注意ください。</color>",
-		"tr_text": "<color=#f0df60>Hay objetos con una fecha límite. Una vez que se ha vencido la fecha límite, no puede canjear los objetos.</color>"
+		"tr_text": "<color=#f0df60>Hay objetos con una fecha limite. Una vez que se ha vencido la fecha limite, no puede canjear los objetos.</color>"
 	},
 	{
 		"assign": "acceptbox_title",
@@ -17252,12 +17252,12 @@
 	{
 		"assign": "acceptbox_dialog_t_1",
 		"jp_text": "期限切れ間近アイテム",
-		"tr_text": "Hay objetos que expirarán pronto"
+		"tr_text": "Hay objetos que expiraran pronto"
 	},
 	{
 		"assign": "acceptbox_dialog_b_1",
 		"jp_text": "残り24時間以内に期限切れのアイテムがあります。",
-		"tr_text": "Hay objetos que expirarán en 24 horas."
+		"tr_text": "Hay objetos que expiraran en 24 horas."
 	},
 	{
 		"assign": "acceptbox_dialog_t_2",
@@ -17332,12 +17332,12 @@
 	{
 		"assign": "system_dialog_b_acceptbox01",
 		"jp_text": "入手したアイテムを受け取りボックスに送りました。\nロビーの「受け取り」ボタンからアイテムを\n受け取ってください。",
-		"tr_text": "Objetos enviados a la caja de recepción."
+		"tr_text": "Objetos enviados a la caja de recepcion."
 	},
 	{
 		"assign": "system_linetext_acceptbox01",
 		"jp_text": "入手したアイテムを受け取りボックスに送りました。\nロビーの「受け取り」ボタンからアイテムを受け取ってください。",
-		"tr_text": "Objetos enviados a la caja de recepción."
+		"tr_text": "Objetos enviados a la caja de recepcion."
 	},
 	{
 		"assign": "acceptbox_dialog_t_01",
@@ -17347,7 +17347,7 @@
 	{
 		"assign": "acceptbox_dialog_b_01",
 		"jp_text": "受け取りボックスの受信数をオーバーしています。\n\n受け取りボックスから取り出して整理してください。\n<color=red><%over></color>個オーバーしています。\n",
-		"tr_text": "No tienes más espacio para mas obj.\n\nPor favor deja espacio en tu inventario.\n<color=red><%over></color> items over.\n"
+		"tr_text": "No tienes mas espacio para mas obj.\n\nPor favor deja espacio en tu inventario.\n<color=red><%over></color> items over.\n"
 	},
 	{
 		"assign": "acceptbox_over_yes",
@@ -17437,7 +17437,7 @@
 	{
 		"assign": "collect_search_return",
 		"jp_text": "戻る",
-		"tr_text": "Atrás"
+		"tr_text": "Atras"
 	},
 	{
 		"assign": "collect_search_title",
@@ -17467,12 +17467,12 @@
 	{
 		"assign": "collect_search_lap_text",
 		"jp_text": "あと",
-		"tr_text": "Después"
+		"tr_text": "Despues"
 	},
 	{
 		"assign": "collect_search_drop_rate_text",
 		"jp_text": "大成功発生確率　/",
-		"tr_text": "Gran éxito /"
+		"tr_text": "Gran exito /"
 	},
 	{
 		"assign": "collect_search_drop_rate_value",
@@ -17552,7 +17552,7 @@
 	{
 		"assign": "collect_search_bonus_up",
 		"jp_text": "大成功！",
-		"tr_text": "¡Gran éxito!"
+		"tr_text": "¡Gran exito!"
 	},
 	{
 		"assign": "collect_search_result_reward_exp_text",
@@ -17822,7 +17822,7 @@
 	{
 		"assign": "scratch_pickup_select_fix_return",
 		"jp_text": "戻る",
-		"tr_text": "Atrás"
+		"tr_text": "Atras"
 	},
 	{
 		"assign": "ItemDetail_accessory_message",
@@ -18022,7 +18022,7 @@
 	{
 		"assign": "acceptbox_sale_rare_warning_dialog_text",
 		"jp_text": "選択したアイテムの中に<color=#ff0000>★７以上</color>のものが\n含まれています。本当に売却しますか？",
-		"tr_text": "Entre los objetos que has seleccionado\nhay un<color=#ff0000>7★</color>+ item.\n¿Estás seguro de que quieres continuar?"
+		"tr_text": "Entre los objetos que has seleccionado\nhay un<color=#ff0000>7★</color>+ item.\n¿Estas seguro de que quieres continuar?"
 	},
 	{
 		"assign": "acceptbox_sale_stargem_warning_dialog_title",
@@ -18047,7 +18047,7 @@
 	{
 		"assign": "leisure_navi_talk",
 		"jp_text": "<color=#000000>フォトンダイスでオレたちと勝負だ！\nサイコロを交互に振って\n合計数の多いほうが勝ちだってば！</color>",
-		"tr_text": "<color=#000000>¡Un juego contra nosotros usando\ndados de Photons!\nTira los dados y gana el que tenga\nel número total más grande.</color>"
+		"tr_text": "<color=#000000>¡Un juego contra nosotros usando\ndados de Photons!\nTira los dados y gana el que tenga\nel número total mas grande.</color>"
 	},
 	{
 		"assign": "leisure_remaining_playcount",
@@ -18142,7 +18142,7 @@
 	{
 		"assign": "photondice_special_dialog_t_01",
 		"jp_text": "スペシャルプレイチケット消費確認",
-		"tr_text": "Confirmación de consumo de boletos especiales"
+		"tr_text": "Confirmacion de consumo de boletos especiales"
 	},
 	{
 		"assign": "photondice_special_dialog_b_01",
@@ -18177,12 +18177,12 @@
 	{
 		"assign": "photondice_doubleup_dialog_b_01",
 		"jp_text": "獲得LCを賭けてダブルアップに挑戦しますか？",
-		"tr_text": "¿Quieres desafiar por el doble por la adquisición de\napuestas LC?"
+		"tr_text": "¿Quieres desafiar por el doble por la adquisicion de\napuestas LC?"
 	},
 	{
 		"assign": "photondice_doubleup_dialog_b_02",
 		"jp_text": "ダブルアップ時はプレイ回数を消費しません。\nダブルアップ対戦で敗北すると、獲得LCを失います。",
-		"tr_text": "No consume las jugadas cuando\nse dobla la apuesta. Si pierdes en\nuna batalla doble,\npierdes la adquisición de LC."
+		"tr_text": "No consume las jugadas cuando\nse dobla la apuesta. Si pierdes en\nuna batalla doble,\npierdes la adquisicion de LC."
 	},
 	{
 		"assign": "photondice_doubleup_dialog_b_03",
@@ -19012,7 +19012,7 @@
 	{
 		"assign": "towerquest_top_target_time_prefix",
 		"jp_text": "あと",
-		"tr_text": "Después"
+		"tr_text": "Despues"
 	},
 	{
 		"assign": "towerquest_time_format",
