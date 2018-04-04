@@ -5,6 +5,7 @@ import fnmatch
 import json
 import os
 import sys
+import re
 
 # Error counter
 counterr = 0
@@ -30,16 +31,31 @@ for files in json_files:
             countin = 0
             countout = 0
             djson = json.load(json_file)
+            
+            linenames = ["text", "name", "title", "explain", "explainShort", "explainLong", "patterns"]
             for rmid in djson:
-                countin += 1
-                if (("tr_text" in rmid) and (rmid["tr_text"] != "")):
-                    countout += 1
+                for checkname in linenames:
+                    checkjp = "jp_" + checkname
+                    if ((checkjp in rmid)
+                        and (rmid[checkjp] != "")
+                        and (rmid[checkjp] != "-")
+                        and (rmid[checkjp] != "---")
+                        and (rmid[checkjp] != "－")
+                        and (re.fullmatch('d+', str(rmid[checkjp])) == None) # Filter out names that are just numbers - even if these aren't dummy strings, the numbers alone are fine
+                        and (re.fullmatch('ENT_(ABN|SP)ダミー\d+', str(rmid[checkjp])) == None)): # Filter out dummy strings from Explain_Element_Abnormal and Explain_Element_Special
+                        
+                        countin += 1
+                        checktr = "tr_" + checkname
+                        
+                        if((checktr in rmid) and (rmid[checktr] != "") and (rmid[checktr] != rmid[checkjp])):
+                            countout += 1
+                        
             # print ("%s/%s" % (countin, countout))
             if (countin):
                 countper = "{:06.1%}".format(float(countout) / float(countin))
                 bufout += '\n{0}\t{1}'.format(countper, files)
             else:
-                bufout += '\n{0}\t:{1}'.format("ERROR ", files)
+                bufout += '\n{0}\t:{1}'.format("No translatable lines found ", files)
         except ValueError as e:
             print("%s: %s") % (files, e)
             invalid_json_files.append(files)
