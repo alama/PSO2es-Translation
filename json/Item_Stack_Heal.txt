@@ -11,7 +11,7 @@
 		"jp_text": "ディメイト",
 		"tr_text": "Dimate",
 		"jp_explain": "アークス御用達の強化回復剤。\n使用することでＨＰが大きく回復する。",
-		"tr_explain": "Un medicamento general.\nRestaura 60% HP cuando es usado."
+		"tr_explain": "Un medicamento general.\nRestaura 50% HP cuando es usado."
 	},
 	{
 		"assign": "3102",
