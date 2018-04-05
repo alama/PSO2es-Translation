@@ -429,37 +429,37 @@
 	{
 		"assign": "323062",
 		"jp_text": "フォトンチェア水",
-		"tr_text": "Silla de Photon Sky",
+		"tr_text": "Silla de Photon Cyan",
 		"jp_explain": "ロビアク『フォトンチェア水』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Silla de Photon Sky\".\nUsa los botones para cambiar de pose."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Silla de Photon Cyan\".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "323063",
 		"jp_text": "フォトンチェア青",
-		"tr_text": "Silla de Photon Blue",
+		"tr_text": "Silla de Photon Azul",
 		"jp_explain": "ロビアク『フォトンチェア青』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Silla de Photon Blue\".\nUsa los botones para cambiar de pose."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Silla de Photon Azul\".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "323064",
 		"jp_text": "フォトンチェア紫",
-		"tr_text": "Silla de Photon Purple",
+		"tr_text": "Silla de Photon Purpura",
 		"jp_explain": "ロビアク『フォトンチェア紫』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Silla de Photon Purple\".\nUsa los botones para cambiar de pose."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Silla de Photon Purpura\".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "323065",
 		"jp_text": "フォトンチェア桃",
-		"tr_text": "Silla de Photon Pink",
+		"tr_text": "Silla de Photon Rosa",
 		"jp_explain": "ロビアク『フォトンチェア桃』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Silla de Photon Pink\".\nUsa los botones para cambiar de pose."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Silla de Photon Rosa\".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "323066",
 		"jp_text": "フォトンチェア赤",
-		"tr_text": "Silla de Photon Red",
+		"tr_text": "Silla de Photon Rojo",
 		"jp_explain": "ロビアク『フォトンチェア赤』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Silla de Photon Red\".\nUsa los botones para cambiar de pose."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Silla de Photon Rojo\".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "323067",
@@ -534,9 +534,9 @@
 	{
 		"assign": "323077",
 		"jp_text": "66「待機中」",
-		"tr_text": "66 \"Waiting\"",
+		"tr_text": "66 \"Esperando\"",
 		"jp_explain": "ロビアク『待機中』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Waiting\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Esperando\"."
 	},
 	{
 		"assign": "323078",
@@ -751,30 +751,30 @@
 	{
 		"assign": "3230108",
 		"jp_text": "97「人文字Ｐ」",
-		"tr_text": "97 \"Symbol P\"",
+		"tr_text": "97 \"Simbolo P\"",
 		"jp_explain": "ロビアク『人文字Ｐ』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Symbol P\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Simbolo P\"."
 	},
 	{
 		"assign": "3230109",
 		"jp_text": "98「人文字Ｓ」",
-		"tr_text": "98 \"Symbol S\"",
+		"tr_text": "98 \"Simbolo S\"",
 		"jp_explain": "ロビアク『人文字Ｓ』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Symbol S\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Simbolo S\"."
 	},
 	{
 		"assign": "3230110",
 		"jp_text": "99「人文字Ｏ」",
-		"tr_text": "99 \"Symbol O\"",
+		"tr_text": "99 \"Simbolo O\"",
 		"jp_explain": "ロビアク『人文字Ｏ』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Symbol O\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Simbolo O\"."
 	},
 	{
 		"assign": "3230111",
 		"jp_text": "100「人文字２」",
-		"tr_text": "100 \"Symbol 2\"",
+		"tr_text": "100 \"Simbolo 2\"",
 		"jp_explain": "ロビアク『人文字２』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Symbol 2\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Simbolo 2\"."
 	},
 	{
 		"assign": "3230112",
@@ -1122,9 +1122,9 @@
 	{
 		"assign": "3230161",
 		"jp_text": "150「ボード赤・青」",
-		"tr_text": "150 \"Red & Blue Board\"",
+		"tr_text": "150 \"Rojo & Azul Board\"",
 		"jp_explain": "ロビアク『ボード赤・青』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Red & Blue Board\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Rojo & Azul Board\"."
 	},
 	{
 		"assign": "3230162",
@@ -1248,65 +1248,65 @@
 	{
 		"assign": "3230179",
 		"jp_text": "168「人文字０（ゼロ）」",
-		"tr_text": "168 \"Symbol 0 (Zero)\"",
+		"tr_text": "168 \"Simbolo 0 (Zero)\"",
 		"jp_explain": "ロビアク『人文字０（ゼロ）』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Symbol 0 (Zero)\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Simbolo 0 (Zero)\"."
 	},
 	{
 		"assign": "3230180",
 		"jp_text": "169「人文字１」",
-		"tr_text": "169 \"Symbol 1\"",
+		"tr_text": "169 \"Simbolo 1\"",
 		"jp_explain": "ロビアク『人文字１』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Symbol 1\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Simbolo 1\"."
 	},
 	{
 		"assign": "3230181",
 		"jp_text": "170「人文字３」",
-		"tr_text": "170 \"Symbol 3\"",
+		"tr_text": "170 \"Simbolo 3\"",
 		"jp_explain": "ロビアク『人文字３』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Symbol 3\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Simbolo 3\"."
 	},
 	{
 		"assign": "3230182",
 		"jp_text": "171「人文字４」",
-		"tr_text": "171 \"Symbol 4\"",
+		"tr_text": "171 \"Simbolo 4\"",
 		"jp_explain": "ロビアク『人文字４』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Symbol 4\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Simbolo 4\"."
 	},
 	{
 		"assign": "3230183",
 		"jp_text": "172「人文字５」",
-		"tr_text": "172 \"Symbol 5\"",
+		"tr_text": "172 \"Simbolo 5\"",
 		"jp_explain": "ロビアク『人文字５』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Symbol 5\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Simbolo 5\"."
 	},
 	{
 		"assign": "3230184",
 		"jp_text": "173「人文字６」",
-		"tr_text": "173 \"Symbol 6\"",
+		"tr_text": "173 \"Simbolo 6\"",
 		"jp_explain": "ロビアク『人文字６』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Symbol 6\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Simbolo 6\"."
 	},
 	{
 		"assign": "3230185",
 		"jp_text": "174「人文字７」",
-		"tr_text": "174 \"Symbol 7\"",
+		"tr_text": "174 \"Simbolo 7\"",
 		"jp_explain": "ロビアク『人文字７』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Symbol 7\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Simbolo 7\"."
 	},
 	{
 		"assign": "3230186",
 		"jp_text": "175「人文字８」",
-		"tr_text": "175 \"Symbol 8\"",
+		"tr_text": "175 \"Simbolo 8\"",
 		"jp_explain": "ロビアク『人文字８』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Symbol 8\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Simbolo 8\"."
 	},
 	{
 		"assign": "3230187",
 		"jp_text": "176「人文字９」",
-		"tr_text": "176 \"Symbol 9\"",
+		"tr_text": "176 \"Simbolo 9\"",
 		"jp_explain": "ロビアク『人文字９』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Symbol 9\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Simbolo 9\"."
 	},
 	{
 		"assign": "3230188",
@@ -1801,9 +1801,9 @@
 	{
 		"assign": "3230260",
 		"jp_text": "247「ハグ」",
-		"tr_text": "247 \"Hug\"",
+		"tr_text": "247 \"Abrazar\"",
 		"jp_explain": "ロビアク『ハグ』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Hug\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Abrazar\"."
 	},
 	{
 		"assign": "3230261",
@@ -1822,9 +1822,9 @@
 	{
 		"assign": "3230263",
 		"jp_text": "250「じゃんけん」",
-		"tr_text": "250 \"Rock, Paper, Scissors\"",
+		"tr_text": "250 \"Piedra, Papel, Tijeras\"",
 		"jp_explain": "ロビアク『じゃんけん』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Rock, Paper, Scissors\".\nUsa los botones para cambiar de pose."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Piedra, Papel, Tijeras\".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "3230264",
@@ -2130,9 +2130,9 @@
 	{
 		"assign": "3230307",
 		"jp_text": "294「待機中２」",
-		"tr_text": "294 \"Waiting 2\"",
+		"tr_text": "294 \"Esperando 2\"",
 		"jp_explain": "ロビアク『待機中２』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Waiting 2\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Esperando 2\"."
 	},
 	{
 		"assign": "3230308",
@@ -2151,9 +2151,9 @@
 	{
 		"assign": "3230310",
 		"jp_text": "297「ウィナーダンス」",
-		"tr_text": "297 \"Winner Baile\"",
+		"tr_text": "297 \"Baile Winner\"",
 		"jp_explain": "ロビアク『ウィナーダンス』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Winner Baile\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile Winner\"."
 	},
 	{
 		"assign": "3230311",
@@ -2172,9 +2172,9 @@
 	{
 		"assign": "3230313",
 		"jp_text": "300「待機中３」",
-		"tr_text": "300 \"Waiting 3\"",
+		"tr_text": "300 \"Esperando 3\"",
 		"jp_explain": "ロビアク『待機中３』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Waiting 3\".\nUsa los botones para cambiar de pose."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Esperando 3\".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "3230314",
@@ -2291,23 +2291,23 @@
 	{
 		"assign": "3230330",
 		"jp_text": "317「ＡＲＫＳダンス２」",
-		"tr_text": "317 \"ARKS Baile 2\"",
+		"tr_text": "317 \"Baile ARKS 2\"",
 		"jp_explain": "ロビアク『ＡＲＫＳダンス２』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"ARKS Baile 2\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile ARKS 2\"."
 	},
 	{
 		"assign": "3230331",
 		"jp_text": "318「泳ぐ」",
-		"tr_text": "318 \"Swim\"",
+		"tr_text": "318 \"Nadar\"",
 		"jp_explain": "ロビアク『泳ぐ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Swim\".\nUsa los botones para cambiar de pose."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Nadar\".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "3230332",
 		"jp_text": "319「サーフィン」",
-		"tr_text": "319 \"Surfing\"",
+		"tr_text": "319 \"Surfear\"",
 		"jp_explain": "ロビアク『サーフィン』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Surfing\".\nUsa los botones para cambiar de pose."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Surfea\".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "3230333",
@@ -2543,9 +2543,9 @@
 	{
 		"assign": "3230367",
 		"jp_text": "353「待機中４」",
-		"tr_text": "353 \"Waiting 4\"",
+		"tr_text": "353 \"Esperando 4\"",
 		"jp_explain": "ロビアク『待機中４』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Waiting 4\".\nUsa los botones para cambiar de pose."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Esperando 4\".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "3230368",
@@ -2557,9 +2557,9 @@
 	{
 		"assign": "3230369",
 		"jp_text": "355「待機中５」",
-		"tr_text": "355 \"Waiting 5\"",
+		"tr_text": "355 \"Esperando 5\"",
 		"jp_explain": "ロビアク『待機中５』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Waiting 5\".\nUsa los botones para cambiar de pose."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Esperando 5\".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "3230370",
@@ -2585,9 +2585,9 @@
 	{
 		"assign": "3230373",
 		"jp_text": "359「待機中６」",
-		"tr_text": "359 \"Waiting 6\"",
+		"tr_text": "359 \"Esperando 6\"",
 		"jp_explain": "ロビアク『待機中６』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Waiting 6\".\nUsa los botones para cambiar de pose."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Esperando 6\".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "3230374",
@@ -2725,9 +2725,9 @@
 	{
 		"assign": "3230395",
 		"jp_text": "381「待機中７」",
-		"tr_text": "381 \"Waiting 7\"",
+		"tr_text": "381 \"Esperando 7\"",
 		"jp_explain": "ロビアク『待機中７』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Waiting 7\".\nUsa los botones para cambiar de pose."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Esperando 7\".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "3230396",
@@ -2739,9 +2739,9 @@
 	{
 		"assign": "3230397",
 		"jp_text": "383「リズム」",
-		"tr_text": "383 \"Rhythm\"",
+		"tr_text": "383 \"Ritmo\"",
 		"jp_explain": "ロビアク『リズム』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Rhythm\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Ritmo\"."
 	},
 	{
 		"assign": "3230398",
