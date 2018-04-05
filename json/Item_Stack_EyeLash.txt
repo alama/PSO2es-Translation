@@ -291,7 +291,7 @@
 		"jp_text": "二重デフォルメまつげ　紺",
 		"tr_text": "Double-Fold Deformed Eyelashes Blue",
 		"jp_explain": "チケットを使用すると、新しいまつげの\n二重デフォルメまつげ　紺が選択可能。",
-		"tr_explain": "Usando este tiquete, las pestañas\n\"Double-Fold Deformed Eyelashes\nBlue\" can be used in the Beauty\nSalon."
+		"tr_explain": "Usando este tiquete, las pestañas\n\"Double-Fold Deformed Eyelashes\nBlue\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "328042",
