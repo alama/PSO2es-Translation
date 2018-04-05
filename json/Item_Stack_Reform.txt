@@ -4,70 +4,70 @@
 		"jp_text": "ベーシック・テーマ",
 		"tr_text": "Ambiente: Basico",
 		"jp_explain": "マイルームのリフォーム用パス。\nすべての基本であり、安心感のある\nデザインへの増改築が可能となる。",
-		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente secure basic."
+		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente basico y seguro."
 	},
 	{
 		"assign": "3601",
 		"jp_text": "モダン・テーマ",
 		"tr_text": "Ambiente: Moderno",
 		"jp_explain": "マイルームのリフォーム用パス。\n独特とも言える色彩を活かした\nデザインへの増改築が可能となる。",
-		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente unique modern."
+		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente unico y moderno."
 	},
 	{
 		"assign": "3602",
 		"jp_text": "クラシック・テーマ",
 		"tr_text": "Ambiente: Clasico",
 		"jp_explain": "マイルームのリフォーム用パス。\n荘厳かつ優雅な空気の漂う、美しい\nデザインへの増改築が可能となる。",
-		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente elegant classic."
+		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente clasico elegante."
 	},
 	{
 		"assign": "3603",
 		"jp_text": "ゴシック・テーマ／Ｒ",
 		"tr_text": "Ambiente: Gotico/R",
 		"jp_explain": "マイルームのリフォーム用パス。\n赤を基調とした重厚かつ華美な\nデザインへの増改築が可能となる。",
-		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente historical red gothic."
+		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente historico gotico en rojo."
 	},
 	{
 		"assign": "3604",
 		"jp_text": "ベーシック・テーマ／Ｂ",
 		"tr_text": "Ambiente: Basico/B",
 		"jp_explain": "マイルームのリフォーム用パス。\n青色を基調とした、安心感のある\nデザインへの増改築が可能となる。",
-		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente secure blue basic."
+		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente basico y seguro en azul."
 	},
 	{
 		"assign": "3605",
 		"jp_text": "ベーシック・テーマ／Ｐ",
 		"tr_text": "Ambiente: Basico/P",
 		"jp_explain": "マイルームのリフォーム用パス。\n桃色を基調とした、安心感のある\nデザインへの増改築が可能となる。",
-		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente secure pink basic."
+		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente basico y seguro en rosa."
 	},
 	{
 		"assign": "3606",
 		"jp_text": "モダン・テーマ／Ｙ",
 		"tr_text": "Ambiente: Moderno/Y",
 		"jp_explain": "マイルームのリフォーム用パス。\n独特とも言える黄色を基調とした\nデザインへの増改築が可能となる。",
-		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente unique yellow modern."
+		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente unico y moderno en amarillo."
 	},
 	{
 		"assign": "3607",
 		"jp_text": "モダン・テーマ／Ｂ",
 		"tr_text": "Ambiente: Moderno/B",
 		"jp_explain": "マイルームのリフォーム用パス。\n独特とも言える黒桃色を基調とした\nデザインへの増改築が可能となる。",
-		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente unique pink modern."
+		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente unico y moderno en rosa."
 	},
 	{
 		"assign": "3608",
 		"jp_text": "ゴシック・テーマ／Ｂ",
 		"tr_text": "Ambiente: Gotico/B",
 		"jp_explain": "マイルームのリフォーム用パス。\n黒を基調とした重厚かつ華美な\nデザインへの増改築が可能となる。",
-		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente historical black gothic."
+		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente historico gotico en negro."
 	},
 	{
 		"assign": "3609",
 		"jp_text": "ゴシック・テーマ",
 		"tr_text": "Ambiente: Gotico",
 		"jp_explain": "マイルームのリフォーム用パス。\n歴史を感じさせる重厚かつ華美な\nデザインへの増改築が可能となる。",
-		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente historical gothic."
+		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente historico gotico."
 	},
 	{
 		"assign": "36010",
@@ -81,77 +81,77 @@
 		"jp_text": "クラシック・テーマ／Ｃ",
 		"tr_text": "Ambiente: Clasico/C",
 		"jp_explain": "マイルームのリフォーム用パス。\n荘厳かつ優雅な、茶色を基調とした\nデザインへの増改築が可能となる。",
-		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente elegant brown classic."
+		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente clasico elegante en cafe."
 	},
 	{
 		"assign": "36012",
 		"jp_text": "オリエント・テーマ",
 		"tr_text": "Ambiente: Oriental",
 		"jp_explain": "マイルームのリフォーム用パス。\n淡色を基調とした、ワビサビのある\nデザインへの増改築が可能となる。",
-		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente faded oriental."
+		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente oriental descolorido."
 	},
 	{
 		"assign": "36013",
 		"jp_text": "オリエント・テーマ／Ｂ",
 		"tr_text": "Ambiente: Oriental/B",
 		"jp_explain": "マイルームのリフォーム用パス。\n絢爛豪華ながら、ワビサビのある\nデザインへの増改築が可能となる。",
-		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente colorful oriental."
+		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente oriental colorido."
 	},
 	{
 		"assign": "36014",
 		"jp_text": "オリエント・テーマ／Ｃ",
 		"tr_text": "Ambiente: Oriental/C",
 		"jp_explain": "マイルームのリフォーム用パス。\n外装にもこだわった、ワビサビのある\nデザインへの増改築が可能となる。",
-		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente colorful oriental."
+		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente oriental colorido."
 	},
 	{
 		"assign": "36015",
 		"jp_text": "スイーツ・テーマ",
 		"tr_text": "Ambiente: Dulce",
 		"jp_explain": "マイルームのリフォーム用パス。\nお菓子の家をモチーフにした\nデザインへの増改築が可能となる。",
-		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente sweet candy."
+		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente azucarado y dulce."
 	},
 	{
 		"assign": "36016",
 		"jp_text": "スイーツ・テーマ／Ｂ",
 		"tr_text": "Ambiente: Dulce/B",
 		"jp_explain": "マイルームのリフォーム用パス。\nチョコレートの家をテーマにした\nデザインへの増改築が可能となる。",
-		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente chocolate house."
+		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente chocolatoso."
 	},
 	{
 		"assign": "36017",
 		"jp_text": "スイーツ・テーマ／Ｃ",
 		"tr_text": "Ambiente: Dulce/C",
 		"jp_explain": "マイルームのリフォーム用パス。\n抹茶のお菓子をテーマにした\nデザインへの増改築が可能となる。",
-		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente green tea candy."
+		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente como dulce de te verde."
 	},
 	{
 		"assign": "36018",
 		"jp_text": "チャイナ・テーマ",
 		"tr_text": "Ambiente: China",
 		"jp_explain": "マイルームのリフォーム用パス。\n独特の模様が美しい、赤色基調の\nデザインへの増改築が可能となる。",
-		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente beautiful red theme."
+		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente hermoso de color rojo."
 	},
 	{
 		"assign": "36019",
 		"jp_text": "チャイナ・テーマ／Ｇ",
 		"tr_text": "Ambiente: China/G",
 		"jp_explain": "マイルームのリフォーム用パス。\n独特の模様が美しい、緑色基調の\nデザインへの増改築が可能となる。",
-		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente beautiful green theme."
+		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente hermoso de color verde."
 	},
 	{
 		"assign": "36020",
 		"jp_text": "チャイナ・テーマ／Ｂ",
 		"tr_text": "Ambiente: China/B",
 		"jp_explain": "マイルームのリフォーム用パス。\n独特の模様が美しい、黒色基調の\nデザインへの増改築が可能となる。",
-		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente beautiful black theme."
+		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente hermoso de color negro."
 	},
 	{
 		"assign": "36021",
 		"jp_text": "ウェスタン・テーマ",
 		"tr_text": "Ambiente: Western",
 		"jp_explain": "マイルームのリフォーム用パス。\n古めかしくも味のある作りをした\nデザインへの増改築が可能となる。",
-		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente western."
+		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente como de vaqueros."
 	},
 	{
 		"assign": "36022",
@@ -261,7 +261,7 @@
 	{
 		"assign": "36037",
 		"jp_text": "シーナリーパス・Ｍシップ",
-		"tr_text": "Escenario: M. Ship",
+		"tr_text": "Escenario: N. Madre",
 		"jp_explain": "マイルームのリフォーム用パス。\n部屋から一望できる景観をマザー\nシップに変更することが可能になる。",
 		"tr_explain": "Pase para remodelar mi cuarto.\nCambia el escenario de fondo\na estar en el centro de N. Madre"
 	},
@@ -270,61 +270,61 @@
 		"jp_text": "レトロ・テーマ",
 		"tr_text": "Ambiente: Retro",
 		"jp_explain": "マイルームのリフォーム用パス。\n褐色の歯車と計器が織りなす独特の\nデザインへの増改築が可能となる。",
-		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente mechanical retro theme."
+		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente mecanico retro."
 	},
 	{
 		"assign": "36039",
 		"jp_text": "レトロ・テーマ／Ｇ",
 		"tr_text": "Ambiente: Retro/G",
 		"jp_explain": "マイルームのリフォーム用パス。\n無機質な歯車と計器が織りなす独特の\nデザインへの増改築が可能となる。",
-		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente mechanical retro theme."
+		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente mecanico retro."
 	},
 	{
 		"assign": "36040",
 		"jp_text": "レトロ・テーマ／Ｂ",
 		"tr_text": "Ambiente: Retro/B",
 		"jp_explain": "マイルームのリフォーム用パス。\n金属質の歯車と計器が織りなす独特の\nデザインへの増改築が可能となる。",
-		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente mechanical retro theme."
+		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente mecanico retro."
 	},
 	{
 		"assign": "36041",
 		"jp_text": "ファンシー・テーマ",
 		"tr_text": "Ambiente: Lujoso",
 		"jp_explain": "マイルームのリフォーム用パス。\nピンクを基調としたガーリーな\nデザインへの増改築が可能となる。",
-		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente pink girly theme."
+		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente rosa y aniйado."
 	},
 	{
 		"assign": "36042",
 		"jp_text": "ファンシー・テーマ／Ｂ",
 		"tr_text": "Ambiente: Lujoso/B",
 		"jp_explain": "マイルームのリフォーム用パス。\nブルーを基調としたガーリーな\nデザインへの増改築が可能となる。",
-		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente pink girly theme."
+		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente rosa y aniйado."
 	},
 	{
 		"assign": "36043",
 		"jp_text": "ファンシー・テーマ／Ｃ",
 		"tr_text": "Ambiente: Lujoso/C",
 		"jp_explain": "マイルームのリフォーム用パス。\nクリーム色を基調としたガーリーな\nデザインへの増改築が可能となる。",
-		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente pink girly theme."
+		"tr_explain": "Pase para remodelar mi cuarto.\nEsta es decorada con un\nambiente rosa y aniйado."
 	},
 	{
 		"assign": "36044",
 		"jp_text": "オールド・テーマ",
-		"tr_text": "Ambiente: Viejo",
+		"tr_text": "Ambiente: Antiguo",
 		"jp_explain": "マイルームのリフォーム用パス。\n赤いレンガの壁をお洒落に飾り付けた\nデザインへの増改築が可能となる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "36045",
 		"jp_text": "オールド・テーマ／Ｂ",
-		"tr_text": "Ambiente: Viejo/B",
+		"tr_text": "Ambiente: Antiguo/B",
 		"jp_explain": "マイルームのリフォーム用パス。\n青いレンガの壁をお洒落に飾り付けた\nデザインへの増改築が可能となる。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "36046",
 		"jp_text": "オールド・テーマ／Ｃ",
-		"tr_text": "Ambiente: Viejo/C",
+		"tr_text": "Ambiente: Antiguo/C",
 		"jp_explain": "マイルームのリフォーム用パス。\n黄色いレンガの壁をお洒落に飾り付けた\nデザインへの増改築が可能となる。",
 		"tr_explain": ""
 	},
@@ -373,9 +373,9 @@
 	{
 		"assign": "36055",
 		"jp_text": "シーナリーパス・浮上施設",
-		"tr_text": "Escenario: Floating Facility",
+		"tr_text": "Escenario: I. Flotantes",
 		"jp_explain": "マイルームのリフォーム用パス。\n部屋から一望できる景観を\n浮上施設に変更することが可能になる。",
-		"tr_explain": "Pase para remodelar mi cuarto.\nCambia el escenario de fondo\na estar en un flying facility."
+		"tr_explain": "Pase para remodelar mi cuarto.\nCambia el escenario de fondo\na estar en unas i. flotantes."
 	},
 	{
 		"assign": "36056",
