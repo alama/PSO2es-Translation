@@ -18,35 +18,35 @@
 		"jp_text": "アッパートラップ",
 		"tr_text": "Trampa Lanzadora",
 		"jp_explain": "レンジャー用の時限型起動トラップ。\n罠にかかったターゲットに対し\nダメージを与えつつ上空へ打ち上げる。",
-		"tr_explain": "Una herramienta para Rangers.\nPone una trampa que\nlanza al enemigo."
+		"tr_explain": "Un dispositivo de Rangers.\nPone una trampa que\nlanza al enemigo."
 	},
 	{
 		"assign": "3703",
 		"jp_text": "ポイズントラップ",
 		"tr_text": "Trampa Venenosa",
 		"jp_explain": "レンジャー用の時限型起動トラップ。\n罠にかかった目標に対しダメージを与え\nポイズンの状態異常を付与する。",
-		"tr_explain": "Una herramienta para Rangers.\nPone una trampa que\nenvenena al enemigo."
+		"tr_explain": "Un dispositivo de Rangers.\nPone una trampa que\nenvenena al enemigo."
 	},
 	{
 		"assign": "3704",
 		"jp_text": "スタングレネード",
 		"tr_text": "Granada Paralizadora",
 		"jp_explain": "レンジャー用の着弾爆発型グレネード。\n爆発と共に閃光を放ち、ダメージと共に\nスタンの状態異常を付与する。",
-		"tr_explain": "Una herramienta para Rangers. Lanza una granada que\nparaliza al enemigo."
+		"tr_explain": "Un dispositivo de Rangers.\nLanza una granada que\nparaliza al enemigo."
 	},
 	{
 		"assign": "3705",
 		"jp_text": "リサイクルバッヂ",
 		"tr_text": "Recycle Badge",
 		"jp_explain": "リサイクルショップにてＡＣスクラッチ\nアイテムと同等のものとして交換に\n使用できるバッヂ。",
-		"tr_explain": "Objeto de Scratch de AC reciclado\nen una medalla. Puede ser usado en lugar de\nun objeto de AC para reciclar."
+		"tr_explain": "Objeto de Scratch de AC reciclado.\nPuede ser usado en lugar de\nun objeto de AC para reciclar."
 	},
 	{
 		"assign": "3706",
 		"jp_text": "ＳＧリサイクルバッヂ",
 		"tr_text": "Star Gem Recycling Badge",
 		"jp_explain": "ＳＧリサイクルショップにてＳＧスクラッチ\nアイテムと同等のものとして交換に\n使用できるバッヂ。",
-		"tr_explain": "Objeto de Scratch de SG reciclado\nen una medalla. Puede ser usado en lugar de\nun objeto de SG para reciclar."
+		"tr_explain": "Objeto de Scratch de SG reciclado.\nPuede ser usado en lugar de\nun objeto de SG para reciclar."
 	},
 	{
 		"assign": "3707",
