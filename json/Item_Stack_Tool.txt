@@ -11,7 +11,7 @@
 		"jp_text": "グラインダー",
 		"tr_text": "Grinder",
 		"jp_explain": "武器や防具の加工強化に用いる素材。\n強化を行うことで、限界以上の性能を\n引き出すことができる。",
-		"tr_explain": "Material usado para mejorar equipo.\nEl desempeño de este podra\nllevarse mas alla de sus limites."
+		"tr_explain": "Material usado para mejorar equipo.\nEl desempeйo de este podra\nllevarse mas alla de sus limites."
 	},
 	{
 		"assign": "3702",
@@ -144,7 +144,7 @@
 		"jp_text": "ラムダグラインダー",
 		"tr_text": "Lambda Grinder",
 		"jp_explain": "武器や防具の加工強化に用いる素材。\n強化を行うことで、限界以上の性能を\n引き出すことができる。",
-		"tr_explain": "Material usado para mejorar equipo.\nEl desempeño de este podra\nllevarse mas alla de sus limites."
+		"tr_explain": "Material usado para mejorar equipo.\nEl desempeйo de este podra\nllevarse mas alla de sus limites."
 	},
 	{
 		"assign": "37024",

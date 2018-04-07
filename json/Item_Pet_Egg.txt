@@ -522,7 +522,7 @@
 		"jp_text": "ボーナスエッグ★１０",
 		"tr_text": "Huevo de Bonus 10★",
 		"jp_explain": "ペット育成促進用のエッグ。\nエッグ合成に使用するとペットの\n全能力のプラス値がアップ。",
-		"tr_explain": "Un huevo especial.\Potencia tu mascota grandemente\nsi lo alimentas con este."
+		"tr_explain": "Un huevo especial.\nPotencia tu mascota grandemente\nsi lo alimentas con este."
 	},
 	{
 		"assign": "121092",

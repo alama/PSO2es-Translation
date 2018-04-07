@@ -331,51 +331,51 @@
 	{
 		"assign": "321067",
 		"jp_text": "クラス追加（ハンター）",
-		"tr_text": "Añadir Clase (Hunter)",
+		"tr_text": "Aйadir Clase (Hunter)",
 		"jp_explain": "武装エクステンド実行時に\nハンターのクラス追加が\n必ず発生するようになる。",
-		"tr_explain": "Añade la clase \"Hunter\"\na un equipo cuando es extendido."
+		"tr_explain": "Aйade la clase \"Hunter\"\na un equipo cuando es extendido."
 	},
 	{
 		"assign": "321068",
 		"jp_text": "クラス追加（レンジャー）",
-		"tr_text": "Añadir Clase (Ranger)",
+		"tr_text": "Aйadir Clase (Ranger)",
 		"jp_explain": "武装エクステンド実行時に\nレンジャーのクラス追加が\n必ず発生するようになる。",
-		"tr_explain": "Añade la clase \"Ranger\"\na un equipo cuando es extendido."
+		"tr_explain": "Aйade la clase \"Ranger\"\na un equipo cuando es extendido."
 	},
 	{
 		"assign": "321069",
 		"jp_text": "クラス追加（フォース）",
-		"tr_text": "Añadir Clase (Force)",
+		"tr_text": "Aйadir Clase (Force)",
 		"jp_explain": "武装エクステンド実行時に\nフォースのクラス追加が\n必ず発生するようになる。",
-		"tr_explain": "Añade la clase \"Force\"\na un equipo cuando es extendido."
+		"tr_explain": "Aйade la clase \"Force\"\na un equipo cuando es extendido."
 	},
 	{
 		"assign": "321070",
 		"jp_text": "クラス追加（ファイター）",
-		"tr_text": "Añadir Clase (Fighter)",
+		"tr_text": "Aйadir Clase (Fighter)",
 		"jp_explain": "武装エクステンド実行時に\nファイターのクラス追加が\n必ず発生するようになる。",
-		"tr_explain": "Añade la clase \"Fighter\"\na un equipo cuando es extendido."
+		"tr_explain": "Aйade la clase \"Fighter\"\na un equipo cuando es extendido."
 	},
 	{
 		"assign": "321071",
 		"jp_text": "クラス追加（ガンナー）",
-		"tr_text": "Añadir Clase (Gunner)",
+		"tr_text": "Aйadir Clase (Gunner)",
 		"jp_explain": "武装エクステンド実行時に\nガンナーのクラス追加が\n必ず発生するようになる。",
-		"tr_explain": "Añade la clase \"Gunner\"\na un equipo cuando es extendido."
+		"tr_explain": "Aйade la clase \"Gunner\"\na un equipo cuando es extendido."
 	},
 	{
 		"assign": "321072",
 		"jp_text": "クラス追加（テクター）",
-		"tr_text": "Añadir Clase (Techer)",
+		"tr_text": "Aйadir Clase (Techer)",
 		"jp_explain": "武装エクステンド実行時に\nテクターのクラス追加が\n必ず発生するようになる。",
-		"tr_explain": "Añade la clase \"Techer\"\na un equipo cuando es extendido."
+		"tr_explain": "Aйade la clase \"Techer\"\na un equipo cuando es extendido."
 	},
 	{
 		"assign": "321073",
 		"jp_text": "クラス追加（ブレイバー）",
-		"tr_text": "Añadir Clase (Braver)",
+		"tr_text": "Aйadir Clase (Braver)",
 		"jp_explain": "武装エクステンド実行時に\nブレイバーのクラス追加が\n必ず発生するようになる。",
-		"tr_explain": "Añade la clase \"Braver\"\na un equipo cuando es extendido."
+		"tr_explain": "Aйade la clase \"Braver\"\na un equipo cuando es extendido."
 	},
 	{
 		"assign": "321074",
@@ -534,9 +534,9 @@
 	{
 		"assign": "3210114",
 		"jp_text": "クラス追加（バウンサー）",
-		"tr_text": "Añadir Clase (Bouncer)",
+		"tr_text": "Aйadir Clase (Bouncer)",
 		"jp_explain": "武装エクステンド実行時に\nバウンサーのクラス追加が\n必ず発生するようになる。",
-		"tr_explain": "Añade la clase \"Bouncer\"\na un equipo cuando es extendido."
+		"tr_explain": "Aйade la clase \"Bouncer\"\na un equipo cuando es extendido."
 	},
 	{
 		"assign": "3210115",
@@ -632,9 +632,9 @@
 	{
 		"assign": "3210139",
 		"jp_text": "クラス追加（サモナー）",
-		"tr_text": "Añadir Clase (Summoner)",
+		"tr_text": "Aйadir Clase (Summoner)",
 		"jp_explain": "武装エクステンド実行時に\nサモナーのクラス追加が\n必ず発生するようになる。",
-		"tr_explain": "Añade la clase \"Summoner\"\na un equipo cuando es extendido."
+		"tr_explain": "Aйade la clase \"Summoner\"\na un equipo cuando es extendido."
 	},
 	{
 		"assign": "3210140",
