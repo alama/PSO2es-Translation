@@ -130,14 +130,14 @@
 		"jp_text": "細まつげＡセット",
 		"tr_text": "Set Small Eyelashes A",
 		"jp_explain": "以下のアイテムを獲得する。\n「細まつげＡ　黒」「細まつげＡ　紺」\n「細まつげＡ　茶」「細まつげＡ　白」",
-		"tr_explain": "Al usarlo recibiras:\n[Small Eyelashes A (4 colors)]"
+		"tr_explain": "Al usarlo recibiras:\n[Small Eyelashes A (4 colores)]"
 	},
 	{
 		"assign": "330019",
 		"jp_text": "細まつげＢセット",
 		"tr_text": "Set Small Eyelashes B",
 		"jp_explain": "以下のアイテムを獲得する。\n「細まつげＢ　黒」「細まつげＢ　紺」\n「細まつげＢ　茶」「細まつげＢ　白」",
-		"tr_explain": "Al usarlo recibiras:\n[Small Eyelashes B (4 colors)]"
+		"tr_explain": "Al usarlo recibiras:\n[Small Eyelashes B (4 colores)]"
 	},
 	{
 		"assign": "330020",
@@ -165,7 +165,7 @@
 		"jp_text": "強調まつげセット",
 		"tr_text": "Set Emphasized Eyelashes",
 		"jp_explain": "以下のアイテムを獲得する。\n「強調まつげ　黒」「強調まつげ　紺」\n「強調まつげ　茶」「強調まつげ　白」",
-		"tr_explain": "Al usarlo recibiras:\n[Emphasized Eyelashes (4 colors)]"
+		"tr_explain": "Al usarlo recibiras:\n[Emphasized Eyelashes (4 colores)]"
 	},
 	{
 		"assign": "330024",
@@ -200,7 +200,7 @@
 		"jp_text": "ふとまつげセット",
 		"tr_text": "Set Thick Eyelashes",
 		"jp_explain": "以下のアイテムを獲得する。\n「ふとまつげ　黒」「ふとまつげ　紺」\n「ふとまつげ　茶」「ふとまつげ　白」",
-		"tr_explain": "Al usarlo recibiras:\n[Thick Eyelashes (4 colors)]"
+		"tr_explain": "Al usarlo recibiras:\n[Thick Eyelashes (4 colores)]"
 	},
 	{
 		"assign": "330029",
@@ -249,7 +249,7 @@
 		"jp_text": "派手まつげセット",
 		"tr_text": "Set Fancy Eyelashes",
 		"jp_explain": "以下のアイテムを獲得する。\n「派手まつげ　黒」「派手まつげ　青」\n「派手まつげ　茶」「派手まつげ　白」",
-		"tr_explain": "Al usarlo recibiras:\n[Fancy Eyelashes (4 colors)]"
+		"tr_explain": "Al usarlo recibiras:\n[Fancy Eyelashes (4 colores)]"
 	},
 	{
 		"assign": "330036",
@@ -711,7 +711,7 @@
 		"jp_text": "スリットまつげセット",
 		"tr_text": "Set Slit Eyelashes",
 		"jp_explain": "以下のアイテム４種を獲得する。\n「スリットまつげ　黒／紺／茶／白」",
-		"tr_explain": "Al usarlo recibiras:\nSlit Eyelashes (4 colors)"
+		"tr_explain": "Al usarlo recibiras:\nSlit Eyelashes (4 colores)"
 	},
 	{
 		"assign": "3300102",
@@ -725,14 +725,14 @@
 		"jp_text": "二重まぶたセット",
 		"tr_text": "Set Double-Fold Eyelids",
 		"jp_explain": "以下のアイテムを獲得する。\n「二重まぶた　黒」「二重まぶた　青」\n「二重まぶた　茶」「二重まぶた　白」",
-		"tr_explain": "Al usarlo recibiras:\n[Double-Fold Eyelids (4 colors)]"
+		"tr_explain": "Al usarlo recibiras:\n[Double-Fold Eyelids (4 colores)]"
 	},
 	{
 		"assign": "3300104",
 		"jp_text": "デフォルメまつげセット",
 		"tr_text": "Set Deformed Eyelashes",
 		"jp_explain": "以下のアイテム４種を獲得する。\n「デフォルメまつげ　黒／青／茶／白」",
-		"tr_explain": "Al usarlo recibiras:\nDeformed Eyelashes (4 colors)"
+		"tr_explain": "Al usarlo recibiras:\nDeformed Eyelashes (4 colores)"
 	},
 	{
 		"assign": "3300105",
@@ -788,7 +788,7 @@
 		"jp_text": "くっきりまつげセット",
 		"tr_text": "Set Crisp Eyelashes",
 		"jp_explain": "以下のアイテム４種を獲得する。\n「くっきりまつげ　黒／青／茶／白」",
-		"tr_explain": "Al usarlo recibiras:\n[Crisp Eyelashes (4 colors)]"
+		"tr_explain": "Al usarlo recibiras:\n[Crisp Eyelashes (4 colores)]"
 	},
 	{
 		"assign": "3300113",
@@ -830,7 +830,7 @@
 		"jp_text": "下まつげセット",
 		"tr_text": "Set Lower Eyelashes",
 		"jp_explain": "以下のアイテムを獲得する。\n「下まつげ　黒」「下まつげ　紺」\n「下まつげ　茶」「下まつげ　白」",
-		"tr_explain": "Al usarlo recibiras:\n[Lower Eyelashes (4 colors)]"
+		"tr_explain": "Al usarlo recibiras:\n[Lower Eyelashes (4 colores)]"
 	},
 	{
 		"assign": "3300119",
@@ -2160,7 +2160,7 @@
 		"jp_text": "シャープまつげセット",
 		"tr_text": "Set Sharp Eyelashes",
 		"jp_explain": "以下のアイテム４種を獲得する。\n「シャープまつげ　黒／紺／茶／白」",
-		"tr_explain": "Al usarlo recibiras:\n[Sharp Eyelashes (4 colors)]"
+		"tr_explain": "Al usarlo recibiras:\n[Sharp Eyelashes (4 colores)]"
 	},
 	{
 		"assign": "3300309",
@@ -3980,14 +3980,14 @@
 		"jp_text": "ルウまつげセット",
 		"tr_text": "Set Lou Eyelashes",
 		"jp_explain": "以下のアイテムを獲得する。\n「ルウまつげ　黒」「ルウまつげ　紺」\n「ルウまつげ　茶」「ルウまつげ　白」",
-		"tr_explain": "Al usarlo recibiras:\n[Lou Eyelashes (4 colors)]"
+		"tr_explain": "Al usarlo recibiras:\n[Lou Eyelashes (4 colores)]"
 	},
 	{
 		"assign": "3300766",
 		"jp_text": "ペイントまつげセット",
 		"tr_text": "Set Painted Eyelashes",
 		"jp_explain": "以下のアイテムを獲得する。\n「ペイントまつげ　黒」\n「ペイントまつげ　紺」\n「ペイントまつげ　茶」他１種",
-		"tr_explain": "Al usarlo recibiras:\n[Painted Eyelashes (4 colors)]"
+		"tr_explain": "Al usarlo recibiras:\n[Painted Eyelashes (4 colores)]"
 	},
 	{
 		"assign": "3300767",
@@ -4377,7 +4377,7 @@
 	{
 		"assign": "3300822",
 		"jp_text": "縦縞タイツセットＢ",
-		"tr_text": "Set Striped Tights B",
+		"tr_text": "Set Vertical Striped Tights B",
 		"jp_explain": "以下のアイテムを獲得する。\n「縦縞タイツ赤／黒」\n「縦縞タイツ白／黒」",
 		"tr_explain": "Al usarlo recibiras:\n[Red/Black Striped Tights]\n[Striped Tights White/Black]"
 	},
@@ -5002,7 +5002,7 @@
 		"jp_text": "細くっきりまつげセット",
 		"tr_text": "Set Small Sharp Eyelashes",
 		"jp_explain": "以下のアイテムを獲得する。\n「細くっきりまつげ　黒／紺／茶／白」",
-		"tr_explain": "Al usarlo recibiras:\n[Small Sharp Eyelashes (4 colors)]"
+		"tr_explain": "Al usarlo recibiras:\n[Small Sharp Eyelashes (4 colores)]"
 	},
 	{
 		"assign": "3300912",
@@ -5968,7 +5968,7 @@
 		"jp_text": "薄まつげセットＣ",
 		"tr_text": "Set Light Eyelashes C",
 		"jp_explain": "以下のアイテムを獲得する。\n「薄まつげ　黒」「薄まつげ　白」\n「薄まつげ　茶」「薄まつげ　紺」",
-		"tr_explain": "Al usarlo recibiras:\n[Light Eyelashes (4 colors)]"
+		"tr_explain": "Al usarlo recibiras:\n[Light Eyelashes (4 colores)]"
 	},
 	{
 		"assign": "33001050",
@@ -10392,7 +10392,7 @@
 		"jp_text": "輪郭くっきりまつげセット",
 		"tr_text": "Set Contoured Bold Lashes",
 		"jp_explain": "以下のアイテムを獲得する。\n「輪郭くっきりまつげ　黒／紺／茶／白」",
-		"tr_explain": "Al usarlo recibiras:\n[Contoured Bold Lashes (4 colors)]"
+		"tr_explain": "Al usarlo recibiras:\n[Contoured Bold Lashes (4 colores)]"
 	},
 	{
 		"assign": "33001683",
@@ -11316,7 +11316,7 @@
 		"jp_text": "上くっきりまつげセット",
 		"tr_text": "Set Distinct Upper Lashes",
 		"jp_explain": "以下のアイテムを獲得する。\n「上くっきりまつげ　黒／紺／茶／白」",
-		"tr_explain": "Al usarlo recibiras:\n[Distinct Upper Lashes (4 colors)]"
+		"tr_explain": "Al usarlo recibiras:\n[Distinct Upper Lashes (4 colores)]"
 	},
 	{
 		"assign": "33001815",
@@ -11610,7 +11610,7 @@
 		"jp_text": "フサフサまつげセット",
 		"tr_text": "Set Lush Eyelashes",
 		"jp_explain": "以下のアイテムを獲得する。\n「フサフサまつげ　黒／紺／茶／白」",
-		"tr_explain": "Al usarlo recibiras:\n[Lush Eyelashes (4 colors)]"
+		"tr_explain": "Al usarlo recibiras:\n[Lush Eyelashes (4 colores)]"
 	},
 	{
 		"assign": "33001857",
@@ -12499,7 +12499,7 @@
 		"jp_text": "フサフサつりまつげセット",
 		"tr_text": "Set Lush Slanted Lashes",
 		"jp_explain": "以下のアイテムを獲得する。\n「フサフサつりまつげ　黒／紺／茶／白」",
-		"tr_explain": "Al usarlo recibiras:\n[Lush Slanted Lashes (4 colors)]"
+		"tr_explain": "Al usarlo recibiras:\n[Lush Slanted Lashes (4 colores)]"
 	},
 	{
 		"assign": "33001987",
@@ -13458,7 +13458,7 @@
 		"jp_text": "パッチリ二重まつげセット",
 		"tr_text": "Set Wide-Eyed Double Lashes",
 		"jp_explain": "以下のアイテム４種を獲得する。\n「パッチリ二重まつげ　黒／紺／茶／白」",
-		"tr_explain": "Al usarlo recibiras:\n[Wide-Eyed Double Lashes (4 colors)]"
+		"tr_explain": "Al usarlo recibiras:\n[Wide-Eyed Double Lashes (4 colores)]"
 	},
 	{
 		"assign": "33002124",
@@ -14046,7 +14046,7 @@
 		"jp_text": "細スリットまつげセット",
 		"tr_text": "Set Fine Slit Eyelashes",
 		"jp_explain": "以下のアイテム４種を獲得する。\n「細スリットまつげ　黒／紺／茶／白」",
-		"tr_explain": "Al usarlo recibiras:\n[Fine Slit Eyelashes Black (4 colors)]"
+		"tr_explain": "Al usarlo recibiras:\n[Fine Slit Eyelashes Black (4 colores)]"
 	},
 	{
 		"assign": "33002208",
@@ -15061,7 +15061,7 @@
 		"jp_text": "ふさふさ二重まつげセット",
 		"tr_text": "Set Lush Double Eyelashes",
 		"jp_explain": "以下のアイテム４種を獲得する。\n「ふさふさ二重まつげ　黒／紺／茶／白」",
-		"tr_explain": "Al usarlo recibiras:\n[Lush Double Eyelashes  (4 colors)]"
+		"tr_explain": "Al usarlo recibiras:\n[Lush Double Eyelashes  (4 colores)]"
 	},
 	{
 		"assign": "33002354",
@@ -15600,7 +15600,7 @@
 		"jp_text": "イラストまつげセット",
 		"tr_text": "Set Illustration Eyelashes",
 		"jp_explain": "以下のアイテム４種を獲得する。\n「イラストまつげ　黒／紺／茶／白」",
-		"tr_explain": "Al usarlo recibiras:\n[Illustration Eyelashes (4 colors)]"
+		"tr_explain": "Al usarlo recibiras:\n[Illustration Eyelashes (4 colores)]"
 	},
 	{
 		"assign": "33002433",
@@ -15838,7 +15838,7 @@
 		"jp_text": "太下まつげセット",
 		"tr_text": "Set Thick Lower Lashes",
 		"jp_explain": "以下のアイテム４種を獲得する。\n「太下まつげ　黒／紺／茶／白」",
-		"tr_explain": "Al usarlo recibiras:\n[Thick Lower Lashes (4 colors)"
+		"tr_explain": "Al usarlo recibiras:\n[Thick Lower Lashes (4 colores)"
 	},
 	{
 		"assign": "33002467",
@@ -17728,7 +17728,7 @@
 		"jp_text": "デフォルメまつげＢセット",
 		"tr_text": "Set Deformed Eyelashes B",
 		"jp_explain": "以下のアイテム４種を獲得する。\n「デフォルメまつげＢ　黒／紺／茶／白」",
-		"tr_explain": "Al usarlo recibiras:\n[Deformed Eyelashes B (4 colors)]"
+		"tr_explain": "Al usarlo recibiras:\n[Deformed Eyelashes B (4 colores)]"
 	},
 	{
 		"assign": "33002740",
@@ -18512,7 +18512,7 @@
 		"jp_text": "シャープ派手まつげセット",
 		"tr_text": "Set Sharp Flashy Lashes",
 		"jp_explain": "以下のアイテム４種を獲得する。\n「シャープ派手まつげ　黒／紺／茶／白」",
-		"tr_explain": "Al usarlo recibiras:\n[Sharp Flashy Lashes (4 colors)]"
+		"tr_explain": "Al usarlo recibiras:\n[Sharp Flashy Lashes (4 colores)]"
 	},
 	{
 		"assign": "33002852",
@@ -19576,7 +19576,7 @@
 		"jp_text": "派手くっきりまつげセット",
 		"tr_text": "Set Distinct Flashy Lashes",
 		"jp_explain": "以下のアイテム４種を獲得する。\n「派手くっきりまつげ　黒／紺／茶／白」",
-		"tr_explain": "Al usarlo recibiras:\n[Distinct Flashy Lashes (4 colors)]"
+		"tr_explain": "Al usarlo recibiras:\n[Distinct Flashy Lashes (4 colores)]"
 	},
 	{
 		"assign": "33003004",
@@ -20710,7 +20710,7 @@
 		"jp_text": "細まつげＣセット",
 		"tr_text": "Set Fine Eyelashes C",
 		"jp_explain": "以下のアイテム４種を獲得する。\n「細まつげＣ　黒／紺／茶／白」",
-		"tr_explain": "Al usarlo recibiras:\n [Fine Eyelashes C (4 colors)]"
+		"tr_explain": "Al usarlo recibiras:\n [Fine Eyelashes C (4 colores)]"
 	},
 	{
 		"assign": "33003166",
@@ -21277,7 +21277,7 @@
 		"jp_text": "イラストまつげＣセット",
 		"tr_text": "Set Illustration Eyelashes C",
 		"jp_explain": "以下のアイテムを獲得する。\n「イラストまつげＣ　黒／紺／茶／白／黄」",
-		"tr_explain": "Al usarlo recibiras:\n[Illustration Eyelashes C (4 colors)]"
+		"tr_explain": "Al usarlo recibiras:\n[Illustration Eyelashes C (4 colores)]"
 	},
 	{
 		"assign": "33003247",
@@ -21291,7 +21291,7 @@
 		"jp_text": "ファレグメイクセット",
 		"tr_text": "Set Phaleg Makeup",
 		"jp_explain": "以下のアイテムを獲得する。\n「ファレグまゆ」\n「イラストまつげＤ　黒／紺／茶／白」",
-		"tr_explain": "Al usarlo recibiras:\n[Phaleg Eyebrows]\n[Illustration Lashes D (4 colors)]"
+		"tr_explain": "Al usarlo recibiras:\n[Phaleg Eyebrows]\n[Illustration Lashes D (4 colores)]"
 	},
 	{
 		"assign": "33003249",
@@ -21613,7 +21613,7 @@
 		"jp_text": "毛長シャープまつげセット",
 		"tr_text": "Set Long Sharp Lashes",
 		"jp_explain": "以下のアイテム４種を獲得する。\n「毛長シャープまつげ　黒／紺／茶／白」",
-		"tr_explain": "Al usarlo recibiras:\n[Long Sharp Lashes (4 colors)]"
+		"tr_explain": "Al usarlo recibiras:\n[Long Sharp Lashes (4 colores)]"
 	},
 	{
 		"assign": "33003295",
@@ -21991,7 +21991,7 @@
 		"jp_text": "派手くっきりまつげＢセット",
 		"tr_text": "Set Distinct Flashy Lashes B",
 		"jp_explain": "以下のアイテム４種を獲得する。\n「派手くっきりまつげＢ　黒／紺／茶／白」",
-		"tr_explain": "Al usarlo recibiras:\n[Distinct Flashy Lashes B (4 colors)]"
+		"tr_explain": "Al usarlo recibiras:\n[Distinct Flashy Lashes B (4 colores)]"
 	},
 	{
 		"assign": "33003349",
@@ -22978,7 +22978,7 @@
 		"jp_text": "輪郭くっきりまつげＢセット",
 		"tr_text": "Set Contoured Bold Lashes B",
 		"jp_explain": "以下のアイテム４種を獲得する。\n「輪郭くっきりまつげＢ　黒／紺／茶／白」",
-		"tr_explain": "Al usarlo recibiras:\n[Contoured Bold Lashes B (4 colors)]"
+		"tr_explain": "Al usarlo recibiras:\n[Contoured Bold Lashes B (4 colores)]"
 	},
 	{
 		"assign": "33003490",
@@ -23916,7 +23916,7 @@
 		"jp_text": "デフォルメまつげＣセット",
 		"tr_text": "Set Deformed Eyelashes C",
 		"jp_explain": "以下のアイテム４種を獲得する。\n「デフォルメまつげＣ　黒／紺／茶／白」",
-		"tr_explain": "Al usarlo recibiras:\n[Deformed Eyelashes C (4 colors)]"
+		"tr_explain": "Al usarlo recibiras:\n[Deformed Eyelashes C (4 colores)]"
 	},
 	{
 		"assign": "33003624",
@@ -24595,7 +24595,7 @@
 		"jp_text": "派手フサフサまつげセット",
 		"tr_text": "Set Gaudy Thick Lashes",
 		"jp_explain": "以下のアイテム４種を獲得する。\n「派手フサフサまつげ　黒／紺／茶／白」",
-		"tr_explain": "Al usarlo recibiras:\n[Gaudy Thick Lashes (4 colors)]"
+		"tr_explain": "Al usarlo recibiras:\n[Gaudy Thick Lashes (4 colores)]"
 	},
 	{
 		"assign": "33003721",
@@ -25197,7 +25197,7 @@
 		"jp_text": "フサフサまつげＢセット",
 		"tr_text": "Set Lush Eyelashes B",
 		"jp_explain": "以下のアイテム４種を獲得する。\n「フサフサまつげＢ　黒／紺／茶／白」",
-		"tr_explain": "Al usarlo recibiras:\n[Lush Eyelashes B (4 colors)]"
+		"tr_explain": "Al usarlo recibiras:\n[Lush Eyelashes B (4 colores)]"
 	},
 	{
 		"assign": "33003807",
@@ -25687,14 +25687,14 @@
 		"jp_text": "イラストまつげＥセット",
 		"tr_text": "Set Illustration Lashes E",
 		"jp_explain": "以下のアイテム４種を獲得する。\n「イラストまつげＥ　黒／紺／茶／白」",
-		"tr_explain": "Al usarlo recibiras:\n[Illustration Lashes E (4 colors)]"
+		"tr_explain": "Al usarlo recibiras:\n[Illustration Lashes E (4 colores)]"
 	},
 	{
 		"assign": "33003877",
 		"jp_text": "イラストまつげＦセット",
 		"tr_text": "Set Illustration Lashes F",
 		"jp_explain": "以下のアイテム４種を獲得する。\n「イラストまつげＦ　黒／紺／茶／白」",
-		"tr_explain": "Al usarlo recibiras:\n[Illustration Lashes F (4 colors)]"
+		"tr_explain": "Al usarlo recibiras:\n[Illustration Lashes F (4 colores)]"
 	},
 	{
 		"assign": "33003878",
@@ -26443,7 +26443,7 @@
 		"jp_text": "傾花まつげセット",
 		"tr_text": "Set Nanamebana Lashes",
 		"jp_explain": "以下のアイテム４種を獲得する。\n「傾花まつげ　黒／紺／茶／白」",
-		"tr_explain": "Al usarlo recibiras:\n[Nanamebana Lashes (4 colors)]"
+		"tr_explain": "Al usarlo recibiras:\n[Nanamebana Lashes (4 colores)]"
 	},
 	{
 		"assign": "33003985",
@@ -29425,7 +29425,7 @@
 		"jp_text": "くっきりつりまつげセット",
 		"tr_text": "Set Distinct Angled Lashes",
 		"jp_explain": "以下のアイテム４種を獲得する。\n「くっきりつりまつげ　黒／紺／茶／白」",
-		"tr_explain": "Al usarlo recibiras:\n[Distinct Angled Lashes (4 colors)]"
+		"tr_explain": "Al usarlo recibiras:\n[Distinct Angled Lashes (4 colores)]"
 	},
 	{
 		"assign": "33004417",
@@ -30853,7 +30853,7 @@
 		"jp_text": "上フサフサまつげセット",
 		"tr_text": "Set Lush Upper Lashes",
 		"jp_explain": "以下のアイテム４種を獲得する。\n「上フサフサまつげ　黒／紺／茶／白」",
-		"tr_explain": "Al usarlo recibiras:\n[Lush Upper Lashes (4 colors)]"
+		"tr_explain": "Al usarlo recibiras:\n[Lush Upper Lashes (4 colores)]"
 	},
 	{
 		"assign": "33004621",
@@ -33147,9 +33147,9 @@
 	{
 		"assign": "33004948",
 		"jp_text": "薄まつげＢセット",
-		"tr_text": "Set Light Eyelashes B",
+		"tr_text": "Set Eyelashes Light B",
 		"jp_explain": "以下のアイテム４種を獲得する。\n「薄まつげＢ　黒／紺／茶／白」",
-		"tr_explain": "Al usarlo recibiras:\n[Light Eyelashes B (4 colors)]"
+		"tr_explain": "Al usarlo recibiras:\n[Light Eyelashes B (4 colores)]"
 	},
 	{
 		"assign": "33004949",
