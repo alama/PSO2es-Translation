@@ -86,107 +86,107 @@
 	{
 		"assign": "321014",
 		"jp_text": "属性強化＋５％",
-		"tr_text": "Attribute Enhance +5%",
+		"tr_text": "Incremento de Atributo +5%",
 		"jp_explain": "属性強化用の強化補助素材。\n属性強化時に使用することで\n属性値を５％底上げする。",
-		"tr_explain": "Used when grinding attributes.\nIncreases weapon attribute by 5%."
+		"tr_explain": "Cuando estas mejorando el atributo.\nIncrementa el atributo del arma un 5%."
 	},
 	{
 		"assign": "321015",
 		"jp_text": "属性変化（炎属性）",
-		"tr_text": "Attribute Change (Fire)",
+		"tr_text": "Cambio de atributo (Fuego)",
 		"jp_explain": "属性強化用の強化変成素材。\n属性強化時に使用することで\n【炎】属性へと変化させる。",
-		"tr_explain": "Used when grinding attributes.\nChanges weapon attribute to \"Fire\"."
+		"tr_explain": "Cuando estas mejorando el atributo.\nEste cambia el elemento del arma ha \"Fuego\"."
 	},
 	{
 		"assign": "321016",
 		"jp_text": "属性変化（氷属性）",
-		"tr_text": "Attribute Change (Ice)",
+		"tr_text": "Cambio de atributo (Hielo)",
 		"jp_explain": "属性強化用の強化変成素材。\n属性強化時に使用することで\n【氷】属性へと変化させる。",
-		"tr_explain": "Used when grinding attributes.\nChanges weapon attribute to \"Ice\"."
+		"tr_explain": "Cuando estas mejorando el atributo.\nEste cambia el elemento del arma ha \"Hielo\"."
 	},
 	{
 		"assign": "321017",
 		"jp_text": "属性変化（雷属性）",
-		"tr_text": "Attribute Change (Lightning)",
+		"tr_text": "Cambio de atributo (Trueno)",
 		"jp_explain": "属性強化用の強化変成素材。\n属性強化時に使用することで\n【雷】属性へと変化させる。",
-		"tr_explain": "Used when grinding attributes.\nChanges weapon attribute\nto \"Lightning\"."
+		"tr_explain": "Cuando estas mejorando el atributo.\nChanges weapon attribute\nto \"Trueno\"."
 	},
 	{
 		"assign": "321018",
 		"jp_text": "属性変化（風属性）",
-		"tr_text": "Attribute Change (Wind)",
+		"tr_text": "Cambio de atributo (Viento)",
 		"jp_explain": "属性強化用の強化変成素材。\n属性強化時に使用することで\n【風】属性へと変化させる。",
-		"tr_explain": "Used when grinding attributes.\nChanges weapon attribute to \"Wind\"."
+		"tr_explain": "Cuando estas mejorando el atributo.\nEste cambia el elemento del arma ha \"Viento\"."
 	},
 	{
 		"assign": "321019",
 		"jp_text": "属性変化（光属性）",
-		"tr_text": "Attribute Change (Light)",
+		"tr_text": "Cambio de atributo (Luz)",
 		"jp_explain": "属性強化用の強化変成素材。\n属性強化時に使用することで\n【光】属性へと変化させる。",
-		"tr_explain": "Used when grinding attributes.\nChanges weapon attribute to \"Light\"."
+		"tr_explain": "Cuando estas mejorando el atributo.\nEste cambia el elemento del arma ha \"Luz\"."
 	},
 	{
 		"assign": "321020",
 		"jp_text": "属性変化（闇属性）",
-		"tr_text": "Attribute Change (Dark)",
+		"tr_text": "Cambio de atributo (Oscuridad)",
 		"jp_explain": "属性強化用の強化変成素材。\n属性強化時に使用することで\n【闇】属性へと変化させる。",
-		"tr_explain": "Used when grinding attributes.\nChanges weapon attribute to \"Dark\"."
+		"tr_explain": "Cuando estas mejorando el atributo.\nEste cambia el elemento del arma ha \"Oscuridad\"."
 	},
 	{
 		"assign": "321021",
 		"jp_text": "能力追加成功率＋５％",
 		"tr_text": "Ability Success Rate +5%",
 		"jp_explain": "特殊能力追加用の補助素材。\n特殊能力追加時に使用することで\n成功率を５％上昇させる。",
-		"tr_explain": "Used when adding Special Abilities\non your equipment.\nBoosts success rate by 5%."
+		"tr_explain": "Cuando agregas una Habilidad\na tu equipo.\nAumenta el chance de exito en 5%."
 	},
 	{
 		"assign": "321022",
 		"jp_text": "能力追加成功率＋１０％",
 		"tr_text": "Ability Success Rate +10%",
 		"jp_explain": "特殊能力追加用の補助素材。\n特殊能力追加時に使用することで\n成功率を１０％上昇させる。",
-		"tr_explain": "Used when adding Special Abilities\non your equipment.\nBoosts success rate by 10%."
+		"tr_explain": "Cuando agregas una Habilidad\na tu equipo.\nAumenta el chance de exito en 10%."
 	},
 	{
 		"assign": "321023",
 		"jp_text": "能力追加成功率＋２０％",
 		"tr_text": "Ability Success Rate +20%",
 		"jp_explain": "特殊能力追加用の補助素材。\n特殊能力追加時に使用することで\n成功率を２０％上昇させる。",
-		"tr_explain": "Used when adding Special Abilities\non your equipment.\nBoosts success rate by 20%."
+		"tr_explain": "Cuando agregas una Habilidad\na tu equipo.\nAumenta el chance de exito en 20%."
 	},
 	{
 		"assign": "321024",
 		"jp_text": "特殊能力追加（打撃）",
-		"tr_text": "Add Ability Power Boost",
+		"tr_text": "Habilidad Power Boost",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【打撃】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Power Boost\"\nwhen used in Special Ability\nSynthesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Power Boost\"\ncuando es usado como parte de la sistesis."
 	},
 	{
 		"assign": "321025",
 		"jp_text": "特殊能力追加（射撃）",
-		"tr_text": "Add Ability Shoot Boost",
+		"tr_text": "Habilidad Shoot Boost",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【射撃】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Shooting Boost\"\nwhen used in Special Ability\nSynthesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Shooting Boost\"\ncuando es usado como parte de la sistesis."
 	},
 	{
 		"assign": "321026",
 		"jp_text": "特殊能力追加（法撃）",
-		"tr_text": "Add Ability Tech Boost",
+		"tr_text": "Habilidad Tech Boost",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【法撃】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Technique Boost\"\nwhen used in Special Ability\nSynthesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Technique Boost\"\ncuando es usado como parte de la sistesis."
 	},
 	{
 		"assign": "321027",
 		"jp_text": "特殊能力追加（ＨＰ）",
-		"tr_text": "Add Ability Stamina Boost",
+		"tr_text": "Habilidad Stamina Boost",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ＨＰ】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Stamina Boost\"\nwhen used in Special Ability\nSynthesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Stamina Boost\"\ncuando es usado como parte de la sistesis."
 	},
 	{
 		"assign": "321028",
 		"jp_text": "特殊能力追加（ＰＰ）",
-		"tr_text": "Add Ability Spirita Boost",
+		"tr_text": "Habilidad Spirita Boost",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ＰＰ】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Spirita Boost\"\nwhen used in Special Ability\nSynthesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Spirita Boost\"\ncuando es usado como parte de la sistesis."
 	},
 	{
 		"assign": "321030",
@@ -200,7 +200,7 @@
 		"jp_text": "能力追加成功率＋３０％",
 		"tr_text": "Ability Success Rate +30%",
 		"jp_explain": "特殊能力追加用の補助素材。\n特殊能力追加時に使用することで\n成功率を３０％上昇させる。",
-		"tr_explain": "Used when adding Special Abilities\non your equipment.\nBoosts success rate by 30%."
+		"tr_explain": "Cuando agregas una Habilidad\na tu equipo.\nAumenta el chance de exito en 30%."
 	},
 	{
 		"assign": "321032",
@@ -261,23 +261,23 @@
 	{
 		"assign": "321051",
 		"jp_text": "属性強化＋１０％",
-		"tr_text": "Attribute Enhance +10%",
+		"tr_text": "Incremento de Atributo +10%",
 		"jp_explain": "属性強化用の強化補助素材。\n属性強化時に使用することで\n属性値を１０％底上げする。",
-		"tr_explain": "Used when grinding attributes.\nIncreases weapon attribute by 10%."
+		"tr_explain": "Cuando estas mejorando el atributo.\nIncrementa el atributo del arma un 10%."
 	},
 	{
 		"assign": "321054",
 		"jp_text": "能力追加成功率＋４０％",
 		"tr_text": "Ability Success Rate +40%",
 		"jp_explain": "特殊能力追加用の補助素材。\n特殊能力追加時に使用することで\n成功率を４０％上昇させる。",
-		"tr_explain": "Used when adding Special Abilities\non your equipment.\nBoosts success rate by 40%"
+		"tr_explain": "Cuando agregas una Habilidad\na tu equipo.\nAumenta el chance de exito en 40%"
 	},
 	{
 		"assign": "321056",
 		"jp_text": "能力追加成功（１００％）",
 		"tr_text": "Ability Success Rate +100%",
 		"jp_explain": "特殊能力追加用の補助素材。\n特殊能力追加時に使用することで\n確実に成功させる。",
-		"tr_explain": "Used when adding Special Abilities\non your equipment.\nBoosts success rate by 100%"
+		"tr_explain": "Cuando agregas una Habilidad\na tu equipo.\nAumenta el chance de exito en 100%"
 	},
 	{
 		"assign": "321057",
@@ -331,100 +331,100 @@
 	{
 		"assign": "321067",
 		"jp_text": "クラス追加（ハンター）",
-		"tr_text": "Add Class (Hunter)",
+		"tr_text": "Añadir Clase (Hunter)",
 		"jp_explain": "武装エクステンド実行時に\nハンターのクラス追加が\n必ず発生するようになる。",
-		"tr_explain": "Adds the class \"Hunter\"\nto equipment when extended."
+		"tr_explain": "Añade la clase \"Hunter\"\na un equipo cuando es extendido."
 	},
 	{
 		"assign": "321068",
 		"jp_text": "クラス追加（レンジャー）",
-		"tr_text": "Add Class (Ranger)",
+		"tr_text": "Añadir Clase (Ranger)",
 		"jp_explain": "武装エクステンド実行時に\nレンジャーのクラス追加が\n必ず発生するようになる。",
-		"tr_explain": "Adds the class \"Ranger\"\nto equipment when extended."
+		"tr_explain": "Añade la clase \"Ranger\"\na un equipo cuando es extendido."
 	},
 	{
 		"assign": "321069",
 		"jp_text": "クラス追加（フォース）",
-		"tr_text": "Add Class (Force)",
+		"tr_text": "Añadir Clase (Force)",
 		"jp_explain": "武装エクステンド実行時に\nフォースのクラス追加が\n必ず発生するようになる。",
-		"tr_explain": "Adds the class \"Force\"\nto equipment when extended."
+		"tr_explain": "Añade la clase \"Force\"\na un equipo cuando es extendido."
 	},
 	{
 		"assign": "321070",
 		"jp_text": "クラス追加（ファイター）",
-		"tr_text": "Add Class (Fighter)",
+		"tr_text": "Añadir Clase (Fighter)",
 		"jp_explain": "武装エクステンド実行時に\nファイターのクラス追加が\n必ず発生するようになる。",
-		"tr_explain": "Adds the class \"Fighter\"\nto equipment when extended."
+		"tr_explain": "Añade la clase \"Fighter\"\na un equipo cuando es extendido."
 	},
 	{
 		"assign": "321071",
 		"jp_text": "クラス追加（ガンナー）",
-		"tr_text": "Add Class (Gunner)",
+		"tr_text": "Añadir Clase (Gunner)",
 		"jp_explain": "武装エクステンド実行時に\nガンナーのクラス追加が\n必ず発生するようになる。",
-		"tr_explain": "Adds the class \"Gunner\"\nto equipment when extended."
+		"tr_explain": "Añade la clase \"Gunner\"\na un equipo cuando es extendido."
 	},
 	{
 		"assign": "321072",
 		"jp_text": "クラス追加（テクター）",
-		"tr_text": "Add Class (Techer)",
+		"tr_text": "Añadir Clase (Techer)",
 		"jp_explain": "武装エクステンド実行時に\nテクターのクラス追加が\n必ず発生するようになる。",
-		"tr_explain": "Adds the class \"Techer\"\nto equipment when extended."
+		"tr_explain": "Añade la clase \"Techer\"\na un equipo cuando es extendido."
 	},
 	{
 		"assign": "321073",
 		"jp_text": "クラス追加（ブレイバー）",
-		"tr_text": "Add Class (Braver)",
+		"tr_text": "Añadir Clase (Braver)",
 		"jp_explain": "武装エクステンド実行時に\nブレイバーのクラス追加が\n必ず発生するようになる。",
-		"tr_explain": "Adds the class \"Braver\"\nto equipment when extended."
+		"tr_explain": "Añade la clase \"Braver\"\na un equipo cuando es extendido."
 	},
 	{
 		"assign": "321074",
 		"jp_text": "装備条件変更（打撃）",
-		"tr_text": "Equip. Condition Swap (S-ATK)",
+		"tr_text": "Cambiar Requisito (S-ATK)",
 		"jp_explain": "武装エクステンド実行時に\n装備条件を打撃に\n変更する。",
-		"tr_explain": "Swaps the equipment requirement\nwhen used during equipment\nextension with S-ATK."
+		"tr_explain": "Cambia el requisito de una pieza\nde equipo cuando es realizada una\nextension por S-ATK."
 	},
 	{
 		"assign": "321075",
 		"jp_text": "装備条件変更（射撃）",
-		"tr_text": "Equip. Condition Swap (R-ATK)",
+		"tr_text": "Cambiar Requisito (R-ATK)",
 		"jp_explain": "武装エクステンド実行時に\n装備条件を射撃に\n変更する。",
-		"tr_explain": "Swaps the equipment requirement\nwhen used during equipment\nextension with R-ATK."
+		"tr_explain": "Cambia el requisito de una pieza\nde equipo cuando es realizada una\nextension por R-ATK."
 	},
 	{
 		"assign": "321076",
 		"jp_text": "装備条件変更（法撃）",
-		"tr_text": "Equip. Condition Swap (T-ATK)",
+		"tr_text": "Cambiar Requisito (T-ATK)",
 		"jp_explain": "武装エクステンド実行時に\n装備条件を法撃に\n変更する。",
-		"tr_explain": "Swaps the equipment requirement\nwhen used during equipment\nextension with T-ATK."
+		"tr_explain": "Cambia el requisito de una pieza\nde equipo cuando es realizada una\nextension por T-ATK."
 	},
 	{
 		"assign": "321077",
 		"jp_text": "装備条件変更（技量）",
-		"tr_text": "Equip. Condition Swap (DEX)",
+		"tr_text": "Cambiar Requisito (DEX)",
 		"jp_explain": "武装エクステンド実行時に\n装備条件を技量に\n変更する。",
-		"tr_explain": "Swaps the equipment requirement\nwhen used during equipment\nextension with DEX."
+		"tr_explain": "Cambia el requisito de una pieza\nde equipo cuando es realizada una\nextension por DEX."
 	},
 	{
 		"assign": "321078",
 		"jp_text": "装備条件変更（打撃防御）",
-		"tr_text": "Equip. Condition Swap (S-DEF)",
+		"tr_text": "Cambiar Requisito (S-DEF)",
 		"jp_explain": "武装エクステンド実行時に\n装備条件を打撃防御に\n変更する。",
-		"tr_explain": "Swaps the equipment requirement\nwhen used during equipment\nextension with S-DEF."
+		"tr_explain": "Cambia el requisito de una pieza\nde equipo cuando es realizada una\nextension por S-DEF."
 	},
 	{
 		"assign": "321079",
 		"jp_text": "装備条件変更（射撃防御）",
-		"tr_text": "Equip. Condition Swap (R-DEF)",
+		"tr_text": "Cambiar Requisito (R-DEF)",
 		"jp_explain": "武装エクステンド実行時に\n装備条件を射撃防御に\n変更する。",
-		"tr_explain": "Swaps the equipment requirement\nwhen used during equipment\nextension with R-DEF."
+		"tr_explain": "Cambia el requisito de una pieza\nde equipo cuando es realizada una\nextension por R-DEF."
 	},
 	{
 		"assign": "321080",
 		"jp_text": "装備条件変更（法撃防御）",
-		"tr_text": "Equip. Condition Swap (T-DEF)",
+		"tr_text": "Cambiar Requisito (T-DEF)",
 		"jp_explain": "武装エクステンド実行時に\n装備条件を法撃防御に\n変更する。",
-		"tr_explain": "Swaps the equipment requirement\nwhen used during equipment\nextension with T-DEF."
+		"tr_explain": "Cambia el requisito de una pieza\nde equipo cuando es realizada una\nextension por T-DEF."
 	},
 	{
 		"assign": "321081",
@@ -534,37 +534,37 @@
 	{
 		"assign": "3210114",
 		"jp_text": "クラス追加（バウンサー）",
-		"tr_text": "Add Class (Bouncer)",
+		"tr_text": "Añadir Clase (Bouncer)",
 		"jp_explain": "武装エクステンド実行時に\nバウンサーのクラス追加が\n必ず発生するようになる。",
-		"tr_explain": "Adds the class \"Bouncer\"\nto equipment when extended."
+		"tr_explain": "Añade la clase \"Bouncer\"\na un equipo cuando es extendido."
 	},
 	{
 		"assign": "3210115",
 		"jp_text": "特殊能力追加（打撃＆ＰＰ）",
-		"tr_text": "Add Ability (Strike&PP)",
+		"tr_text": "Habilidad (Strike&PP)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【打撃＆ＰＰ】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Noble Power\"\nwhen used in Special Ability\nSynthesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Noble Power\"\ncuando es usado como parte de la sistesis."
 	},
 	{
 		"assign": "3210116",
 		"jp_text": "特殊能力追加（射撃＆ＰＰ）",
-		"tr_text": "Add Ability (Shot&PP)",
+		"tr_text": "Habilidad (Shot&PP)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【射撃＆ＰＰ】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Noble Shoot\" when\nused in Special Ability Synthesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Noble Shoot\" when\nused in Special Ability Synthesis."
 	},
 	{
 		"assign": "3210117",
 		"jp_text": "特殊能力追加（法撃＆ＰＰ）",
-		"tr_text": "Add Ability (Tech&PP)",
+		"tr_text": "Habilidad (Tech&PP)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【法撃＆ＰＰ】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Noble Technique\"\nwhen used in Special Ability\nSynthesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Noble Technique\"\ncuando es usado como parte de la sistesis."
 	},
 	{
 		"assign": "3210118",
 		"jp_text": "特殊能力追加（ＨＰ＆ＰＰ）",
-		"tr_text": "Add Ability (Stamina&PP)",
+		"tr_text": "Habilidad (Stamina&PP)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ＨＰ＆ＰＰ】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Noble Stamina\"\nwhen used in Special Ability\nSynthesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Noble Stamina\"\ncuando es usado como parte de la sistesis."
 	},
 	{
 		"assign": "3210119",
@@ -632,9 +632,9 @@
 	{
 		"assign": "3210139",
 		"jp_text": "クラス追加（サモナー）",
-		"tr_text": "Add Class (Summoner)",
+		"tr_text": "Añadir Clase (Summoner)",
 		"jp_explain": "武装エクステンド実行時に\nサモナーのクラス追加が\n必ず発生するようになる。",
-		"tr_explain": "Adds the class \"Summoner\"\nto equipment when extended."
+		"tr_explain": "Añade la clase \"Summoner\"\na un equipo cuando es extendido."
 	},
 	{
 		"assign": "3210140",
@@ -746,56 +746,56 @@
 		"jp_text": "よいピッケル",
 		"tr_text": "Good Pickaxe",
 		"jp_explain": "ギャザリングで採取を行える。\nレア採取発生率＋５％",
-		"tr_explain": "A tool for Harvesting.\nRare Collect Rate +5%"
+		"tr_explain": "Una herramienta para recolectar.\nChance de Suerte +5%"
 	},
 	{
 		"assign": "3210156",
 		"jp_text": "電撃ピッケル",
 		"tr_text": "Dengeki Pickaxe",
 		"jp_explain": "ギャザリングで\nボーナス付き採取を行える。\nレア採取発生率＋８０％\n<yellow>有効期限／２０１７年１２月６日１１時００分<c>",
-		"tr_explain": "A tool for Harvesting.\nRare Collect Rate +80%\n<yellow>Expires Dec 6, 11:00 JST<c>"
+		"tr_explain": "Una herramienta para recolectar.\nChance de Suerte +80%\n<yellow>Expira Dic 6, 2017 11:00 JST<c>"
 	},
 	{
 		"assign": "3210157",
 		"jp_text": "ファミ通ピッケル",
 		"tr_text": "Famitsu Pickaxe",
 		"jp_explain": "ギャザリングで\nボーナス付き採取を行える。\nレア採取発生率＋８０％\n<yellow>有効期限／２０１６年１２月７日１１時００分<c>",
-		"tr_explain": "A tool for Harvesting.\nRare Collect Rate +80%\n<yellow>Expires Dec 7, 2016 11:00 JST<c>"
+		"tr_explain": "Una herramienta para recolectar.\nChance de Suerte +80%\n<yellow>Expira Dic 7, 2016 11:00 JST<c>"
 	},
 	{
 		"assign": "3210158",
 		"jp_text": "【極み】ピッケル",
 		"tr_text": "[Master] Pickaxe",
 		"jp_explain": "ギャザリングで採取を行える。\nレア採取発生率＋１００％",
-		"tr_explain": "A tool for Harvesting.\nRare Collect Rate +100%"
+		"tr_explain": "Una herramienta para recolectar.\nChance de Suerte +100%"
 	},
 	{
 		"assign": "3210159",
 		"jp_text": "よい釣り竿",
 		"tr_text": "Good Fishing Rod",
 		"jp_explain": "ギャザリングで釣りを行える。\nレア釣り発生率＋５％",
-		"tr_explain": "A tool for Fishing.\nRare Fishing Rate +5%"
+		"tr_explain": "Una herramienta para pescar.\nChance de Suerte +5%"
 	},
 	{
 		"assign": "3210160",
 		"jp_text": "電撃釣り竿",
 		"tr_text": "Dengeki Fishing Rod",
 		"jp_explain": "ギャザリングで\nボーナス付き釣りを行える。\nレア釣り発生率＋８０％\n<yellow>有効期限／２０１７年１２月６日１１時００分<c>",
-		"tr_explain": "A tool for Fishing.\nRare Fishing Rate +80%\n<yellow>Expires Dec 6, 11:00 JST<c>"
+		"tr_explain": "Una herramienta para pescar.\nChance de Suerte +80%\n<yellow>Expira Dic 6, 2017 11:00 JST<c>"
 	},
 	{
 		"assign": "3210161",
 		"jp_text": "ファミ通釣り竿",
 		"tr_text": "Famitsu Fishing Rod",
 		"jp_explain": "ギャザリングで\nボーナス付き釣りを行える。\nレア釣り発生率＋８０％\n<yellow>有効期限／２０１６年１２月７日１１時００分<c>",
-		"tr_explain": "A tool for Fishing.\nRare Fishing Rate +80%\n<yellow>Expires Dec 7, 2016 11:00 JST<c>"
+		"tr_explain": "Una herramienta para pescar.\nChance de Suerte +80%\n<yellow>Expira Dic 7, 2016 11:00 JST<c>"
 	},
 	{
 		"assign": "3210162",
 		"jp_text": "【極み】釣り竿",
 		"tr_text": "[Master] Fishing Rod",
 		"jp_explain": "ギャザリングで釣りを行える。\nレア釣り発生率＋１００％",
-		"tr_explain": "A tool for Fishing.\nRare Fishing Rate +100%"
+		"tr_explain": "Una herramienta para pescar.\nChance de Suerte +100%"
 	},
 	{
 		"assign": "3210163",
@@ -956,28 +956,28 @@
 		"jp_text": "強化大成功確率＋２０％",
 		"tr_text": "Great Success Grind Rate +20%",
 		"jp_explain": "新世武器用の強化補助素材。\n強化時に使用することで\n大成功確率を２０％上昇させる。",
-		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, success\nprobability rate boosted by 20%."
+		"tr_explain": "Material usado en Armas NT.\nDurante la mejora, success\nprobability rate boosted by 20%."
 	},
 	{
 		"assign": "3210190",
 		"jp_text": "強化大成功確率＋３０％",
 		"tr_text": "Great Success Grind Rate +30%",
 		"jp_explain": "新世武器用の強化補助素材。\n強化時に使用することで\n大成功確率を３０％上昇させる。",
-		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, success\nprobability rate boosted by 30%."
+		"tr_explain": "Material usado en Armas NT.\nDurante la mejora, success\nprobability rate boosted by 30%."
 	},
 	{
 		"assign": "3210192",
 		"jp_text": "強化大成功確率＋５０％",
 		"tr_text": "Great Success Grind Rate +50%",
 		"jp_explain": "新世武器用の強化補助素材。\n強化時に使用することで\n大成功確率を５０％上昇させる。",
-		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, success\nprobability rate boosted by 50%."
+		"tr_explain": "Material usado en Armas NT.\nDurante la mejora, success\nprobability rate boosted by 50%."
 	},
 	{
 		"assign": "3210193",
 		"jp_text": "強化大成功（１００％）",
 		"tr_text": "Great Success Grind Rate (100%)",
 		"jp_explain": "新世武器用の強化補助素材。\n強化時に使用することで\n確実に大成功を発生させる。",
-		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, success\nprobability rate boosted by 100%."
+		"tr_explain": "Material usado en Armas NT.\nDurante la mejora, success\nprobability rate boosted by 100%."
 	},
 	{
 		"assign": "3210194",
@@ -1059,37 +1059,37 @@
 	{
 		"assign": "3210205",
 		"jp_text": "特殊能力追加（攻撃総合）",
-		"tr_text": "Add Ability (Attack Fusion)",
+		"tr_text": "Habilidad (Attack Fusion)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【攻撃総合】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Offensive Boost\"\nwhen used in Special Ability\nSynthesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Offensive Boost\"\ncuando es usado como parte de la sistesis."
 	},
 	{
 		"assign": "3210206",
 		"jp_text": "特殊能力追加（防御総合）",
-		"tr_text": "Add Ability (Def. Fusion)",
+		"tr_text": "Habilidad (Def. Fusion)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【防御総合】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Defense Boost\"\nwhen used in Special Ability\nSynthesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Defense Boost\"\ncuando es usado como parte de la sistesis."
 	},
 	{
 		"assign": "3210207",
 		"jp_text": "特殊能力追加（攻撃継承）",
-		"tr_text": "Add Ability (Attack Transfer)",
+		"tr_text": "Habilidad (Attack Transfer)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【攻撃継承】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Attack Receptor\"\nwhen used in Special Ability\nSynthesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Attack Receptor\"\ncuando es usado como parte de la sistesis."
 	},
 	{
 		"assign": "3210208",
 		"jp_text": "特殊能力追加（防御継承）",
-		"tr_text": "Add Ability (Def. Transfer)",
+		"tr_text": "Habilidad (Def. Transfer)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【防御継承】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Defense Receptor\"\nwhen used in Special Ability\nSynthesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Defense Receptor\"\ncuando es usado como parte de la sistesis."
 	},
 	{
 		"assign": "3210209",
 		"jp_text": "特殊能力追加（心身継承）",
-		"tr_text": "Add Ability (Mind&Body)",
+		"tr_text": "Habilidad (Mind&Body)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【心身継承】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Photon Receptor\"\nwhen used in Special Ability\nSynthesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Photon Receptor\"\ncuando es usado como parte de la sistesis."
 	},
 	{
 		"assign": "3210210",
@@ -1164,51 +1164,51 @@
 	{
 		"assign": "3210220",
 		"jp_text": "特殊能力追加（ＧＲＭ）",
-		"tr_text": "Add Ability (GRM)",
+		"tr_text": "Habilidad (GRM)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ＧＲＭ】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"GRM Boost\" when\nused in Special Ability Synthesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"GRM Boost\" when\nused in Special Ability Synthesis."
 	},
 	{
 		"assign": "3210221",
 		"jp_text": "特殊能力追加（テノラ）",
-		"tr_text": "Add Ability (Tenora)",
+		"tr_text": "Habilidad (Tenora)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【テノラ】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Tenora Boost\"\nwhen used in Special Ability\nSynthesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Tenora Boost\"\ncuando es usado como parte de la sistesis."
 	},
 	{
 		"assign": "3210222",
 		"jp_text": "特殊能力追加（ヨウメイ）",
-		"tr_text": "Add Ability (Yohmei)",
+		"tr_text": "Habilidad (Yohmei)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ヨウメイ】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Yohmei Boost\"\nwhen used in Special Ability\nSynthesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Yohmei Boost\"\ncuando es usado como parte de la sistesis."
 	},
 	{
 		"assign": "3210223",
 		"jp_text": "特殊能力（打撃＆ＰＰ/２）",
-		"tr_text": "Add Ability (Strike&PP/2)",
+		"tr_text": "Habilidad (Strike&PP/2)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【打撃＆ＰＰ/２】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Elegant Power\"\nwhen used in Special Ability\nSynthesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Elegant Power\"\ncuando es usado como parte de la sistesis."
 	},
 	{
 		"assign": "3210224",
 		"jp_text": "特殊能力（射撃＆ＰＰ/２）",
-		"tr_text": "Add Ability (Shot&PP/2)",
+		"tr_text": "Habilidad (Shot&PP/2)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【射撃＆ＰＰ/２】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Elegant Shoot\"\nwhen used in Special Ability\nSynthesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Elegant Shoot\"\ncuando es usado como parte de la sistesis."
 	},
 	{
 		"assign": "3210225",
 		"jp_text": "特殊能力（法撃＆ＰＰ/２）",
-		"tr_text": "Add Ability (Tech&PP/2)",
+		"tr_text": "Habilidad (Tech&PP/2)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【法撃＆ＰＰ/２】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Elegant\nTechnique\" when used in Special\nAbility Synthesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Elegant\nTechnique\" when used in Special\nAbility Synthesis."
 	},
 	{
 		"assign": "3210226",
 		"jp_text": "特殊能力（ＨＰ＆ＰＰ/２）",
-		"tr_text": "Add Ability (Stamina&PP/2)",
+		"tr_text": "Habilidad (Stamina&PP/2)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ＨＰ＆ＰＰ/２】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Elegant Stamina\"\nwhen used in Special Ability\nSynthesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Elegant Stamina\"\ncuando es usado como parte de la sistesis."
 	},
 	{
 		"assign": "3210227",
@@ -1241,142 +1241,142 @@
 	{
 		"assign": "3210231",
 		"jp_text": "属性強化＋２％",
-		"tr_text": "Attribute Enhance +2%",
+		"tr_text": "Incremento de Atributo +2%",
 		"jp_explain": "属性強化用の強化補助素材。\n属性強化時に使用することで\n属性値を２％底上げする。",
-		"tr_explain": "Used when grinding attributes.\nIncreases weapon attribute by 2%."
+		"tr_explain": "Cuando estas mejorando el atributo.\nIncrementa el atributo del arma un 2%."
 	},
 	{
 		"assign": "3210232",
 		"jp_text": "強化値上限＋１",
 		"tr_text": "Grind Cap +1",
 		"jp_explain": "新世武器用の強化補助素材。\n強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material used on NT Weapons. During\nweapon grinding, the grind cap is\nboosted by +1."
+		"tr_explain": "Material usado en Armas NT. \nDurante la mejora, el grind cap\nes aumentado en +1."
 	},
 	{
 		"assign": "3210233",
 		"jp_text": "強化値上限＋１／大剣",
 		"tr_text": "Grind Cap +1/Sword",
 		"jp_explain": "新世武器用の強化補助素材。\n『大剣』の強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material used on NT Weapons. During\nweapon grinding, Sword grind cap is\nboosted by +1."
+		"tr_explain": "Material usado en Armas NT. \nDurante la mejora, Sword grind cap\nes aumentado en +1."
 	},
 	{
 		"assign": "3210234",
 		"jp_text": "強化値上限＋１／自在槍",
 		"tr_text": "Grind Cap +1/Wired Lance",
 		"jp_explain": "新世武器用の強化補助素材。\n『自在槍』の強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Wired Lance\ngrind cap is boosted by +1."
+		"tr_explain": "Material usado en Armas NT.\nDurante la mejora, Wired Lance grind cap\nes aumentado en +1."
 	},
 	{
 		"assign": "3210235",
 		"jp_text": "強化値上限＋１／長槍",
 		"tr_text": "Grind Cap +1/Partizan",
 		"jp_explain": "新世武器用の強化補助素材。\n『長槍』の強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material used on NT Weapons. During\nweapon grinding, Partizan grind cap\nis boosted by +1."
+		"tr_explain": "Material usado en Armas NT. \nDurante la mejora, Partizan grind cap\nes aumentado en +1.."
 	},
 	{
 		"assign": "3210236",
 		"jp_text": "強化値上限＋１／双小剣",
 		"tr_text": "Grind Cap +1/Twin Dagger",
 		"jp_explain": "新世武器用の強化補助素材。\n『双小剣』の強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material used on NT Weapons. During\nweapon grinding, Twin Dagger grind\ncap is boosted by +1."
+		"tr_explain": "Material usado en Armas NT. \nDurante la mejora, Twin Dagger grind\ncap es aumentado en +1.."
 	},
 	{
 		"assign": "3210237",
 		"jp_text": "強化値上限＋１／両剣",
 		"tr_text": "Grind Cap +1/Double Saber",
 		"jp_explain": "新世武器用の強化補助素材。\n『両剣』の強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material used on NT Weapons. During\nweapon grinding, Double Saber grind\ncap is boosted by +1."
+		"tr_explain": "Material usado en Armas NT. \nDurante la mejora, Double Saber grind\ncap es aumentado en +1.."
 	},
 	{
 		"assign": "3210238",
 		"jp_text": "強化値上限＋１／鋼拳",
 		"tr_text": "Grind Cap +1/Knuckles",
 		"jp_explain": "新世武器用の強化補助素材。\n『鋼拳』の強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material used on NT Weapons. During\nweapon grinding, Knuckles grind cap\nis boosted by +1."
+		"tr_explain": "Material usado en Armas NT. \nDurante la mejora, Knuckles grind cap\nes aumentado en +1.."
 	},
 	{
 		"assign": "3210239",
 		"jp_text": "強化値上限＋１／銃剣",
 		"tr_text": "Grind Cap +1/Gunslash",
 		"jp_explain": "新世武器用の強化補助素材。\n『銃剣』の強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material used on NT Weapons. During\nweapon grinding, Gunslash grind cap\nis boosted by +1."
+		"tr_explain": "Material usado en Armas NT. \nDurante la mejora, Gunslash grind cap\nes aumentado en +1.."
 	},
 	{
 		"assign": "3210240",
 		"jp_text": "強化値上限＋１／長銃",
 		"tr_text": "Grind Cap +1/Assault Rifle",
 		"jp_explain": "新世武器用の強化補助素材。\n『長銃』の強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Assault Rifle\ngrind cap is boosted by +1."
+		"tr_explain": "Material usado en Armas NT.\nDurante la mejora, Assault Rifle grind cap\nes aumentado en +1."
 	},
 	{
 		"assign": "3210241",
 		"jp_text": "強化値上限＋１／大砲",
 		"tr_text": "Grind Cap +1/Launcher",
 		"jp_explain": "新世武器用の強化補助素材。\n『大砲』の強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material used on NT Weapons. During\nweapon grinding, Launcher grind cap\nis boosted by +1."
+		"tr_explain": "Material usado en Armas NT. \nDurante la mejora, Launcher grind cap\nes aumentado en +1.."
 	},
 	{
 		"assign": "3210242",
 		"jp_text": "強化値上限＋１／双機銃",
 		"tr_text": "Grind Cap +1/Twin Machinegun",
 		"jp_explain": "新世武器用の強化補助素材。\n『双機銃』の強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material used on NT Weapons. During\nweapon grinding, Twin Machinegun\ngrind cap is boosted by +1."
+		"tr_explain": "Material usado en Armas NT. \nDurante la mejora, Twin Machinegun grind cap\nes aumentado en +1."
 	},
 	{
 		"assign": "3210243",
 		"jp_text": "強化値上限＋１／長杖",
 		"tr_text": "Grind Cap +1/Rod",
 		"jp_explain": "新世武器用の強化補助素材。\n『長杖』の強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Rod\ngrind cap is boosted by +1"
+		"tr_explain": "Material usado en Armas NT.\nDurante la mejora, Rod grind cap\nes aumentado en +1."
 	},
 	{
 		"assign": "3210244",
 		"jp_text": "強化値上限＋１／導具",
 		"tr_text": "Grind Cap +1/Talis",
 		"jp_explain": "新世武器用の強化補助素材。\n『導具』の強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Talis\ngrind cap is boosted by +1"
+		"tr_explain": "Material usado en Armas NT.\nDurante la mejora, Talis grind cap\nes aumentado en +1."
 	},
 	{
 		"assign": "3210245",
 		"jp_text": "強化値上限＋１／短杖",
 		"tr_text": "Grind Cap +1/Wand",
 		"jp_explain": "新世武器用の強化補助素材。\n『短杖』の強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Wand\ngrind cap is boosted by +1"
+		"tr_explain": "Material usado en Armas NT.\nDurante la mejora, Wand grind cap\nes aumentado en +1."
 	},
 	{
 		"assign": "3210246",
 		"jp_text": "強化値上限＋１／抜剣",
 		"tr_text": "Grind Cap +1/Katana",
 		"jp_explain": "新世武器用の強化補助素材。\n『抜剣』の強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Katana\ngrind cap is boosted by +1"
+		"tr_explain": "Material usado en Armas NT.\nDurante la mejora, Katana grind cap\nes aumentado en +1."
 	},
 	{
 		"assign": "3210247",
 		"jp_text": "強化値上限＋１／強弓",
 		"tr_text": "Grind Cap +1/Bullet Bow",
 		"jp_explain": "新世武器用の強化補助素材。\n『強弓』の強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Bow\ngrind cap is boosted by +1"
+		"tr_explain": "Material usado en Armas NT.\nDurante la mejora, Bow grind cap\nes aumentado en +1."
 	},
 	{
 		"assign": "3210248",
 		"jp_text": "強化値上限＋１／魔装脚",
 		"tr_text": "Grind Cap +1/Jet Boots",
 		"jp_explain": "新世武器用の強化補助素材。\n『魔装脚』の強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Jet Boots\ngrind cap is boosted by +1"
+		"tr_explain": "Material usado en Armas NT.\nDurante la mejora, Jet Boots grind cap\nes aumentado en +1."
 	},
 	{
 		"assign": "3210249",
 		"jp_text": "強化値上限＋１／飛翔剣",
 		"tr_text": "Grind Cap +1/Dual Blade",
 		"jp_explain": "新世武器用の強化補助素材。\n『飛翔剣』の強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, D. Blades\ngrind cap is boosted by +1"
+		"tr_explain": "Material usado en Armas NT.\nDurante la mejora, D. Blades grind cap\nes aumentado en +1."
 	},
 	{
 		"assign": "3210250",
 		"jp_text": "強化値上限＋１／奏具",
 		"tr_text": "Grind Cap +1/Takt",
 		"jp_explain": "新世武器用の強化補助素材。\n『奏具』の強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material used on NT Weapons.\nDuring weapon grinding, Takt\ngrind cap is boosted by +1"
+		"tr_explain": "Material usado en Armas NT.\nDurante la mejora, Takt grind cap\nes aumentado en +1."
 	},
 	{
 		"assign": "3210270",
@@ -1446,7 +1446,7 @@
 		"jp_text": "能力追加成功率＋４５％",
 		"tr_text": "Ability Success Rate +45%",
 		"jp_explain": "特殊能力追加用の補助素材。\n特殊能力追加時に使用することで\n成功率を４５％上昇させる。",
-		"tr_explain": "Used when adding Special Abilities\non your equipment.\nBoosts success rate by 45%"
+		"tr_explain": "Cuando agregas una Habilidad\na tu equipo.\nAumenta el chance de exito en 45%"
 	},
 	{
 		"assign": "3210284",
@@ -1458,29 +1458,29 @@
 	{
 		"assign": "3210288",
 		"jp_text": "特殊能力（打撃＆ＰＰ/３）",
-		"tr_text": "Add Ability (Strike&PP/3)",
+		"tr_text": "Habilidad (Strike&PP/3)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【打撃＆ＰＰ/３】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Grace Power\"\nwhen used in Ability Synthesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Grace Power\"\nwhen used in Ability Synthesis."
 	},
 	{
 		"assign": "3210289",
 		"jp_text": "特殊能力（射撃＆ＰＰ/３）",
-		"tr_text": "Add Ability (Shot&PP/3)",
+		"tr_text": "Habilidad (Shot&PP/3)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【射撃＆ＰＰ/３】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Grace Shot\"\nwhen used in Ability Synthesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Grace Shot\"\nwhen used in Ability Synthesis."
 	},
 	{
 		"assign": "3210290",
 		"jp_text": "特殊能力（法撃＆ＰＰ/３）",
-		"tr_text": "Add Ability (Tech&PP/3)",
+		"tr_text": "Habilidad (Tech&PP/3)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【法撃＆ＰＰ/３】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Grace Tech\"\nwhen used in Ability Synthesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Grace Tech\"\nwhen used in Ability Synthesis."
 	},
 	{
 		"assign": "3210291",
 		"jp_text": "特殊能力（ＨＰ＆ＰＰ/３）",
-		"tr_text": "Add Ability (Stamina&PP/3)",
+		"tr_text": "Habilidad (Stamina&PP/3)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ＨＰ＆ＰＰ/３】の特殊能力を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Grace Stamina\"\nwhen used in Ability Synthesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Grace Stamina\"\nwhen used in Ability Synthesis."
 	}
 ]
