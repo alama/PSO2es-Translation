@@ -744,212 +744,212 @@
 	{
 		"assign": "3210155",
 		"jp_text": "よいピッケル",
-		"tr_text": "Good Pickaxe",
+		"tr_text": "Piqueta Buena",
 		"jp_explain": "ギャザリングで採取を行える。\nレア採取発生率＋５％",
 		"tr_explain": "Una herramienta para recolectar.\nChance de Suerte +5%"
 	},
 	{
 		"assign": "3210156",
 		"jp_text": "電撃ピッケル",
-		"tr_text": "Dengeki Pickaxe",
+		"tr_text": "Piqueta Dengeki",
 		"jp_explain": "ギャザリングで\nボーナス付き採取を行える。\nレア採取発生率＋８０％\n<yellow>有効期限／２０１７年１２月６日１１時００分<c>",
 		"tr_explain": "Una herramienta para recolectar.\nChance de Suerte +80%\n<yellow>Expira Dic 6, 2017 11:00 JST<c>"
 	},
 	{
 		"assign": "3210157",
 		"jp_text": "ファミ通ピッケル",
-		"tr_text": "Famitsu Pickaxe",
+		"tr_text": "Piqueta Famitsu",
 		"jp_explain": "ギャザリングで\nボーナス付き採取を行える。\nレア採取発生率＋８０％\n<yellow>有効期限／２０１６年１２月７日１１時００分<c>",
 		"tr_explain": "Una herramienta para recolectar.\nChance de Suerte +80%\n<yellow>Expira Dic 7, 2016 11:00 JST<c>"
 	},
 	{
 		"assign": "3210158",
 		"jp_text": "【極み】ピッケル",
-		"tr_text": "[Master] Pickaxe",
+		"tr_text": "Piqueta [Maestra]",
 		"jp_explain": "ギャザリングで採取を行える。\nレア採取発生率＋１００％",
 		"tr_explain": "Una herramienta para recolectar.\nChance de Suerte +100%"
 	},
 	{
 		"assign": "3210159",
 		"jp_text": "よい釣り竿",
-		"tr_text": "Good Fishing Rod",
+		"tr_text": "Caйa de Pescar Buena",
 		"jp_explain": "ギャザリングで釣りを行える。\nレア釣り発生率＋５％",
 		"tr_explain": "Una herramienta para pescar.\nChance de Suerte +5%"
 	},
 	{
 		"assign": "3210160",
 		"jp_text": "電撃釣り竿",
-		"tr_text": "Dengeki Fishing Rod",
+		"tr_text": "Caйa de Pescar Dengeki",
 		"jp_explain": "ギャザリングで\nボーナス付き釣りを行える。\nレア釣り発生率＋８０％\n<yellow>有効期限／２０１７年１２月６日１１時００分<c>",
 		"tr_explain": "Una herramienta para pescar.\nChance de Suerte +80%\n<yellow>Expira Dic 6, 2017 11:00 JST<c>"
 	},
 	{
 		"assign": "3210161",
 		"jp_text": "ファミ通釣り竿",
-		"tr_text": "Famitsu Fishing Rod",
+		"tr_text": "Caйa de Pescar Famitsu",
 		"jp_explain": "ギャザリングで\nボーナス付き釣りを行える。\nレア釣り発生率＋８０％\n<yellow>有効期限／２０１６年１２月７日１１時００分<c>",
 		"tr_explain": "Una herramienta para pescar.\nChance de Suerte +80%\n<yellow>Expira Dic 7, 2016 11:00 JST<c>"
 	},
 	{
 		"assign": "3210162",
 		"jp_text": "【極み】釣り竿",
-		"tr_text": "[Master] Fishing Rod",
+		"tr_text": "Caйa de Pescar [Maestra]",
 		"jp_explain": "ギャザリングで釣りを行える。\nレア釣り発生率＋１００％",
 		"tr_explain": "Una herramienta para pescar.\nChance de Suerte +100%"
 	},
 	{
 		"assign": "3210163",
 		"jp_text": "採取スタミナドリンク",
-		"tr_text": "Harvesting Stam. Drink",
+		"tr_text": "Bebida Stam. Mineria",
 		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
-		"tr_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
+		"tr_explain": "Suplemento nutritivo\nque esta hecho para Recoleccion.\nRecupera 100 de Stamina."
 	},
 	{
 		"assign": "3210164",
 		"jp_text": "採取スタドリ０１",
-		"tr_text": "Collect Stam. Drink 01",
+		"tr_text": "Bebida Stam. Mineria 01",
 		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
-		"tr_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
+		"tr_explain": "Suplemento nutritivo\nque esta hecho para Recoleccion.\nRecupera 100 de Stamina."
 	},
 	{
 		"assign": "3210165",
 		"jp_text": "採取スタドリ０２",
-		"tr_text": "Collect Stam. Drink 02",
+		"tr_text": "Bebida Stam. Mineria 02",
 		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
-		"tr_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
+		"tr_explain": "Suplemento nutritivo\nque esta hecho para Recoleccion.\nRecupera 100 de Stamina."
 	},
 	{
 		"assign": "3210166",
 		"jp_text": "採取スタドリ０３",
-		"tr_text": "Collect Stam. Drink 03",
+		"tr_text": "Bebida Stam. Mineria 03",
 		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
-		"tr_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
+		"tr_explain": "Suplemento nutritivo\nque esta hecho para Recoleccion.\nRecupera 100 de Stamina."
 	},
 	{
 		"assign": "3210167",
 		"jp_text": "採取スタドリ０４",
-		"tr_text": "Collect Stam. Drink 04",
+		"tr_text": "Bebida Stam. Mineria 04",
 		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
-		"tr_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
+		"tr_explain": "Suplemento nutritivo\nque esta hecho para Recoleccion.\nRecupera 100 de Stamina."
 	},
 	{
 		"assign": "3210168",
 		"jp_text": "採取スタドリ０５",
-		"tr_text": "Collect Stam. Drink 05",
+		"tr_text": "Bebida Stam. Mineria 05",
 		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
-		"tr_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
+		"tr_explain": "Suplemento nutritivo\nque esta hecho para Recoleccion.\nRecupera 100 de Stamina."
 	},
 	{
 		"assign": "3210169",
 		"jp_text": "採取スタドリ０６",
-		"tr_text": "Collect Stam. Drink 06",
+		"tr_text": "Bebida Stam. Mineria 06",
 		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
-		"tr_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
+		"tr_explain": "Suplemento nutritivo\nque esta hecho para Recoleccion.\nRecupera 100 de Stamina."
 	},
 	{
 		"assign": "3210170",
 		"jp_text": "採取スタドリ０７",
-		"tr_text": "Collect Stam. Drink 07",
+		"tr_text": "Bebida Stam. Mineria 07",
 		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
-		"tr_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
+		"tr_explain": "Suplemento nutritivo\nque esta hecho para Recoleccion.\nRecupera 100 de Stamina."
 	},
 	{
 		"assign": "3210171",
 		"jp_text": "採取スタドリ０８",
-		"tr_text": "Collect Stam. Drink 08",
+		"tr_text": "Bebida Stam. Mineria 08",
 		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
-		"tr_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
+		"tr_explain": "Suplemento nutritivo\nque esta hecho para Recoleccion.\nRecupera 100 de Stamina."
 	},
 	{
 		"assign": "3210172",
 		"jp_text": "採取スタドリ０９",
-		"tr_text": "Collect Stam. Drink 09",
+		"tr_text": "Bebida Stam. Mineria 09",
 		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
-		"tr_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
+		"tr_explain": "Suplemento nutritivo\nque esta hecho para Recoleccion.\nRecupera 100 de Stamina."
 	},
 	{
 		"assign": "3210173",
 		"jp_text": "採取スタドリ１０",
-		"tr_text": "Collect Stam. Drink 10",
+		"tr_text": "Bebida Stam. Mineria 10",
 		"jp_explain": "ギャザラー用に開発された栄養剤。\n採取スタミナが１００回復する。",
-		"tr_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
+		"tr_explain": "Suplemento nutritivo\nque esta hecho para Recoleccion.\nRecupera 100 de Stamina."
 	},
 	{
 		"assign": "3210175",
 		"jp_text": "釣りスタミナドリンク",
-		"tr_text": "Fishing Stam. Drink",
+		"tr_text": "Bebida Stam. Pesca",
 		"jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
-		"tr_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
+		"tr_explain": "Suplemento nutritivo\nque esta hecho para Recoleccion.\nRecupera 100 de Stamina."
 	},
 	{
 		"assign": "3210176",
 		"jp_text": "釣りスタドリ０１",
-		"tr_text": "Fishing Stam. Drink 01",
+		"tr_text": "Bebida Stam. Pesca 01",
 		"jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
-		"tr_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
+		"tr_explain": "Suplemento nutritivo\nque esta hecho para Recoleccion.\nRecupera 100 de Stamina."
 	},
 	{
 		"assign": "3210177",
 		"jp_text": "釣りスタドリ０２",
-		"tr_text": "Fishing Stam. Drink 02",
+		"tr_text": "Bebida Stam. Pesca 02",
 		"jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
-		"tr_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
+		"tr_explain": "Suplemento nutritivo\nque esta hecho para Recoleccion.\nRecupera 100 de Stamina."
 	},
 	{
 		"assign": "3210178",
 		"jp_text": "釣りスタドリ０３",
-		"tr_text": "Fishing Stam. Drink 03",
+		"tr_text": "Bebida Stam. Pesca 03",
 		"jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
-		"tr_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
+		"tr_explain": "Suplemento nutritivo\nque esta hecho para Recoleccion.\nRecupera 100 de Stamina."
 	},
 	{
 		"assign": "3210179",
 		"jp_text": "釣りスタドリ０４",
-		"tr_text": "Fishing Stam. Drink 04",
+		"tr_text": "Bebida Stam. Pesca 04",
 		"jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
-		"tr_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
+		"tr_explain": "Suplemento nutritivo\nque esta hecho para Recoleccion.\nRecupera 100 de Stamina."
 	},
 	{
 		"assign": "3210180",
 		"jp_text": "釣りスタドリ０５",
-		"tr_text": "Fishing Stam. Drink 05",
+		"tr_text": "Bebida Stam. Pesca 05",
 		"jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
-		"tr_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
+		"tr_explain": "Suplemento nutritivo\nque esta hecho para Recoleccion.\nRecupera 100 de Stamina."
 	},
 	{
 		"assign": "3210181",
 		"jp_text": "釣りスタドリ０６",
-		"tr_text": "Fishing Stam. Drink 06",
+		"tr_text": "Bebida Stam. Pesca 06",
 		"jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
-		"tr_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
+		"tr_explain": "Suplemento nutritivo\nque esta hecho para Recoleccion.\nRecupera 100 de Stamina."
 	},
 	{
 		"assign": "3210182",
 		"jp_text": "釣りスタドリ０７",
-		"tr_text": "Fishing Stam. Drink 07",
+		"tr_text": "Bebida Stam. Pesca 07",
 		"jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
-		"tr_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
+		"tr_explain": "Suplemento nutritivo\nque esta hecho para Recoleccion.\nRecupera 100 de Stamina."
 	},
 	{
 		"assign": "3210183",
 		"jp_text": "釣りスタドリ０８",
-		"tr_text": "Fishing Stam. Drink 08",
+		"tr_text": "Bebida Stam. Pesca 08",
 		"jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
-		"tr_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
+		"tr_explain": "Suplemento nutritivo\nque esta hecho para Recoleccion.\nRecupera 100 de Stamina."
 	},
 	{
 		"assign": "3210184",
 		"jp_text": "釣りスタドリ０９",
-		"tr_text": "Fishing Stam. Drink 09",
+		"tr_text": "Bebida Stam. Pesca 09",
 		"jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
-		"tr_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
+		"tr_explain": "Suplemento nutritivo\nque esta hecho para Recoleccion.\nRecupera 100 de Stamina."
 	},
 	{
 		"assign": "3210185",
 		"jp_text": "釣りスタドリ１０",
-		"tr_text": "Fishing Stam. Drink 10",
+		"tr_text": "Bebida Stam. Pesca 10",
 		"jp_explain": "ギャザラー用に開発された栄養剤。\n釣りスタミナが１００回復する。",
-		"tr_explain": "Nutritional Supplement that\nwas developed for Gathering.\nRecovers 100 Stamina."
+		"tr_explain": "Suplemento nutritivo\nque esta hecho para Recoleccion.\nRecupera 100 de Stamina."
 	},
 	{
 		"assign": "3210189",
