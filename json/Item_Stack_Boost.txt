@@ -592,7 +592,7 @@
 		"jp_text": "新年祭記念ドーナッツ’１７",
 		"tr_text": "New Year Carnival Dona'17",
 		"jp_explain": "新たな年の到来を祝い\n作成された特製ドーナッツ。\n【５分間】トライブースト＋５０％",
-		"tr_explain": "Una Dona que celebra\nla venida de el nuevo año.\n[5 min] Tri-Aumento +50%"
+		"tr_explain": "Una Dona que celebra\nla venida de el nuevo aйo.\n[5 min] Tri-Aumento +50%"
 	},
 	{
 		"assign": "320106",
