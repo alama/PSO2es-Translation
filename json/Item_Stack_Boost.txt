@@ -2,21 +2,21 @@
 	{
 		"assign": "3203",
 		"jp_text": "獲得経験値＋１０％",
-		"tr_text": "Experience Ganada +10%",
+		"tr_text": "Experiencia Ganada +10%",
 		"jp_explain": "獲得経験値上昇のブーストアイテム。\n使用してから【３０分】の間だけ\n獲得経験値を１０％アップさせる。",
 		"tr_explain": "Aumenta la EXP ganado en 10%.\nEste dura por 30 minutos\nen el campo."
 	},
 	{
 		"assign": "3204",
 		"jp_text": "獲得経験値＋５０％",
-		"tr_text": "Experience Ganada +50%",
+		"tr_text": "Experiencia Ganada +50%",
 		"jp_explain": "獲得経験値上昇のブーストアイテム。\n使用してから【３０分】の間だけ\n獲得経験値を５０％アップさせる。",
 		"tr_explain": "Aumenta la EXP ganado en 50%.\nEste dura por 30 minutos\nen el campo."
 	},
 	{
 		"assign": "3205",
 		"jp_text": "獲得経験値＋１００％",
-		"tr_text": "Experience Ganada +100%",
+		"tr_text": "Experiencia Ganada +100%",
 		"jp_explain": "獲得経験値上昇のブーストアイテム。\n使用してから【３０分】の間だけ\n獲得経験値を１００％アップさせる。",
 		"tr_explain": "Aumenta la EXP ganado en 100%.\nEste dura por 30 minutos\nen el campo."
 	},
@@ -65,14 +65,14 @@
 	{
 		"assign": "32014",
 		"jp_text": "獲得経験値＋２５％",
-		"tr_text": "Experience Ganada +25%",
+		"tr_text": "Experiencia Ganada +25%",
 		"jp_explain": "獲得経験値上昇のブーストアイテム。\n使用してから【３０分】の間だけ\n獲得経験値を２５％アップさせる。",
 		"tr_explain": "Aumenta la EXP ganado en 25%.\nEste dura por 30 minutos\nen el campo."
 	},
 	{
 		"assign": "32015",
 		"jp_text": "獲得経験値＋７５％",
-		"tr_text": "Experience Ganada +75%",
+		"tr_text": "Experiencia Ganada +75%",
 		"jp_explain": "獲得経験値上昇のブーストアイテム。\n使用してから【３０分】の間だけ\n獲得経験値を７５％アップさせる。",
 		"tr_explain": "Aumenta la EXP ganado en 75%.\nEste dura por 30 minutos\nen el campo."
 	},
@@ -198,7 +198,7 @@
 	{
 		"assign": "32034",
 		"jp_text": "獲得経験値＋１５０％",
-		"tr_text": "Experience Ganada +150%",
+		"tr_text": "Experiencia Ganada +150%",
 		"jp_explain": "獲得経験値上昇のブーストアイテム。\n使用してから【６０分】の間だけ\n獲得経験値を１５０％アップさせる。",
 		"tr_explain": "Aumenta la EXP ganado en 150%.\nEste dura por 60 minutos\nen el campo."
 	},
@@ -548,7 +548,7 @@
 	{
 		"assign": "32099",
 		"jp_text": "ＥＸ獲得経験値＋７５％",
-		"tr_text": "EX Experience Boost +75%",
+		"tr_text": "EX Experiencia Boost +75%",
 		"jp_explain": "三種複合のブーストアイテム。\n獲得経験値が７５％アップ。\n獲得メセタ、レアドロップが２５％アップ。",
 		"tr_explain": "Objeto que aumenta.\nEXP Ganada +75%\nMeseta y Chance de Rare Drop +25%."
 	},
