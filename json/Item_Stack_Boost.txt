@@ -2,42 +2,42 @@
 	{
 		"assign": "3203",
 		"jp_text": "獲得経験値＋１０％",
-		"tr_text": "Aumento de Experiencia +10%",
+		"tr_text": "Aumento EXP +10%",
 		"jp_explain": "獲得経験値上昇のブーストアイテム。\n使用してから【３０分】の間だけ\n獲得経験値を１０％アップさせる。",
 		"tr_explain": "Aumenta la EXP ganada en 10%.\nEste dura por 30 minutos\nen el campo."
 	},
 	{
 		"assign": "3204",
 		"jp_text": "獲得経験値＋５０％",
-		"tr_text": "Aumento de Experiencia +50%",
+		"tr_text": "Aumento EXP +50%",
 		"jp_explain": "獲得経験値上昇のブーストアイテム。\n使用してから【３０分】の間だけ\n獲得経験値を５０％アップさせる。",
 		"tr_explain": "Aumenta la EXP ganada en 50%.\nEste dura por 30 minutos\nen el campo."
 	},
 	{
 		"assign": "3205",
 		"jp_text": "獲得経験値＋１００％",
-		"tr_text": "Aumento de Experiencia +100%",
+		"tr_text": "Aumento EXP +100%",
 		"jp_explain": "獲得経験値上昇のブーストアイテム。\n使用してから【３０分】の間だけ\n獲得経験値を１００％アップさせる。",
 		"tr_explain": "Aumenta la EXP ganada en 100%.\nEste dura por 30 minutos\nen el campo."
 	},
 	{
 		"assign": "3206",
 		"jp_text": "レアドロップ倍率＋１０％",
-		"tr_text": "Aumento de Rare Drop +10%",
+		"tr_text": "Aumento Rare Drop +10%",
 		"jp_explain": "レアドロップ上昇のブーストアイテム。\n使用してから【３０分】の間だけ\nレアドロップの倍率を１０％アップ。",
 		"tr_explain": "Aumenta el Rare Drop por 10%.\nEste dura por 30 minutos\nen el campo."
 	},
 	{
 		"assign": "3207",
 		"jp_text": "レアドロップ倍率＋５０％",
-		"tr_text": "Aumento de Rare Drop +50%",
+		"tr_text": "Aumento Rare Drop +50%",
 		"jp_explain": "レアドロップ上昇のブーストアイテム。\n使用してから【３０分】の間だけ\nレアドロップの倍率を５０％アップ。",
 		"tr_explain": "Aumenta el Rare Drop por 50%.\nEste dura por 30 minutos\nen el campo."
 	},
 	{
 		"assign": "3208",
 		"jp_text": "レアドロップ倍率＋１００％",
-		"tr_text": "Aumento de Rare Drop +100%",
+		"tr_text": "Aumento Rare Drop +100%",
 		"jp_explain": "レアドロップ上昇のブーストアイテム。\n使用してから【３０分】の間だけ\nレアドロップの倍率を１００％アップ。",
 		"tr_explain": "Aumenta el Rare Drop por 100%.\nEste dura por 30 minutos\nen el campo."
 	},
@@ -65,28 +65,28 @@
 	{
 		"assign": "32014",
 		"jp_text": "獲得経験値＋２５％",
-		"tr_text": "Aumento de Experiencia +25%",
+		"tr_text": "Aumento EXP +25%",
 		"jp_explain": "獲得経験値上昇のブーストアイテム。\n使用してから【３０分】の間だけ\n獲得経験値を２５％アップさせる。",
 		"tr_explain": "Aumenta la EXP ganada en 25%.\nEste dura por 30 minutos\nen el campo."
 	},
 	{
 		"assign": "32015",
 		"jp_text": "獲得経験値＋７５％",
-		"tr_text": "Aumento de Experiencia +75%",
+		"tr_text": "Aumento EXP +75%",
 		"jp_explain": "獲得経験値上昇のブーストアイテム。\n使用してから【３０分】の間だけ\n獲得経験値を７５％アップさせる。",
 		"tr_explain": "Aumenta la EXP ganada en 75%.\nEste dura por 30 minutos\nen el campo."
 	},
 	{
 		"assign": "32016",
 		"jp_text": "レアドロップ倍率＋２５％",
-		"tr_text": "Aumento de Rare Drop +25%",
+		"tr_text": "Aumento Rare Drop +25%",
 		"jp_explain": "レアドロップ上昇のブーストアイテム。\n使用してから【３０分】の間だけ\nレアドロップの倍率を２５％アップ。",
 		"tr_explain": "Aumenta el Rare Drop por 25%.\nEste dura por 30 minutos\nen el campo."
 	},
 	{
 		"assign": "32017",
 		"jp_text": "レアドロップ倍率＋７５％",
-		"tr_text": "Aumento de Rare Drop +75%",
+		"tr_text": "Aumento Rare Drop +75%",
 		"jp_explain": "レアドロップ上昇のブーストアイテム。\n使用してから【３０分】の間だけ\nレアドロップの倍率を７５％アップ。",
 		"tr_explain": "Aumenta el Rare Drop por 75%.\nEste dura por 30 minutos\nen el campo."
 	},
@@ -163,21 +163,21 @@
 	{
 		"assign": "32028",
 		"jp_text": "レアドロップ倍率＋１５０％",
-		"tr_text": "Aumento de Rare Drop +150%",
+		"tr_text": "Aumento Rare Drop +150%",
 		"jp_explain": "レアドロップ上昇のブーストアイテム。\n使用してから【３０分】の間だけ\nレアドロップの倍率を１５０％アップ。",
 		"tr_explain": "Aumenta el Rare Drop por 150%.\nEste dura por 30 minutos\nen el campo."
 	},
 	{
 		"assign": "32029",
 		"jp_text": "レアドロップ倍率＋２００％",
-		"tr_text": "Aumento de Rare Drop +200%",
+		"tr_text": "Aumento Rare Drop +200%",
 		"jp_explain": "レアドロップ上昇のブーストアイテム。\n使用してから【３０分】の間だけ\nレアドロップの倍率を２００％アップ。",
 		"tr_explain": "Aumenta el Rare Drop por 200%.\nEste dura por 30 minutos\nen el campo."
 	},
 	{
 		"assign": "32030",
 		"jp_text": "レアドロップ倍率＋２５０％",
-		"tr_text": "Aumento de Rare Drop +250%",
+		"tr_text": "Aumento Rare Drop +250%",
 		"jp_explain": "レアドロップ上昇のブーストアイテム。\n使用してから【３０分】の間だけ\nレアドロップの倍率を２５０％アップ。",
 		"tr_explain": "Aumenta el Rare Drop por 250%.\nEste dura por 30 minutos\nen el campo."
 	},
@@ -198,14 +198,14 @@
 	{
 		"assign": "32034",
 		"jp_text": "獲得経験値＋１５０％",
-		"tr_text": "Aumento de Experiencia +150%",
+		"tr_text": "Aumento EXP +150%",
 		"jp_explain": "獲得経験値上昇のブーストアイテム。\n使用してから【６０分】の間だけ\n獲得経験値を１５０％アップさせる。",
 		"tr_explain": "Aumenta la EXP ganada en 150%.\nEste dura por 60 minutos\nen el campo."
 	},
 	{
 		"assign": "32050",
 		"jp_text": "レアドロップ倍率＋３００％",
-		"tr_text": "Aumento de Rare Drop +300%",
+		"tr_text": "Aumento Rare Drop +300%",
 		"jp_explain": "レアドロップ上昇のブーストアイテム。\n使用してから【６０分】の間だけ\nレアドロップの倍率を３００％アップ。",
 		"tr_explain": "Aumenta el Rare Drop por 300%.\nEste dura por 60 minutos\nen el campo."
 	},
@@ -541,14 +541,14 @@
 	{
 		"assign": "32098",
 		"jp_text": "ＥＸレアドロップ倍率＋７５％",
-		"tr_text": "EX Aumento de Rare Drop +75%",
+		"tr_text": "EX Aumento Rare Drop +75%",
 		"jp_explain": "三種複合のブーストアイテム。\nレアドロップの倍率が７５％アップ。\n獲得メセタ、経験値が２５％アップ。",
 		"tr_explain": "Objeto que aumenta.\nChance de Rare Drop +75%\nMeseta y EXP Ganada +25%."
 	},
 	{
 		"assign": "32099",
 		"jp_text": "ＥＸ獲得経験値＋７５％",
-		"tr_text": "EX Aumento de Experiencia +75%",
+		"tr_text": "EX Aumento EXP +75%",
 		"jp_explain": "三種複合のブーストアイテム。\n獲得経験値が７５％アップ。\n獲得メセタ、レアドロップが２５％アップ。",
 		"tr_explain": "Objeto que aumenta.\nEXP Ganada +75%\nMeseta y Chance de Rare Drop +25%."
 	},
@@ -569,7 +569,7 @@
 	{
 		"assign": "320102",
 		"jp_text": "レアドロップ倍率＋５００％",
-		"tr_text": "Aumento de Rare Drop +500%",
+		"tr_text": "Aumento Rare Drop +500%",
 		"jp_explain": "レアドロップ上昇のブーストアイテム。\n使用してから【３０分】の間だけ\nレアドロップの倍率を５００％アップ。",
 		"tr_explain": "Aumenta el Rare Drop por 500%.\nEste dura por 30 minutos\nen el campo."
 	},
@@ -625,7 +625,7 @@
 	{
 		"assign": "320110",
 		"jp_text": "レアドロップ倍率＋４００％",
-		"tr_text": "Aumento de Rare Drop +400%",
+		"tr_text": "Aumento Rare Drop +400%",
 		"jp_explain": "レアドロップ上昇のブーストアイテム。\n使用してから【３０分】の間だけ\nレアドロップの倍率を４００％アップ。",
 		"tr_explain": "Aumenta el Rare Drop por 400%.\nEste dura por 30 minutos\nen el campo."
 	},
