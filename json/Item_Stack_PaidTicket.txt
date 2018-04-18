@@ -305,252 +305,252 @@
 		"jp_text": "フォイエ／リセット",
 		"tr_text": "Foie/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "320048",
 		"jp_text": "ギ・フォイエ／リセット",
 		"tr_text": "Gifoie/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "320049",
 		"jp_text": "ラ・フォイエ／リセット",
 		"tr_text": "Rafoie/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "320050",
 		"jp_text": "サ・フォイエ／リセット",
 		"tr_text": "Safoie/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "320051",
 		"jp_text": "シフタ／リセット",
 		"tr_text": "Shifta/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "320052",
 		"jp_text": "ナ・フォイエ／リセット",
 		"tr_text": "Nafoie/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "320053",
 		"jp_text": "バータ／リセット",
 		"tr_text": "Barta/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "320054",
 		"jp_text": "ギ・バータ／リセット",
 		"tr_text": "Gibarta/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "320055",
 		"jp_text": "ラ・バータ／リセット",
 		"tr_text": "Rabarta/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "320056",
 		"jp_text": "サ・バータ／リセット",
 		"tr_text": "Sabarta/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "320057",
 		"jp_text": "デバンド／リセット",
 		"tr_text": "Deband/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "320058",
 		"jp_text": "ナ・バータ／リセット",
 		"tr_text": "Nabarta/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "320059",
 		"jp_text": "ゾンデ／リセット",
 		"tr_text": "Zonde/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "320060",
 		"jp_text": "ギ・ゾンデ／リセット",
 		"tr_text": "Gizonde/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "320061",
 		"jp_text": "ラ・ゾンデ／リセット",
 		"tr_text": "Razonde/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "320062",
 		"jp_text": "サ・ゾンデ／リセット",
 		"tr_text": "Sazonde/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "320063",
 		"jp_text": "ゾンディール／リセット",
 		"tr_text": "Zondeel/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "320064",
 		"jp_text": "ナ・ゾンデ／リセット",
 		"tr_text": "Nazonde/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "320065",
 		"jp_text": "ザン／リセット",
 		"tr_text": "Zan/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "320066",
 		"jp_text": "ギ・ザン／リセット",
 		"tr_text": "Gizan/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "320067",
 		"jp_text": "ラ・ザン／リセット",
 		"tr_text": "Razan/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "320068",
 		"jp_text": "サ・ザン／リセット",
 		"tr_text": "Sazan/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "320069",
 		"jp_text": "ナ・ザン／リセット",
 		"tr_text": "Nazan/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "320070",
 		"jp_text": "ザンバース／リセット",
 		"tr_text": "Zanverse/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "320071",
 		"jp_text": "グランツ／リセット",
 		"tr_text": "Grants/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "320072",
 		"jp_text": "ギ・グランツ／リセット",
 		"tr_text": "Gigrants/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "320073",
 		"jp_text": "ラ・グランツ／リセット",
 		"tr_text": "Ragrants/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "320074",
 		"jp_text": "レスタ／リセット",
 		"tr_text": "Resta/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "320075",
 		"jp_text": "アンティ／リセット",
 		"tr_text": "Anti/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "320076",
 		"jp_text": "ナ・グランツ／リセット",
 		"tr_text": "Nagrants/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "320077",
 		"jp_text": "メギド／リセット",
 		"tr_text": "Megid/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "320078",
 		"jp_text": "ギ・メギド／リセット",
 		"tr_text": "Gimegid/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "320079",
 		"jp_text": "ラ・メギド／リセット",
 		"tr_text": "Ramegid/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "320080",
 		"jp_text": "サ・メギド／リセット",
 		"tr_text": "Samegid/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "320081",
 		"jp_text": "メギバース／リセット",
 		"tr_text": "Megiverse/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "320082",
 		"jp_text": "ナ・メギド／リセット",
 		"tr_text": "Namegid/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "320083",
@@ -613,63 +613,63 @@
 		"jp_text": "イル・フォイエ／リセット",
 		"tr_text": "Ilfoie/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "320095",
 		"jp_text": "イル・バータ／リセット",
 		"tr_text": "Ilbarta/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "320096",
 		"jp_text": "イル・ゾンデ／リセット",
 		"tr_text": "Ilzonde/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "320097",
 		"jp_text": "イル・ザン／リセット",
 		"tr_text": "Ilzan/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "320098",
 		"jp_text": "イル・グランツ／リセット",
 		"tr_text": "Ilgrants/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "320099",
 		"jp_text": "イル・メギド／リセット",
 		"tr_text": "Ilmegid/Reset",
 		"jp_explain": "使用すると該当テクニックの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "3200100",
 		"jp_text": "リア／効果時間延長７日",
 		"tr_text": "Rear/Timed Ability Reset 7d",
 		"jp_explain": "装備中のリアユニットの\n時限能力を延長する。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "3200101",
 		"jp_text": "アーム／効果時間延長７日",
 		"tr_text": "Arm/Timed Ability Reset 7d",
 		"jp_explain": "装備中のアームユニットの\n時限能力を延長する。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "3200102",
 		"jp_text": "レッグ／効果時間延長７日",
 		"tr_text": "Leg/Timed Ability Reset 7d",
 		"jp_explain": "装備中のレッグユニットの\n時限能力を延長する。",
-		"tr_explain": "Restablece las personalizaciones/na los valores predeterminados."
+		"tr_explain": "Restablece las personalizaciones\na los valores predeterminados."
 	},
 	{
 		"assign": "3200103",
@@ -781,84 +781,84 @@
 		"jp_text": "ツイスターフォール／Ｒ",
 		"tr_text": "Twister Fall/R",
 		"jp_explain": "使用すると該当ＰＡの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece el crafteo de PA/na los valores predeterminados."
+		"tr_explain": "Restablece el crafteo de PA\na los valores predeterminados."
 	},
 	{
 		"assign": "3200120",
 		"jp_text": "サーベラスダンス／Ｒ",
 		"tr_text": "Cerberus Dance/R",
 		"jp_explain": "使用すると該当ＰＡの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece el crafteo de PA/na los valores predeterminados."
+		"tr_explain": "Restablece el crafteo de PA\na los valores predeterminados."
 	},
 	{
 		"assign": "3200121",
 		"jp_text": "ライジングフラッグ／Ｒ",
 		"tr_text": "Rising Flag/R",
 		"jp_explain": "使用すると該当ＰＡの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece el crafteo de PA/na los valores predeterminados."
+		"tr_explain": "Restablece el crafteo de PA\na los valores predeterminados."
 	},
 	{
 		"assign": "3200122",
 		"jp_text": "ワイルドラプソディ／Ｒ",
 		"tr_text": "Wild Rhapsody/R",
 		"jp_explain": "使用すると該当ＰＡの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece el crafteo de PA/na los valores predeterminados."
+		"tr_explain": "Restablece el crafteo de PA\na los valores predeterminados."
 	},
 	{
 		"assign": "3200123",
 		"jp_text": "トルネードダンス／Ｒ",
 		"tr_text": "Tornado Dance/R",
 		"jp_explain": "使用すると該当ＰＡの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece el crafteo de PA/na los valores predeterminados."
+		"tr_explain": "Restablece el crafteo de PA\na los valores predeterminados."
 	},
 	{
 		"assign": "3200124",
 		"jp_text": "スライドアッパー／Ｒ",
 		"tr_text": "Slide Upper/R",
 		"jp_explain": "使用すると該当ＰＡの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece el crafteo de PA/na los valores predeterminados."
+		"tr_explain": "Restablece el crafteo de PA\na los valores predeterminados."
 	},
 	{
 		"assign": "3200125",
 		"jp_text": "トライインパクト／Ｒ",
 		"tr_text": "Tri-impact/R",
 		"jp_explain": "使用すると該当ＰＡの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece el crafteo de PA/na los valores predeterminados."
+		"tr_explain": "Restablece el crafteo de PA\na los valores predeterminados."
 	},
 	{
 		"assign": "3200126",
 		"jp_text": "ホーミングエミッション／Ｒ",
 		"tr_text": "Homing Emission/R",
 		"jp_explain": "使用すると該当ＰＡの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece el crafteo de PA/na los valores predeterminados."
+		"tr_explain": "Restablece el crafteo de PA\na los valores predeterminados."
 	},
 	{
 		"assign": "3200127",
 		"jp_text": "ディバインランチャー／Ｒ",
 		"tr_text": "Divine Launcher/R",
 		"jp_explain": "使用すると該当ＰＡの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece el crafteo de PA/na los valores predeterminados."
+		"tr_explain": "Restablece el crafteo de PA\na los valores predeterminados."
 	},
 	{
 		"assign": "3200128",
 		"jp_text": "バレットスコール／Ｒ",
 		"tr_text": "Bullet Squall/R",
 		"jp_explain": "使用すると該当ＰＡの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece el crafteo de PA/na los valores predeterminados."
+		"tr_explain": "Restablece el crafteo de PA\na los valores predeterminados."
 	},
 	{
 		"assign": "3200129",
 		"jp_text": "カザンナデシコ／Ｒ",
 		"tr_text": "Kazan-nadeshiko/R",
 		"jp_explain": "使用すると該当ＰＡの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece el crafteo de PA/na los valores predeterminados."
+		"tr_explain": "Restablece el crafteo de PA\na los valores predeterminados."
 	},
 	{
 		"assign": "3200130",
 		"jp_text": "トリットシューター／Ｒ",
 		"tr_text": "Tritt Shooter/R",
 		"jp_explain": "使用すると該当ＰＡの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece el crafteo de PA/na los valores predeterminados."
+		"tr_explain": "Restablece el crafteo de PA\na los valores predeterminados."
 	},
 	{
 		"assign": "3200131",
@@ -1026,28 +1026,28 @@
 		"jp_text": "アザーサイクロン／Ｒ",
 		"tr_text": "Other Cyclone/R",
 		"jp_explain": "使用すると該当ＰＡの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece el crafteo de PA/na los valores predeterminados."
+		"tr_explain": "Restablece el crafteo de PA\na los valores predeterminados."
 	},
 	{
 		"assign": "3200158",
 		"jp_text": "デッドリーサークル／Ｒ",
 		"tr_text": "Deadly Circle/R",
 		"jp_explain": "使用すると該当ＰＡの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece el crafteo de PA/na los valores predeterminados."
+		"tr_explain": "Restablece el crafteo de PA\na los valores predeterminados."
 	},
 	{
 		"assign": "3200159",
 		"jp_text": "インフィニティファイア／Ｒ",
 		"tr_text": "Infinite Fire/R",
 		"jp_explain": "使用すると該当ＰＡの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece el crafteo de PA/na los valores predeterminados."
+		"tr_explain": "Restablece el crafteo de PA\na los valores predeterminados."
 	},
 	{
 		"assign": "3200160",
 		"jp_text": "ケストレルランページ／Ｒ",
 		"tr_text": "Kestrel Rampage/R",
 		"jp_explain": "使用すると該当ＰＡの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece el crafteo de PA/na los valores predeterminados."
+		"tr_explain": "Restablece el crafteo de PA\na los valores predeterminados."
 	},
 	{
 		"assign": "3200161",
@@ -1082,35 +1082,35 @@
 		"jp_text": "サクリファイスバイト／Ｒ",
 		"tr_text": "Sacrifice Bite/R",
 		"jp_explain": "使用すると該当ＰＡの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece el crafteo de PA/na los valores predeterminados."
+		"tr_explain": "Restablece el crafteo de PA\na los valores predeterminados."
 	},
 	{
 		"assign": "3200166",
 		"jp_text": "ストレイトチャージ／Ｒ",
 		"tr_text": "Straight Charge/R",
 		"jp_explain": "使用すると該当ＰＡの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece el crafteo de PA/na los valores predeterminados."
+		"tr_explain": "Restablece el crafteo de PA\na los valores predeterminados."
 	},
 	{
 		"assign": "3200167",
 		"jp_text": "パラレルスライダー／Ｒ",
 		"tr_text": "Parallel Slider/R",
 		"jp_explain": "使用すると該当ＰＡの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece el crafteo de PA/na los valores predeterminados."
+		"tr_explain": "Restablece el crafteo de PA\na los valores predeterminados."
 	},
 	{
 		"assign": "3200168",
 		"jp_text": "シャープボマー／Ｒ",
 		"tr_text": "Sharp Bomber/R",
 		"jp_explain": "使用すると該当ＰＡの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece el crafteo de PA/na los valores predeterminados."
+		"tr_explain": "Restablece el crafteo de PA\na los valores predeterminados."
 	},
 	{
 		"assign": "3200169",
 		"jp_text": "ストライクガスト／Ｒ",
 		"tr_text": "Strike Gust/R",
 		"jp_explain": "使用すると該当ＰＡの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece el crafteo de PA/na los valores predeterminados."
+		"tr_explain": "Restablece el crafteo de PA\na los valores predeterminados."
 	},
 	{
 		"assign": "3200170",
@@ -1166,35 +1166,35 @@
 		"jp_text": "セイクリッドスキュア／Ｒ",
 		"tr_text": "Sacred Skewer/R",
 		"jp_explain": "使用すると該当ＰＡの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece el crafteo de PA/na los valores predeterminados."
+		"tr_explain": "Restablece el crafteo de PA\na los valores predeterminados."
 	},
 	{
 		"assign": "3200178",
 		"jp_text": "レイジングワルツ／Ｒ",
 		"tr_text": "Raging Waltz/R",
 		"jp_explain": "使用すると該当ＰＡの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece el crafteo de PA/na los valores predeterminados."
+		"tr_explain": "Restablece el crafteo de PA\na los valores predeterminados."
 	},
 	{
 		"assign": "3200179",
 		"jp_text": "エインラケーテン／Ｒ",
 		"tr_text": "Ein Raketen/R",
 		"jp_explain": "使用すると該当ＰＡの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece el crafteo de PA/na los valores predeterminados."
+		"tr_explain": "Restablece el crafteo de PA\na los valores predeterminados."
 	},
 	{
 		"assign": "3200180",
 		"jp_text": "サクラエンド／Ｒ",
 		"tr_text": "Sakura Endo/R",
 		"jp_explain": "使用すると該当ＰＡの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece el crafteo de PA/na los valores predeterminados."
+		"tr_explain": "Restablece el crafteo de PA\na los valores predeterminados."
 	},
 	{
 		"assign": "3200181",
 		"jp_text": "ロデオドライブ／Ｒ",
 		"tr_text": "Rodeo Drive/R",
 		"jp_explain": "使用すると該当ＰＡの\nカスタマイズをリセットする。",
-		"tr_explain": "Restablece el crafteo de PA/na los valores predeterminados."
+		"tr_explain": "Restablece el crafteo de PA\na los valores predeterminados."
 	},
 	{
 		"assign": "3200182",
