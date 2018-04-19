@@ -2818,35 +2818,35 @@
 		"jp_text": "394「ＶＲカードゲーム」",
 		"tr_text": "394 \"VR Card Game\"",
 		"jp_explain": "ロビアク『ＶＲカードゲーム』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": "Unlocks the new lobby action\n\"VR Card Game\".\nUse action buttons for extra actions."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"VR Card Game\".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "3230409",
 		"jp_text": "395「術をかける」",
-		"tr_text": "",
+		"tr_text": "395 \"Magic Spell\"",
 		"jp_explain": "ロビアク『術をかける』\nを全キャラクターで使用可能になる。\n対応機能：リアクション",
-		"tr_explain": ""
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Magic Spell\"."
 	},
 	{
 		"assign": "3230410",
 		"jp_text": "396「Ｒｅ：ゼロ」",
-		"tr_text": "",
+		"tr_text": "396 \"Re:Zero\"",
 		"jp_explain": "ロビアク『Ｒｅ：ゼロ』\nを全キャラクターで使用可能になる。",
-		"tr_explain": ""
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Re:Zero\"."
 	},
 	{
 		"assign": "3230411",
 		"jp_text": "397「マロン＆メロン」",
-		"tr_text": "",
+		"tr_text": "397 \"Maron & Melon\"",
 		"jp_explain": "ロビアク『マロン＆メロン』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": ""
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Maron & Melon\".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "3230412",
 		"jp_text": "398「けんけんぱ」",
-		"tr_text": "",
+		"tr_text": "398 \"Hopscotch\"",
 		"jp_explain": "ロビアク『けんけんぱ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": ""
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Hopscotch\"."
 	},
 	{
 		"assign": "3230413",
@@ -2865,8 +2865,8 @@
 	{
 		"assign": "3230415",
 		"jp_text": "401「ダークブラスト２」",
-		"tr_text": "",
+		"tr_text": "401 \"Dark Blast 2\"",
 		"jp_explain": "ロビアク『ダークブラスト２』\nを全キャラクターで使用可能になる。",
-		"tr_explain": ""
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dark Blast 2\"."
 	}
 ]

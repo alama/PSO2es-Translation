@@ -3966,49 +3966,49 @@
 		"jp_text": "内巻きロング",
 		"tr_text": "Inwardly Curled Long",
 		"jp_explain": "チケットを使用すると、新しい髪型の\n内巻きロングが選択可能。",
-		"tr_explain": "By using this ticket, the hairstyle\n\"Inwardly Curled Long\"\ncan be used in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, el peinado\n\"Inwardly Curled Long\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3150674",
 		"jp_text": "スバルヘアー",
-		"tr_text": "",
+		"tr_text": "Subaru Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nスバルヘアーが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el peinado\n\"Subaru Hair\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3150675",
 		"jp_text": "エミリアヘアー",
-		"tr_text": "",
+		"tr_text": "Emilia Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nエミリアヘアーが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el peinado\n\"Emilia Hair\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3150676",
 		"jp_text": "レムヘアー",
-		"tr_text": "",
+		"tr_text": "Rem Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nレムヘアーが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el peinado\n\"Rem Hair\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3150677",
 		"jp_text": "ラムヘアー",
-		"tr_text": "",
+		"tr_text": "Ram Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nラムヘアーが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el peinado\n\"Ram Hair\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3150678",
 		"jp_text": "フェリスヘアー",
-		"tr_text": "",
+		"tr_text": "Ferris Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nフェリスヘアーが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el peinado\n\"Ferris Hair\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3150679",
 		"jp_text": "タイラーヘアー",
-		"tr_text": "",
+		"tr_text": "Tylor Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nタイラーヘアーが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el peinado\n\"Tylor Hair\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3150680",
@@ -4027,15 +4027,15 @@
 	{
 		"assign": "3150682",
 		"jp_text": "エンゼルウィングロングＧＶ",
-		"tr_text": "",
+		"tr_text": "Angel Wing Long GV",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nエンゼルウィングロングＧＶが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el peinado\n\"Angel Wing Long GV\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3150683",
 		"jp_text": "羅刹装威ヘアーＧＶ",
-		"tr_text": "",
+		"tr_text": "Rakshasa Hair GV",
 		"jp_explain": "チケットを使用すると、新しい髪型の\n羅刹装威ヘアーＧＶが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el peinado\n\"Rakshasa Hair GV\"\nse podra usar en el Estilista."
 	}
 ]

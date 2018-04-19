@@ -21417,231 +21417,231 @@
 		"jp_text": "スターダスト",
 		"tr_text": "Stardust",
 		"jp_explain": "使用すると、新しいアクセサリーの\nスターダストが選択可能。",
-		"tr_explain": "By using this ticket, the accessory\n\"Stardust\"\ncan be used in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Stardust\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803311",
 		"jp_text": "スカートスタビライザーＢ",
-		"tr_text": "",
+		"tr_text": "Skirt Stabilizer B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nスカートスタビライザーＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Skirt Stabilizer B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803312",
 		"jp_text": "ボンズベルトＢ",
-		"tr_text": "",
+		"tr_text": "Bonez Belt B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nボンズベルトＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Bonez Belt B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803313",
 		"jp_text": "ボンズグローブＢ",
-		"tr_text": "",
+		"tr_text": "Bonez Gloves B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nボンズグローブＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Bonez Gloves B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803314",
 		"jp_text": "ボワールヘッドバンドＢ　黒",
-		"tr_text": "",
+		"tr_text": "Black Voir Headband B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nボワールヘッドバンドＢ　黒が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Black Voir Headband B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803315",
 		"jp_text": "ボワールピアス　黒",
-		"tr_text": "",
+		"tr_text": "Black Voir Earrings",
 		"jp_explain": "使用すると、新しいアクセサリーの\nボワールピアス　黒が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Black Voir Earrings\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803316",
 		"jp_text": "ボワールヘソピアス　黒",
-		"tr_text": "",
+		"tr_text": "Black Voir Navel Piercing",
 		"jp_explain": "使用すると、新しいアクセサリーの\nボワールヘソピアス　黒が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Black Voir Navel Piercing\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803317",
 		"jp_text": "ピュアグレースピアスＢ",
-		"tr_text": "",
+		"tr_text": "Pure Grace Earrings B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nピュアグレースピアスＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Pure Grace Earrings B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803318",
 		"jp_text": "羅刹装威角飾りＢ",
-		"tr_text": "",
+		"tr_text": "Rakshasa Horn Ornament B",
 		"jp_explain": "使用すると、新しいアクセサリーの\n羅刹装威角飾りＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Rakshasa Horn Ornament B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803319",
 		"jp_text": "羅刹装威仮面Ｂ",
-		"tr_text": "",
+		"tr_text": "Rakshasa Mask B",
 		"jp_explain": "使用すると、新しいアクセサリーの\n羅刹装威仮面Ｂが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Rakshasa Mask B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803320",
 		"jp_text": "ルーナハットＢ",
-		"tr_text": "",
+		"tr_text": "Luna Hat B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nルーナハットＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Luna Hat B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803321",
 		"jp_text": "カッポーギサンカクキンＢ",
-		"tr_text": "",
+		"tr_text": "Kappougi Kerchief B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nカッポーギサンカクキンＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Kappougi Kerchief B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803322",
 		"jp_text": "ゴシックカラーＢ　黒",
-		"tr_text": "",
+		"tr_text": "Black Gothic Collar B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nゴシックカラーＢ　黒が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Black Gothic Collar B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803323",
 		"jp_text": "ファンタジー風腰巻　黒",
-		"tr_text": "",
+		"tr_text": "Black Fantasy Waistcloth",
 		"jp_explain": "使用すると、新しいアクセサリーの\nファンタジー風腰巻　黒が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Black Fantasy Waistcloth\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803324",
 		"jp_text": "アスラアームＢ",
-		"tr_text": "",
+		"tr_text": "Asura Arms B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nアスラアームＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Asura Arms B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803325",
 		"jp_text": "ふわ毛エクステ",
-		"tr_text": "",
+		"tr_text": "Fluffy Extension",
 		"jp_explain": "使用すると、新しいアクセサリーの\nふわ毛エクステが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Fluffy Extension\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803326",
 		"jp_text": "メタリックホーン　白",
-		"tr_text": "",
+		"tr_text": "White Metallic Horns",
 		"jp_explain": "使用すると、新しいアクセサリーの\nメタリックホーン　白が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"White Metallic Horns\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803327",
 		"jp_text": "メタリックホーン　黒",
-		"tr_text": "",
+		"tr_text": "Black Metallic Horns",
 		"jp_explain": "使用すると、新しいアクセサリーの\nメタリックホーン　黒が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"REEMPBlack Metallic HornsLAZAR\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803328",
 		"jp_text": "メタリックホーン　赤",
-		"tr_text": "",
+		"tr_text": "Red Metallic Horns",
 		"jp_explain": "使用すると、新しいアクセサリーの\nメタリックホーン　赤が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Red Metallic Horns\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803329",
 		"jp_text": "エミリアのコサージュ",
-		"tr_text": "",
+		"tr_text": "Emilia Corsage",
 		"jp_explain": "使用すると、新しいアクセサリーの\nエミリアのコサージュが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Emilia Corsage\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803330",
 		"jp_text": "レムのヘッドドレス",
-		"tr_text": "",
+		"tr_text": "Rem Headdress",
 		"jp_explain": "使用すると、新しいアクセサリーの\nレムのヘッドドレスが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Rem Headdress\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803331",
 		"jp_text": "ラムのヘッドドレス",
-		"tr_text": "",
+		"tr_text": "Ram Headdress",
 		"jp_explain": "使用すると、新しいアクセサリーの\nラムのヘッドドレスが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Ram Headdress\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803332",
 		"jp_text": "フェリスのリボン",
-		"tr_text": "",
+		"tr_text": "Ferris Ribbons",
 		"jp_explain": "使用すると、新しいアクセサリーの\nフェリスのリボンが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Ferris Ribbons\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803333",
 		"jp_text": "タイラーのペンダント",
-		"tr_text": "",
+		"tr_text": "Tylor Pendant",
 		"jp_explain": "使用すると、新しいアクセサリーの\nタイラーのペンダントが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Tylor Pendant\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803334",
 		"jp_text": "ファンタジーシールド",
-		"tr_text": "",
+		"tr_text": "Fantasy Shield",
 		"jp_explain": "使用すると、新しいアクセサリーの\nファンタジーシールドが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Fantasy Shield\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803335",
 		"jp_text": "マウントツインブラスター",
-		"tr_text": "",
+		"tr_text": "Mounted Twin Blasters",
 		"jp_explain": "使用すると、新しいアクセサリーの\nマウントツインブラスターが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Mounted Twin Blasters\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803336",
 		"jp_text": "カジュアルリュック　黒",
-		"tr_text": "",
+		"tr_text": "Black Casual Rucksack",
 		"jp_explain": "使用すると、新しいアクセサリーの\nカジュアルリュック　黒が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Black Casual Rucksack\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803337",
 		"jp_text": "カジュアルリュック　白",
-		"tr_text": "",
+		"tr_text": "White Casual Rucksack",
 		"jp_explain": "使用すると、新しいアクセサリーの\nカジュアルリュック　白が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"White Casual Rucksack\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803338",
 		"jp_text": "カジュアルリュック　茶",
-		"tr_text": "",
+		"tr_text": "Brown Casual Rucksack",
 		"jp_explain": "使用すると、新しいアクセサリーの\nカジュアルリュック　茶が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Brown Casual Rucksack\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803339",
 		"jp_text": "カジュアルリュック　緑",
-		"tr_text": "",
+		"tr_text": "Green Casual Rucksack",
 		"jp_explain": "使用すると、新しいアクセサリーの\nカジュアルリュック　緑が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Green Casual Rucksack\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803340",
 		"jp_text": "ボトルフラワーピアス　桃",
-		"tr_text": "",
+		"tr_text": "Peach Bottle Flower Earrings",
 		"jp_explain": "使用すると、新しいアクセサリーの\nボトルフラワーピアス　桃が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Peach Bottle Flower Earrings\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803341",
 		"jp_text": "ボトルフラワーピアス　赤",
-		"tr_text": "",
+		"tr_text": "Red Bottle Flower Earrings",
 		"jp_explain": "使用すると、新しいアクセサリーの\nボトルフラワーピアス　赤が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Red Bottle Flower Earrings\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803342",
 		"jp_text": "くわえハンバーガー",
-		"tr_text": "",
+		"tr_text": "Bitten Hamburger",
 		"jp_explain": "使用すると、新しいアクセサリーの\nくわえハンバーガーが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Bitten Hamburger\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803343",
@@ -21814,8 +21814,8 @@
 	{
 		"assign": "3803367",
 		"jp_text": "タイラーのサングラス",
-		"tr_text": "",
+		"tr_text": "Tylor Sunglasses",
 		"jp_explain": "使用すると、新しいアクセサリーの\nタイラーのサングラスが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Tylor Sunglasses\"\nse podra usar en el Estilista."
 	}
 ]

@@ -1292,7 +1292,7 @@
 		"jp_text": "スミスメイク",
 		"tr_text": "Smith Makeup",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nスミスメイクが選択可能。",
-		"tr_explain": "By using this ticket, the makeup\n\"Smith Makeup\"\ncan be used in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, el maquillaje\n\"Smith Makeup\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3250202",
@@ -1339,8 +1339,8 @@
 	{
 		"assign": "3250208",
 		"jp_text": "タイラーの傷",
-		"tr_text": "",
+		"tr_text": "Tylor Scar",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nタイラーの傷が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el maquillaje\n\"Tylor Scar\"\nse podra usar en el Estilista."
 	}
 ]
