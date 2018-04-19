@@ -2,23 +2,23 @@
 	{
 		"assign": "32800",
 		"jp_text": "デフォルメまつげ　黒",
-		"tr_text": "Deformed Eyelashes Black",
+		"tr_text": "Awry Eyelashes Black",
 		"jp_explain": "チケットを使用すると、新しいまつげの\nデフォルメまつげ　黒が選択可能。",
-		"tr_explain": "Usando este tiquete, las pestaйas\n\"Deformed Eyelashes Black\"\nse podran usar en el Estilista."
+		"tr_explain": "Usando este tiquete, las pestaйas\n\"Awry Eyelashes Black\"\nse podran usar en el Estilista."
 	},
 	{
 		"assign": "32801",
 		"jp_text": "デフォルメまつげ　青",
-		"tr_text": "Deformed Eyelashes Blue",
+		"tr_text": "Awry Eyelashes Blue",
 		"jp_explain": "チケットを使用すると、新しいまつげの\nデフォルメまつげ　青が選択可能。",
-		"tr_explain": "Usando este tiquete, las pestaйas\n\"Deformed Eyelashes Blue\"\nse podran usar en el Estilista."
+		"tr_explain": "Usando este tiquete, las pestaйas\n\"Awry Eyelashes Blue\"\nse podran usar en el Estilista."
 	},
 	{
 		"assign": "32802",
 		"jp_text": "デフォルメまつげ　茶",
-		"tr_text": "Deformed Eyelashes Brown",
+		"tr_text": "Awry Eyelashes Brown",
 		"jp_explain": "チケットを使用すると、新しいまつげの\nデフォルメまつげ　茶が選択可能。",
-		"tr_explain": "Usando este tiquete, las pestaйas\n\"Deformed Eyelashes Brown\"\nse podran usar en el Estilista."
+		"tr_explain": "Usando este tiquete, las pestaйas\n\"Awry Eyelashes Brown\"\nse podran usar en el Estilista."
 	},
 	{
 		"assign": "32803",
@@ -261,9 +261,9 @@
 	{
 		"assign": "328037",
 		"jp_text": "デフォルメまつげ　白",
-		"tr_text": "Deformed Eyelashes White",
+		"tr_text": "Awry Eyelashes White",
 		"jp_explain": "チケットを使用すると、新しいまつげの\nデフォルメまつげ　白が選択可能。",
-		"tr_explain": "Usando este tiquete, las pestaйas\n\"Deformed Eyelashes White\"\nse podran usar en el Estilista."
+		"tr_explain": "Usando este tiquete, las pestaйas\n\"Awry Eyelashes White\"\nse podran usar en el Estilista."
 	},
 	{
 		"assign": "328038",
@@ -282,30 +282,30 @@
 	{
 		"assign": "328040",
 		"jp_text": "二重デフォルメまつげ　黒",
-		"tr_text": "Double-Fold Deformed Eyelashes Black",
+		"tr_text": "Double-Fold Awry Eyelashes Black",
 		"jp_explain": "チケットを使用すると、新しいまつげの\n二重デフォルメまつげ　黒が選択可能。",
-		"tr_explain": "Usando este tiquete, las pestaйas\n\"Double-Fold Deformed Eyelashes Black\"\nse podran usar en el Estilista."
+		"tr_explain": "Usando este tiquete, las pestaйas\n\"Double-Fold Awry Eyelashes Black\"\nse podran usar en el Estilista."
 	},
 	{
 		"assign": "328041",
 		"jp_text": "二重デフォルメまつげ　紺",
-		"tr_text": "Double-Fold Deformed Eyelashes Blue",
+		"tr_text": "Double-Fold Awry Eyelashes Blue",
 		"jp_explain": "チケットを使用すると、新しいまつげの\n二重デフォルメまつげ　紺が選択可能。",
-		"tr_explain": "Usando este tiquete, las pestaйas\n\"Double-Fold Deformed Eyelashes\nBlue\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, las pestaйas\n\"Double-Fold Awry Eyelashes\nBlue\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "328042",
 		"jp_text": "二重デフォルメまつげ　茶",
-		"tr_text": "Double-Fold Deformed Eyelashes Brown",
+		"tr_text": "Double-Fold Awry Eyelashes Brown",
 		"jp_explain": "チケットを使用すると、新しいまつげの\n二重デフォルメまつげ　茶が選択可能。",
-		"tr_explain": "Usando este tiquete, las pestaйas\n\"Double-Fold Deformed Eyelashes Brown\"\nse podran usar en el Estilista."
+		"tr_explain": "Usando este tiquete, las pestaйas\n\"Double-Fold Awry Eyelashes Brown\"\nse podran usar en el Estilista."
 	},
 	{
 		"assign": "328043",
 		"jp_text": "二重デフォルメまつげ　白",
-		"tr_text": "Double-Fold Deformed Eyelashes White",
+		"tr_text": "Double-Fold Awry Eyelashes White",
 		"jp_explain": "チケットを使用すると、新しいまつげの\n二重デフォルメまつげ　白が選択可能。",
-		"tr_explain": "Usando este tiquete, las pestaйas\n\"Double-Fold Deformed Eyelashes White\"\nse podran usar en el Estilista."
+		"tr_explain": "Usando este tiquete, las pestaйas\n\"Double-Fold Awry Eyelashes White\"\nse podran usar en el Estilista."
 	},
 	{
 		"assign": "328044",
@@ -786,30 +786,30 @@
 	{
 		"assign": "3280112",
 		"jp_text": "デフォルメまつげＢ　黒",
-		"tr_text": "Black Deformed Eyelashes B",
+		"tr_text": "Black Awry Eyelashes B",
 		"jp_explain": "チケットを使用すると、新しいまつげの\nデフォルメまつげＢ　黒が選択可能。",
-		"tr_explain": "Usando este tiquete, las pestaйas\n\"Black Deformed Eyelashes B\"\nse podran usar en el Estilista."
+		"tr_explain": "Usando este tiquete, las pestaйas\n\"Black Awry Eyelashes B\"\nse podran usar en el Estilista."
 	},
 	{
 		"assign": "3280113",
 		"jp_text": "デフォルメまつげＢ　紺",
-		"tr_text": "Blue Deformed Eyelashes B",
+		"tr_text": "Blue Awry Eyelashes B",
 		"jp_explain": "チケットを使用すると、新しいまつげの\nデフォルメまつげＢ　紺が選択可能。",
-		"tr_explain": "Usando este tiquete, las pestaйas\n\"Blue Deformed Eyelashes B\"\nse podran usar en el Estilista."
+		"tr_explain": "Usando este tiquete, las pestaйas\n\"Blue Awry Eyelashes B\"\nse podran usar en el Estilista."
 	},
 	{
 		"assign": "3280114",
 		"jp_text": "デフォルメまつげＢ　茶",
-		"tr_text": "Brown Deformed Eyelashes B",
+		"tr_text": "Brown Awry Eyelashes B",
 		"jp_explain": "チケットを使用すると、新しいまつげの\nデフォルメまつげＢ　茶が選択可能。",
-		"tr_explain": "Usando este tiquete, las pestaйas\n\"Brown Deformed Eyelashes B\"\nse podran usar en el Estilista."
+		"tr_explain": "Usando este tiquete, las pestaйas\n\"Brown Awry Eyelashes B\"\nse podran usar en el Estilista."
 	},
 	{
 		"assign": "3280115",
 		"jp_text": "デフォルメまつげＢ　白",
-		"tr_text": "White Deformed Eyelashes B",
+		"tr_text": "White Awry Eyelashes B",
 		"jp_explain": "チケットを使用すると、新しいまつげの\nデフォルメまつげＢ　白が選択可能。",
-		"tr_explain": "Usando este tiquete, las pestaйas\n\"White Deformed Eyelashes B\"\nse podran usar en el Estilista."
+		"tr_explain": "Usando este tiquete, las pestaйas\n\"White Awry Eyelashes B\"\nse podran usar en el Estilista."
 	},
 	{
 		"assign": "3280116",
@@ -898,30 +898,30 @@
 	{
 		"assign": "3280128",
 		"jp_text": "二重デフォルメまつげＢ　黒",
-		"tr_text": "Black Double Deformed Eyelashes B",
+		"tr_text": "Black Double Awry Eyelashes B",
 		"jp_explain": "チケットを使用すると、新しいまつげの\n二重デフォルメまつげＢ　黒が選択可能。",
-		"tr_explain": "Usando este tiquete, las pestaйas\n\"Black Double Deformed Eyelashes B\"\nse podran usar en el Estilista."
+		"tr_explain": "Usando este tiquete, las pestaйas\n\"Black Double Awry Eyelashes B\"\nse podran usar en el Estilista."
 	},
 	{
 		"assign": "3280129",
 		"jp_text": "二重デフォルメまつげＢ　紺",
-		"tr_text": "Navy Double Deformed Eyelashes B",
+		"tr_text": "Navy Double Awry Eyelashes B",
 		"jp_explain": "チケットを使用すると、新しいまつげの\n二重デフォルメまつげＢ　紺が選択可能。",
-		"tr_explain": "Usando este tiquete, las pestaйas\n\"Navy Double Deformed Eyelashes B\"\nse podran usar en el Estilista."
+		"tr_explain": "Usando este tiquete, las pestaйas\n\"Navy Double Awry Eyelashes B\"\nse podran usar en el Estilista."
 	},
 	{
 		"assign": "3280130",
 		"jp_text": "二重デフォルメまつげＢ　茶",
-		"tr_text": "Brown Double Deformed Eyelashes B",
+		"tr_text": "Brown Double Awry Eyelashes B",
 		"jp_explain": "チケットを使用すると、新しいまつげの\n二重デフォルメまつげＢ　茶が選択可能。",
-		"tr_explain": "Usando este tiquete, las pestaйas\n\"Brown Double Deformed Eyelashes\nB\" se podran usar en el Estilista."
+		"tr_explain": "Usando este tiquete, las pestaйas\n\"Brown Double Awry Eyelashes\nB\" se podran usar en el Estilista."
 	},
 	{
 		"assign": "3280131",
 		"jp_text": "二重デフォルメまつげＢ　白",
-		"tr_text": "White Double Deformed Eyelashes B",
+		"tr_text": "White Double Awry Eyelashes B",
 		"jp_explain": "チケットを使用すると、新しいまつげの\n二重デフォルメまつげＢ　白が選択可能。",
-		"tr_explain": "Usando este tiquete, las pestaйas\n\"White Double Deformed Eyelashes B\"\nse podran usar en el Estilista."
+		"tr_explain": "Usando este tiquete, las pestaйas\n\"White Double Awry Eyelashes B\"\nse podran usar en el Estilista."
 	},
 	{
 		"assign": "3280134",
@@ -1101,30 +1101,30 @@
 	{
 		"assign": "3280159",
 		"jp_text": "デフォルメまつげＣ　黒",
-		"tr_text": "Black Deformed Eyelashes C",
+		"tr_text": "Black Awry Eyelashes C",
 		"jp_explain": "チケットを使用すると、新しいまつげの\nデフォルメまつげＣ　黒が選択可能。",
-		"tr_explain": "Usando este tiquete, las pestaйas\n\"Black Deformed Eyelashes C\"\nse podran usar en el Estilista."
+		"tr_explain": "Usando este tiquete, las pestaйas\n\"Black Awry Eyelashes C\"\nse podran usar en el Estilista."
 	},
 	{
 		"assign": "3280160",
 		"jp_text": "デフォルメまつげＣ　紺",
-		"tr_text": "Blue Deformed Eyelashes C",
+		"tr_text": "Blue Awry Eyelashes C",
 		"jp_explain": "チケットを使用すると、新しいまつげの\nデフォルメまつげＣ　紺が選択可能。",
-		"tr_explain": "Usando este tiquete, las pestaйas\n\"Blue Deformed Eyelashes C\"\nse podran usar en el Estilista."
+		"tr_explain": "Usando este tiquete, las pestaйas\n\"Blue Awry Eyelashes C\"\nse podran usar en el Estilista."
 	},
 	{
 		"assign": "3280161",
 		"jp_text": "デフォルメまつげＣ　茶",
-		"tr_text": "Brown Deformed Eyelashes C",
+		"tr_text": "Brown Awry Eyelashes C",
 		"jp_explain": "チケットを使用すると、新しいまつげの\nデフォルメまつげＣ　茶が選択可能。",
-		"tr_explain": "Usando este tiquete, las pestaйas\n\"Brown Deformed Eyelashes C\"\nse podran usar en el Estilista."
+		"tr_explain": "Usando este tiquete, las pestaйas\n\"Brown Awry Eyelashes C\"\nse podran usar en el Estilista."
 	},
 	{
 		"assign": "3280162",
 		"jp_text": "デフォルメまつげＣ　白",
-		"tr_text": "White Deformed Eyelashes C",
+		"tr_text": "White Awry Eyelashes C",
 		"jp_explain": "チケットを使用すると、新しいまつげの\nデフォルメまつげＣ　白が選択可能。",
-		"tr_explain": "Usando este tiquete, las pestaйas\n\"White Deformed Eyelashes C\"\nse podran usar en el Estilista."
+		"tr_explain": "Usando este tiquete, las pestaйas\n\"White Awry Eyelashes C\"\nse podran usar en el Estilista."
 	},
 	{
 		"assign": "3280163",

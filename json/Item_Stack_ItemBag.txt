@@ -730,7 +730,7 @@
 	{
 		"assign": "3300104",
 		"jp_text": "デフォルメまつげセット",
-		"tr_text": "Set Deformed Eyelashes",
+		"tr_text": "Set Awry Eyelashes",
 		"jp_explain": "以下のアイテム４種を獲得する。\n「デフォルメまつげ　黒／青／茶／白」",
 		"tr_explain": "Al usarlo recibiras:\nDeformed Eyelashes (4 colores)"
 	},
@@ -807,9 +807,9 @@
 	{
 		"assign": "3300115",
 		"jp_text": "二重デフォルメまつげセット",
-		"tr_text": "Set Double Deformed Eyelashes",
+		"tr_text": "Set Double Awry Eyelashes",
 		"jp_explain": "以下のアイテム４種を獲得する。\n「二重デフォルメまつげ　黒／紺／茶／白」",
-		"tr_explain": "Al usarlo recibiras:\n[Double Deformed Eyelashes (4\ncolors)]"
+		"tr_explain": "Al usarlo recibiras:\n[Double Awry Eyelashes (4\ncolors)]"
 	},
 	{
 		"assign": "3300116",
@@ -17726,9 +17726,9 @@
 	{
 		"assign": "33002739",
 		"jp_text": "デフォルメまつげＢセット",
-		"tr_text": "Set Deformed Eyelashes B",
+		"tr_text": "Set Awry Eyelashes B",
 		"jp_explain": "以下のアイテム４種を獲得する。\n「デフォルメまつげＢ　黒／紺／茶／白」",
-		"tr_explain": "Al usarlo recibiras:\n[Deformed Eyelashes B (4 colores)]"
+		"tr_explain": "Al usarlo recibiras:\n[Awry Eyelashes B (4 colores)]"
 	},
 	{
 		"assign": "33002740",
@@ -20365,9 +20365,9 @@
 	{
 		"assign": "33003116",
 		"jp_text": "二重デフォルメまつげＢ箱",
-		"tr_text": "Set Double Deformed Eyelashes B Box",
+		"tr_text": "Set Double Awry Eyelashes B Box",
 		"jp_explain": "以下のアイテム４種を獲得する。\n「二重デフォルメまつげＢ　黒」\n「二重デフォルメまつげＢ　紺」\n「二重デフォルメまつげＢ　茶」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Double Deformed Eyelashes (4\ncolors)]"
+		"tr_explain": "Al usarlo recibiras:\n[Double Awry Eyelashes (4\ncolors)]"
 	},
 	{
 		"assign": "33003117",
@@ -23914,9 +23914,9 @@
 	{
 		"assign": "33003623",
 		"jp_text": "デフォルメまつげＣセット",
-		"tr_text": "Set Deformed Eyelashes C",
+		"tr_text": "Set Awry Eyelashes C",
 		"jp_explain": "以下のアイテム４種を獲得する。\n「デフォルメまつげＣ　黒／紺／茶／白」",
-		"tr_explain": "Al usarlo recibiras:\n[Deformed Eyelashes C (4 colores)]"
+		"tr_explain": "Al usarlo recibiras:\n[Awry Eyelashes C (4 colores)]"
 	},
 	{
 		"assign": "33003624",
@@ -26910,9 +26910,9 @@
 	{
 		"assign": "33004051",
 		"jp_text": "デフォルメアイセット",
-		"tr_text": "Set Deformed Eyes",
+		"tr_text": "Set Awry Eyes",
 		"jp_explain": "以下のアイテムを獲得する。\n「デフォルメアイＡ」\n「デフォルメアイＢ」",
-		"tr_explain": "Al usarlo recibiras:\n[Deformed Eyes A]\n[Deformed Eyes B]"
+		"tr_explain": "Al usarlo recibiras:\n[Awry Eyes A]\n[Awry Eyes B]"
 	},
 	{
 		"assign": "33004052",
