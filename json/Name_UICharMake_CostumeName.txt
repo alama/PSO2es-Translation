@@ -477,32 +477,32 @@
 	{
 		"assign": "No00310",
 		"jp_text": "アークス研修生男制服",
-		"tr_text": "ARKS Trainee Male Uniform"
+		"tr_text": "ARKS Trainee M"
 	},
 	{
 		"assign": "No00311",
 		"jp_text": "アークス研修生男制服　紅",
-		"tr_text": "ARKS Trainee Male Uniform Crimson"
+		"tr_text": "ARKS Trainee M Crimson"
 	},
 	{
 		"assign": "No00312",
 		"jp_text": "アークス研修生男制服　夜",
-		"tr_text": "ARKS Trainee Male Uniform Night"
+		"tr_text": "ARKS Trainee M Night"
 	},
 	{
 		"assign": "No00313",
 		"jp_text": "アークス研修生男制服　葉",
-		"tr_text": "ARKS Trainee Male Uniform Leaf"
+		"tr_text": "ARKS Trainee M Leaf"
 	},
 	{
 		"assign": "No00314",
 		"jp_text": "アークス研修生男制服　雅",
-		"tr_text": "ARKS Trainee Male Uniform Elegance"
+		"tr_text": "ARKS Trainee M Elegance"
 	},
 	{
 		"assign": "No00315",
 		"jp_text": "アークス研修生男制服　影",
-		"tr_text": "ARKS Trainee Male Uniform Shadow"
+		"tr_text": "ARKS Trainee M Shadow"
 	},
 	{
 		"assign": "No00190",
@@ -2667,7 +2667,7 @@
 	{
 		"assign": "No01630",
 		"jp_text": "第一高校二科生男子制服",
-		"tr_text": "First High School Course 2 Male Uniform"
+		"tr_text": "First HS Course 2 M"
 	},
 	{
 		"assign": "No01570",
@@ -2912,12 +2912,12 @@
 	{
 		"assign": "No01958",
 		"jp_text": "星濱学園男子制服Ｃ",
-		"tr_text": "Star Coast Academy M Uniform C"
+		"tr_text": "Star Coast Ac. M Uniform C"
 	},
 	{
 		"assign": "No01800",
 		"jp_text": "穂群原学園男子制服",
-		"tr_text": "Men's Homurahara Academy Uniform"
+		"tr_text": "Men's Homurahara Ac. Uniform"
 	},
 	{
 		"assign": "No01770",
@@ -3252,7 +3252,7 @@
 	{
 		"assign": "No02090",
 		"jp_text": "星濱学園男子制服",
-		"tr_text": "Star Coast Academy Male Uniform"
+		"tr_text": "Star Coast Ac. M"
 	},
 	{
 		"assign": "No40202",
@@ -12187,12 +12187,12 @@
 	{
 		"assign": "No12100",
 		"jp_text": "第一高校一科生女子制服",
-		"tr_text": "First High School Course 1 F"
+		"tr_text": "First HS Course 1 F"
 	},
 	{
 		"assign": "No12110",
 		"jp_text": "第一高校一科生女子制服Ｂ",
-		"tr_text": "First High School Course 1 Female Uniform B"
+		"tr_text": "First HS Course 1 F B"
 	},
 	{
 		"assign": "No12260",
@@ -12672,7 +12672,7 @@
 	{
 		"assign": "No12758",
 		"jp_text": "星濱学園女子制服Ｃ",
-		"tr_text": "Star Coast Academy F Uniform C"
+		"tr_text": "Star Coast Ac. F Uniform C"
 	},
 	{
 		"assign": "No12580",
@@ -13247,7 +13247,7 @@
 	{
 		"assign": "No12900",
 		"jp_text": "星濱学園女子制服",
-		"tr_text": "Star Coast Academy F"
+		"tr_text": "Star Coast Ac. F"
 	},
 	{
 		"assign": "No12910",
@@ -14402,7 +14402,7 @@
 	{
 		"assign": "No13330",
 		"jp_text": "穂群原学園女子制服Ｂ",
-		"tr_text": "Homurahara Academy F Uniform B"
+		"tr_text": "Homurahara Ac. F Uniform B"
 	},
 	{
 		"assign": "No13340",
@@ -16017,7 +16017,7 @@
 	{
 		"assign": "No14490",
 		"jp_text": "武偵高校アリア制服",
-		"tr_text": "Aria's Butei High School Uniform"
+		"tr_text": "Aria's Butei HS Uniform"
 	},
 	{
 		"assign": "No14491",
@@ -16032,7 +16032,7 @@
 	{
 		"assign": "No14720",
 		"jp_text": "武偵高校あかり制服",
-		"tr_text": "Akari's Butei High School Uniform"
+		"tr_text": "Akari's Butei HS Uniform"
 	},
 	{
 		"assign": "No14721",
@@ -18047,22 +18047,22 @@
 	{
 		"assign": "No15730",
 		"jp_text": "秀尽学園杏制服",
-		"tr_text": "Ann's Shujin Academy Uniform"
+		"tr_text": "Ann's Shujin Ac. Uniform"
 	},
 	{
 		"assign": "No15940",
 		"jp_text": "秀尽学園杏制服　雪",
-		"tr_text": "Ann's Shujin Academy Uniform Snow"
+		"tr_text": "Ann's Shujin Ac. Uniform Snow"
 	},
 	{
 		"assign": "No15941",
 		"jp_text": "秀尽学園杏制服　紅",
-		"tr_text": "Ann's Shujin Academy Uniform Red"
+		"tr_text": "Ann's Shujin Ac. Uniform Red"
 	},
 	{
 		"assign": "No15942",
 		"jp_text": "秀尽学園杏制服　夜",
-		"tr_text": "Ann's Shujin Academy Uniform Night"
+		"tr_text": "Ann's Shujin Ac. Uniform Night"
 	},
 	{
 		"assign": "No15840",

@@ -12546,23 +12546,23 @@
 	{
 		"assign": "3801909",
 		"jp_text": "清雅学園制服リボン　青",
-		"tr_text": "Seiga Academy Uniform Ribbon",
+		"tr_text": "Seiga Ac. Uniform Ribbon",
 		"jp_explain": "使用すると、新しいアクセサリーの\n清雅学園制服リボン　青が選択可能。",
-		"tr_explain": "Usando este tiquete, el accesorio\n\"Seiga Academy Uniform Ribbon\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Seiga Ac. Uniform Ribbon\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3801910",
 		"jp_text": "清雅学園制服リボン　赤",
-		"tr_text": "Red Seiga Academy Ribbon",
+		"tr_text": "Red Seiga Ac. Ribbon",
 		"jp_explain": "使用すると、新しいアクセサリーの\n清雅学園制服リボン　赤が選択可能。",
-		"tr_explain": "Usando este tiquete, el accesorio\n\"Red Seiga Academy Ribbon\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Red Seiga Ac. Ribbon\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3801911",
 		"jp_text": "清雅学園制服リボン　緑",
-		"tr_text": "Green Seiga Academy Ribbon",
+		"tr_text": "Green Seiga Ac. Ribbon",
 		"jp_explain": "使用すると、新しいアクセサリーの\n清雅学園制服リボン　緑が選択可能。",
-		"tr_explain": "Usando este tiquete, el accesorio\n\"Green Seiga Academy Ribbon\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Green Seiga Ac. Ribbon\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3801912",
@@ -13022,9 +13022,9 @@
 	{
 		"assign": "3801991",
 		"jp_text": "天星学院制服ネクタイ",
-		"tr_text": "Tensei Academy Uniform Tie",
+		"tr_text": "Tensei Ac. Uniform Tie",
 		"jp_explain": "使用すると、新しいアクセサリーの\n天星学院制服ネクタイが選択可能。",
-		"tr_explain": "Usando este tiquete, el accesorio\n\"Tensei Academy Uniform Tie\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Tensei Ac. Uniform Tie\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3801992",
@@ -13505,16 +13505,16 @@
 	{
 		"assign": "3802068",
 		"jp_text": "清雅学園制服ネクタイ　緑",
-		"tr_text": "Green Seiga Academy Tie",
+		"tr_text": "Green Seiga Ac. Tie",
 		"jp_explain": "使用すると、新しいアクセサリーの\n清雅学園制服ネクタイ　緑が選択可能。",
-		"tr_explain": "Usando este tiquete, el accesorio\n\"Green Seiga Academy Tie\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Green Seiga Ac. Tie\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3802069",
 		"jp_text": "清雅学園制服ネクタイ　赤",
-		"tr_text": "Red Seiga Academy Tie",
+		"tr_text": "Red Seiga Ac. Tie",
 		"jp_explain": "使用すると、新しいアクセサリーの\n清雅学園制服ネクタイ　赤が選択可能。",
-		"tr_explain": "Usando este tiquete, el accesorio\n\"Red Seiga Academy Tie\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Red Seiga Ac. Tie\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3802071",
@@ -17761,9 +17761,9 @@
 	{
 		"assign": "3802721",
 		"jp_text": "天星学院制服ネクタイＢ",
-		"tr_text": "Tensei Academy Uniform Tie B",
+		"tr_text": "Tensei Ac. Uniform Tie B",
 		"jp_explain": "使用すると、新しいアクセサリーの\n天星学院制服ネクタイＢが選択可能。",
-		"tr_explain": "Usando este tiquete, el accesorio\n\"Tensei Academy Uniform Tie B\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Tensei Ac. Uniform Tie B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3802722",

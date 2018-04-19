@@ -2062,32 +2062,32 @@
 	{
 		"assign": "No00310",
 		"jp_text": "アークス研修生男制服",
-		"tr_text": "ARKS Trainee Male Uniform"
+		"tr_text": "ARKS Trainee M"
 	},
 	{
 		"assign": "No00311",
 		"jp_text": "アークス研修生男制服　紅",
-		"tr_text": "ARKS Trainee Male Uniform Crimson"
+		"tr_text": "ARKS Trainee M Crimson"
 	},
 	{
 		"assign": "No00312",
 		"jp_text": "アークス研修生男制服　夜",
-		"tr_text": "ARKS Trainee Male Uniform Night"
+		"tr_text": "ARKS Trainee M Night"
 	},
 	{
 		"assign": "No00313",
 		"jp_text": "アークス研修生男制服　葉",
-		"tr_text": "ARKS Trainee Male Uniform Leaf"
+		"tr_text": "ARKS Trainee M Leaf"
 	},
 	{
 		"assign": "No00314",
 		"jp_text": "アークス研修生男制服　雅",
-		"tr_text": "ARKS Trainee Male Uniform Elegance"
+		"tr_text": "ARKS Trainee M Elegance"
 	},
 	{
 		"assign": "No00315",
 		"jp_text": "アークス研修生男制服　影",
-		"tr_text": "ARKS Trainee Male Uniform Shadow"
+		"tr_text": "ARKS Trainee M Shadow"
 	},
 	{
 		"assign": "No00230",
@@ -6257,7 +6257,7 @@
 	{
 		"assign": "No01630",
 		"jp_text": "第一高校二科生男子制服",
-		"tr_text": "First High School Course 2 Male Uniform"
+		"tr_text": "First HS Course 2 M"
 	},
 	{
 		"assign": "No01570",
@@ -6602,12 +6602,12 @@
 	{
 		"assign": "No12100",
 		"jp_text": "第一高校一科生女子制服",
-		"tr_text": "First High School Course 1 F"
+		"tr_text": "First HS Course 1 F"
 	},
 	{
 		"assign": "No12110",
 		"jp_text": "第一高校一科生女子制服Ｂ",
-		"tr_text": "First High School Course 1 Female Uniform B"
+		"tr_text": "First HS Course 1 F B"
 	},
 	{
 		"assign": "No12260",

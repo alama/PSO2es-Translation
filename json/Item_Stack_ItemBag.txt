@@ -1544,7 +1544,7 @@
 		"jp_text": "司波達也制服セット",
 		"tr_text": "Set Shiba Tatsuya Uniform",
 		"jp_explain": "以下のアイテムを獲得する。\n「第一高校二科生男子制服」\n「達也ショートヘア」\n「風紀委員腕章」",
-		"tr_explain": "Al usarlo recibiras:\n[First High School Course 2 Male\nUniform] [Tatsuya Short Hair]\n[Morals Committee Arm Band]"
+		"tr_explain": "Al usarlo recibiras:\n[First HS Course 2 M]\n[Tatsuya Short Hair]\n[Morals Committee Arm Band]"
 	},
 	{
 		"assign": "3300221",
@@ -1607,14 +1607,14 @@
 		"jp_text": "司波深雪制服セット",
 		"tr_text": "Set Shiba Miyuki Uniform",
 		"jp_explain": "以下のアイテムを獲得する。\n「第一高校一科生女子制服」\n「深雪ロングヘア」",
-		"tr_explain": "Al usarlo recibiras:\n[First High School Course 1 F]\n[Miyuki Long Hair]"
+		"tr_explain": "Al usarlo recibiras:\n[First HS Course 1 F]\n[Miyuki Long Hair]"
 	},
 	{
 		"assign": "3300230",
 		"jp_text": "司波深雪制服Ｂセット",
 		"tr_text": "Set Shiba Miyuki Uniform B",
 		"jp_explain": "以下のアイテムを獲得する。\n「第一高校一科生女子制服Ｂ」\n「深雪ロングヘア」",
-		"tr_explain": "Al usarlo recibiras:\n[First High School Course 1 Female\nUniform B] [Miyuki Long Hair]"
+		"tr_explain": "Al usarlo recibiras:\n[First HS Course 1 F B]\n[Miyuki Long Hair]"
 	},
 	{
 		"assign": "3300231",
@@ -13239,9 +13239,9 @@
 	{
 		"assign": "33002092",
 		"jp_text": "武偵高校アリア制服セット",
-		"tr_text": "Set Aria's Butei High School Uniform",
+		"tr_text": "Set Aria's Butei HS Uniform",
 		"jp_explain": "以下のアイテムを獲得する。\n「武偵高校アリア制服」\n「アリアツインテール」\n「＊アリアの双剣双銃」",
-		"tr_explain": "Al usarlo recibiras:\n[Aria's Butei High School Uniform]\n[Aria Twin Tail]\n[＊Aria's Twin Swords & Guns]"
+		"tr_explain": "Al usarlo recibiras:\n[Aria's Butei HS Uniform]\n[Aria Twin Tail]\n[＊Aria's Twin Swords & Guns]"
 	},
 	{
 		"assign": "33002093",
@@ -13260,9 +13260,9 @@
 	{
 		"assign": "33002095",
 		"jp_text": "武偵高校あかり制服セット",
-		"tr_text": "Set Akari's Butei High School Uniform",
+		"tr_text": "Set Akari's Butei HS Uniform",
 		"jp_explain": "以下のアイテムを獲得する。\n「武偵高校あかり制服」\n「あかりツインテール」\n「＊あかりの短機関銃」",
-		"tr_explain": "Al usarlo recibiras:\n[Akari's Butei High School Uniform]\n[Akari Twin Tail]\n[＊Akari's Micro Uzi]"
+		"tr_explain": "Al usarlo recibiras:\n[Akari's Butei HS Uniform]\n[Akari Twin Tail]\n[＊Akari's Micro Uzi]"
 	},
 	{
 		"assign": "33002096",
@@ -15964,28 +15964,28 @@
 		"jp_text": "天星学院制服Ｍセット",
 		"tr_text": "Set T. A. Uniform M",
 		"jp_explain": "以下のアイテムを獲得する。\n「天星学院制服Ｍ[Ba]」\n「ボクサーパンツ１[In]」\n「エンガショートヘア」",
-		"tr_explain": "Al usarlo recibiras:\n[Tensei Academy Uniform M [Ba]]\n[Boxer Briefs 1 [In]]\n[Enga Short Hair]"
+		"tr_explain": "Al usarlo recibiras:\n[Tensei Ac. Uniform M [Ba]]\n[Boxer Briefs 1 [In]]\n[Enga Short Hair]"
 	},
 	{
 		"assign": "33002485",
 		"jp_text": "天星学院制服Ｍ影セット",
 		"tr_text": "Set T. A. Uniform M Shadow",
 		"jp_explain": "以下のアイテムを獲得する。\n「天星学院制服Ｍ影[Ba]」\n「ボクサーパンツ１影[In]」\n「エンガショートヘア」",
-		"tr_explain": "Al usarlo recibiras:\n[Tensei Academy Uniform M Shadow\n[Ba]] [Boxer Briefs 1 Shadow [In]]\n[Enga Short Hair]"
+		"tr_explain": "Al usarlo recibiras:\n[Tensei Ac. Uniform M Shadow\n[Ba]] [Boxer Briefs 1 Shadow [In]]\n[Enga Short Hair]"
 	},
 	{
 		"assign": "33002486",
 		"jp_text": "天星学院制服Ｍ雪セット",
 		"tr_text": "Set T. A. Uniform M Snow",
 		"jp_explain": "以下のアイテムを獲得する。\n「天星学院制服Ｍ雪[Ba]」\n「ボクサーパンツ１鋼[In]」\n「エンガショートヘア」",
-		"tr_explain": "Al usarlo recibiras:\n[Tensei Academy Uniform M Snow\n[Ba]] [Boxer Briefs 1 Steel [In]]\n[Enga Short Hair]"
+		"tr_explain": "Al usarlo recibiras:\n[Tensei Ac. Uniform M Snow\n[Ba]] [Boxer Briefs 1 Steel [In]]\n[Enga Short Hair]"
 	},
 	{
 		"assign": "33002487",
 		"jp_text": "天星学院制服Ｍ夜セット",
 		"tr_text": "Set T. A. Uniform M Night",
 		"jp_explain": "以下のアイテムを獲得する。\n「天星学院制服Ｍ夜[Ba]」\n「ボクサーパンツ１夜[In]」\n「エンガショートヘア」",
-		"tr_explain": "Al usarlo recibiras:\n[Tensei Academy Uniform M Night\n[Ba]] [Boxer Briefs 1 Night [In]]\n[Enga Short Hair]"
+		"tr_explain": "Al usarlo recibiras:\n[Tensei Ac. Uniform M Night\n[Ba]] [Boxer Briefs 1 Night [In]]\n[Enga Short Hair]"
 	},
 	{
 		"assign": "33002488",
@@ -16062,28 +16062,28 @@
 		"jp_text": "天星学院制服Ｆセット",
 		"tr_text": "Set T. A. Uniform F",
 		"jp_explain": "以下のアイテムを獲得する。\n「天星学院制服Ｆ[Ba]」\n「ストライプ１[In]」",
-		"tr_explain": "Al usarlo recibiras:\n[Tensei Academy Uniform F [Ba]]\n[Stripe 1 [In]]"
+		"tr_explain": "Al usarlo recibiras:\n[Tensei Ac. Uniform F [Ba]]\n[Stripe 1 [In]]"
 	},
 	{
 		"assign": "33002499",
 		"jp_text": "天星学院制服Ｆ夜セット",
 		"tr_text": "Set T. A. Uniform F Night",
 		"jp_explain": "以下のアイテムを獲得する。\n「天星学院制服Ｆ夜[Ba]」\n「ストライプ１雪[In]」",
-		"tr_explain": "Al usarlo recibiras:\n[Tensei Academy Uniform F Night\n[Ba]] [Stripe 1 Snow [In]]"
+		"tr_explain": "Al usarlo recibiras:\n[Tensei Ac. Uniform F Night\n[Ba]] [Stripe 1 Snow [In]]"
 	},
 	{
 		"assign": "33002500",
 		"jp_text": "天星学院制服Ｆ雪セット",
 		"tr_text": "Set T. A. Uniform F Snow",
 		"jp_explain": "以下のアイテムを獲得する。\n「天星学院制服Ｆ雪[Ba]」\n「ストライプ１鋼[In]」",
-		"tr_explain": "Al usarlo recibiras:\n[Tensei Academy Uniform F Snow\n[Ba]] [Stripe 1 Steel [In]]"
+		"tr_explain": "Al usarlo recibiras:\n[Tensei Ac. Uniform F Snow\n[Ba]] [Stripe 1 Steel [In]]"
 	},
 	{
 		"assign": "33002501",
 		"jp_text": "天星学院制服Ｆ紅セット",
 		"tr_text": "Set T. A. Uniform F Crimson",
 		"jp_explain": "以下のアイテムを獲得する。\n「天星学院制服Ｆ紅[Ba]」\n「ストライプ１桜[In]」",
-		"tr_explain": "Al usarlo recibiras:\n[Tensei Academy Uniform F Crimson\n[Ba]] [Stripe 1 Sakura [In]]"
+		"tr_explain": "Al usarlo recibiras:\n[Tensei Ac. Uniform F Crimson\n[Ba]] [Stripe 1 Sakura [In]]"
 	},
 	{
 		"assign": "33002502",
@@ -16228,9 +16228,9 @@
 	{
 		"assign": "33002523",
 		"jp_text": "天星学院セット",
-		"tr_text": "Set Tensei Academy",
+		"tr_text": "Set Tensei Ac.",
 		"jp_explain": "以下のアイテムを獲得する。\n「天星学院ソックス」\n「天星学院ニーソックス」\n「天星学院制服ネクタイ」",
-		"tr_explain": "Al usarlo recibiras:\n[Tensei Academy Socks]\n[Tensei Academy Knee Socks]\n[Tensei Academy Uniform Tie]"
+		"tr_explain": "Al usarlo recibiras:\n[Tensei Ac. Socks]\n[Tensei Ac. Knee Socks]\n[Tensei Ac. Uniform Tie]"
 	},
 	{
 		"assign": "33002526",
@@ -22983,30 +22983,30 @@
 	{
 		"assign": "33003490",
 		"jp_text": "秀尽学園男子制服箱",
-		"tr_text": "Set Male Shujin Academy Uniform Box",
+		"tr_text": "Set Male Shujin Ac. Uniform Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「秀尽学園男子制服[Ba]」\n「ジョーカーヘアー」\n「ジョーカーメガネ」",
-		"tr_explain": "Al usarlo recibiras:\n[Male Shujin Academy Uniform [Ba]]\n[Joker Hair]\n[Joker Glasses]"
+		"tr_explain": "Al usarlo recibiras:\n[Male Shujin Ac. Uniform [Ba]]\n[Joker Hair]\n[Joker Glasses]"
 	},
 	{
 		"assign": "33003491",
 		"jp_text": "秀尽学園男子制服　紅箱",
-		"tr_text": "Set Male Shujin Academy Uniform Red Box",
+		"tr_text": "Set Male Shujin Ac. Uniform Red Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「秀尽学園男子制服　紅[Ba]」\n「ジョーカーヘアー」\n「ジョーカーメガネ」",
-		"tr_explain": "Al usarlo recibiras:\n[Male Shujin Academy Uniform\nCrimson [Ba]] [Joker Hair] [Joker\nGlasses]"
+		"tr_explain": "Al usarlo recibiras:\n[Male Shujin Ac. Uniform\nCrimson [Ba]] [Joker Hair] [Joker\nGlasses]"
 	},
 	{
 		"assign": "33003492",
 		"jp_text": "秀尽学園男子制服　夜箱",
-		"tr_text": "Set Male Shujin Academy Uniform Night Box",
+		"tr_text": "Set Male Shujin Ac. Uniform Night Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「秀尽学園男子制服　夜[Ba]」\n「ジョーカーヘアー」\n「ジョーカーメガネ」",
-		"tr_explain": "Al usarlo recibiras:\n[Male Shujin Academy Uniform Night\n[Ba]] [Joker Hair] [Joker Glasses]"
+		"tr_explain": "Al usarlo recibiras:\n[Male Shujin Ac. Uniform Night\n[Ba]] [Joker Hair] [Joker Glasses]"
 	},
 	{
 		"assign": "33003493",
 		"jp_text": "秀尽学園男子制服　雪箱",
-		"tr_text": "Set Male Shujin Academy Uniform Snow Box",
+		"tr_text": "Set Male Shujin Ac. Uniform Snow Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「秀尽学園男子制服　雪[Ba]」\n「ジョーカーヘアー」\n「ジョーカーメガネ」",
-		"tr_explain": "Al usarlo recibiras:\n[Male Shujin Academy Uniform Snow\n[Ba]] [Joker Hair] [Joker Glasses]"
+		"tr_explain": "Al usarlo recibiras:\n[Male Shujin Ac. Uniform Snow\n[Ba]] [Joker Hair] [Joker Glasses]"
 	},
 	{
 		"assign": "33003494",
@@ -23123,30 +23123,30 @@
 	{
 		"assign": "33003510",
 		"jp_text": "☆秀尽学園杏制服箱",
-		"tr_text": "Set ☆Ann's Shujin Academy Uniform Box",
+		"tr_text": "Set ☆Ann's Shujin Ac. Uniform Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「秀尽学園杏制服」\n「高巻杏ヘアー」",
-		"tr_explain": "Al usarlo recibiras:\n[Ann's Shujin Academy Uniform]\n[Ann Takamaki Hair]"
+		"tr_explain": "Al usarlo recibiras:\n[Ann's Shujin Ac. Uniform]\n[Ann Takamaki Hair]"
 	},
 	{
 		"assign": "33003511",
 		"jp_text": "☆秀尽学園杏制服　雪箱",
-		"tr_text": "Set ☆Ann's Shujin Academy Uniform Snow Box",
+		"tr_text": "Set ☆Ann's Shujin Ac. Uniform Snow Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「秀尽学園杏制服　雪」\n「高巻杏ヘアー」",
-		"tr_explain": "Al usarlo recibiras:\n[Ann's Shujin Academy Uniform\nSnow] [Ann Takamaki Hair]"
+		"tr_explain": "Al usarlo recibiras:\n[Ann's Shujin Ac. Uniform\nSnow] [Ann Takamaki Hair]"
 	},
 	{
 		"assign": "33003512",
 		"jp_text": "☆秀尽学園杏制服　紅箱",
-		"tr_text": "Set ☆Ann's Shujin Academy Uniform Red Box",
+		"tr_text": "Set ☆Ann's Shujin Ac. Uniform Red Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「秀尽学園杏制服　紅」\n「高巻杏ヘアー」",
-		"tr_explain": "Al usarlo recibiras:\n[Ann's Shujin Academy Uniform\nCrimson] [Ann Takamaki Hair]"
+		"tr_explain": "Al usarlo recibiras:\n[Ann's Shujin Ac. Uniform\nCrimson] [Ann Takamaki Hair]"
 	},
 	{
 		"assign": "33003513",
 		"jp_text": "☆秀尽学園杏制服　夜箱",
-		"tr_text": "Set ☆Ann's Shujin Academy Uniform Night Box",
+		"tr_text": "Set ☆Ann's Shujin Ac. Uniform Night Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「秀尽学園杏制服　夜」\n「高巻杏ヘアー」",
-		"tr_explain": "Al usarlo recibiras:\n[Ann's Shujin Academy Uniform\nNight] [Ann Takamaki Hair]"
+		"tr_explain": "Al usarlo recibiras:\n[Ann's Shujin Ac. Uniform\nNight] [Ann Takamaki Hair]"
 	},
 	{
 		"assign": "33003514",
@@ -25363,16 +25363,16 @@
 	{
 		"assign": "33003830",
 		"jp_text": "天星学院制服Ｍ玄セット",
-		"tr_text": "Set Tensei Academy Uniform M Mysterious",
+		"tr_text": "Set Tensei Ac. Uniform M Mysterious",
 		"jp_explain": "以下のアイテムを獲得する。\n「天星学院制服Ｍ玄[Ba]」\n「しっぽキーホルダー」",
-		"tr_explain": "Al usarlo recibiras:\n[Tensei Academy Uniform M\nMysterious [Ba]] [Tail Key Chain]"
+		"tr_explain": "Al usarlo recibiras:\n[Tensei Ac. Uniform M\nMysterious [Ba]] [Tail Key Chain]"
 	},
 	{
 		"assign": "33003831",
 		"jp_text": "天星学院制服Ｍ冬セット",
-		"tr_text": "Set Tensei Academy Uniform M Winter",
+		"tr_text": "Set Tensei Ac. Uniform M Winter",
 		"jp_explain": "以下のアイテムを獲得する。\n「天星学院制服Ｍ冬[Ba]」\n「しっぽキーホルダー」",
-		"tr_explain": "Al usarlo recibiras:\n[Tensei Academy Uniform M Winter\n[Ba]] [Tail Key Chain]"
+		"tr_explain": "Al usarlo recibiras:\n[Tensei Ac. Uniform M Winter\n[Ba]] [Tail Key Chain]"
 	},
 	{
 		"assign": "33003832",
@@ -25566,16 +25566,16 @@
 	{
 		"assign": "33003859",
 		"jp_text": "天星学院制服Ｆ茜セット",
-		"tr_text": "Set Tensei Academy Uniform F Madder",
+		"tr_text": "Set Tensei Ac. Uniform F Madder",
 		"jp_explain": "以下のアイテムを獲得する。\n「天星学院制服Ｆ茜[Ba]」\n「天星学院制服ネクタイＢ」",
-		"tr_explain": "Al usarlo recibiras:\n[Tensei Academy Uniform F Madder\n[Ba]] [Tensei Academy Uniform Tie\nB]"
+		"tr_explain": "Al usarlo recibiras:\n[Tensei Ac. Uniform F Madder\n[Ba]] [Tensei Ac. Uniform Tie\nB]"
 	},
 	{
 		"assign": "33003860",
 		"jp_text": "天星学院制服Ｆ影セット",
-		"tr_text": "Set Tensei Academy Uniform F Black",
+		"tr_text": "Set Tensei Ac. Uniform F Black",
 		"jp_explain": "以下のアイテムを獲得する。\n「天星学院制服Ｆ影[Ba]」\n「天星学院制服ネクタイＢ」",
-		"tr_explain": "Al usarlo recibiras:\n[Tensei Academy Uniform F Shadow\n[Ba]] [Tensei Academy Uniform Tie\nB]"
+		"tr_explain": "Al usarlo recibiras:\n[Tensei Ac. Uniform F Shadow\n[Ba]] [Tensei Ac. Uniform Tie\nB]"
 	},
 	{
 		"assign": "33003861",

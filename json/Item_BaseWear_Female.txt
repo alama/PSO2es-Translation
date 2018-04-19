@@ -282,9 +282,9 @@
 	{
 		"assign": "335055",
 		"jp_text": "清雅学園冬制服Ｆ[Ba]",
-		"tr_text": "Seiga Academy Winter Uniform F [Ba]",
+		"tr_text": "Seiga Ac. Winter Uniform F [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n清雅学園冬制服Ｆ[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Seiga Academy Winter Uniform F [Ba]\".\nSolo para personajes femeninos."
+		"tr_explain": "Un nuevo traje base\n\"Seiga Ac. Winter Uniform F [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "335056",
@@ -387,30 +387,30 @@
 	{
 		"assign": "335070",
 		"jp_text": "天星学院制服Ｆ[Ba]",
-		"tr_text": "Tensei Academy Uniform F [Ba]",
+		"tr_text": "Tensei Ac. Uniform F [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n天星学院制服Ｆ[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Tensei Academy Uniform F [Ba]\".\nSolo para personajes femeninos."
+		"tr_explain": "Un nuevo traje base\n\"Tensei Ac. Uniform F [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "335071",
 		"jp_text": "天星学院制服Ｆ夜[Ba]",
-		"tr_text": "Tensei Academy Uniform F Night [Ba]",
+		"tr_text": "Tensei Ac. Uniform F Night [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n天星学院制服Ｆ夜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Tensei Academy Uniform F Night [Ba]\".\nSolo para personajes femeninos."
+		"tr_explain": "Un nuevo traje base\n\"Tensei Ac. Uniform F Night [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "335072",
 		"jp_text": "天星学院制服Ｆ雪[Ba]",
-		"tr_text": "Tensei Academy F Snow [Ba]",
+		"tr_text": "Tensei Ac. F Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n天星学院制服Ｆ雪[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Tensei Academy F Snow [Ba]\".\nSolo para personajes femeninos."
+		"tr_explain": "Un nuevo traje base\n\"Tensei Ac. F Snow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "335073",
 		"jp_text": "天星学院制服Ｆ紅[Ba]",
-		"tr_text": "Tensei Academy Uniform F Red [Ba]",
+		"tr_text": "Tensei Ac. Uniform F Red [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n天星学院制服Ｆ紅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Tensei Academy Uniform F Red [Ba]\".\nSolo para personajes femeninos."
+		"tr_explain": "Un nuevo traje base\n\"Tensei Ac. Uniform F Red [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "335074",
@@ -646,9 +646,9 @@
 	{
 		"assign": "3350111",
 		"jp_text": "清雅学園夏制服Ｆ[Ba]",
-		"tr_text": "Seiga Academy Summer F [Ba]",
+		"tr_text": "Seiga Ac. Summer F [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n清雅学園夏制服Ｆ[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Seiga Academy Summer F [Ba]\".\nSolo para personajes femeninos."
+		"tr_explain": "Un nuevo traje base\n\"Seiga Ac. Summer F [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350112",
@@ -765,9 +765,9 @@
 	{
 		"assign": "3350131",
 		"jp_text": "清雅学園夏制服２Ｆ[Ba]",
-		"tr_text": "Seiga Academy Summer 2 F [Ba]",
+		"tr_text": "Seiga Ac. Summer 2 F [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n清雅学園夏制服２Ｆ[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Seiga Academy Summer 2 F [Ba]\".\nSolo para personajes femeninos."
+		"tr_explain": "Un nuevo traje base\n\"Seiga Ac. Summer 2 F [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350133",
@@ -2711,16 +2711,16 @@
 	{
 		"assign": "3350419",
 		"jp_text": "天星学院制服Ｆ茜[Ba]",
-		"tr_text": "Tensei Academy Uniform F Madder [Ba]",
+		"tr_text": "Tensei Ac. Uniform F Madder [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n天星学院制服Ｆ茜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Tensei Academy Uniform F Madder [Ba]\".\nSolo para personajes femeninos."
+		"tr_explain": "Un nuevo traje base\n\"Tensei Ac. Uniform F Madder [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350420",
 		"jp_text": "天星学院制服Ｆ影[Ba]",
-		"tr_text": "Tensei Academy Uniform F Shadow [Ba]",
+		"tr_text": "Tensei Ac. Uniform F Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n天星学院制服Ｆ影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Tensei Academy Uniform F Shadow [Ba]\".\nSolo para personajes femeninos."
+		"tr_explain": "Un nuevo traje base\n\"Tensei Ac. Uniform F Shadow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350421",

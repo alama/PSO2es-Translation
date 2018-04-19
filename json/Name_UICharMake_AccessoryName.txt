@@ -9637,17 +9637,17 @@
 	{
 		"assign": "No13110",
 		"jp_text": "清雅学園制服リボン　青",
-		"tr_text": "Seiga Academy Uniform Ribbon"
+		"tr_text": "Seiga Ac. Uniform Ribbon"
 	},
 	{
 		"assign": "No13111",
 		"jp_text": "清雅学園制服リボン　赤",
-		"tr_text": "Red Seiga Academy Ribbon"
+		"tr_text": "Red Seiga Ac. Ribbon"
 	},
 	{
 		"assign": "No13112",
 		"jp_text": "清雅学園制服リボン　緑",
-		"tr_text": "Green Seiga Academy Ribbon"
+		"tr_text": "Green Seiga Ac. Ribbon"
 	},
 	{
 		"assign": "No13120",
@@ -10047,7 +10047,7 @@
 	{
 		"assign": "No12781",
 		"jp_text": "天星学院制服ネクタイ",
-		"tr_text": "Tensei Academy Uniform Tie"
+		"tr_text": "Tensei Ac. Uniform Tie"
 	},
 	{
 		"assign": "No01151",
@@ -10437,7 +10437,7 @@
 	{
 		"assign": "No13941",
 		"jp_text": "清雅学園制服ネクタイ　赤",
-		"tr_text": "Red Seiga Academy Tie"
+		"tr_text": "Red Seiga Ac. Tie"
 	},
 	{
 		"assign": "No13942",
@@ -13697,7 +13697,7 @@
 	{
 		"assign": "No12782",
 		"jp_text": "天星学院制服ネクタイＢ",
-		"tr_text": "Tensei Academy Uniform Tie B"
+		"tr_text": "Tensei Ac. Uniform Tie B"
 	},
 	{
 		"assign": "No13191",

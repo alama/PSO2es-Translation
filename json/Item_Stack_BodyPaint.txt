@@ -1486,16 +1486,16 @@
 	{
 		"assign": "3290228",
 		"jp_text": "天星学院ニーソックス",
-		"tr_text": "Tensei Academy Knee Socks",
+		"tr_text": "Tensei Ac. Knee Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\n天星学院ニーソックスが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Tensei Academy Knee Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la pintura\n\"Tensei Ac. Knee Socks\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290229",
 		"jp_text": "天星学院ソックス",
-		"tr_text": "Tensei Academy Socks",
+		"tr_text": "Tensei Ac. Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\n天星学院ソックスが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Tensei Academy Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la pintura\n\"Tensei Ac. Socks\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290230",
@@ -1514,9 +1514,9 @@
 	{
 		"assign": "3290232",
 		"jp_text": "清雅学園制服タイツ",
-		"tr_text": "Seiga Academy Uniform Tights",
+		"tr_text": "Seiga Ac. Uniform Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\n清雅学園制服タイツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Seiga Academy Uniform Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la pintura\n\"Seiga Ac. Uniform Tights\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290235",
@@ -1556,16 +1556,16 @@
 	{
 		"assign": "3290240",
 		"jp_text": "清雅学園制服ハイソックス",
-		"tr_text": "Seiga Academy High Socks",
+		"tr_text": "Seiga Ac. High Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\n清雅学園制服ハイソックスが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Seiga Academy High Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la pintura\n\"Seiga Ac. High Socks\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290241",
 		"jp_text": "清雅学園制服ソックス",
-		"tr_text": "Seiga Academy Socks",
+		"tr_text": "Seiga Ac. Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\n清雅学園制服ソックスが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Seiga Academy Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la pintura\n\"Seiga Ac. Socks\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290242",
@@ -1633,9 +1633,9 @@
 	{
 		"assign": "3290251",
 		"jp_text": "清雅学園制服ハイソックスＢ",
-		"tr_text": "Seiga Academy Uniform High Socks B",
+		"tr_text": "Seiga Ac. Uniform High Socks B",
 		"jp_explain": "チケットを使用すると、ボディペイント\n清雅学園制服ハイソックスＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Seiga Academy Uniform High Socks\nB\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la pintura\n\"Seiga Ac. Uniform High Socks\nB\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290252",
