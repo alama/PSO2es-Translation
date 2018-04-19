@@ -291,7 +291,7 @@
 		"jp_text": "再受注時間リセット",
 		"tr_text": "Reinicio Ordenes de Cliente",
 		"jp_explain": "全てのクライアントオーダーの\n再受注時間をリセットし、\n再受注を可能にするチケット。",
-		"tr_explain": "Un tiquete que reinicia el tiempo\nde espera de todas las Ordenes de Cliente."
+		"tr_explain": "Un tiquete que reinicia el tiempo\nde espera de las Ordenes de Cliente."
 	},
 	{
 		"assign": "320045",

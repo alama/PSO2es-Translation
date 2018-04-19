@@ -158,7 +158,7 @@
 		"jp_text": "名工の標",
 		"tr_text": "Master Craftsman's Seal",
 		"jp_explain": "刀匠ジグが認めた証。\n更に貴重な資材と交換ができる。",
-		"tr_explain": "Reconocimiento como artesano\ndada por Zieg.\nPuedes cambiarlo por materiales valiosos."
+		"tr_explain": "Reconocimiento como artesano\ndada por Zieg.\nPuedes cambiarlo por materiales utiles."
 	},
 	{
 		"assign": "37026",
@@ -326,7 +326,7 @@
 		"jp_text": "アリーナブースター",
 		"tr_text": "Arena Booster",
 		"jp_explain": "励起状態のフォトン結晶。\n対象のフォトンに働きかけ\n特殊な能力発現を促進させる素材。",
-		"tr_explain": "Cristal de Photon en estado excitado.\nUn material que perfecciona la actividad,\nmejorando asi el potencial de un arma."
+		"tr_explain": "Cristal de Photon en estado excitado.\nUn material que afina la actividad,\nmejorando asi el potencial de un arma."
 	},
 	{
 		"assign": "37056",

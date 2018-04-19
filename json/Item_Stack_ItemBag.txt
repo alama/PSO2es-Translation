@@ -3033,42 +3033,42 @@
 	{
 		"assign": "3300630",
 		"jp_text": "アークス長ジャージーＭ袋",
-		"tr_text": "Set ARKS Long Polo M Bag",
+		"tr_text": "Set ARKS L. Polo M Bag",
 		"jp_explain": "以下のアイテムを獲得する。\n「アークス長ジャージーＭ」\n「サッカーボール」",
 		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Polo M]\n[Soccer Ball]"
 	},
 	{
 		"assign": "3300631",
 		"jp_text": "アークス長ジャージーＭ影袋",
-		"tr_text": "Set ARKS Long Polo M Shadow Bag",
+		"tr_text": "Set ARKS L. Polo M Shadow Bag",
 		"jp_explain": "以下のアイテムを獲得する。\n「アークス長ジャージーＭ影」\n「サッカーボール」",
 		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Polo M Shadow]\n[Soccer Ball]"
 	},
 	{
 		"assign": "3300632",
 		"jp_text": "アークス長ジャージーＭ雪袋",
-		"tr_text": "Set ARKS Long Polo M Snow Bag",
+		"tr_text": "Set ARKS L. Polo M Snow Bag",
 		"jp_explain": "以下のアイテムを獲得する。\n「アークス長ジャージーＭ雪」\n「サッカーボール」",
 		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Polo M Snow]\n[Soccer Ball]"
 	},
 	{
 		"assign": "3300633",
 		"jp_text": "アークス長ジャージーＭ雅袋",
-		"tr_text": "Set ARKS Long Polo M Elegance Bag",
+		"tr_text": "Set ARKS L. Polo M Elegance Bag",
 		"jp_explain": "以下のアイテムを獲得する。\n「アークス長ジャージーＭ雅」\n「サッカーボール」",
 		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Polo M Elegance]\n[Soccer Ball]"
 	},
 	{
 		"assign": "3300634",
 		"jp_text": "アークス長ジャージーＭ紅袋",
-		"tr_text": "Set ARKS Long Polo M Crimson Bag",
+		"tr_text": "Set ARKS L. Polo M Crimson Bag",
 		"jp_explain": "以下のアイテムを獲得する。\n「アークス長ジャージーＭ紅」\n「サッカーボール」",
 		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Polo M Crimson]\n[Soccer Ball]"
 	},
 	{
 		"assign": "3300635",
 		"jp_text": "アークス長ジャージーＭ葉袋",
-		"tr_text": "Set ARKS Long Polo M Chestnut Bag",
+		"tr_text": "Set ARKS L. Polo M Chestnut Bag",
 		"jp_explain": "以下のアイテムを獲得する。\n「アークス長ジャージーＭ葉」\n「サッカーボール」",
 		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Polo M Leaf]\n[Soccer Ball]"
 	},
@@ -3201,42 +3201,42 @@
 	{
 		"assign": "3300654",
 		"jp_text": "アークス長ジャージーＦ袋",
-		"tr_text": "Set ARKS Long Polo F Bag",
+		"tr_text": "Set ARKS L. Polo F Bag",
 		"jp_explain": "以下のアイテムを獲得する。\n「アークス長ジャージーＦ」\n「スポーツサングラスＢ」",
 		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Polo F]\n[Sports Sunglasses B]"
 	},
 	{
 		"assign": "3300655",
 		"jp_text": "アークス長ジャージーＦ夜袋",
-		"tr_text": "Set ARKS Long Polo F Night Bag",
+		"tr_text": "Set ARKS L. Polo F Night Bag",
 		"jp_explain": "以下のアイテムを獲得する。\n「アークス長ジャージーＦ夜」\n「スポーツサングラスＢ」",
 		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Polo F Night]\n[Sports Sunglasses B]"
 	},
 	{
 		"assign": "3300656",
 		"jp_text": "アークス長ジャージーＦ葉袋",
-		"tr_text": "Set ARKS Long Polo F Chestnut Bag",
+		"tr_text": "Set ARKS L. Polo F Chestnut Bag",
 		"jp_explain": "以下のアイテムを獲得する。\n「アークス長ジャージーＦ葉」\n「スポーツサングラスＢ」",
 		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Polo F Leaf]\n[Sports Sunglasses B]"
 	},
 	{
 		"assign": "3300657",
 		"jp_text": "アークス長ジャージーＦ紅袋",
-		"tr_text": "Set ARKS Long Polo F Crimson Bag",
+		"tr_text": "Set ARKS L. Polo F Crimson Bag",
 		"jp_explain": "以下のアイテムを獲得する。\n「アークス長ジャージーＦ紅」\n「スポーツサングラスＢ」",
 		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Polo F Crimson]\n[Sports Sunglasses B]"
 	},
 	{
 		"assign": "3300658",
 		"jp_text": "アークス長ジャージーＦ影袋",
-		"tr_text": "Set ARKS Long Polo F Shadow Bag",
+		"tr_text": "Set ARKS L. Polo F Shadow Bag",
 		"jp_explain": "以下のアイテムを獲得する。\n「アークス長ジャージーＦ影」\n「スポーツサングラスＢ」",
 		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Polo F Shadow]\n[Sports Sunglasses B]"
 	},
 	{
 		"assign": "3300659",
 		"jp_text": "アークス長ジャージーＦ雪袋",
-		"tr_text": "Set ARKS Long Polo F Snow Bag",
+		"tr_text": "Set ARKS L. Polo F Snow Bag",
 		"jp_explain": "以下のアイテムを獲得する。\n「アークス長ジャージーＦ雪」\n「スポーツサングラスＢ」",
 		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Polo F Snow]\n[Sports Sunglasses B]"
 	},
@@ -12287,14 +12287,14 @@
 	{
 		"assign": "33001956",
 		"jp_text": "アークス長ジャージーＭ袋Ｂ",
-		"tr_text": "Set ARKS Long Polo M Box B",
+		"tr_text": "Set ARKS L. Polo M Box B",
 		"jp_explain": "以下のアイテムを獲得する。\n「アークス長ジャージーＭ」\n「スポーツサングラスＢ」",
 		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Polo M]\n[Sports Sunglasses B]"
 	},
 	{
 		"assign": "33001957",
 		"jp_text": "Ａ長ジャージーＭ影袋Ｂ",
-		"tr_text": "Set ARKS Long Polo M Shadow Box B",
+		"tr_text": "Set ARKS L. Polo M Shadow Box B",
 		"jp_explain": "以下のアイテムを獲得する。\n「アークス長ジャージーＭ影」\n「スポーツサングラスＢ」",
 		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Polo M Shadow]\n[Sports Sunglasses B]"
 	},
@@ -14520,56 +14520,56 @@
 	{
 		"assign": "33002275",
 		"jp_text": "ソニア・レプカ聖龍箱",
-		"tr_text": "Set Sonia Repca Holy Dragon Box",
+		"tr_text": "Set Sonia Repca Holy D. Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「ソニア・レプカ聖龍」\n「ソニアロングヘア２」",
 		"tr_explain": "Al usarlo recibiras:\n[Sonia Repca Holy Dragon]\n[Sonia Long Hair 2]"
 	},
 	{
 		"assign": "33002276",
 		"jp_text": "ソニア・レプカ聖龍　紅箱",
-		"tr_text": "Set Sonia Repca Holy Dragon Red Box",
+		"tr_text": "Set Sonia Repca Holy D. Red Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「ソニア・レプカ聖龍　紅」\n「ソニアロングヘア２」",
 		"tr_explain": "Al usarlo recibiras:\n[Sonia Repca Holy Dragon Crimson]\n[Sonia Long Hair 2]"
 	},
 	{
 		"assign": "33002277",
 		"jp_text": "ソニア・レプカ聖龍　雪箱",
-		"tr_text": "Set Sonia Repca Holy Dragon Snow Box",
+		"tr_text": "Set Sonia Repca Holy D. Snow Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「ソニア・レプカ聖龍　雪」\n「ソニアロングヘア２」",
 		"tr_explain": "Al usarlo recibiras:\n[Sonia Repca Holy Dragon Snow]\n[Sonia Long Hair 2]"
 	},
 	{
 		"assign": "33002278",
 		"jp_text": "ソニア・レプカ聖龍　影箱",
-		"tr_text": "Set Sonia Repca Holy Dragon Black Box",
+		"tr_text": "Set Sonia Repca Holy D. Black Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「ソニア・レプカ聖龍　影」\n「ソニアロングヘア２」",
 		"tr_explain": "Al usarlo recibiras:\n[Sonia Repca Holy Dragon Shadow]\n[Sonia Long Hair 2]"
 	},
 	{
 		"assign": "33002279",
 		"jp_text": "ソニア・レプカ聖龍Ｂ箱",
-		"tr_text": "Set Sonia Repca Holy Dragon B Box",
+		"tr_text": "Set Sonia Repca Holy D. B Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「ソニア・レプカ聖龍Ｂ」\n「ソニアロングヘア２」",
 		"tr_explain": "Al usarlo recibiras:\n[Sonia Repca Holy Dragon B]\n[Sonia Long Hair 2]"
 	},
 	{
 		"assign": "33002280",
 		"jp_text": "ソニア・レプカ聖龍Ｂ紅箱",
-		"tr_text": "Set Sonia Repca Holy Dragon B Red Box",
+		"tr_text": "Set Sonia Repca Holy D. B Red Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「ソニア・レプカ聖龍Ｂ紅」\n「ソニアロングヘア２」",
 		"tr_explain": "Al usarlo recibiras:\n[Sonia Repca Holy Dragon B Red]\n[Sonia Long Hair 2]"
 	},
 	{
 		"assign": "33002281",
 		"jp_text": "ソニア・レプカ聖龍Ｂ雪箱",
-		"tr_text": "Set Sonia Repca Holy Dragon B Snow Box",
+		"tr_text": "Set Sonia Repca Holy D. B Snow Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「ソニア・レプカ聖龍Ｂ雪」\n「ソニアロングヘア２」",
 		"tr_explain": "Al usarlo recibiras:\n[Sonia Repca Holy Dragon B Snow]\n[Sonia Long Hair 2]"
 	},
 	{
 		"assign": "33002282",
 		"jp_text": "ソニア・レプカ聖龍Ｂ影箱",
-		"tr_text": "Set Sonia Repca Holy Dragon B Black Box",
+		"tr_text": "Set Sonia Repca Holy D. B Black Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「ソニア・レプカ聖龍Ｂ影」\n「ソニアロングヘア２」",
 		"tr_explain": "Al usarlo recibiras:\n[Sonia Repca Holy Dragon B Black]\n[Sonia Long Hair 2]"
 	},
@@ -15857,7 +15857,7 @@
 	{
 		"assign": "33002469",
 		"jp_text": "男性追加ボイス０４セット",
-		"tr_text": "Set Male Additional Voice 04",
+		"tr_text": "Set M Additional Voice 04",
 		"jp_explain": "以下のアイテムを獲得する。\n「男性追加ボイス０４」\n「男性Ｃ追加ボイス０４」",
 		"tr_explain": "Al usarlo recibiras:\n[Male Extra Voice 04]\n[Male C Extra Voice 04]"
 	},
@@ -19203,14 +19203,14 @@
 	{
 		"assign": "33002950",
 		"jp_text": "ミコッテＭグッズ箱",
-		"tr_text": "Set Miqo'te M Goods Box",
+		"tr_text": "Set Miqo'te M Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「ミコッテＭ・テイル」\n「ミコッテＭ・イヤー」\n「ミコッテＭ・フェイス」",
 		"tr_explain": "Al usarlo recibiras:\n[Miqo'te M Tail]\n[Miqo'te M Ears]\n[Miqo'te M Face]"
 	},
 	{
 		"assign": "33002951",
 		"jp_text": "ミコッテＦグッズ箱",
-		"tr_text": "Set Miqo'te F Goods Box",
+		"tr_text": "Set Miqo'te F Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「ミコッテＦ・テイル」\n「ミコッテＦ・イヤー」\n「ミコッテＦ・フェイス」",
 		"tr_explain": "Al usarlo recibiras:\n[Miqo'te F Tail]\n[Miqo'te F Ears]\n[Miqo'te F Face]"
 	},
@@ -22983,28 +22983,28 @@
 	{
 		"assign": "33003490",
 		"jp_text": "秀尽学園男子制服箱",
-		"tr_text": "Set Male Shujin Ac. Uniform Box",
+		"tr_text": "Set M Shujin Ac. Uniform Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「秀尽学園男子制服[Ba]」\n「ジョーカーヘアー」\n「ジョーカーメガネ」",
 		"tr_explain": "Al usarlo recibiras:\n[Male Shujin Ac. Uniform [Ba]]\n[Joker Hair]\n[Joker Glasses]"
 	},
 	{
 		"assign": "33003491",
 		"jp_text": "秀尽学園男子制服　紅箱",
-		"tr_text": "Set Male Shujin Ac. Uniform Red Box",
+		"tr_text": "Set M Shujin Ac. Uniform Red Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「秀尽学園男子制服　紅[Ba]」\n「ジョーカーヘアー」\n「ジョーカーメガネ」",
 		"tr_explain": "Al usarlo recibiras:\n[Male Shujin Ac. Uniform\nCrimson [Ba]] [Joker Hair] [Joker\nGlasses]"
 	},
 	{
 		"assign": "33003492",
 		"jp_text": "秀尽学園男子制服　夜箱",
-		"tr_text": "Set Male Shujin Ac. Uniform Night Box",
+		"tr_text": "Set M Shujin Ac. Uniform Night Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「秀尽学園男子制服　夜[Ba]」\n「ジョーカーヘアー」\n「ジョーカーメガネ」",
 		"tr_explain": "Al usarlo recibiras:\n[Male Shujin Ac. Uniform Night\n[Ba]] [Joker Hair] [Joker Glasses]"
 	},
 	{
 		"assign": "33003493",
 		"jp_text": "秀尽学園男子制服　雪箱",
-		"tr_text": "Set Male Shujin Ac. Uniform Snow Box",
+		"tr_text": "Set M Shujin Ac. Uniform Snow Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「秀尽学園男子制服　雪[Ba]」\n「ジョーカーヘアー」\n「ジョーカーメガネ」",
 		"tr_explain": "Al usarlo recibiras:\n[Male Shujin Ac. Uniform Snow\n[Ba]] [Joker Hair] [Joker Glasses]"
 	},
@@ -23151,28 +23151,28 @@
 	{
 		"assign": "33003514",
 		"jp_text": "☆佐倉双葉の私服箱",
-		"tr_text": "Set ☆Futaba Sakura's Casual Wear Box",
+		"tr_text": "Set ☆Futaba Sakura's Casuals Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「佐倉双葉の私服」\n「佐倉双葉ヘアー」",
 		"tr_explain": "Al usarlo recibiras:\n[Futaba Sakura's Casual Wear]\n[Futaba Sakura Hair]"
 	},
 	{
 		"assign": "33003515",
 		"jp_text": "☆佐倉双葉の私服　影箱",
-		"tr_text": "Set ☆Futaba Sakura's Casual Wear Black Box",
+		"tr_text": "Set ☆Futaba Sakura's Casuals Black Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「佐倉双葉の私服　影」\n「佐倉双葉ヘアー」",
 		"tr_explain": "Al usarlo recibiras:\n[Futaba Sakura's Casual Wear\nShadow] [Futaba Sakura Hair]"
 	},
 	{
 		"assign": "33003516",
 		"jp_text": "☆佐倉双葉の私服　雪箱",
-		"tr_text": "Set ☆Futaba Sakura's Casual Wear Snow Box",
+		"tr_text": "Set ☆Futaba Sakura's Casuals Snow Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「佐倉双葉の私服　雪」\n「佐倉双葉ヘアー」",
 		"tr_explain": "Al usarlo recibiras:\n[Futaba Sakura's Casual Wear\nSnow] [Futaba Sakura Hair]"
 	},
 	{
 		"assign": "33003517",
 		"jp_text": "☆佐倉双葉の私服　紅箱",
-		"tr_text": "Set ☆Futaba Sakura's Casual Wear Red Box",
+		"tr_text": "Set ☆Futaba Sakura's Casuals Red Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「佐倉双葉の私服　紅」\n「佐倉双葉ヘアー」",
 		"tr_explain": "Al usarlo recibiras:\n[Futaba Sakura's Casual Wear\nCrimson] [Futaba Sakura Hair]"
 	},
@@ -25034,7 +25034,7 @@
 	{
 		"assign": "33003783",
 		"jp_text": "天星初等部男子グッズ箱",
-		"tr_text": "Set Tensei Elementary Boys' Goods Box",
+		"tr_text": "Set Tensei Elem. Boys' Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「天星初等部ネクタイ」\n「天星初等部男子ソックス」",
 		"tr_explain": "Al usarlo recibiras:\n[Tensei Elementary Tie]\n[Tensei Elementary Socks M]"
 	},
@@ -27253,14 +27253,14 @@
 	{
 		"assign": "33004100",
 		"jp_text": "天星初等部スタイルセット",
-		"tr_text": "Set Tensei Elementary Style",
+		"tr_text": "Set Tensei Elem. Style",
 		"jp_explain": "以下のアイテムを獲得する。\n「短めぱっつんロング」\n「フラワーメガネ」",
 		"tr_explain": "Al usarlo recibiras:\n[Straight-Cut Bangs Long]\n[Flower Glasses]"
 	},
 	{
 		"assign": "33004101",
 		"jp_text": "天星初等部女子グッズ箱",
-		"tr_text": "Set Tensei Elementary Girls' Goods Box",
+		"tr_text": "Set Tensei Elem. Girls' Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「天星初等部ネクタイ」\n「天星初等部女子ソックス」",
 		"tr_explain": "Al usarlo recibiras:\n[Tensei Elementary Tie]\n[Tensei Elementary Socks F]"
 	},
@@ -27610,21 +27610,21 @@
 	{
 		"assign": "33004151",
 		"jp_text": "スティレットグッズ箱Ａ",
-		"tr_text": "Set Stylet Goods Box A",
+		"tr_text": "Set Stylet Box A",
 		"jp_explain": "以下のアイテムを獲得する。\n「肩部大型バランサー」\n「脚部大型バランサー」",
 		"tr_explain": "Al usarlo recibiras:\n[Large Shoulder Balancer]\n[Large Leg Balancer]"
 	},
 	{
 		"assign": "33004152",
 		"jp_text": "スティレットグッズ箱Ｂ",
-		"tr_text": "Set Stylet Goods Box B",
+		"tr_text": "Set Stylet Box B",
 		"jp_explain": "以下のアイテムを獲得する。\n「ＡＣＳクレイドルＡ」\n「ＡＣＳクレイドルＢ」",
 		"tr_explain": "Al usarlo recibiras:\n[ACS Cradle A]\n[ACS Cradle B]"
 	},
 	{
 		"assign": "33004153",
 		"jp_text": "スティレットＧグッズ箱",
-		"tr_text": "Set Stylet G Goods Box",
+		"tr_text": "Set Stylet G Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「Ｇ肩部大型バランサー」\n「Ｇ脚部大型バランサー」\n「ＧセイレーンMK２」",
 		"tr_explain": "Al usarlo recibiras:\n[G Large Shoulder Balancer]\n[G Large Leg Balancer]\n[G Siren MK2]"
 	},
