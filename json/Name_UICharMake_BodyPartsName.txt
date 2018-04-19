@@ -4017,32 +4017,32 @@
 	{
 		"assign": "No00660",
 		"jp_text": "アークスジャージーＭ",
-		"tr_text": "ARKS Jersey M"
+		"tr_text": "ARKS Polo M"
 	},
 	{
 		"assign": "No00661",
 		"jp_text": "アークスジャージーＭ影",
-		"tr_text": "ARKS Jersey M Shadow"
+		"tr_text": "ARKS Polo M Shadow"
 	},
 	{
 		"assign": "No00662",
 		"jp_text": "アークスジャージーＭ雪",
-		"tr_text": "ARKS Jersey M Snow"
+		"tr_text": "ARKS Polo M Snow"
 	},
 	{
 		"assign": "No00663",
 		"jp_text": "アークスジャージーＭ雅",
-		"tr_text": "ARKS Jersey M Elegance"
+		"tr_text": "ARKS Polo M Elegance"
 	},
 	{
 		"assign": "No00664",
 		"jp_text": "アークスジャージーＭ紅",
-		"tr_text": "ARKS Jersey M Crimson"
+		"tr_text": "ARKS Polo M Crimson"
 	},
 	{
 		"assign": "No00665",
 		"jp_text": "アークスジャージーＭ葉",
-		"tr_text": "ARKS Jersey M Leaf"
+		"tr_text": "ARKS Polo M Leaf"
 	},
 	{
 		"assign": "No00780",
@@ -4197,32 +4197,32 @@
 	{
 		"assign": "No10980",
 		"jp_text": "アークスジャージーＦ",
-		"tr_text": "ARKS Jersey F"
+		"tr_text": "ARKS Polo F"
 	},
 	{
 		"assign": "No10981",
 		"jp_text": "アークスジャージーＦ夜",
-		"tr_text": "ARKS Jersey F Night"
+		"tr_text": "ARKS Polo F Night"
 	},
 	{
 		"assign": "No10982",
 		"jp_text": "アークスジャージーＦ葉",
-		"tr_text": "ARKS Jersey F Leaf"
+		"tr_text": "ARKS Polo F Leaf"
 	},
 	{
 		"assign": "No10983",
 		"jp_text": "アークスジャージーＦ紅",
-		"tr_text": "ARKS Jersey F Crimson"
+		"tr_text": "ARKS Polo F Crimson"
 	},
 	{
 		"assign": "No10984",
 		"jp_text": "アークスジャージーＦ影",
-		"tr_text": "ARKS Jersey F Shadow"
+		"tr_text": "ARKS Polo F Shadow"
 	},
 	{
 		"assign": "No10985",
 		"jp_text": "アークスジャージーＦ雪",
-		"tr_text": "ARKS Jersey F Snow"
+		"tr_text": "ARKS Polo F Snow"
 	},
 	{
 		"assign": "No11120",
@@ -7017,32 +7017,32 @@
 	{
 		"assign": "No01770",
 		"jp_text": "アークス長ジャージーＭ",
-		"tr_text": "ARKS Long Jersey M"
+		"tr_text": "ARKS Long Polo M"
 	},
 	{
 		"assign": "No01771",
 		"jp_text": "アークス長ジャージーＭ影",
-		"tr_text": "ARKS Long Jersey M Shadow"
+		"tr_text": "ARKS Long Polo M Shadow"
 	},
 	{
 		"assign": "No01772",
 		"jp_text": "アークス長ジャージーＭ雪",
-		"tr_text": "ARKS Long Jersey M Snow"
+		"tr_text": "ARKS Long Polo M Snow"
 	},
 	{
 		"assign": "No01773",
 		"jp_text": "アークス長ジャージーＭ雅",
-		"tr_text": "ARKS Long Jersey M Elegance"
+		"tr_text": "ARKS Long Polo M Elegance"
 	},
 	{
 		"assign": "No01774",
 		"jp_text": "アークス長ジャージーＭ紅",
-		"tr_text": "ARKS Long Jersey M Crimson"
+		"tr_text": "ARKS Long Polo M Crimson"
 	},
 	{
 		"assign": "No01775",
 		"jp_text": "アークス長ジャージーＭ葉",
-		"tr_text": "ARKS Long Jersey M Leaf"
+		"tr_text": "ARKS Long Polo M Leaf"
 	},
 	{
 		"assign": "No02010",
@@ -7187,32 +7187,32 @@
 	{
 		"assign": "No12460",
 		"jp_text": "アークス長ジャージーＦ",
-		"tr_text": "ARKS Long Jersey F"
+		"tr_text": "ARKS Long Polo F"
 	},
 	{
 		"assign": "No12461",
 		"jp_text": "アークス長ジャージーＦ夜",
-		"tr_text": "ARKS Long Jersey F Night"
+		"tr_text": "ARKS Long Polo F Night"
 	},
 	{
 		"assign": "No12462",
 		"jp_text": "アークス長ジャージーＦ葉",
-		"tr_text": "ARKS Long Jersey F Leaf"
+		"tr_text": "ARKS Long Polo F Leaf"
 	},
 	{
 		"assign": "No12463",
 		"jp_text": "アークス長ジャージーＦ紅",
-		"tr_text": "ARKS Long Jersey F Crimson"
+		"tr_text": "ARKS Long Polo F Crimson"
 	},
 	{
 		"assign": "No12464",
 		"jp_text": "アークス長ジャージーＦ影",
-		"tr_text": "ARKS Long Jersey F Shadow"
+		"tr_text": "ARKS Long Polo F Shadow"
 	},
 	{
 		"assign": "No12465",
 		"jp_text": "アークス長ジャージーＦ雪",
-		"tr_text": "ARKS Long Jersey F Snow"
+		"tr_text": "ARKS Long Polo F Snow"
 	},
 	{
 		"assign": "No12320",

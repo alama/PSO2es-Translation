@@ -3033,44 +3033,44 @@
 	{
 		"assign": "3300630",
 		"jp_text": "アークス長ジャージーＭ袋",
-		"tr_text": "Set ARKS Long Jersey M Bag",
+		"tr_text": "Set ARKS Long Polo M Bag",
 		"jp_explain": "以下のアイテムを獲得する。\n「アークス長ジャージーＭ」\n「サッカーボール」",
-		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Jersey M]\n[Soccer Ball]"
+		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Polo M]\n[Soccer Ball]"
 	},
 	{
 		"assign": "3300631",
 		"jp_text": "アークス長ジャージーＭ影袋",
-		"tr_text": "Set ARKS Long Jersey M Shadow Bag",
+		"tr_text": "Set ARKS Long Polo M Shadow Bag",
 		"jp_explain": "以下のアイテムを獲得する。\n「アークス長ジャージーＭ影」\n「サッカーボール」",
-		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Jersey M Shadow]\n[Soccer Ball]"
+		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Polo M Shadow]\n[Soccer Ball]"
 	},
 	{
 		"assign": "3300632",
 		"jp_text": "アークス長ジャージーＭ雪袋",
-		"tr_text": "Set ARKS Long Jersey M Snow Bag",
+		"tr_text": "Set ARKS Long Polo M Snow Bag",
 		"jp_explain": "以下のアイテムを獲得する。\n「アークス長ジャージーＭ雪」\n「サッカーボール」",
-		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Jersey M Snow]\n[Soccer Ball]"
+		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Polo M Snow]\n[Soccer Ball]"
 	},
 	{
 		"assign": "3300633",
 		"jp_text": "アークス長ジャージーＭ雅袋",
-		"tr_text": "Set ARKS Long Jersey M Elegance Bag",
+		"tr_text": "Set ARKS Long Polo M Elegance Bag",
 		"jp_explain": "以下のアイテムを獲得する。\n「アークス長ジャージーＭ雅」\n「サッカーボール」",
-		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Jersey M Elegance]\n[Soccer Ball]"
+		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Polo M Elegance]\n[Soccer Ball]"
 	},
 	{
 		"assign": "3300634",
 		"jp_text": "アークス長ジャージーＭ紅袋",
-		"tr_text": "Set ARKS Long Jersey M Crimson Bag",
+		"tr_text": "Set ARKS Long Polo M Crimson Bag",
 		"jp_explain": "以下のアイテムを獲得する。\n「アークス長ジャージーＭ紅」\n「サッカーボール」",
-		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Jersey M Crimson]\n[Soccer Ball]"
+		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Polo M Crimson]\n[Soccer Ball]"
 	},
 	{
 		"assign": "3300635",
 		"jp_text": "アークス長ジャージーＭ葉袋",
-		"tr_text": "Set ARKS Long Jersey M Chestnut Bag",
+		"tr_text": "Set ARKS Long Polo M Chestnut Bag",
 		"jp_explain": "以下のアイテムを獲得する。\n「アークス長ジャージーＭ葉」\n「サッカーボール」",
-		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Jersey M Leaf]\n[Soccer Ball]"
+		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Polo M Leaf]\n[Soccer Ball]"
 	},
 	{
 		"assign": "3300636",
@@ -3082,23 +3082,23 @@
 	{
 		"assign": "3300637",
 		"jp_text": "アークスジャージーＭ雅袋",
-		"tr_text": "Set ARKS Jersey M Elegance Bag",
+		"tr_text": "Set ARKS Polo M Elegance Bag",
 		"jp_explain": "以下のアイテムを獲得する。\n「アークスジャージーＭ雅」\n「サッカーボール」",
-		"tr_explain": "Al usarlo recibiras:\n[ARKS Jersey M Elegance]\n[Soccer Ball]"
+		"tr_explain": "Al usarlo recibiras:\n[ARKS Polo M Elegance]\n[Soccer Ball]"
 	},
 	{
 		"assign": "3300638",
 		"jp_text": "アークスジャージーＭ紅袋",
-		"tr_text": "Set ARKS Jersey M Crimson Bag",
+		"tr_text": "Set ARKS Polo M Crimson Bag",
 		"jp_explain": "以下のアイテムを獲得する。\n「アークスジャージーＭ紅」\n「サッカーボール」",
-		"tr_explain": "Al usarlo recibiras:\n[ARKS Jersey M Crimson]\n[Soccer Ball]"
+		"tr_explain": "Al usarlo recibiras:\n[ARKS Polo M Crimson]\n[Soccer Ball]"
 	},
 	{
 		"assign": "3300639",
 		"jp_text": "アークスジャージーＭ葉袋",
-		"tr_text": "Set ARKS Jersey M Chestnut Bag",
+		"tr_text": "Set ARKS Polo M Chestnut Bag",
 		"jp_explain": "以下のアイテムを獲得する。\n「アークスジャージーＭ葉」\n「サッカーボール」",
-		"tr_explain": "Al usarlo recibiras:\n[ARKS Jersey M Leaf]\n[Soccer Ball]"
+		"tr_explain": "Al usarlo recibiras:\n[ARKS Polo M Leaf]\n[Soccer Ball]"
 	},
 	{
 		"assign": "3300640",
@@ -3201,44 +3201,44 @@
 	{
 		"assign": "3300654",
 		"jp_text": "アークス長ジャージーＦ袋",
-		"tr_text": "Set ARKS Long Jersey F Bag",
+		"tr_text": "Set ARKS Long Polo F Bag",
 		"jp_explain": "以下のアイテムを獲得する。\n「アークス長ジャージーＦ」\n「スポーツサングラスＢ」",
-		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Jersey F]\n[Sports Sunglasses B]"
+		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Polo F]\n[Sports Sunglasses B]"
 	},
 	{
 		"assign": "3300655",
 		"jp_text": "アークス長ジャージーＦ夜袋",
-		"tr_text": "Set ARKS Long Jersey F Night Bag",
+		"tr_text": "Set ARKS Long Polo F Night Bag",
 		"jp_explain": "以下のアイテムを獲得する。\n「アークス長ジャージーＦ夜」\n「スポーツサングラスＢ」",
-		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Jersey F Night]\n[Sports Sunglasses B]"
+		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Polo F Night]\n[Sports Sunglasses B]"
 	},
 	{
 		"assign": "3300656",
 		"jp_text": "アークス長ジャージーＦ葉袋",
-		"tr_text": "Set ARKS Long Jersey F Chestnut Bag",
+		"tr_text": "Set ARKS Long Polo F Chestnut Bag",
 		"jp_explain": "以下のアイテムを獲得する。\n「アークス長ジャージーＦ葉」\n「スポーツサングラスＢ」",
-		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Jersey F Leaf]\n[Sports Sunglasses B]"
+		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Polo F Leaf]\n[Sports Sunglasses B]"
 	},
 	{
 		"assign": "3300657",
 		"jp_text": "アークス長ジャージーＦ紅袋",
-		"tr_text": "Set ARKS Long Jersey F Crimson Bag",
+		"tr_text": "Set ARKS Long Polo F Crimson Bag",
 		"jp_explain": "以下のアイテムを獲得する。\n「アークス長ジャージーＦ紅」\n「スポーツサングラスＢ」",
-		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Jersey F Crimson]\n[Sports Sunglasses B]"
+		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Polo F Crimson]\n[Sports Sunglasses B]"
 	},
 	{
 		"assign": "3300658",
 		"jp_text": "アークス長ジャージーＦ影袋",
-		"tr_text": "Set ARKS Long Jersey F Shadow Bag",
+		"tr_text": "Set ARKS Long Polo F Shadow Bag",
 		"jp_explain": "以下のアイテムを獲得する。\n「アークス長ジャージーＦ影」\n「スポーツサングラスＢ」",
-		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Jersey F Shadow]\n[Sports Sunglasses B]"
+		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Polo F Shadow]\n[Sports Sunglasses B]"
 	},
 	{
 		"assign": "3300659",
 		"jp_text": "アークス長ジャージーＦ雪袋",
-		"tr_text": "Set ARKS Long Jersey F Snow Bag",
+		"tr_text": "Set ARKS Long Polo F Snow Bag",
 		"jp_explain": "以下のアイテムを獲得する。\n「アークス長ジャージーＦ雪」\n「スポーツサングラスＢ」",
-		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Jersey F Snow]\n[Sports Sunglasses B]"
+		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Polo F Snow]\n[Sports Sunglasses B]"
 	},
 	{
 		"assign": "3300660",
@@ -3271,23 +3271,23 @@
 	{
 		"assign": "3300664",
 		"jp_text": "アークスジャージーＦ紅袋",
-		"tr_text": "Set ARKS Jersey F Crimson Bag",
+		"tr_text": "Set ARKS Polo F Crimson Bag",
 		"jp_explain": "以下のアイテムを獲得する。\n「アークスジャージーＦ紅」\n「スポーツサングラスＢ」",
-		"tr_explain": "Al usarlo recibiras:\n[ARKS Jersey F Crimson]\n[Sports Sunglasses B]"
+		"tr_explain": "Al usarlo recibiras:\n[ARKS Polo F Crimson]\n[Sports Sunglasses B]"
 	},
 	{
 		"assign": "3300665",
 		"jp_text": "アークスジャージーＦ影袋",
-		"tr_text": "Set ARKS Jersey F Shadow Bag",
+		"tr_text": "Set ARKS Polo F Shadow Bag",
 		"jp_explain": "以下のアイテムを獲得する。\n「アークスジャージーＦ影」\n「スポーツサングラスＢ」",
-		"tr_explain": "Al usarlo recibiras:\n[ARKS Jersey F Shadow]\n[Sports Sunglasses B]"
+		"tr_explain": "Al usarlo recibiras:\n[ARKS Polo F Shadow]\n[Sports Sunglasses B]"
 	},
 	{
 		"assign": "3300666",
 		"jp_text": "アークスジャージーＦ雪袋",
-		"tr_text": "Set ARKS Jersey F Snow Bag",
+		"tr_text": "Set ARKS Polo F Snow Bag",
 		"jp_explain": "以下のアイテムを獲得する。\n「アークスジャージーＦ雪」\n「スポーツサングラスＢ」",
-		"tr_explain": "Al usarlo recibiras:\n[ARKS Jersey F Snow]\n[Sports Sunglasses B]"
+		"tr_explain": "Al usarlo recibiras:\n[ARKS Polo F Snow]\n[Sports Sunglasses B]"
 	},
 	{
 		"assign": "3300667",
@@ -12287,16 +12287,16 @@
 	{
 		"assign": "33001956",
 		"jp_text": "アークス長ジャージーＭ袋Ｂ",
-		"tr_text": "Set ARKS Long Jersey M Box B",
+		"tr_text": "Set ARKS Long Polo M Box B",
 		"jp_explain": "以下のアイテムを獲得する。\n「アークス長ジャージーＭ」\n「スポーツサングラスＢ」",
-		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Jersey M]\n[Sports Sunglasses B]"
+		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Polo M]\n[Sports Sunglasses B]"
 	},
 	{
 		"assign": "33001957",
 		"jp_text": "Ａ長ジャージーＭ影袋Ｂ",
-		"tr_text": "Set ARKS Long Jersey M Shadow Box B",
+		"tr_text": "Set ARKS Long Polo M Shadow Box B",
 		"jp_explain": "以下のアイテムを獲得する。\n「アークス長ジャージーＭ影」\n「スポーツサングラスＢ」",
-		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Jersey M Shadow]\n[Sports Sunglasses B]"
+		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Polo M Shadow]\n[Sports Sunglasses B]"
 	},
 	{
 		"assign": "33001958",
@@ -21109,7 +21109,7 @@
 		"jp_text": "☆Ａ長ジャージーＭ影セット",
 		"tr_text": "Set ☆A. Long Jersey M Shadow",
 		"jp_explain": "以下のアイテムを獲得する。\n「アークス長ジャージーＭ影」\n「スポーツサングラスＢ」",
-		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Jersey M Shadow]\n[Sports Sunglasses B]"
+		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Polo M Shadow]\n[Sports Sunglasses B]"
 	},
 	{
 		"assign": "33003223",
@@ -21235,7 +21235,7 @@
 		"jp_text": "☆ＡジャージーＦ影セット",
 		"tr_text": "Set ☆A. Jersey F Shadow",
 		"jp_explain": "以下のアイテムを獲得する。\n「アークスジャージーＦ影」\n「スポーツサングラスＢ」",
-		"tr_explain": "Al usarlo recibiras:\n[ARKS Jersey F Shadow]\n[Sports Sunglasses B]"
+		"tr_explain": "Al usarlo recibiras:\n[ARKS Polo F Shadow]\n[Sports Sunglasses B]"
 	},
 	{
 		"assign": "33003241",
@@ -30258,14 +30258,14 @@
 		"jp_text": "☆Ａ長ジャージーＭ玄セット",
 		"tr_text": "Set ☆A. Long Jersey M Mysterious",
 		"jp_explain": "以下のアイテムを獲得する。\n「アークス長ジャージーＭ玄」\n「ワイルドハチマキ　黒」\n「スポーツサングラスＢ」",
-		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Jersey M Mysterious]\n[Black Wild Headband]\n[Sports Sunglasses B]"
+		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Polo M Mysterious]\n[Black Wild Headband]\n[Sports Sunglasses B]"
 	},
 	{
 		"assign": "33004536",
 		"jp_text": "☆Ａ長ジャージーＭ葉セット",
 		"tr_text": "Set ☆A. Long Jersey M Leaf",
 		"jp_explain": "以下のアイテムを獲得する。\n「アークス長ジャージーＭ葉」\n「ワイルドハチマキ　黒」\n「スポーツサングラスＢ」",
-		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Jersey M Leaf]\n[Black Wild Headband]\n[Sports Sunglasses B]"
+		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Polo M Leaf]\n[Black Wild Headband]\n[Sports Sunglasses B]"
 	},
 	{
 		"assign": "33004537",
@@ -30447,14 +30447,14 @@
 		"jp_text": "☆Ａ長ジャージーＦ玄セット",
 		"tr_text": "Set ☆A. Long Jersey F Mysterious",
 		"jp_explain": "以下のアイテムを獲得する。\n「アークス長ジャージーＦ玄」\n「ヒーローハチマキ　黒」\n「縁太スクエアメガネ　黒」",
-		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Jersey F Mysterious]\n[Black Hero Headband]\n[Black Thick Square Glasses]"
+		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Polo F Mysterious]\n[Black Hero Headband]\n[Black Thick Square Glasses]"
 	},
 	{
 		"assign": "33004563",
 		"jp_text": "☆Ａ長ジャージーＦ葉セット",
 		"tr_text": "Set ☆A. Long Jersey F Leaf",
 		"jp_explain": "以下のアイテムを獲得する。\n「アークス長ジャージーＦ葉」\n「ヒーローハチマキ　黒」\n「縁太スクエアメガネ　黒」",
-		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Jersey F Leaf]\n[Black Hero Headband]\n[Black Thick Square Glasses]"
+		"tr_explain": "Al usarlo recibiras:\n[ARKS Long Polo F Leaf]\n[Black Hero Headband]\n[Black Thick Square Glasses]"
 	},
 	{
 		"assign": "33004564",
