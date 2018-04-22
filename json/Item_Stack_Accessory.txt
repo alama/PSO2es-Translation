@@ -13022,9 +13022,9 @@
 	{
 		"assign": "3801991",
 		"jp_text": "天星学院制服ネクタイ",
-		"tr_text": "Tensei Ac. Uniform Tie",
+		"tr_text": "Tensei AC Uniform Tie",
 		"jp_explain": "使用すると、新しいアクセサリーの\n天星学院制服ネクタイが選択可能。",
-		"tr_explain": "Usando este tiquete, el accesorio\n\"Tensei Ac. Uniform Tie\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Tensei AC Uniform Tie\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3801992",
@@ -17761,9 +17761,9 @@
 	{
 		"assign": "3802721",
 		"jp_text": "天星学院制服ネクタイＢ",
-		"tr_text": "Tensei Ac. Uniform Tie B",
+		"tr_text": "Tensei AC Uniform Tie B",
 		"jp_explain": "使用すると、新しいアクセサリーの\n天星学院制服ネクタイＢが選択可能。",
-		"tr_explain": "Usando este tiquete, el accesorio\n\"Tensei Ac. Uniform Tie B\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Tensei AC Uniform Tie B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3802722",

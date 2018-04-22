@@ -22983,7 +22983,7 @@
 	{
 		"assign": "33003490",
 		"jp_text": "秀尽学園男子制服箱",
-		"tr_text": "Set M Shujin Ac. Uniform Box",
+		"tr_text": "Set M Shujin AC Uniform Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「秀尽学園男子制服[Ba]」\n「ジョーカーヘアー」\n「ジョーカーメガネ」",
 		"tr_explain": "Al usarlo recibiras:\n[Male Shujin Ac. Uniform [Ba]]\n[Joker Hair]\n[Joker Glasses]"
 	},
@@ -23123,7 +23123,7 @@
 	{
 		"assign": "33003510",
 		"jp_text": "☆秀尽学園杏制服箱",
-		"tr_text": "Set ☆Ann's Shujin Ac. Uniform Box",
+		"tr_text": "Set ☆Ann's Shujin AC Uniform Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「秀尽学園杏制服」\n「高巻杏ヘアー」",
 		"tr_explain": "Al usarlo recibiras:\n[Ann's Shujin Ac. Uniform]\n[Ann Takamaki Hair]"
 	},
@@ -25573,7 +25573,7 @@
 	{
 		"assign": "33003860",
 		"jp_text": "天星学院制服Ｆ影セット",
-		"tr_text": "Set Tensei Ac. Uniform F Black",
+		"tr_text": "Set Tensei AC Uniform F Black",
 		"jp_explain": "以下のアイテムを獲得する。\n「天星学院制服Ｆ影[Ba]」\n「天星学院制服ネクタイＢ」",
 		"tr_explain": "Al usarlo recibiras:\n[Tensei Ac. Uniform F Shadow\n[Ba]] [Tensei Ac. Uniform Tie\nB]"
 	},
