@@ -21536,7 +21536,7 @@
 		"jp_text": "メタリックホーン　黒",
 		"tr_text": "Black Metallic Horns",
 		"jp_explain": "使用すると、新しいアクセサリーの\nメタリックホーン　黒が選択可能。",
-		"tr_explain": "Usando este tiquete, el accesorio\n\"REEMPBlack Metallic HornsLAZAR\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Black Metallic Horns\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803328",
