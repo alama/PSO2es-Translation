@@ -550,7 +550,7 @@
 		"jp_text": "ナギサスイムウェア[Ba]",
 		"tr_text": "Nagisa Swimwear [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nナギサスイムウェア[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Nagisa Swimwear [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Nagisa Swimwear [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "335098",
@@ -1005,105 +1005,105 @@
 		"jp_text": "セクシーモノキニ[Ba]",
 		"tr_text": "Sexy Monokini [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nセクシーモノキニ[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Sexy Monokini [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Sexy Monokini [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350168",
 		"jp_text": "セクシーモノキニ紅[Ba]",
 		"tr_text": "Sexy Monokini Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nセクシーモノキニ紅[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Sexy Monokini Crimson [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Sexy Monokini Crimson [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350169",
 		"jp_text": "セクシーモノキニ海[Ba]",
 		"tr_text": "Sexy Monokini Sea [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nセクシーモノキニ海[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Sexy Monokini Sea [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Sexy Monokini Sea [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350170",
 		"jp_text": "セクシーモノキニ雪[Ba]",
 		"tr_text": "Sexy Monokini Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nセクシーモノキニ雪[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Sexy Monokini Snow [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Sexy Monokini Snow [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350171",
 		"jp_text": "セクシーモノキニ影[Ba]",
 		"tr_text": "Sexy Monokini Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nセクシーモノキニ影[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Sexy Monokini Shadow [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Sexy Monokini Shadow [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350172",
 		"jp_text": "ハイネックビキニ[Ba]",
 		"tr_text": "High Neck Bikini [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nハイネックビキニ[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"High Neck Bikini [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"High Neck Bikini [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350173",
 		"jp_text": "ハイネックビキニ桜[Ba]",
 		"tr_text": "High Neck Bikini Sakura [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nハイネックビキニ桜[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"High Neck Bikini Sakura [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"High Neck Bikini Sakura [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350174",
 		"jp_text": "ハイネックビキニ空[Ba]",
 		"tr_text": "High Neck Bikini Sky [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nハイネックビキニ空[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"High Neck Bikini Sky [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"High Neck Bikini Sky [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350175",
 		"jp_text": "ハイネックビキニ月[Ba]",
 		"tr_text": "High Neck Bikini Moon [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nハイネックビキニ月[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"High Neck Bikini Moon [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"High Neck Bikini Moon [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350176",
 		"jp_text": "ハイネックビキニ萌[Ba]",
 		"tr_text": "High Neck Bikini Sprout [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nハイネックビキニ萌[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"High Neck Bikini Sprout [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"High Neck Bikini Sprout [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350177",
 		"jp_text": "セクシービキニ[Ba]",
 		"tr_text": "Sexy Bikini [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nセクシービキニ[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Sexy Bikini [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Sexy Bikini [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350178",
 		"jp_text": "セクシービキニ空[Ba]",
 		"tr_text": "Sexy Bikini Sky [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nセクシービキニ空[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Sexy Bikini Sky [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Sexy Bikini Sky [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350179",
 		"jp_text": "セクシービキニ／Ｆ[Ba]",
 		"tr_text": "Sexy Bikini / F [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nセクシービキニ／Ｆ[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Sexy Bikini / F [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Sexy Bikini / F [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350180",
 		"jp_text": "セクシービキニ／Ｆ空[Ba]",
 		"tr_text": "Sexy Bikini / F Sky [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nセクシービキニ／Ｆ空[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Sexy Bikini / F Sky [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Sexy Bikini / F Sky [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350181",
 		"jp_text": "セクシービキニ／Ｆ影[Ba]",
 		"tr_text": "Sexy Bikini / F Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nセクシービキニ／Ｆ影[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Sexy Bikini / F Shadow [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Sexy Bikini / F Shadow [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350182",
@@ -1271,21 +1271,21 @@
 		"jp_text": "セクシービキニ影[Ba]",
 		"tr_text": "Sexy Bikini Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nセクシービキニ影[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Sexy Bikini Shadow [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Sexy Bikini Shadow [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350208",
 		"jp_text": "セクシービキニ紅[Ba]",
 		"tr_text": "Sexy Bikini Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nセクシービキニ紅[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Sexy Bikini Crimson [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Sexy Bikini Crimson [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350209",
 		"jp_text": "セクシービキニ／Ｆ紅[Ba]",
 		"tr_text": "Sexy Bikini / F Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nセクシービキニ／Ｆ紅[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Sexy Bikini / F Crimson [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Sexy Bikini / F Crimson [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350210",
@@ -2524,14 +2524,14 @@
 		"jp_text": "ナナフンスタイル[Ba]",
 		"tr_text": "Nanafun Style [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nナナフンスタイル[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Nanafun Style [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Nanafun Style [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350391",
 		"jp_text": "ナナフンスタイル雪[Ba]",
 		"tr_text": "Nanafun Style Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nナナフンスタイル雪[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Nanafun Style Snow [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Nanafun Style Snow [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350392",
@@ -2580,7 +2580,7 @@
 		"jp_text": "ヨルハＡ２・レプカ[Ba]",
 		"tr_text": "YoRHa A2 Repca [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nヨルハＡ２・レプカ[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"YoRHa A2 Repca [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"YoRHa A2 Repca [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350401",
@@ -3350,42 +3350,42 @@
 		"jp_text": "ラカサシャミール[Ba]",
 		"tr_text": "Raqasa Shamir [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nラカサシャミール[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Raqasa Shamir [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Raqasa Shamir [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350514",
 		"jp_text": "ラカサシャミール紅[Ba]",
 		"tr_text": "Raqasa Shamir Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nラカサシャミール紅[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Raqasa Shamir Crimson [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Raqasa Shamir Crimson [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350515",
 		"jp_text": "ラカサシャミール海[Ba]",
 		"tr_text": "Raqasa Shamir Sea [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nラカサシャミール海[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Raqasa Shamir Sea [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Raqasa Shamir Sea [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350516",
 		"jp_text": "ラカサシャミール雅[Ba]",
 		"tr_text": "Raqasa Shamir Elegance [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nラカサシャミール雅[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Raqasa Shamir Elegance [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Raqasa Shamir Elegance [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350517",
 		"jp_text": "ラカサシャミール雪[Ba]",
 		"tr_text": "Raqasa Shamir Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nラカサシャミール雪[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Raqasa Shamir Snow [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Raqasa Shamir Snow [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350518",
 		"jp_text": "ラカサシャミール影[Ba]",
 		"tr_text": "Raqasa Shamir Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nラカサシャミール影[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Raqasa Shamir Shadow [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Raqasa Shamir Shadow [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350519",
@@ -3434,56 +3434,56 @@
 		"jp_text": "レディサーフパンツ[Ba]",
 		"tr_text": "Lady Surf Pants [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nレディサーフパンツ[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Lady Surf Pants [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Lady Surf Pants [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350526",
 		"jp_text": "レディサーフパンツ紅[Ba]",
 		"tr_text": "Lady Surf Pants Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nレディサーフパンツ紅[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Lady Surf Pants Crimson [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Lady Surf Pants Crimson [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350527",
 		"jp_text": "レディサーフパンツ海[Ba]",
 		"tr_text": "Lady Surf Pants Sea [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nレディサーフパンツ海[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Lady Surf Pants Sea [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Lady Surf Pants Sea [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350528",
 		"jp_text": "レディサーフパンツ月[Ba]",
 		"tr_text": "Lady Surf Pants Moon [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nレディサーフパンツ月[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Lady Surf Pants Moon [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Lady Surf Pants Moon [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350529",
 		"jp_text": "レディサーフパンツ雪[Ba]",
 		"tr_text": "Lady Surf Pants Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nレディサーフパンツ雪[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Lady Surf Pants Snow [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Lady Surf Pants Snow [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350530",
 		"jp_text": "レディサーフパンツ影[Ba]",
 		"tr_text": "Lady Surf Pants Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nレディサーフパンツ影[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Lady Surf Pants Shadow [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Lady Surf Pants Shadow [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350531",
 		"jp_text": "ゴールドＳビキニ／Ｆ[Ba]",
 		"tr_text": "Gold S Bikini/F [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nゴールドＳビキニ／Ｆ[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Gold S Bikini/F [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Gold S Bikini/F [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350532",
 		"jp_text": "シルバーＳビキニ／Ｆ[Ba]",
 		"tr_text": "Silver S Bikini/F [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nシルバーＳビキニ／Ｆ[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Silver S Bikini/F [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Silver S Bikini/F [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350533",
@@ -3917,28 +3917,28 @@
 		"jp_text": "セクシーモノキニ冬[Ba]",
 		"tr_text": "Sexy Monokini Winter [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nセクシーモノキニ冬[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Sexy Monokini Winter [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Sexy Monokini Winter [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350609",
 		"jp_text": "セクシーモノキニ玄[Ba]",
 		"tr_text": "Sexy Monokini Mysterious [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nセクシーモノキニ玄[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Sexy Monokini Mysterious [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Sexy Monokini Mysterious [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350610",
 		"jp_text": "ハイネックビキニ涼[Ba]",
 		"tr_text": "High Neck Bikini Cool [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nハイネックビキニ涼[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"High Neck Bikini Cool [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"High Neck Bikini Cool [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350611",
 		"jp_text": "ハイネックビキニ雪[Ba]",
 		"tr_text": "High Neck Bikini Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nハイネックビキニ雪[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"High Neck Bikini Snow [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"High Neck Bikini Snow [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350612",
@@ -3980,42 +3980,42 @@
 		"jp_text": "ヤミガラス・レプカ[Ba]",
 		"tr_text": "Yamigarasu Repca [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nヤミガラス・レプカ[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Yamigarasu Repca [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Yamigarasu Repca [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350623",
 		"jp_text": "ヤミガラス・レプカ紅[Ba]",
 		"tr_text": "Yamigarasu Repca Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nヤミガラス・レプカ紅[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Yamigarasu Repca Crimson [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Yamigarasu Repca Crimson [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350624",
 		"jp_text": "ヤミガラス・レプカ夜[Ba]",
 		"tr_text": "Yamigarasu Repca Night [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nヤミガラス・レプカ夜[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Yamigarasu Repca Night [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Yamigarasu Repca Night [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350625",
 		"jp_text": "ヤミガラス・レプカ茜[Ba]",
 		"tr_text": "Yamigarasu Repca Madder [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nヤミガラス・レプカ茜[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Yamigarasu Repca Madder [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Yamigarasu Repca Madder [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350626",
 		"jp_text": "ヤミガラス・レプカ静[Ba]",
 		"tr_text": "Yamigarasu Repca Tranquil [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nヤミガラス・レプカ静[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Yamigarasu Repca Tranquil [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Yamigarasu Repca Tranquil [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350627",
 		"jp_text": "ヤミガラス・レプカ影[Ba]",
 		"tr_text": "Yamigarasu Repca Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nヤミガラス・レプカ影[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Yamigarasu Repca Shadow [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Yamigarasu Repca Shadow [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350628",
@@ -5408,42 +5408,42 @@
 		"jp_text": "アークマチャーム[Ba]",
 		"tr_text": "Arkuma Charm [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nアークマチャーム[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Arkuma Charm [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Arkuma Charm [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350841",
 		"jp_text": "アークマチャーム雪[Ba]",
 		"tr_text": "Arkuma Charm Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nアークマチャーム雪[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Arkuma Charm Snow [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Arkuma Charm Snow [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350842",
 		"jp_text": "アークマチャーム海[Ba]",
 		"tr_text": "Arkuma Charm Sea [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nアークマチャーム海[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Arkuma Charm Sea [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Arkuma Charm Sea [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350843",
 		"jp_text": "アークマチャーム桜[Ba]",
 		"tr_text": "Arkuma Charm Sakura [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nアークマチャーム桜[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Arkuma Charm Sakura [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Arkuma Charm Sakura [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350844",
 		"jp_text": "アークマチャーム空[Ba]",
 		"tr_text": "Arkuma Charm Sky [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nアークマチャーム空[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Arkuma Charm Sky [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Arkuma Charm Sky [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350845",
 		"jp_text": "アークマチャーム紅[Ba]",
 		"tr_text": "Arkuma Charm Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nアークマチャーム紅[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Arkuma Charm Crimson [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Arkuma Charm Crimson [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350846",
@@ -5723,98 +5723,98 @@
 		"jp_text": "零氷散華之衣Ｆ[Ba]",
 		"tr_text": "Reihyou Sange F [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n零氷散華之衣Ｆ[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350889",
 		"jp_text": "零氷散華之衣Ｆ紅[Ba]",
 		"tr_text": "Reihyou Sange F Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n零氷散華之衣Ｆ紅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350890",
 		"jp_text": "零氷散華之衣Ｆ雅[Ba]",
 		"tr_text": "Reihyou Sange F Elegant [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n零氷散華之衣Ｆ雅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350891",
 		"jp_text": "零氷散華之衣Ｆ葉[Ba]",
 		"tr_text": "Reihyou Sange F Leaf [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n零氷散華之衣Ｆ葉[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350892",
 		"jp_text": "零氷散華之衣Ｆ雪[Ba]",
 		"tr_text": "Reihyou Sange F Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n零氷散華之衣Ｆ雪[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350893",
 		"jp_text": "零氷散華之衣Ｆ影[Ba]",
 		"tr_text": "Reihyou Sange F Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n零氷散華之衣Ｆ影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350894",
 		"jp_text": "セーラースイムウェア[Ba]",
 		"tr_text": "Sailor Swimwear [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nセーラースイムウェア[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350895",
 		"jp_text": "セーラースイムウェア紅[Ba]",
 		"tr_text": "Sailor Swimwear Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nセーラースイムウェア紅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350896",
 		"jp_text": "セーラースイムウェア影[Ba]",
 		"tr_text": "Sailor Swimwear Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nセーラースイムウェア影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350897",
 		"jp_text": "セーラースイムウェア雪[Ba]",
 		"tr_text": "Sailor Swimwear Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nセーラースイムウェア雪[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350898",
 		"jp_text": "セーラースイムウェア海[Ba]",
 		"tr_text": "Sailor Swimwear Sea [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nセーラースイムウェア海[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350899",
 		"jp_text": "セーラースイムウェア桜[Ba]",
 		"tr_text": "Sailor Swimwear Sakura [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nセーラースイムウェア桜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350900",
 		"jp_text": "ドンキ ハーフパンツＦ１[Ba]",
-		"tr_text": "",
+		"tr_text": "Donki Shorts F1 [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nドンキ ハーフパンツＦ１[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Donki Shorts F1 [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350901",
 		"jp_text": "ドンキ ハーフパンツＦ２[Ba]",
-		"tr_text": "",
+		"tr_text": "Donki Shorts F2 [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nドンキ ハーフパンツＦ２[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Donki Shorts F2 [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350902",
@@ -5877,335 +5877,335 @@
 		"jp_text": "傾花恋詠　冬[Ba]",
 		"tr_text": "Nanamebana R. Winter [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n傾花恋詠　冬[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Nanamebana R. Winter [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350911",
 		"jp_text": "レンジェルヴェント[Ba]",
-		"tr_text": "",
+		"tr_text": "Ranger Vent [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nレンジェルヴェント[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Ranger Vent [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350912",
 		"jp_text": "レンジェルヴェント紅[Ba]",
-		"tr_text": "",
+		"tr_text": "Ranger Vent Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nレンジェルヴェント紅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Ranger Vent Crimson [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350913",
 		"jp_text": "レンジェルヴェント影[Ba]",
-		"tr_text": "",
+		"tr_text": "Ranger Vent Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nレンジェルヴェント影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Ranger Vent Shadow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350914",
 		"jp_text": "レンジェルヴェント雪[Ba]",
-		"tr_text": "",
+		"tr_text": "Ranger Vent Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nレンジェルヴェント雪[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Ranger Vent Snow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350915",
 		"jp_text": "レンジェルヴェント夜[Ba]",
-		"tr_text": "",
+		"tr_text": "Ranger Vent Night [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nレンジェルヴェント夜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Ranger Vent Night [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350916",
 		"jp_text": "レンジェルヴェント桜[Ba]",
-		"tr_text": "",
+		"tr_text": "Ranger Vent Sakura [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nレンジェルヴェント桜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Ranger Vent Sakura [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350917",
 		"jp_text": "ショートサロペット[Ba]",
-		"tr_text": "",
+		"tr_text": "Short Salopette [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nショートサロペット[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Short Salopette [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350918",
 		"jp_text": "ショートサロペット影[Ba]",
-		"tr_text": "",
+		"tr_text": "Short Salopette Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nショートサロペット影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Short Salopette Shadow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350919",
 		"jp_text": "ショートサロペット紅[Ba]",
-		"tr_text": "",
+		"tr_text": "Short Salopette Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nショートサロペット紅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Short Salopette Crimson [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350920",
 		"jp_text": "ショートサロペット雪[Ba]",
-		"tr_text": "",
+		"tr_text": "Short Salopette Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nショートサロペット雪[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Short Salopette Snow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350921",
 		"jp_text": "ボウタイミニスカート[Ba]",
-		"tr_text": "",
+		"tr_text": "Bowtie Miniskirt [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nボウタイミニスカート[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Bowtie Miniskirt [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350922",
 		"jp_text": "ボウタイミニスカート桜[Ba]",
-		"tr_text": "",
+		"tr_text": "Bowtie Miniskirt Sakura [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nボウタイミニスカート桜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Bowtie Miniskirt Sakura [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350923",
 		"jp_text": "ボウタイミニスカート雪[Ba]",
-		"tr_text": "",
+		"tr_text": "Bowtie Miniskirt Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nボウタイミニスカート雪[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Bowtie Miniskirt Snow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350924",
 		"jp_text": "ボウタイミニスカート影[Ba]",
-		"tr_text": "",
+		"tr_text": "Bowtie Miniskirt Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nボウタイミニスカート影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Bowtie Miniskirt Shadow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350925",
 		"jp_text": "ハリエットの外出着[Ba]",
-		"tr_text": "",
+		"tr_text": "Harriet Casuals [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nハリエットの外出着[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Harriet Casuals [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350926",
 		"jp_text": "ハリエットの外出着　紅[Ba]",
-		"tr_text": "",
+		"tr_text": "Harriet Casuals Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nハリエットの外出着　紅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Harriet Casuals Crimson [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350927",
 		"jp_text": "ハリエットの外出着　桜[Ba]",
-		"tr_text": "",
+		"tr_text": "Harriet Casuals Sakura [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nハリエットの外出着　桜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Harriet Casuals Sakura [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350928",
 		"jp_text": "ハリエットの外出着　影[Ba]",
-		"tr_text": "",
+		"tr_text": "Harriet Casuals Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nハリエットの外出着　影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Harriet Casuals Shadow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350929",
 		"jp_text": "ハリエットの外出着　雪[Ba]",
-		"tr_text": "",
+		"tr_text": "Harriet Casuals Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nハリエットの外出着　雪[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Harriet Casuals Snow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350930",
 		"jp_text": "ハリエットの外出着　玄[Ba]",
-		"tr_text": "",
+		"tr_text": "Harriet Casuals Mysterious [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nハリエットの外出着　玄[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Harriet Casuals Mysterious [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350931",
 		"jp_text": "グラスラージュフリル[Ba]",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいベースウェアの\nグラスラージュフリル[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350932",
 		"jp_text": "グラスラージュフリル影[Ba]",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいベースウェアの\nグラスラージュフリル影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350933",
 		"jp_text": "グラスラージュフリル海[Ba]",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいベースウェアの\nグラスラージュフリル海[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350934",
 		"jp_text": "グラスラージュフリル紅[Ba]",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいベースウェアの\nグラスラージュフリル紅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350935",
 		"jp_text": "グラスラージュフリル月[Ba]",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいベースウェアの\nグラスラージュフリル月[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350936",
 		"jp_text": "グラスラージュフリル雪[Ba]",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいベースウェアの\nグラスラージュフリル雪[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350937",
 		"jp_text": "メルキュリーナ[Ba]",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいベースウェアの\nメルキュリーナ[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350938",
 		"jp_text": "メルキュリーナ影[Ba]",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいベースウェアの\nメルキュリーナ影[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350939",
 		"jp_text": "メルキュリーナ紅[Ba]",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいベースウェアの\nメルキュリーナ紅[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350940",
 		"jp_text": "メルキュリーナ海[Ba]",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいベースウェアの\nメルキュリーナ海[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350941",
 		"jp_text": "メルキュリーナ雅[Ba]",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいベースウェアの\nメルキュリーナ雅[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350942",
 		"jp_text": "メルキュリーナ雪[Ba]",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいベースウェアの\nメルキュリーナ雪[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3350943",
 		"jp_text": "フレイランツェＨ[Ba]",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいベースウェアの\nフレイランツェＨ[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350944",
 		"jp_text": "フレイランツェＨ夜[Ba]",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいベースウェアの\nフレイランツェＨ夜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350945",
 		"jp_text": "フレイランツェＨ桜[Ba]",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいベースウェアの\nフレイランツェＨ桜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350946",
 		"jp_text": "フレイランツェＨ銀[Ba]",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいベースウェアの\nフレイランツェＨ銀[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350947",
 		"jp_text": "フレイランツェＨ月[Ba]",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいベースウェアの\nフレイランツェＨ月[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350948",
 		"jp_text": "フレイランツェＨ影[Ba]",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいベースウェアの\nフレイランツェＨ影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350949",
 		"jp_text": "ラッピーミミクリＦ[Ba]",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいベースウェアの\nラッピーミミクリＦ[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350950",
 		"jp_text": "天星初等部制服Ｆ玄[Ba]",
-		"tr_text": "",
+		"tr_text": "Tensei Elem. F Mysterious [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n天星初等部制服Ｆ玄[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Tensei Elem. F Mysterious [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350951",
 		"jp_text": "天星初等部制服Ｆ雪[Ba]",
-		"tr_text": "",
+		"tr_text": "Tensei Elem. F Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n天星初等部制服Ｆ雪[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Tensei Elem. F Snow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350952",
 		"jp_text": "スーツスカート影[Ba]",
-		"tr_text": "",
+		"tr_text": "Skirt Suit Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nスーツスカート影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Skirt Suit Shadow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350953",
 		"jp_text": "スーツスカート２影[Ba]",
-		"tr_text": "",
+		"tr_text": "Skirt Suit 2 Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nスーツスカート２影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Skirt Suit 2 Shadow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350954",
 		"jp_text": "氷を召す理装　玄[Ba]",
-		"tr_text": "",
+		"tr_text": "Frigid Ideal Mysterious [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n氷を召す理装　玄[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Frigid Ideal Mysterious [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350955",
 		"jp_text": "氷を召す理装　雪[Ba]",
-		"tr_text": "",
+		"tr_text": "Frigid Ideal Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n氷を召す理装　雪[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Frigid Ideal Snow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350956",
 		"jp_text": "ラッピーミミクリＦ影[Ba]",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいベースウェアの\nラッピーミミクリＦ影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350957",
 		"jp_text": "ラッピーミミクリＦ桜[Ba]",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいベースウェアの\nラッピーミミクリＦ桜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes femeninos."
 	}
 ]

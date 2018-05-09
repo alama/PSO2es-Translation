@@ -1299,118 +1299,118 @@
 		"jp_text": "シャルフナーデル",
 		"tr_text": "Scharfnadel",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nシャルフナーデルが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el maquillaje\n\"Scharfnadel\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3250203",
 		"jp_text": "フォルニスペイント氷光",
 		"tr_text": "Fornis Paint Ice / Light",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nフォルニスペイント氷光が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el maquillaje\n\"Fornis Paint Ice / Light\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3250204",
 		"jp_text": "フォルニスペイント闇炎",
 		"tr_text": "Fornis Paint Dark / Fire",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nフォルニスペイント闇炎が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el maquillaje\n\"Fornis Paint Dark / Fire\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3250205",
 		"jp_text": "フォルニスペイント雷風",
 		"tr_text": "Fornis Paint Lightning / Wind",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nフォルニスペイント雷風が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el maquillaje\n\"Fornis Paint Lightning / Wind\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3250206",
 		"jp_text": "ゴシック風メイクＡ",
 		"tr_text": "Gothic Style Makeup A",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nゴシック風メイクＡが選択可能。",
-		"tr_explain": "Unlocks the makeup\n\"Gothic Style Makeup A\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, el maquillaje\n\"Gothic Style Makeup A\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3250207",
 		"jp_text": "ゴシック風メイクＢ",
 		"tr_text": "Gothic Style Makeup B",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nゴシック風メイクＢが選択可能。",
-		"tr_explain": "Unlocks the makeup\n\"Gothic Style Makeup B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, el maquillaje\n\"Gothic Style Makeup B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3250208",
 		"jp_text": "タイラーの傷",
 		"tr_text": "Tylor Scar",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nタイラーの傷が選択可能。",
-		"tr_explain": "Unlocks the makeup\n\"Tylor Scar\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, el maquillaje\n\"Tylor Scar\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3250209",
 		"jp_text": "グラデーションリップ赤",
-		"tr_text": "",
+		"tr_text": "Red Gradiation Lips",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nグラデーションリップ赤が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el maquillaje\n\"Red Gradiation Lips\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3250210",
 		"jp_text": "グラデーションリップ桃",
-		"tr_text": "",
+		"tr_text": "Peach Gradiation Lips",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nグラデーションリップ桃が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el maquillaje\n\"Peach Gradiation Lips\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3250211",
 		"jp_text": "グラデーションリップ橙",
-		"tr_text": "",
+		"tr_text": "Orange Gradiation Lips",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nグラデーションリップ橙が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el maquillaje\n\"Orange Gradiation Lips\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3250212",
 		"jp_text": "エレメンタルフェイス炎",
 		"tr_text": "",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nエレメンタルフェイス炎が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el maquillaje\n\" \"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3250213",
 		"jp_text": "エレメンタルフェイス水",
 		"tr_text": "",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nエレメンタルフェイス水が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el maquillaje\n\" \"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3250214",
 		"jp_text": "エレメンタルフェイス風",
 		"tr_text": "",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nエレメンタルフェイス風が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el maquillaje\n\" \"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3250215",
 		"jp_text": "おでこメイク緑",
 		"tr_text": "",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nおでこメイク緑が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el maquillaje\n\" \"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3250216",
 		"jp_text": "おでこメイク白",
 		"tr_text": "",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nおでこメイク白が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el maquillaje\n\" \"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3250217",
 		"jp_text": "おでこメイク赤",
 		"tr_text": "",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nおでこメイク赤が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el maquillaje\n\" \"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3250218",
 		"jp_text": "シウニンシキテ",
 		"tr_text": "",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nシウニンシキテが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el maquillaje\n\" \"\nse podra usar en el Estilista."
 	}
 ]

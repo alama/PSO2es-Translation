@@ -781,91 +781,91 @@
 		"jp_text": "アロハパンツ[Ba]",
 		"tr_text": "Aloha Shorts [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nアロハパンツ[Ba]が選択可能。\n男性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Aloha Shorts [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Aloha Shorts [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3340133",
 		"jp_text": "アロハパンツ紅[Ba]",
 		"tr_text": "Aloha Shorts Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nアロハパンツ紅[Ba]が選択可能。\n男性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Aloha Shorts Crimson [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Aloha Shorts Crimson [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3340134",
 		"jp_text": "アロハパンツ夜[Ba]",
 		"tr_text": "Aloha Shorts Night [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nアロハパンツ夜[Ba]が選択可能。\n男性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Aloha Shorts Night [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Aloha Shorts Night [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3340135",
 		"jp_text": "アロハパンツ雪[Ba]",
 		"tr_text": "Aloha Shorts Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nアロハパンツ雪[Ba]が選択可能。\n男性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Aloha Shorts Snow [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Aloha Shorts Snow [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3340136",
 		"jp_text": "アロハパンツ影[Ba]",
 		"tr_text": "Aloha Shorts Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nアロハパンツ影[Ba]が選択可能。\n男性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Aloha Shorts Shadow [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Aloha Shorts Shadow [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3340137",
 		"jp_text": "ブーメランパンツ[Ba]",
 		"tr_text": "Boomerang Pants [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nブーメランパンツ[Ba]が選択可能。\n男性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Boomerang Pants [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Boomerang Pants [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3340138",
 		"jp_text": "ブーメランパンツ影[Ba]",
 		"tr_text": "Boomerang Pants Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nブーメランパンツ影[Ba]が選択可能。\n男性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Boomerang Pants Shadow [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Boomerang Pants Shadow [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3340139",
 		"jp_text": "ブーメランパンツ／Ｆ[Ba]",
 		"tr_text": "Boomerang Pants / F [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nブーメランパンツ／Ｆ[Ba]が選択可能。\n男性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Boomerang Pants / F [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Boomerang Pants / F [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3340140",
 		"jp_text": "ブーメランパンツ／Ｆ影[Ba]",
 		"tr_text": "Boomerang Pants / F Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nブーメランパンツ／Ｆ影[Ba]が選択可能。\n男性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Boomerang Pants / F Shadow [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Boomerang Pants / F Shadow [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3340142",
 		"jp_text": "パンサーＶパンツ[Ba]",
 		"tr_text": "Panther V Pants [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nパンサーＶパンツ[Ba]が選択可能。\n男性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Panther V Pants [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Panther V Pants [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3340143",
 		"jp_text": "パンサーＶパンツ桜[Ba]",
 		"tr_text": "Panther V Pants Sakura [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nパンサーＶパンツ桜[Ba]が選択可能。\n男性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Panther V Pants Sakura [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Panther V Pants Sakura [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3340144",
 		"jp_text": "パンサーＶパンツ／Ｆ[Ba]",
 		"tr_text": "Panther V Pants /F [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nパンサーＶパンツ／Ｆ[Ba]が選択可能。\n男性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Panther V Pants /F [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Panther V Pants /F [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3340145",
 		"jp_text": "パンサーＶパンツ／Ｆ桜[Ba]",
 		"tr_text": "Panther V Pants Sakura / F [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nパンサーＶパンツ／Ｆ桜[Ba]が選択可能。\n男性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Panther V Pants Sakura / F [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Panther V Pants Sakura / F [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3340147",
@@ -1586,14 +1586,14 @@
 		"jp_text": "フンドシスタイル[Ba]",
 		"tr_text": "Fundoshi Style [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nフンドシスタイル[Ba]が選択可能。\n男性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Fundoshi Style [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Fundoshi Style [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3340254",
 		"jp_text": "フンドシスタイル雪[Ba]",
 		"tr_text": "Fundoshi Style Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nフンドシスタイル雪[Ba]が選択可能。\n男性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Fundoshi Style Snow [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Fundoshi Style Snow [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3340255",
@@ -2034,56 +2034,56 @@
 		"jp_text": "トレーニングＳウェア[Ba]",
 		"tr_text": "Training S Wear [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nトレーニングＳウェア[Ba]が選択可能。\n男性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Training S Wear [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Training S Wear [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3340321",
 		"jp_text": "トレーニングＳウェア紅[Ba]",
 		"tr_text": "Training S Wear Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nトレーニングＳウェア紅[Ba]が選択可能。\n男性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Training S Wear Crimson [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Training S Wear Crimson [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3340322",
 		"jp_text": "トレーニングＳウェア空[Ba]",
 		"tr_text": "Training S Wear Sky [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nトレーニングＳウェア空[Ba]が選択可能。\n男性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Training S Wear Sky [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Training S Wear Sky [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3340323",
 		"jp_text": "トレーニングＳウェア月[Ba]",
 		"tr_text": "Training S Wear Moon [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nトレーニングＳウェア月[Ba]が選択可能。\n男性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Training S Wear Moon [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Training S Wear Moon [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3340324",
 		"jp_text": "トレーニングＳウェア雪[Ba]",
 		"tr_text": "Training S Wear Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nトレーニングＳウェア雪[Ba]が選択可能。\n男性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Training S Wear Snow [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Training S Wear Snow [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3340325",
 		"jp_text": "トレーニングＳウェア影[Ba]",
 		"tr_text": "Training S Wear Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nトレーニングＳウェア影[Ba]が選択可能。\n男性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Training S Wear Shadow [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Training S Wear Shadow [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3340326",
 		"jp_text": "ゴールドＶパンツ／Ｆ[Ba]",
 		"tr_text": "Gold V Pants/F [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nゴールドＶパンツ／Ｆ[Ba]が選択可能。\n男性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Gold V Pants/F [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Gold V Pants/F [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3340327",
 		"jp_text": "シルバーＶパンツ／Ｆ[Ba]",
 		"tr_text": "Silver V Pants/F [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nシルバーＶパンツ／Ｆ[Ba]が選択可能。\n男性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Silver V Pants/F [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Silver V Pants/F [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Oculta la ropa interior cuando es usado.<c>"
 	},
 	{
 		"assign": "3340328",
@@ -3553,56 +3553,56 @@
 		"jp_text": "零氷散華之衣Ｍ[Ba]",
 		"tr_text": "Reihyou Sange M [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n零氷散華之衣Ｍ[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Reihyou Sange M [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340568",
 		"jp_text": "零氷散華之衣Ｍ紅[Ba]",
 		"tr_text": "Reihyou Sange M Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n零氷散華之衣Ｍ紅[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Reihyou Sange M Crimson [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340569",
 		"jp_text": "零氷散華之衣Ｍ雅[Ba]",
 		"tr_text": "Reihyou Sange M Elegant [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n零氷散華之衣Ｍ雅[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Reihyou Sange M Elegant [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340570",
 		"jp_text": "零氷散華之衣Ｍ葉[Ba]",
 		"tr_text": "Reihyou Sange M Leaf [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n零氷散華之衣Ｍ葉[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Reihyou Sange M Leaf [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340571",
 		"jp_text": "零氷散華之衣Ｍ雪[Ba]",
 		"tr_text": "Reihyou Sange M Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n零氷散華之衣Ｍ雪[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Reihyou Sange M Snow [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340572",
 		"jp_text": "零氷散華之衣Ｍ影[Ba]",
 		"tr_text": "Reihyou Sange M Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n零氷散華之衣Ｍ影[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Reihyou Sange M Shadow [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340573",
 		"jp_text": "ドンキ ハーフパンツＭ１[Ba]",
-		"tr_text": "",
+		"tr_text": "Donki Shorts M1 [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nドンキ ハーフパンツＭ１[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Donki Shorts M1 [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340574",
 		"jp_text": "ドンキ ハーフパンツＭ２[Ba]",
-		"tr_text": "",
+		"tr_text": "Donki Shorts M2 [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nドンキ ハーフパンツＭ２[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Donki Shorts M2 [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340575",
@@ -3616,97 +3616,97 @@
 		"jp_text": "ビル・デ・ボンズ雪[Ba]",
 		"tr_text": "Bil De Bonez Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nビル・デ・ボンズ雪[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Bil De Bonez Snow [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340577",
 		"jp_text": "リーハジャウワール[Ba]",
-		"tr_text": "",
+		"tr_text": "Riha Jawwal [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nリーハジャウワール[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Riha Jawwal [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340578",
 		"jp_text": "リーハジャウワール紅[Ba]",
-		"tr_text": "",
+		"tr_text": "Riha Jawwal Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nリーハジャウワール紅[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Riha Jawwal Crimson [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340579",
 		"jp_text": "リーハジャウワール影[Ba]",
-		"tr_text": "",
+		"tr_text": "Riha Jawwal Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nリーハジャウワール影[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Riha Jawwal Shadow [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340580",
 		"jp_text": "リーハジャウワール雪[Ba]",
-		"tr_text": "",
+		"tr_text": "Riha Jawwal Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nリーハジャウワール雪[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Riha Jawwal Snow [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340581",
 		"jp_text": "リーハジャウワール夜[Ba]",
-		"tr_text": "",
+		"tr_text": "Riha Jawwal Night [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nリーハジャウワール夜[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Riha Jawwal Night [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340582",
 		"jp_text": "リーハジャウワール月[Ba]",
-		"tr_text": "",
+		"tr_text": "Riha Jawwal Moon [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nリーハジャウワール月[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Riha Jawwal Moon [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340583",
 		"jp_text": "ラッピーミミクリＭ[Ba]",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいベースウェアの\nラッピーミミクリＭ[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340584",
 		"jp_text": "ゾディアック・カモ葉[Ba]",
-		"tr_text": "",
+		"tr_text": "Zodiac Camo Leaf [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nゾディアック・カモ葉[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Zodiac Camo Leaf [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340585",
 		"jp_text": "ゾディアック・カモ紅[Ba]",
-		"tr_text": "",
+		"tr_text": "Zodiac Camo Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nゾディアック・カモ紅[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Zodiac Camo Crimson [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340586",
 		"jp_text": "天星初等部制服Ｍ玄[Ba]",
-		"tr_text": "",
+		"tr_text": "Tensei Elem. M Mysterious [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n天星初等部制服Ｍ玄[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Tensei Elem. M Mysterious [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340587",
 		"jp_text": "天星初等部制服Ｍ雪[Ba]",
-		"tr_text": "",
+		"tr_text": "Tensei Elem. M Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n天星初等部制服Ｍ雪[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Tensei Elem. M Snow [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340590",
 		"jp_text": "ラッピーミミクリＭ影[Ba]",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいベースウェアの\nラッピーミミクリＭ影[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340591",
 		"jp_text": "ラッピーミミクリＭ空[Ba]",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいベースウェアの\nラッピーミミクリＭ空[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes masculinos."
 	}
 ]

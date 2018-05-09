@@ -21648,168 +21648,168 @@
 		"jp_text": "ジャバウォックメット",
 		"tr_text": "Jabberwock Helmet",
 		"jp_explain": "使用すると、新しいアクセサリーの\nジャバウォックメットが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Jabberwock Helmet\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803344",
 		"jp_text": "アームホイール",
 		"tr_text": "Arm Wheels",
 		"jp_explain": "使用すると、新しいアクセサリーの\nアームホイールが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Arm Wheels\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803345",
 		"jp_text": "ヒュージＴソードユニット",
 		"tr_text": "Huge T Sword Units",
 		"jp_explain": "使用すると、新しいアクセサリーの\nヒュージＴソードユニットが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Huge T Sword Units\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803346",
 		"jp_text": "肩あて装甲",
 		"tr_text": "Shoulder Pad Armor",
 		"jp_explain": "使用すると、新しいアクセサリーの\n肩あて装甲が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Shoulder Pad Armor\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803347",
 		"jp_text": "タコの尻尾Ｂ",
 		"tr_text": "Octopus Tail B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nタコの尻尾Ｂが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Octopus Tail B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803348",
 		"jp_text": "タコの尻尾",
 		"tr_text": "Octopus Tail",
 		"jp_explain": "使用すると、新しいアクセサリーの\nタコの尻尾が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Octopus Tail\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803349",
 		"jp_text": "耳はねっ毛エクステ",
 		"tr_text": "Ear-Shrouding Extensions",
 		"jp_explain": "使用すると、新しいアクセサリーの\n耳はねっ毛エクステが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Ear-Shrouding Extensions\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803350",
 		"jp_text": "スターバレットエクステ黒銀",
 		"tr_text": "Star Extensions Black & Silver",
 		"jp_explain": "使用すると、新しいアクセサリーの\nスターバレットエクステ黒銀が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Star Extensions Black & Silver\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803351",
 		"jp_text": "スターバレットエクステ白金",
 		"tr_text": "Star Extensions White & Gold",
 		"jp_explain": "使用すると、新しいアクセサリーの\nスターバレットエクステ白金が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Star Extensions White & Gold\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803352",
 		"jp_text": "スターバレットエクステ黒金",
 		"tr_text": "Star Extensions Black & Gold",
 		"jp_explain": "使用すると、新しいアクセサリーの\nスターバレットエクステ黒金が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Star Extensions Black & Gold\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803353",
 		"jp_text": "ショベルアーム　Ｌ",
 		"tr_text": "Shovel Arm L",
 		"jp_explain": "使用すると、新しいアクセサリーの\nショベルアーム　Ｌが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Shovel Arm L\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803354",
 		"jp_text": "ショベルアーム　Ｒ",
 		"tr_text": "Shovel Arm R",
 		"jp_explain": "使用すると、新しいアクセサリーの\nショベルアーム　Ｒが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Shovel Arm R\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803355",
 		"jp_text": "チューインガム",
 		"tr_text": "Chewing Gum",
 		"jp_explain": "使用すると、新しいアクセサリーの\nチューインガムが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Chewing Gum\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803356",
 		"jp_text": "命の炎",
 		"tr_text": "Blazing Force",
 		"jp_explain": "使用すると、新しいアクセサリーの\n命の炎が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Blazing Force\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803357",
 		"jp_text": "グラデーションウィング　橙",
 		"tr_text": "Orange Gradation Wings",
 		"jp_explain": "使用すると、新しいアクセサリーの\nグラデーションウィング　橙が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Orange Gradation Wings\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803358",
 		"jp_text": "グラデーションウィング　青",
 		"tr_text": "Blue Gradation Wings",
 		"jp_explain": "使用すると、新しいアクセサリーの\nグラデーションウィング　青が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Blue Gradation Wings\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803359",
 		"jp_text": "グラデーションウィング　赤",
 		"tr_text": "Red Gradation Wings",
 		"jp_explain": "使用すると、新しいアクセサリーの\nグラデーションウィング　赤が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Red Gradation Wings\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803360",
 		"jp_text": "エフェクトスラスター",
 		"tr_text": "Effect Thrusters",
 		"jp_explain": "使用すると、新しいアクセサリーの\nエフェクトスラスターが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Effect Thrusters\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803361",
 		"jp_text": "頭乗せウォパル海鮮丼",
-		"tr_text": "",
+		"tr_text": "Perched Wopal Seafood Bowl",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗せウォパル海鮮丼が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Perched Wopal Seafood Bowl\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803362",
 		"jp_text": "うさみみフードマフラーＡ",
 		"tr_text": "Bunny Ears Hood Scarf A",
 		"jp_explain": "使用すると、新しいアクセサリーの\nうさみみフードマフラーＡが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Bunny Ears Hood Scarf A\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803363",
 		"jp_text": "うさみみフードマフラーＢ",
 		"tr_text": "Bunny Ears Hood Scarf B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nうさみみフードマフラーＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Bunny Ears Hood Scarf B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803364",
 		"jp_text": "ヘビ舌　赤",
 		"tr_text": "Red Snake Tongue",
 		"jp_explain": "使用すると、新しいアクセサリーの\nヘビ舌　赤が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Red Snake Tongue\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803365",
 		"jp_text": "ヘビ舌　黒",
 		"tr_text": "Black Snake Tongue",
 		"jp_explain": "使用すると、新しいアクセサリーの\nヘビ舌　黒が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Black Snake Tongue\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803366",
 		"jp_text": "ヘビ舌　紫",
 		"tr_text": "Purple Snake Tongue",
 		"jp_explain": "使用すると、新しいアクセサリーの\nヘビ舌　紫が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Purple Snake Tongue\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803367",
@@ -21821,442 +21821,442 @@
 	{
 		"assign": "3803368",
 		"jp_text": "天星初等部ネクタイＢ",
-		"tr_text": "",
+		"tr_text": "Tensei Elementary Tie B",
 		"jp_explain": "使用すると、新しいアクセサリーの\n天星初等部ネクタイＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Tensei Elementary Tie B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803369",
 		"jp_text": "旋風紅Ｂ",
-		"tr_text": "",
+		"tr_text": "Crimson Whirlwind B",
 		"jp_explain": "使用すると、新しいアクセサリーの\n旋風紅Ｂが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Crimson Whirlwind B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803370",
 		"jp_text": "ラヴェンマントＢ",
-		"tr_text": "",
+		"tr_text": "Raven Mantle B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nラヴェンマントＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Raven Mantle B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803371",
 		"jp_text": "キーイヤリングＢ",
-		"tr_text": "",
+		"tr_text": "Key Earrings B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nキーイヤリングＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Key Earrings B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803372",
 		"jp_text": "ゾディアックベルトＢ",
-		"tr_text": "",
+		"tr_text": "Zodiac Belt B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nゾディアックベルトＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Zodiac Belt B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803373",
 		"jp_text": "メカニカルバイザーＢ",
-		"tr_text": "",
+		"tr_text": "Mechanical Visor B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nメカニカルバイザーＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Mechanical Visor B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803374",
 		"jp_text": "ブラッドマリアヴェールＢ",
-		"tr_text": "",
+		"tr_text": "Blood Mary Veil B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nブラッドマリアヴェールＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Blood Mary Veil B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803375",
 		"jp_text": "イノセントローズティアラＢ",
-		"tr_text": "",
+		"tr_text": "Innocent Rose Tiara B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nイノセントローズティアラＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Innocent Rose Tiara B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803376",
 		"jp_text": "サテンロングピアス　黒",
-		"tr_text": "",
+		"tr_text": "Black Satin Long Earrings",
 		"jp_explain": "使用すると、新しいアクセサリーの\nサテンロングピアス　黒が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Black Satin Long Earrings\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803377",
 		"jp_text": "サークルギアＢ",
-		"tr_text": "",
+		"tr_text": "Circle Gear B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nサークルギアＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Circle Gear B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803378",
 		"jp_text": "ヘキサシールドＢ",
-		"tr_text": "",
+		"tr_text": "Hexashield B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nヘキサシールドＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Hexashield B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803379",
 		"jp_text": "しましまルーズソックス黒",
-		"tr_text": "",
+		"tr_text": "Black Striped Loose Socks",
 		"jp_explain": "使用すると、新しいアクセサリーの\nしましまルーズソックス黒が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Black Striped Loose Socks\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803380",
 		"jp_text": "ブレードバルーンＢ",
-		"tr_text": "",
+		"tr_text": "Blade Balloons B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nブレードバルーンＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Blade Balloons B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803381",
 		"jp_text": "少女ハリエットの帽子",
-		"tr_text": "",
+		"tr_text": "Young Harriet Hat",
 		"jp_explain": "使用すると、新しいアクセサリーの\n少女ハリエットの帽子が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Young Harriet Hat\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803382",
 		"jp_text": "ハリエットの帽子",
-		"tr_text": "",
+		"tr_text": "Harriet Hat",
 		"jp_explain": "使用すると、新しいアクセサリーの\nハリエットの帽子が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Harriet Hat\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803383",
 		"jp_text": "エッジシールド",
-		"tr_text": "",
+		"tr_text": "Edge Shield",
 		"jp_explain": "使用すると、新しいアクセサリーの\nエッジシールドが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Edge Shield\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803384",
 		"jp_text": "ショルダージェット",
-		"tr_text": "",
+		"tr_text": "Shoulder Jets",
 		"jp_explain": "使用すると、新しいアクセサリーの\nショルダージェットが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Shoulder Jets\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803385",
 		"jp_text": "レドーム・ユニット",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいアクセサリーの\nレドーム・ユニットが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\" \"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803386",
 		"jp_text": "マロンキャップ-NT",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいアクセサリーの\nマロンキャップ-NTが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\" \"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803387",
 		"jp_text": "メロンキャップ-NT",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいアクセサリーの\nメロンキャップ-NTが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\" \"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803388",
 		"jp_text": "クローハンド",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいアクセサリーの\nクローハンドが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\" \"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803389",
 		"jp_text": "クローブーツ",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいアクセサリーの\nクローブーツが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\" \"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803390",
 		"jp_text": "デフォルメマスク",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいアクセサリーの\nデフォルメマスクが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\" \"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803391",
 		"jp_text": "イビルウィング白",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいアクセサリーの\nイビルウィング白が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\" \"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803392",
 		"jp_text": "イビルウィング黒",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいアクセサリーの\nイビルウィング黒が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\" \"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803393",
 		"jp_text": "ふわもこ羽マフラーＢ",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいアクセサリーの\nふわもこ羽マフラーＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\" \"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803394",
 		"jp_text": "フォトンバタフライ水",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいアクセサリーの\nフォトンバタフライ水が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\" \"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803395",
 		"jp_text": "フォトンバタフライ緑",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいアクセサリーの\nフォトンバタフライ緑が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\" \"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803396",
 		"jp_text": "フォトンバタフライ黄",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいアクセサリーの\nフォトンバタフライ黄が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\" \"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803397",
 		"jp_text": "アクションハットＡ",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいアクセサリーの\nアクションハットＡが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\" \"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803398",
 		"jp_text": "アクションハットＢ",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいアクセサリーの\nアクションハットＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\" \"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803399",
 		"jp_text": "肩乗せインコ",
-		"tr_text": "",
+		"tr_text": "Perched Parakeet",
 		"jp_explain": "使用すると、新しいアクセサリーの\n肩乗せインコが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Perched Parakeet\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803403",
 		"jp_text": "フレイランツェインカム",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいアクセサリーの\nフレイランツェインカムが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\" \"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803404",
 		"jp_text": "ジャウワールハット",
-		"tr_text": "",
+		"tr_text": "Jawwal Hat",
 		"jp_explain": "使用すると、新しいアクセサリーの\nジャウワールハットが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Jawwal Hat\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803405",
 		"jp_text": "レンジェルハット",
-		"tr_text": "",
+		"tr_text": "Ranger Hat",
 		"jp_explain": "使用すると、新しいアクセサリーの\nレンジェルハットが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Ranger Hat\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803406",
 		"jp_text": "フィリンハット",
-		"tr_text": "",
+		"tr_text": "Philinne Hat",
 		"jp_explain": "使用すると、新しいアクセサリーの\nフィリンハットが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Philinne Hat\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803407",
 		"jp_text": "グラスラージュゴーグル",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいアクセサリーの\nグラスラージュゴーグルが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\" \"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803408",
 		"jp_text": "カラカズライヤリング",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいアクセサリーの\nカラカズライヤリングが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\" \"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803409",
 		"jp_text": "ポップ・ラ・フード",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいアクセサリーの\nポップ・ラ・フードが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\" \"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803410",
 		"jp_text": "ポップ・ラ・マフラー",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいアクセサリーの\nポップ・ラ・マフラーが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\" \"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803411",
 		"jp_text": "ポップ・ラ・リボン",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいアクセサリーの\nポップ・ラ・リボンが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\" \"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803412",
 		"jp_text": "メルキュリーナアイマスク",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいアクセサリーの\nメルキュリーナアイマスクが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\" \"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803413",
 		"jp_text": "頭乗せ雛ラッピー",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗せ雛ラッピーが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\" \"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803414",
 		"jp_text": "ショルダーメイルＬ",
-		"tr_text": "",
+		"tr_text": "Shoulder Mail L",
 		"jp_explain": "使用すると、新しいアクセサリーの\nショルダーメイルＬが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Shoulder Mail L\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803415",
 		"jp_text": "ショルダーメイルＲ",
-		"tr_text": "",
+		"tr_text": "Shoulder Mail R",
 		"jp_explain": "使用すると、新しいアクセサリーの\nショルダーメイルＲが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Shoulder Mail R\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803416",
 		"jp_text": "アームメイルＬ",
-		"tr_text": "",
+		"tr_text": "Arm Mail L",
 		"jp_explain": "使用すると、新しいアクセサリーの\nアームメイルＬが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Arm Mail L\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803417",
 		"jp_text": "アームメイルＲ",
-		"tr_text": "",
+		"tr_text": "Arm Mail R",
 		"jp_explain": "使用すると、新しいアクセサリーの\nアームメイルＲが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Arm Mail R\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803418",
 		"jp_text": "ダークネスウィング",
-		"tr_text": "",
+		"tr_text": "Darkness Wings",
 		"jp_explain": "使用すると、新しいアクセサリーの\nダークネスウィングが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Darkness Wings\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803419",
 		"jp_text": "ダークネスウィング赤",
-		"tr_text": "",
+		"tr_text": "Red Darkness Wings",
 		"jp_explain": "使用すると、新しいアクセサリーの\nダークネスウィング赤が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Red Darkness Wings\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803420",
 		"jp_text": "ダークネスウィング青",
-		"tr_text": "",
+		"tr_text": "Blue Darkness Wings",
 		"jp_explain": "使用すると、新しいアクセサリーの\nダークネスウィング青が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Blue Darkness Wings\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803421",
 		"jp_text": "ダークネスウィング紫",
-		"tr_text": "",
+		"tr_text": "Purple Darkness Wings",
 		"jp_explain": "使用すると、新しいアクセサリーの\nダークネスウィング紫が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Purple Darkness Wings\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803422",
 		"jp_text": "レッグアーミーベルト黒",
-		"tr_text": "",
+		"tr_text": "Black Leg Army Belt",
 		"jp_explain": "使用すると、新しいアクセサリーの\nレッグアーミーベルト黒が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Black Leg Army Belt\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803423",
 		"jp_text": "レッグアーミーベルト緑",
-		"tr_text": "",
+		"tr_text": "Green Leg Army Belt",
 		"jp_explain": "使用すると、新しいアクセサリーの\nレッグアーミーベルト緑が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Green Leg Army Belt\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803424",
 		"jp_text": "レッグアーミーベルト茶",
-		"tr_text": "",
+		"tr_text": "Brown Leg Army Belt",
 		"jp_explain": "使用すると、新しいアクセサリーの\nレッグアーミーベルト茶が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Brown Leg Army Belt\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803425",
 		"jp_text": "肩乗せステレオ",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいアクセサリーの\n肩乗せステレオが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\" \"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803426",
 		"jp_text": "背負い蒸気機関　金",
-		"tr_text": "",
+		"tr_text": "Gold Rear Steam Engine",
 		"jp_explain": "使用すると、新しいアクセサリーの\n背負い蒸気機関　金が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\" \"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803427",
 		"jp_text": "背負い蒸気機関　黒",
-		"tr_text": "",
+		"tr_text": "Black Rear Steam Engine",
 		"jp_explain": "使用すると、新しいアクセサリーの\n背負い蒸気機関　黒が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\" \"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803428",
 		"jp_text": "ダイヤモンドネイヴハット",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいアクセサリーの\nダイヤモンドネイヴハットが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\" \"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803429",
 		"jp_text": "ダイヤモンドクイーン髪留",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいアクセサリーの\nダイヤモンドクイーン髪留が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\" \"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803430",
 		"jp_text": "フリードアウトローの眼帯",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいアクセサリーの\nフリードアウトローの眼帯が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\" \"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803431",
 		"jp_text": "レクレスアウトローハット",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいアクセサリーの\nレクレスアウトローハットが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\" \"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803432",
 		"jp_text": "ラッピーミミクリキャップ",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいアクセサリーの\nラッピーミミクリキャップが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\" \"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803460",
 		"jp_text": "ふわもこ羽マフラー",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいアクセサリーの\nふわもこ羽マフラーが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\" \"\nse podra usar en el Estilista."
 	}
 ]
