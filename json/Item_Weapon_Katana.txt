@@ -235,7 +235,7 @@
 		"jp_text": "ヤシャ",
 		"tr_text": "Yasha",
 		"jp_explain": "キコク作と銘切りされた直刀型の抜剣。\n本来の鞘と柄は失われており、\n白鞘に収められた状態で発見された。",
-		"tr_explain": ""
+		"tr_explain": "A katana that bears an inscription\n\"Made by Kikoku.\" The original sheath\nhas been lost, now wrapped in white."
 	},
 	{
 		"assign": "114040",
@@ -980,6 +980,34 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "1140269",
+		"jp_text": "リュミエルクシオス",
+		"tr_text": "Lumiere Cousios",
+		"jp_explain": "古より伝わる陽光の抜剣。\n導きの光を持つ聖なる鋭刃は\n闇を切り伏せ、悪を全て葬る。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1140270",
+		"jp_text": "ジュティスクシオス",
+		"tr_text": "Jutus Cousios",
+		"jp_explain": "古より伝わる陽光の抜剣。\n質実なる巧者より抜かれし光の鋭刃は\n悪しきを斬り捨て圧倒する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1140287",
+		"jp_text": "コルタドグランサラー",
+		"tr_text": "Cortado Grancerer",
+		"jp_explain": "グランソーサラーの組織の一部を\n再利用した抜剣。この刃で斬られた者は\nこの世ならざる者の声を聞いてしまう。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1140288",
+		"jp_text": "テロスグランサラー",
+		"tr_text": "Telos Grancerer",
+		"jp_explain": "グランソーサラーの組織の一部を\n再利用した抜剣。この刃で斬られた者は\n未来を絶たれ、必ず絶命するとされる。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1140290",
 		"jp_text": "クラーデムグラッジオ",
 		"tr_text": "Clawdem Gladio",
@@ -1047,6 +1075,6 @@
 		"jp_text": "ヤシャ-NT",
 		"tr_text": "Yasha-NT",
 		"jp_explain": "キコク作と銘切りされた直刀型の抜剣。\n本来の鞘と柄は失われており、\n白鞘に収められた状態で発見された。",
-		"tr_explain": ""
+		"tr_explain": "A katana that bears an inscription\n\"Made by Kikoku.\" The original sheath\nhas been lost, now wrapped in white."
 	}
 ]
