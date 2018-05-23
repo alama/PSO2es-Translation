@@ -646,9 +646,9 @@
 	{
 		"assign": "38096",
 		"jp_text": "マロンキャップ",
-		"tr_text": "Marron Cap",
+		"tr_text": "Maron Cap",
 		"jp_explain": "使用すると、新しいアクセサリーの\nマロンキャップが選択可能。",
-		"tr_explain": "Usando este tiquete, el accesorio\n\"Marron Cap\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Maron Cap\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "38097",
@@ -21947,16 +21947,16 @@
 	{
 		"assign": "3803386",
 		"jp_text": "マロンキャップ-NT",
-		"tr_text": "",
+		"tr_text": "Maron Cap-NT",
 		"jp_explain": "使用すると、新しいアクセサリーの\nマロンキャップ-NTが選択可能。",
-		"tr_explain": "Usando este tiquete, el accesorio\n\" \"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Maron Cap-NT\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803387",
 		"jp_text": "メロンキャップ-NT",
-		"tr_text": "",
+		"tr_text": "Melon Cap-NT",
 		"jp_explain": "使用すると、新しいアクセサリーの\nメロンキャップ-NTが選択可能。",
-		"tr_explain": "Usando este tiquete, el accesorio\n\" \"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Melon Cap-NT\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803388",

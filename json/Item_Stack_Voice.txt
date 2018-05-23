@@ -3427,14 +3427,14 @@
 		"jp_text": "女性［ＥＸ］ボイスＤ０１",
 		"tr_text": "Female [EX] Voice D01",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間女性のみ使用可能。\nＣＶ新田 恵海",
-		"tr_explain": "Una nueva voz podra ser elegida.\nSolo No-Cast femeninos.\nCV: Megumi Nitta"
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo No-Cast femeninos.\nCV: Emi Nitta"
 	},
 	{
 		"assign": "3180614",
 		"jp_text": "女性追加ボイス１７０",
 		"tr_text": "Female Extra Voice 170",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間女性のみ使用可能。\nＣＶ新田 恵海",
-		"tr_explain": "Una nueva voz podra ser elegida.\nSolo No-Cast femeninos.\nCV: Megumi Nitta"
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo No-Cast femeninos.\nCV: Emi Nitta"
 	},
 	{
 		"assign": "3180617",
@@ -3602,14 +3602,14 @@
 		"jp_text": "女性Ｃ［ＥＸ］ボイスＤ０１",
 		"tr_text": "Female C [EX] Voice D01",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト女性のみ使用可能。\nＣＶ新田 恵海",
-		"tr_explain": "Una nueva voz podra ser elegida.\nSolo Casts femeninos.\nCV: Megumi Nitta"
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo Casts femeninos.\nCV: Emi Nitta"
 	},
 	{
 		"assign": "3180650",
 		"jp_text": "女性Ｃ追加ボイス１７０",
 		"tr_text": "Female C Extra Voice 170",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト女性のみ使用可能。\nＣＶ新田 恵海",
-		"tr_explain": "Una nueva voz podra ser elegida.\nSolo Casts femeninos.\nCV: Megumi Nitta"
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo Casts femeninos.\nCV: Emi Nitta"
 	},
 	{
 		"assign": "3180653",
@@ -6059,7 +6059,7 @@
 		"jp_text": "女性追加ボイス１６９",
 		"tr_text": "Female Extra Voice 169",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間女性のみ使用可能。\nＣＶ斉藤 朱夏",
-		"tr_explain": "Una nueva voz podra ser elegida.\nSolo No-Cast femeninos.\nCV: Saito Shiyuka"
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo No-Cast femeninos.\nCV: Shuka Saito"
 	},
 	{
 		"assign": "31801411",
@@ -6248,7 +6248,7 @@
 		"jp_text": "女性Ｃ追加ボイス１６９",
 		"tr_text": "Female C Extra Voice 169",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト女性のみ使用可能。\nＣＶ斉藤 朱夏",
-		"tr_explain": "Una nueva voz podra ser elegida.\nSolo Casts femeninos.\nCV: Saito Shiyuka"
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo Casts femeninos.\nCV: Shuka Saito"
 	},
 	{
 		"assign": "31801501",
