@@ -6085,9 +6085,9 @@
 	{
 		"assign": "3350940",
 		"jp_text": "メルキュリーナ海[Ba]",
-		"tr_text": "Mercurina Ocean [Ba]",
+		"tr_text": "Mercurina Sea [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nメルキュリーナ海[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Mercurina Ocean [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta interiores cuando se usa.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Mercurina Sea [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta interiores cuando se usa.<c>"
 	},
 	{
 		"assign": "3350941",
