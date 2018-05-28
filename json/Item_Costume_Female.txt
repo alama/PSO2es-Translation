@@ -15472,7 +15472,7 @@
 	{
 		"assign": "2202452",
 		"jp_text": "プログレスクロースＦ雪",
-		"tr_text": " Progress Cross F Snow",
+		"tr_text": "Progress Cross F Snow",
 		"jp_explain": "デザイナーXinatが作った衣装。\n異なる文化の様式を取り入れた\n新しいスタイル。",
 		"tr_explain": ""
 	},
