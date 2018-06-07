@@ -5672,13 +5672,6 @@
 	{
 		"assign": "31801200",
 		"jp_text": "男性追加ボイス１３５",
-		"tr_text": "",
-		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間男性のみ使用可能。\nＣＶ吉野 裕行",
-		"tr_explain": ""
-	},
-	{
-		"assign": "31801200",
-		"jp_text": "男性追加ボイス１３５",
 		"tr_text": "Male Extra Voice 135",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間男性のみ使用可能。\nＣＶ吉野 裕行",
 		"tr_explain": "Una nueva voz podra ser elegida.\nSolo No-Cast masculinos.\nCV: Hiroyuki Yoshino"
@@ -5854,13 +5847,6 @@
 	{
 		"assign": "31801300",
 		"jp_text": "男性Ｃ追加ボイス１３５",
-		"tr_text": "",
-		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト男性のみ使用可能。\nＣＶ吉野 裕行",
-		"tr_explain": ""
-	},
-	{
-		"assign": "31801300",
-		"jp_text": "男性Ｃ追加ボイス１３５",
 		"tr_text": "Male C Extra Voice 135",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト男性のみ使用可能。\nＣＶ吉野 裕行",
 		"tr_explain": "Una nueva voz podra ser elegida.\nSolo Casts masculinos.\nCV: Hiroyuki Yoshino"
@@ -5990,13 +5976,6 @@
 		"tr_text": "Female Extra Voice 156",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間女性のみ使用可能。\nＣＶ佳村 はるか",
 		"tr_explain": "Una nueva voz podra ser elegida.\nSolo No-Cast femeninos.\nCV: Haruka Yoshimura"
-	},
-	{
-		"assign": "31801381",
-		"jp_text": "女性追加ボイス１６７",
-		"tr_text": "",
-		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間女性のみ使用可能。\nＣＶ佳村 はるか",
-		"tr_explain": ""
 	},
 	{
 		"assign": "31801381",
@@ -6169,13 +6148,6 @@
 	{
 		"assign": "31801443",
 		"jp_text": "女性追加ボイス１６８",
-		"tr_text": "",
-		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間女性のみ使用可能。\nＣＶ甲斐田 裕子",
-		"tr_explain": ""
-	},
-	{
-		"assign": "31801443",
-		"jp_text": "女性追加ボイス１６８",
 		"tr_text": "Female Extra Voice 168",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間女性のみ使用可能。\nＣＶ甲斐田 裕子",
 		"tr_explain": "Una nueva voz podra ser elegida.\nSolo No-Cast femeninos.\nCV: Yuko Kaida"
@@ -6214,13 +6186,6 @@
 		"tr_text": "Female C Extra Voice 156",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト女性のみ使用可能。\nＣＶ佳村 はるか",
 		"tr_explain": "Una nueva voz podra ser elegida.\nSolo Casts femeninos.\nCV: Haruka Yoshimura"
-	},
-	{
-		"assign": "31801471",
-		"jp_text": "女性Ｃ追加ボイス１６７",
-		"tr_text": "",
-		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト女性のみ使用可能。\nＣＶ佳村 はるか",
-		"tr_explain": ""
 	},
 	{
 		"assign": "31801471",
@@ -6347,13 +6312,6 @@
 		"tr_text": "Female C [EX] Voice A26",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト女性のみ使用可能。\nＣＶ秦 佐和子",
 		"tr_explain": "Una nueva voz podra ser elegida.\nSolo Casts femeninos.\nCV: Sawako Hata"
-	},
-	{
-		"assign": "31801533",
-		"jp_text": "女性Ｃ追加ボイス１６８",
-		"tr_text": "",
-		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト女性のみ使用可能。\nＣＶ甲斐田 裕子",
-		"tr_explain": ""
 	},
 	{
 		"assign": "31801533",

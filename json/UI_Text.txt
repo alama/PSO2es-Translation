@@ -7472,41 +7472,41 @@
 	{
 		"assign": "time_count_sec",
 		"jp_text": "$（second）秒",
-		"tr_text": "$(segundo)"
+		"tr_text": "$（second）sec"
 	},
 	{
 		"assign": "time_count",
 		"jp_text": "$（minute）:$（second）",
-		"tr_text": "$（minuto）:$（segundo）"
+		"tr_text": ""
 	},
 	{
 		"assign": "time",
 		"jp_text": "$（hour）時$（minute）分",
-		"tr_text": "$（hora）:$（minute）"
+		"tr_text": "$（hour）: $（minute）"
 	},
 	{
 		"assign": "time_sec",
 		"jp_text": "$（hour）時$（minute）分$（second）秒",
-		"tr_text": "$（hora）:$（minuto）:$（segundo）"
+		"tr_text": "$（hour）: $（minute）: $（second）"
 	},
 	{
 		"assign": "datetime",
 		"jp_text": "$（year）年$（month）月$（day）日$（hour）時$（minute）分",
-		"tr_text": "$（aйo）/$（mes）/$（dia） $（hora）:$（minuto）"
+		"tr_text": "$（year）/（month）/$（day） $（hour）:$（minute）"
 	},
 	{
 		"assign": "datetime_v",
 		"jp_text": "$（year）/$（month）/$（day） $（hour）:$（minute）",
-		"tr_text": "$（aйo）/$（mes）/$（dia） $（hora）:$（minuto）"
+		"tr_text": ""
 	},
 	{
 		"assign": "datetime_sec",
 		"jp_text": "$（year）年$（month）月$（day）日$（hour）時$（minute）分$（second）秒",
-		"tr_text": "$（aйo）/$（mes）/$（dia） $（hora）:$（minuto）:$（segundo）"
+		"tr_text": "$（year）/（month）/$（day） $（hour）:$（minute）: $（second）"
 	},
 	{
 		"assign": "datetime_sec_v",
-		"jp_text": "$（aйo）/$（mes）/$（dia） $（hora）:$（minuto）:$（segundo）",
+		"jp_text": "$（year）/（month）/$（day） $（hour）:$（minute）: $（second）",
 		"tr_text": ""
 	},
 	{
@@ -7517,22 +7517,22 @@
 	{
 		"assign": "period",
 		"jp_text": "$（hour）時間$（minute）分",
-		"tr_text": "$（hora）:$（minuto）"
+		"tr_text": "$（hour）:$（minute）"
 	},
 	{
 		"assign": "period_min",
 		"jp_text": "$（minute）分間",
-		"tr_text": "$（minuto）"
+		"tr_text": "$（minute）min"
 	},
 	{
 		"assign": "leave_hour",
 		"jp_text": "$（hour）時間$（minute）分",
-		"tr_text": "$（hora）:$（minuto）"
+		"tr_text": "$（hour）:$（minute）"
 	},
 	{
 		"assign": "leave_min",
 		"jp_text": "$（minute）分",
-		"tr_text": "$（minuto）"
+		"tr_text": "$（minute）min"
 	},
 	{
 		"assign": "tips_now_loading",
