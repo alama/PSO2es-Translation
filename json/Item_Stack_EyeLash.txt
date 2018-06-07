@@ -1412,5 +1412,33 @@
 		"tr_text": "White Long Distinct Lashes",
 		"jp_explain": "チケットを使用すると、新しいまつげの\n長くっきりまつげ　白が選択可能。",
 		"tr_explain": "Usando este tiquete, las pestaйas\n\"White Long Distinct Lashes\"\nse podran usar en el Estilista."
+	},
+	{
+		"assign": "3280207",
+		"jp_text": "丸まつげ　黒",
+		"tr_text": "Black Rounded Eyelashes",
+		"jp_explain": "チケットを使用すると、新しいまつげの\n丸まつげ　黒が選択可能。",
+		"tr_explain": "Usando este tiquete, las pestaйas\n\"Black Rounded Eyelashes\"\nse podran usar en el Estilista."
+	},
+	{
+		"assign": "3280208",
+		"jp_text": "丸まつげ　紺",
+		"tr_text": "Blue Rounded Eyelashes",
+		"jp_explain": "チケットを使用すると、新しいまつげの\n丸まつげ　紺が選択可能。",
+		"tr_explain": "Usando este tiquete, las pestaйas\n\"Blue Rounded Eyelashes\"\nse podran usar en el Estilista."
+	},
+	{
+		"assign": "3280209",
+		"jp_text": "丸まつげ　茶",
+		"tr_text": "Brown Rounded Eyelashes",
+		"jp_explain": "チケットを使用すると、新しいまつげの\n丸まつげ　茶が選択可能。",
+		"tr_explain": "Usando este tiquete, las pestaйas\n\"Brown Rounded Eyelashes\"\nse podran usar en el Estilista."
+	},
+	{
+		"assign": "3280210",
+		"jp_text": "丸まつげ　白",
+		"tr_text": "White Rounded Eyelashes",
+		"jp_explain": "チケットを使用すると、新しいまつげの\n丸まつげ　白が選択可能。",
+		"tr_explain": "Usando este tiquete, las pestaйas\n\"White Rounded Eyelashes\"\nse podran usar en el Estilista."
 	}
 ]

@@ -632,9 +632,9 @@
 	{
 		"assign": "325091",
 		"jp_text": "スクナヒメメイク",
-		"tr_text": "Sukunahime Makeup",
+		"tr_text": "Sukuna-hime Makeup",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nスクナヒメメイクが選択可能。",
-		"tr_explain": "Usando este tiquete, el maquillaje\n\"Sukunahime Makeup\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el maquillaje\n\"Sukuna-hime Makeup\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "325092",
@@ -1369,48 +1369,55 @@
 		"jp_text": "エレメンタルフェイス炎",
 		"tr_text": "Elemental Face Fire",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nエレメンタルフェイス炎が選択可能。",
-		"tr_explain": "Usando este tiquete, el maquillaje\n\" \"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el maquillaje\n\"Elemental Face Fire\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3250213",
 		"jp_text": "エレメンタルフェイス水",
 		"tr_text": "Elemental Face Ice",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nエレメンタルフェイス水が選択可能。",
-		"tr_explain": "Usando este tiquete, el maquillaje\n\" \"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el maquillaje\n\"Elemental Face Ice\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3250214",
 		"jp_text": "エレメンタルフェイス風",
 		"tr_text": "Elemental Face Wind",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nエレメンタルフェイス風が選択可能。",
-		"tr_explain": "Usando este tiquete, el maquillaje\n\" \"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el maquillaje\n\"Elemental Face Wind\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3250215",
 		"jp_text": "おでこメイク緑",
 		"tr_text": "Forehead Makeup Green",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nおでこメイク緑が選択可能。",
-		"tr_explain": "Usando este tiquete, el maquillaje\n\" \"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el maquillaje\n\"Forehead Makeup Green\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3250216",
 		"jp_text": "おでこメイク白",
 		"tr_text": "Forehead Makeup White",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nおでこメイク白が選択可能。",
-		"tr_explain": "Usando este tiquete, el maquillaje\n\" \"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el maquillaje\n\"Forehead Makeup White\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3250217",
 		"jp_text": "おでこメイク赤",
 		"tr_text": "Forehead Makeup Red",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nおでこメイク赤が選択可能。",
-		"tr_explain": "Usando este tiquete, el maquillaje\n\" \"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el maquillaje\n\"Forehead Makeup Red\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3250218",
 		"jp_text": "シウニンシキテ",
 		"tr_text": "Siwnin Shikite",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nシウニンシキテが選択可能。",
-		"tr_explain": "Usando este tiquete, el maquillaje\n\" \"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el maquillaje\n\"Siwnin Shikite\"\nse podra usar en el Estilista."
+	},
+	{
+		"assign": "3250219",
+		"jp_text": "アイギスフェイスガード",
+		"tr_text": "Aigis Face Guard",
+		"jp_explain": "チケットを使用すると、新しいメイクの\nアイギスフェイスガードが選択可能。",
+		"tr_explain": "Usando este tiquete, el maquillaje\n\"Aigis Face Guard\"\nse podra usar en el Estilista."
 	}
 ]

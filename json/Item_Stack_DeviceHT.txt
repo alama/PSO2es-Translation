@@ -1048,5 +1048,19 @@
 		"tr_text": "Evo. Device/Love Emperappy",
 		"jp_explain": "Ｌｖ．１００以上のマグに使用できる\nマグの形態進化デバイス。\n「ラブ・エンペ」に進化する。",
 		"tr_explain": "Requiere un mag de Lv.100 o mas\npara usarse. Evoluciona tu mag en un\nLove Emperappy."
+	},
+	{
+		"assign": "3120166",
+		"jp_text": "進化Ｄ／テルテルラッピー",
+		"tr_text": "Evo. Device/TelTel Rappy",
+		"jp_explain": "Ｌｖ．１００以上のマグに使用できる\nマグの形態進化デバイス。\n「テルテルラッピー」に進化する。",
+		"tr_explain": "Requiere un mag de Lv.100 o mas\npara usarse. Evoluciona tu mag en un\nTelTel Rappy."
+	},
+	{
+		"assign": "3120167",
+		"jp_text": "進化デバイス／モルガナ",
+		"tr_text": "Evo. Device/Morgana",
+		"jp_explain": "Ｌｖ．１００以上のマグに使用できる\nマグの形態進化デバイス。\n「モルガナ」に進化する。",
+		"tr_explain": "Requiere un mag de Lv.100 o mas\npara usarse. Evoluciona tu mag en un\nMorgana."
 	}
 ]

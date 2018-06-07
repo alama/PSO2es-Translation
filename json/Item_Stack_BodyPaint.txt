@@ -3035,118 +3035,188 @@
 		"jp_text": "シンプルチョーカーＭ　Ａ",
 		"tr_text": "Simple Choker M A",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシンプルチョーカーＭ　Ａが選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the male-only body paint\n\"Simple Choker M A\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3290469",
 		"jp_text": "シンプルチョーカーＭ　Ｂ",
 		"tr_text": "Simple Choker M B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシンプルチョーカーＭ　Ｂが選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the male-only body paint\n\"Simple Choker M B\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3290470",
 		"jp_text": "シンプルチョーカーＭ　Ｃ",
 		"tr_text": "Simple Choker M C",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシンプルチョーカーＭ　Ｃが選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the male-only body paint\n\"Simple Choker M C\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3290471",
 		"jp_text": "シンプルチョーカーＭ　Ｄ",
 		"tr_text": "Simple Choker M D",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシンプルチョーカーＭ　Ｄが選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the male-only body paint\n\"Simple Choker M D\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3290472",
 		"jp_text": "シンプルチョーカーＦ　Ａ",
 		"tr_text": "Simple Choker F A",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシンプルチョーカーＦ　Ａが選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the female-only body paint\n\"Simple Choker F A\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3290473",
 		"jp_text": "シンプルチョーカーＦ　Ｂ",
 		"tr_text": "Simple Choker F B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシンプルチョーカーＦ　Ｂが選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the female-only body paint\n\"Simple Choker F B\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3290474",
 		"jp_text": "シンプルチョーカーＦ　Ｃ",
 		"tr_text": "Simple Choker F C",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシンプルチョーカーＦ　Ｃが選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the female-only body paint\n\"Simple Choker F C\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3290475",
 		"jp_text": "シンプルチョーカーＦ　Ｄ",
 		"tr_text": "Simple Choker F D",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシンプルチョーカーＦ　Ｄが選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the female-only body paint\n\"Simple Choker F D\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3290476",
 		"jp_text": "エレメンタルボディ炎Ｍ",
 		"tr_text": "Elemental Body Fire M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nエレメンタルボディ炎Ｍが選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the male-only body paint\n\"Elemental Body Fire M\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3290477",
 		"jp_text": "エレメンタルボディ水Ｍ",
 		"tr_text": "Elemental Body Ice M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nエレメンタルボディ水Ｍが選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the male-only body paint\n\"Elemental Body Ice M\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3290478",
 		"jp_text": "エレメンタルボディ風Ｍ",
 		"tr_text": "Elemental Body Wind M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nエレメンタルボディ風Ｍが選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the male-only body paint\n\"Elemental Body Wind M\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3290479",
 		"jp_text": "エレメンタルボディ炎Ｆ",
 		"tr_text": "Elemental Body Fire F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nエレメンタルボディ炎Ｆが選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the female-only body paint\n\"Elemental Body Fire F\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3290480",
 		"jp_text": "エレメンタルボディ水Ｆ",
 		"tr_text": "Elemental Body Ice F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nエレメンタルボディ水Ｆが選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the female-only body paint\n\"Elemental Body Ice F\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3290481",
 		"jp_text": "エレメンタルボディ風Ｆ",
 		"tr_text": "Elemental Body Wind F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nエレメンタルボディ風Ｆが選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the female-only body paint\n\"Elemental Body Wind F\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3290482",
 		"jp_text": "しましまスーツＭ",
 		"tr_text": "Striped Suit M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nしましまスーツＭが選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the male-only body paint\n\"Striped Suit M\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3290483",
 		"jp_text": "しましまスーツＦ",
 		"tr_text": "Striped Suit F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nしましまスーツＦが選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the female-only body paint\n\"Striped Suit F\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3290484",
 		"jp_text": "グラスラージュタイツ",
 		"tr_text": "Grassoulage Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nグラスラージュタイツが選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Unlocks the female-only body paint\n\"Grassoulage Tights\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3290487",
+		"jp_text": "エナメルソックス　黒",
+		"tr_text": "Black Enamel Socks",
+		"jp_explain": "チケットを使用すると、ボディペイント\nエナメルソックス　黒が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3290488",
+		"jp_text": "エナメルソックス　白",
+		"tr_text": "White Enamel Socks",
+		"jp_explain": "チケットを使用すると、ボディペイント\nエナメルソックス　白が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3290489",
+		"jp_text": "エナメルソックス　赤",
+		"tr_text": "Red Enamel Socks",
+		"jp_explain": "チケットを使用すると、ボディペイント\nエナメルソックス　赤が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3290490",
+		"jp_text": "アルキュリアトレンカ",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、ボディペイント\nアルキュリアトレンカが選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3290491",
+		"jp_text": "レースチョーカーＭ　白",
+		"tr_text": "White Lace Choker M",
+		"jp_explain": "チケットを使用すると、ボディペイント\nレースチョーカーＭ　白が選択可能。\n男性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3290492",
+		"jp_text": "レースチョーカーＭ　黒",
+		"tr_text": "Black Lace Choker M",
+		"jp_explain": "チケットを使用すると、ボディペイント\nレースチョーカーＭ　黒が選択可能。\n男性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3290493",
+		"jp_text": "レースチョーカーＭ　赤",
+		"tr_text": "Red Lace Choker M",
+		"jp_explain": "チケットを使用すると、ボディペイント\nレースチョーカーＭ　赤が選択可能。\n男性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3290494",
+		"jp_text": "レースチョーカーＦ　白",
+		"tr_text": "White Lace Choker F",
+		"jp_explain": "チケットを使用すると、ボディペイント\nレースチョーカーＦ　白が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3290495",
+		"jp_text": "レースチョーカーＦ　黒",
+		"tr_text": "Black Lace Choker F",
+		"jp_explain": "チケットを使用すると、ボディペイント\nレースチョーカーＦ　黒が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3290496",
+		"jp_text": "レースチョーカーＦ　赤",
+		"tr_text": "Red Lace Choker F",
+		"jp_explain": "チケットを使用すると、ボディペイント\nレースチョーカーＦ　赤が選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
 	}
 ]

@@ -1271,35 +1271,35 @@
 		"jp_text": "強化値上限＋１／長槍",
 		"tr_text": "Grind Cap +1/Partizan",
 		"jp_explain": "新世武器用の強化補助素材。\n『長槍』の強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material usado en Armas NT. \nDurante la mejora, Partizan grind cap\nes aumentado en +1.."
+		"tr_explain": "Material usado en Armas NT. \nDurante la mejora, Partizan grind cap\nes aumentado en +1."
 	},
 	{
 		"assign": "3210236",
 		"jp_text": "強化値上限＋１／双小剣",
 		"tr_text": "Grind Cap +1/Twin Dagger",
 		"jp_explain": "新世武器用の強化補助素材。\n『双小剣』の強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material usado en Armas NT. \nDurante la mejora, Twin Dagger grind\ncap es aumentado en +1.."
+		"tr_explain": "Material usado en Armas NT. \nDurante la mejora, Twin Dagger grind\ncap es aumentado en +1."
 	},
 	{
 		"assign": "3210237",
 		"jp_text": "強化値上限＋１／両剣",
 		"tr_text": "Grind Cap +1/Double Saber",
 		"jp_explain": "新世武器用の強化補助素材。\n『両剣』の強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material usado en Armas NT. \nDurante la mejora, Double Saber grind\ncap es aumentado en +1.."
+		"tr_explain": "Material usado en Armas NT. \nDurante la mejora, Double Saber grind\ncap es aumentado en +1."
 	},
 	{
 		"assign": "3210238",
 		"jp_text": "強化値上限＋１／鋼拳",
 		"tr_text": "Grind Cap +1/Knuckles",
 		"jp_explain": "新世武器用の強化補助素材。\n『鋼拳』の強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material usado en Armas NT. \nDurante la mejora, Knuckles grind cap\nes aumentado en +1.."
+		"tr_explain": "Material usado en Armas NT. \nDurante la mejora, Knuckles grind cap\nes aumentado en +1."
 	},
 	{
 		"assign": "3210239",
 		"jp_text": "強化値上限＋１／銃剣",
 		"tr_text": "Grind Cap +1/Gunslash",
 		"jp_explain": "新世武器用の強化補助素材。\n『銃剣』の強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material usado en Armas NT. \nDurante la mejora, Gunslash grind cap\nes aumentado en +1.."
+		"tr_explain": "Material usado en Armas NT. \nDurante la mejora, Gunslash grind cap\nes aumentado en +1."
 	},
 	{
 		"assign": "3210240",
@@ -1313,7 +1313,7 @@
 		"jp_text": "強化値上限＋１／大砲",
 		"tr_text": "Grind Cap +1/Launcher",
 		"jp_explain": "新世武器用の強化補助素材。\n『大砲』の強化時に使用することで\n強化値の上限を１上昇させる。",
-		"tr_explain": "Material usado en Armas NT. \nDurante la mejora, Launcher grind cap\nes aumentado en +1.."
+		"tr_explain": "Material usado en Armas NT. \nDurante la mejora, Launcher grind cap\nes aumentado en +1."
 	},
 	{
 		"assign": "3210242",
@@ -1467,27 +1467,132 @@
 		"jp_text": "特殊能力（打撃＆ＰＰ/３）",
 		"tr_text": "Habilidad (Strike&PP/3)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【打撃＆ＰＰ/３】の特殊能力を追加する。",
-		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Grace Power\"\nwhen used in Ability Synthesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Grace Power\"\ncuando se usa en Ability Synthesis."
 	},
 	{
 		"assign": "3210289",
 		"jp_text": "特殊能力（射撃＆ＰＰ/３）",
 		"tr_text": "Habilidad (Shot&PP/3)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【射撃＆ＰＰ/３】の特殊能力を追加する。",
-		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Grace Shot\"\nwhen used in Ability Synthesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Grace Shot\"\ncuando se usa en Ability Synthesis."
 	},
 	{
 		"assign": "3210290",
 		"jp_text": "特殊能力（法撃＆ＰＰ/３）",
 		"tr_text": "Habilidad (Tech&PP/3)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【法撃＆ＰＰ/３】の特殊能力を追加する。",
-		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Grace Tech\"\nwhen used in Ability Synthesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Grace Tech\"\ncuando se usa en Ability Synthesis."
 	},
 	{
 		"assign": "3210291",
 		"jp_text": "特殊能力（ＨＰ＆ＰＰ/３）",
 		"tr_text": "Habilidad (Stamina&PP/3)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ＨＰ＆ＰＰ/３】の特殊能力を追加する。",
-		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Grace Stamina\"\nwhen used in Ability Synthesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Grace Stamina\"\ncuando se usa en Ability Synthesis."
+	},
+	{
+		"assign": "3210296",
+		"jp_text": "Ｓ１追加：光子縮減２",
+		"tr_text": "S1 Add:Photon Reduction 2",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ１：光子縮減２を付与。",
+		"tr_explain": "Material usado al sintetizar SSA.\nGrants \"S1:Photon Reduction 2\"\ncuando se usa en Ability Synthesis."
+	},
+	{
+		"assign": "3210297",
+		"jp_text": "Ｓ１追加：滅域輝与２",
+		"tr_text": "S1 Add:Brilliant Ruin 2",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ１：滅域輝与２を付与。",
+		"tr_explain": "Material usado al sintetizar SSA.\nGrants \"S1:Brilliant Ruin 2\"\ncuando se usa en Ability Synthesis."
+	},
+	{
+		"assign": "3210298",
+		"jp_text": "Ｓ１追加：時流の志",
+		"tr_text": "S1 Add:Flowing Intent",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ１：時流の志を付与。",
+		"tr_explain": "Material usado al sintetizar SSA.\nGrants \"S1:Flowing Intent\"\ncuando se usa en Ability Synthesis."
+	},
+	{
+		"assign": "3210299",
+		"jp_text": "Ｓ１追加：死中の志",
+		"tr_text": "S1 Add:Lethal Intent",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ１：死中の志を付与。",
+		"tr_explain": "Material usado al sintetizar SSA.\nGrants \"S1:Lethal Intent\"\ncuando se usa en Ability Synthesis."
+	},
+	{
+		"assign": "3210316",
+		"jp_text": "Ｓ２追加：月葉影の歌",
+		"tr_text": "S2 Add:Umbrageous Melody",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ２：月葉影の歌を付与。",
+		"tr_explain": "Material usado al sintetizar SSA.\nGrants \"S2:Umbrageous Melody\"\ncuando se usa en Ability Synthesis."
+	},
+	{
+		"assign": "3210317",
+		"jp_text": "Ｓ２追加：花海雪の縮減２",
+		"tr_text": "S2 Add:Nature's Reduction 2",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ２：花海雪の縮減２を付与。",
+		"tr_explain": "Material usado al sintetizar SSA.\nGrants \"S2:Nature's Reduction 2\"\ncuando se usa en Ability Synthesis."
+	},
+	{
+		"assign": "3210318",
+		"jp_text": "Ｓ２追加：月葉影の輝剰２",
+		"tr_text": "S2 Add:Umbrageous Radiance 2",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ２：月葉影の輝剰２を付与。",
+		"tr_explain": "Material usado al sintetizar SSA.\nGrants \"S2:Umbrageous Radiance 2\"\ncuando se usa en Ability Synthesis."
+	},
+	{
+		"assign": "3210319",
+		"jp_text": "Ｓ２追加：妙技の巧２",
+		"tr_text": "S2 Add:Wise Skill 2",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ２：妙技の巧２を付与。",
+		"tr_explain": "Material usado al sintetizar SSA.\nGrants \"S2:Wise Skill 2\"\ncuando se usa en Ability Synthesis."
+	},
+	{
+		"assign": "3210320",
+		"jp_text": "Ｓ２追加：妙撃の志２",
+		"tr_text": "S2 Add:Skilled Strike 2",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ２：妙撃の志２を付与。",
+		"tr_explain": "Material usado al sintetizar SSA.\nGrants \"S2:Skilled Strike 2\"\ncuando se usa en Ability Synthesis."
+	},
+	{
+		"assign": "3210321",
+		"jp_text": "Ｓ２追加：輝剰の撃２",
+		"tr_text": "S2 Add:Radiant Strike 2",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ２：輝剰の撃２を付与。",
+		"tr_explain": "Material usado al sintetizar SSA.\nGrants \"S2:Radiant Strike 2\"\ncuando se usa en Ability Synthesis."
+	},
+	{
+		"assign": "3210336",
+		"jp_text": "Ｓ３追加：花海雪の歌",
+		"tr_text": "S3 Add:Nature's Melody",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ３：花海雪の歌を付与。",
+		"tr_explain": "Material usado al sintetizar SSA.\nGrants \"S3:Nature's Melody\"\ncuando se usa en Ability Synthesis."
+	},
+	{
+		"assign": "3210337",
+		"jp_text": "Ｓ３追加：花海雪の輝勢２",
+		"tr_text": "S3 Add:Nature's Radiance 2",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ３：花海雪の輝勢２を付与。",
+		"tr_explain": "Material usado al sintetizar SSA.\nGrants \"S3:Nature's Radiance 2\"\ncuando se usa en Ability Synthesis."
+	},
+	{
+		"assign": "3210338",
+		"jp_text": "Ｓ３追加：時流の恵",
+		"tr_text": "S3 Add:Flowing Grace",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ３：時流の恵を付与。",
+		"tr_explain": "Material usado al sintetizar SSA.\nGrants \"S3:Flowing Grace\"\ncuando se usa en Ability Synthesis."
+	},
+	{
+		"assign": "3210339",
+		"jp_text": "Ｓ３追加：時流活与２",
+		"tr_text": "S3 Add:Flowing Exhilaration 2",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ３：時流活与２を付与。",
+		"tr_explain": "Material usado al sintetizar SSA.\nGrants \"S3:Flowing Exhilaration 2\"\ncuando se usa en Ability Synthesis."
+	},
+	{
+		"assign": "3210340",
+		"jp_text": "Ｓ３追加：輝勢の恵２",
+		"tr_text": "S3 Add:Radiating Grace 2",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ３：輝勢の恵２を付与。",
+		"tr_explain": "Material usado al sintetizar SSA.\nGrants \"S3:Radiating Grace 2\"\ncuando se usa en Ability Synthesis."
 	}
 ]

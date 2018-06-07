@@ -3117,28 +3117,28 @@
 	{
 		"assign": "210523",
 		"jp_text": "テムジン７４７Ａ　雪の勲",
-		"tr_text": "Temjin 747 A Meritorious Snow",
+		"tr_text": "Temjin747 A Meritorious Snow",
 		"jp_explain": "最新鋭の第三世代バーチャロイド。\n軽量強靱なアサルト・アーマーをまとう\nこの姿は高いサバイバビリティを持つ。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "210524",
 		"jp_text": "テムジン７４７Ａ　３Ｐ",
-		"tr_text": "Temjin 747 A 3P",
+		"tr_text": "Temjin747 A 3P",
 		"jp_explain": "最新鋭の第三世代バーチャロイド。\n軽量強靱なアサルト・アーマーをまとう\nこの姿は高いサバイバビリティを持つ。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "210525",
 		"jp_text": "テムジン７４７Ａ　４Ｐ",
-		"tr_text": "Temjin 747 A 4P",
+		"tr_text": "Temjin747 A 4P",
 		"jp_explain": "最新鋭の第三世代バーチャロイド。\n軽量強靱なアサルト・アーマーをまとう\nこの姿は高いサバイバビリティを持つ。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "210526",
 		"jp_text": "テムジン７４７Ａ　闇の勲",
-		"tr_text": "Temjin 747 A Meritorious Dark",
+		"tr_text": "Temjin747 A Meritorious Dark",
 		"jp_explain": "最新鋭の第三世代バーチャロイド。\n軽量強靱なアサルト・アーマーをまとう\nこの姿は高いサバイバビリティを持つ。",
 		"tr_explain": ""
 	},
@@ -8824,6 +8824,83 @@
 		"jp_text": "プログレスクロースＭ玄",
 		"tr_text": "Progress Cross M Mysterious",
 		"jp_explain": "デザイナーXinatが作った衣装。\n異なる文化の様式を取り入れた\n新しいスタイル。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101457",
+		"jp_text": "グリーンラッピースーツ・ミニ",
+		"tr_text": "",
+		"jp_explain": "ふわふわでかわいいラッピーの姿に\n虜になったメンバーが作り上げた服。\n新緑のようなグリーンが特徴。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101458",
+		"jp_text": "モルガナスーツ",
+		"tr_text": "",
+		"jp_explain": "怪盗団の先導役であるモルガナを\n模して作られた着ぐるみ。\n猫って言うな！",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101459",
+		"jp_text": "結城理の制服",
+		"tr_text": "Makoto Yuki Uniform",
+		"jp_explain": "小中高一貫校の私立月光館学園高等部の\n生徒である結城理の制服を模した衣装。\n携帯音楽プレーヤーが特徴。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101460",
+		"jp_text": "結城理の制服　雪",
+		"tr_text": "Makoto Yuki Uniform Snow",
+		"jp_explain": "小中高一貫校の私立月光館学園高等部の\n生徒である結城理の制服を模した衣装。\n携帯音楽プレーヤーが特徴。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101461",
+		"jp_text": "結城理の制服　夜",
+		"tr_text": "Makoto Yuki Uniform Night",
+		"jp_explain": "小中高一貫校の私立月光館学園高等部の\n生徒である結城理の制服を模した衣装。\n携帯音楽プレーヤーが特徴。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101462",
+		"jp_text": "スライトリトルＭ・ミニ",
+		"tr_text": "",
+		"jp_explain": "アークスシップ内に居住する\n一般の子供向けの服装。\n簡素な作りで、動きやすい。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101463",
+		"jp_text": "スライトリトルＭ・ミニ海",
+		"tr_text": "",
+		"jp_explain": "アークスシップ内に居住する\n一般の子供向けの服装。\n簡素な作りで、動きやすい。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101464",
+		"jp_text": "スライトリトルＭ・ミニ紅",
+		"tr_text": "",
+		"jp_explain": "アークスシップ内に居住する\n一般の子供向けの服装。\n簡素な作りで、動きやすい。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101465",
+		"jp_text": "アカデミアブレザーＭ曜",
+		"tr_text": "Academia Blazer M Day",
+		"jp_explain": "一部のアークス研修生が着用する制服。\nしかし一方で機能性の高さから研修の\n修了後も引き続き着用する者がいる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101466",
+		"jp_text": "アカデミアブレザーＭ凍",
+		"tr_text": "Academia Blazer M Frozen",
+		"jp_explain": "一部のアークス研修生が着用する制服。\nしかし一方で機能性の高さから研修の\n修了後も引き続き着用する者がいる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101467",
+		"jp_text": "アカデミアブレザーＭ茜",
+		"tr_text": "Academia Blazer M Madder",
+		"jp_explain": "一部のアークス研修生が着用する制服。\nしかし一方で機能性の高さから研修の\n修了後も引き続き着用する者がいる。",
 		"tr_explain": ""
 	}
 ]

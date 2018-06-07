@@ -1671,5 +1671,12 @@
 		"tr_text": "Smith Sticker C",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nスミスＣが選択可能。",
 		"tr_explain": "Usando este tiquete, el emblema\n\"Smith Sticker C\"\nse podra usar en el Estilista."
+	},
+	{
+		"assign": "3170270",
+		"jp_text": "５００万ＩＤ記念ステッカー",
+		"tr_text": "5M ID Sticker",
+		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\n５００万ＩＤ記念が選択可能。",
+		"tr_explain": "Usando este tiquete, el emblema\n\"5M ID Sticker\"\nse podra usar en el Estilista."
 	}
 ]

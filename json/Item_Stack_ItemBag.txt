@@ -1192,44 +1192,44 @@
 	{
 		"assign": "3300170",
 		"jp_text": "テムジン７４７Ａ　１Ｐ箱",
-		"tr_text": "Temjin 747A 1P Box",
+		"tr_text": "Temjin747A 1P Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「テムジン７４７Ａ　１Ｐ」\n「テムジンヘッド１Ｐ」\n「＊スライプナーＭｋ６」",
 		"tr_explain": "Al usarlo recibiras:\n[Temjin 747A 1P]\n[Temjin Head 1P]\n[＊Sleipnir Mk6]"
 	},
 	{
 		"assign": "3300171",
 		"jp_text": "テムジン７４７Ａ　２Ｐ箱",
-		"tr_text": "Temjin 747A 2P Box",
+		"tr_text": "Temjin747A 2P Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「テムジン７４７Ａ　２Ｐ」\n「テムジンヘッドＤ」\n「＊スライプナーＭｋ６Ｄ」",
 		"tr_explain": "Al usarlo recibiras:\n[Temjin 747A 2P]\n[Temjin Head D]\n[＊Sleipnir Mk6 D]"
 	},
 	{
 		"assign": "3300172",
 		"jp_text": "テムジン７４７Ａ　３Ｐ箱",
-		"tr_text": "Temjin 747A 3P Box",
+		"tr_text": "Temjin747A 3P Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「テムジン７４７Ａ　３Ｐ」\n「テムジンヘッドＲ」\n「＊スライプナーＭｋ６Ｒ」",
-		"tr_explain": "Al usarlo recibiras:\n[Temjin747 A 3P]\n[Temjin Head R]\n[＊Sleipnir Mk6 R]"
+		"tr_explain": "Use to receive the following items:\n[Temjin747 A 3P]\n[Temjin Head R]\n[＊Sleipnir Mk6 R]"
 	},
 	{
 		"assign": "3300173",
 		"jp_text": "テムジン７４７Ａ　４Ｐ箱",
-		"tr_text": "Temjin 747A 4P Box",
+		"tr_text": "Temjin747A 4P Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「テムジン７４７Ａ　４Ｐ」\n「テムジンヘッドＲ」\n「＊スライプナーＭｋ６Ｒ」",
-		"tr_explain": "Al usarlo recibiras:\n[Temjin747 A 4P]\n[Temjin Head R]\n[＊Sleipnir Mk6 R]"
+		"tr_explain": "Use to receive the following items:\n[Temjin747 A 4P]\n[Temjin Head R]\n[＊Sleipnir Mk6 R]"
 	},
 	{
 		"assign": "3300174",
 		"jp_text": "テムジン７４７Ａ　雪の勲箱",
-		"tr_text": "Temjin 747A Snow Box",
+		"tr_text": "Temjin747A Snow Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「テムジン７４７Ａ　雪の勲」\n「テムジンヘッドＤ」\n「＊スライプナーＭｋ６Ｄ」",
-		"tr_explain": "Al usarlo recibiras:\n[Temjin747A Snow]\n[Temjin Head D]\n[＊Sleipnir Mk6 D]"
+		"tr_explain": "Use to receive the following items:\n[Temjin747A Snow]\n[Temjin Head D]\n[＊Sleipnir Mk6 D]"
 	},
 	{
 		"assign": "3300175",
 		"jp_text": "テムジン７４７Ａ　闇の勲箱",
-		"tr_text": "Temjin 747A Dark Box",
+		"tr_text": "Temjin747A Dark Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「テムジン７４７Ａ　闇の勲」\n「テムジンヘッドＲ」\n「＊スライプナーＭｋ６Ｒ」",
-		"tr_explain": "Al usarlo recibiras:\n[Temjin747A Dark]\n[Temjin Head R]\n[＊Sleipnir Mk6 R]"
+		"tr_explain": "Use to receive the following items:\n[Temjin747A Dark]\n[Temjin Head R]\n[＊Sleipnir Mk6 R]"
 	},
 	{
 		"assign": "3300176",
@@ -5595,44 +5595,44 @@
 	{
 		"assign": "3300996",
 		"jp_text": "少名比売神衣セット",
-		"tr_text": "Set Sukunahime Divine Wear",
+		"tr_text": "Sukuna-hime Divine Wear Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「少名比売神衣」\n「スクナヒメポニー」",
-		"tr_explain": "Al usarlo recibiras:\n[Sukunahime Divine Wear]\n[Sukuna-hime Pony]"
+		"tr_explain": "Use to receive the following items:\n[Sukuna-hime Divine Wear]\n[Sukuna-hime Pony]"
 	},
 	{
 		"assign": "3300997",
 		"jp_text": "少名比売神衣　影セット",
-		"tr_text": "Set Sukunahime Divine Shadow",
+		"tr_text": "Sukuna-hime D. Shadow Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「少名比売神衣　影」\n「スクナヒメポニー」",
-		"tr_explain": "Al usarlo recibiras:\n[Sukunahime Divine Shadow]\n[Sukuna-hime Pony]"
+		"tr_explain": "Use to receive the following items:\n[Sukuna-hime Divine Shadow]\n[Sukuna-hime Pony]"
 	},
 	{
 		"assign": "3300998",
 		"jp_text": "少名比売神衣　紅セット",
-		"tr_text": "Set Sukunahime Divine Crimson",
+		"tr_text": "Sukuna-hime D. Crimson Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「少名比売神衣　紅」\n「スクナヒメポニー」",
-		"tr_explain": "Al usarlo recibiras:\n[Sukunahime Divine Crimson]\n[Sukuna-hime Pony]"
+		"tr_explain": "Use to receive the following items:\n[Sukuna-hime Divine Crimson]\n[Sukuna-hime Pony]"
 	},
 	{
 		"assign": "3300999",
 		"jp_text": "少名比売神衣　海セット",
-		"tr_text": "Set Sukunahime Divine Sea",
+		"tr_text": "Sukuna-hime Divine Sea Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「少名比売神衣　海」\n「スクナヒメポニー」",
-		"tr_explain": "Al usarlo recibiras:\n[Sukunahime Divine Sea]\n[Sukuna-hime Pony]"
+		"tr_explain": "Use to receive the following items:\n[Sukuna-hime Divine Sea]\n[Sukuna-hime Pony]"
 	},
 	{
 		"assign": "33001000",
 		"jp_text": "少名比売神衣　月セット",
-		"tr_text": "Set Sukunahime Divine Moon",
+		"tr_text": "Sukuna-hime Divine Moon Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「少名比売神衣　月」\n「スクナヒメポニー」",
-		"tr_explain": "Al usarlo recibiras:\n[Sukunahime Divine Moon]\n[Sukuna-hime Pony]"
+		"tr_explain": "Use to receive the following items:\n[Sukuna-hime Divine Moon]\n[Sukuna-hime Pony]"
 	},
 	{
 		"assign": "33001001",
 		"jp_text": "少名比売神衣　鋼セット",
-		"tr_text": "Set Sukunahime Divine Steel",
+		"tr_text": "Sukuna-hime Divine Steel Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「少名比売神衣　鋼」\n「スクナヒメポニー」",
-		"tr_explain": "Al usarlo recibiras:\n[Sukunahime Divine Steel]\n[Sukuna-hime Pony]"
+		"tr_explain": "Use to receive the following items:\n[Sukuna-hime Divine Steel]\n[Sukuna-hime Pony]"
 	},
 	{
 		"assign": "33001002",
@@ -5728,9 +5728,9 @@
 	{
 		"assign": "33001015",
 		"jp_text": "スクナヒメセット",
-		"tr_text": "Set Sukunahime",
+		"tr_text": "Sukuna-hime Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「神飾扇」「スクナヒメの角」\n「スクナヒメメイク」",
-		"tr_explain": "Al usarlo recibiras:\n[Divine Decorative Fans]\n[Sukuna-hime's Horn] [Sukunahime\nMakeup]"
+		"tr_explain": "Use to receive the following items:\n[Divine Decorative Fans]\n[Sukuna-hime's Horn] [Sukuna-hime\nMakeup]"
 	},
 	{
 		"assign": "33001016",
@@ -14310,9 +14310,9 @@
 	{
 		"assign": "33002245",
 		"jp_text": "少名比売神衣セットＢ",
-		"tr_text": "Set Sukunahime Divine Wear B",
+		"tr_text": "Sukuna-hime Divine Wear Set B",
 		"jp_explain": "以下のアイテムを獲得する。\n「少名比売神衣」\n「神飾扇」\n「スクナヒメの角」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Sukunahime Divine Wear]\n[Divine Decorative Fans]\n[Sukuna-hime's Horn] +1 mas"
+		"tr_explain": "Use to receive the following items:\n[Sukuna-hime Divine Wear]\n[Divine Decorative Fans]\n[Sukuna-hime's Horn] +1 other"
 	},
 	{
 		"assign": "33002246",
@@ -23200,23 +23200,23 @@
 	{
 		"assign": "33003521",
 		"jp_text": "☆少名比売神衣　銀セット",
-		"tr_text": "Set ☆Sukunahime Divine Wear Silver",
+		"tr_text": "☆Sukuna-hime Divine Silver Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「少名比売神衣　銀」\n「スクナヒメポニー」",
-		"tr_explain": "Al usarlo recibiras:\n[Sukunahime Divine Wear Silver]\n[Sukuna-hime Pony]"
+		"tr_explain": "Use to receive the following items:\n[Sukuna-hime Divine Silver]\n[Sukuna-hime Pony]"
 	},
 	{
 		"assign": "33003522",
 		"jp_text": "☆少名比売神衣　玄セット",
-		"tr_text": "Set ☆Sukunahime Divine Wear Mysterious",
+		"tr_text": "☆Sukuna-hime D. Myst. Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「少名比売神衣　玄」\n「スクナヒメポニー」",
-		"tr_explain": "Al usarlo recibiras:\n[Sukunahime Divine Wear Mysterious]\n[Sukuna-hime Pony]"
+		"tr_explain": "Use to receive the following items:\n[Sukuna-hime Divine Mysterious]\n[Sukuna-hime Pony]"
 	},
 	{
 		"assign": "33003523",
 		"jp_text": "☆少名比売神衣　茜セット",
-		"tr_text": "Set ☆Sukunahime Divine Wear Madder",
+		"tr_text": "☆Sukuna-hime D. Madder Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「少名比売神衣　茜」\n「スクナヒメポニー」",
-		"tr_explain": "Al usarlo recibiras:\n[Sukunahime Divine Wear Madder]\n[Sukuna-hime Pony]"
+		"tr_explain": "Use to receive the following items:\n[Sukuna-hime Divine Madder]\n[Sukuna-hime Pony]"
 	},
 	{
 		"assign": "33003524",
@@ -37035,5 +37035,271 @@
 		"tr_text": "☆I. Rose Dress Shadow Set B",
 		"jp_explain": "以下のアイテムを獲得する。\n「イノセントローズドレス影」\n「イノセントローズティアラ」\n「フォトンバタフライ黄」",
 		"tr_explain": "Use to receive the following items:\n[Innocent Rose Dress Shadow]\n[Innocent Rose Tiara]\n[Photon Butterfly Yellow]"
+	},
+	{
+		"assign": "33005381",
+		"jp_text": "レースチョーカー黒セット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「レースチョーカーＭ　黒」\n「レースチョーカーＦ　黒」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005382",
+		"jp_text": "レースチョーカー白セット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「レースチョーカーＭ　白」\n「レースチョーカーＦ　白」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005383",
+		"jp_text": "レースチョーカー赤セット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「レースチョーカーＭ　赤」\n「レースチョーカーＦ　赤」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005384",
+		"jp_text": "☆結城理の制服箱",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「結城理の制服」\n「結城理ヘアー」\n「Mass Destruction」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005385",
+		"jp_text": "☆結城理の制服　雪箱",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「結城理の制服　雪」\n「結城理ヘアー」\n「Mass Destruction」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005386",
+		"jp_text": "☆結城理の制服　夜箱",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「結城理の制服　夜」\n「結城理ヘアー」\n「Mass Destruction」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005387",
+		"jp_text": "☆バルクスタータ雪セット１",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「バルクスタータ雪[Ou]」\n「バルクスタータ玄[Ba]」\n「バルクヘッドＢ」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005388",
+		"jp_text": "☆バルクスタータ雪セット２",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「バルクスタータ雪[Ou]」\n「バルクスタータ雪[Ba]」\n「バルクヘッドＢ」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005389",
+		"jp_text": "☆アカデミアブレザーＭ曜箱",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「アカデミアブレザーＭ曜」\n「エレキギターアクセ」\n「カフス付きピアス　金」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005390",
+		"jp_text": "☆アカデミアブレザーＭ凍箱",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「アカデミアブレザーＭ凍」\n「エレキギターアクセ」\n「カフス付きピアス　金」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005391",
+		"jp_text": "☆アカデミアブレザーＭ茜箱",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「アカデミアブレザーＭ茜」\n「エレキギターアクセ」\n「カフス付きピアス　金」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005392",
+		"jp_text": "☆トレイオンＣＶセット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「トレイオンＣＶ」シリーズ\n「トレイオン・ヘッドＣＶ」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005393",
+		"jp_text": "岳羽ゆかりの制服箱",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「岳羽ゆかりの制服[Ba]」\n「岳羽ゆかりヘアー」\n「岳羽ゆかりリボン」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005394",
+		"jp_text": "岳羽ゆかりの制服　雪箱",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「岳羽ゆかりの制服　雪[Ba]」\n「岳羽ゆかりヘアー」\n「岳羽ゆかりリボン」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005395",
+		"jp_text": "岳羽ゆかりの制服　影箱",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「岳羽ゆかりの制服　影[Ba]」\n「岳羽ゆかりヘアー」\n「岳羽ゆかりリボン」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005396",
+		"jp_text": "アイギス・レプカ箱",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「アイギス・レプカ[Ba]」\n「アイギスリボン」\n「アイギスフェイスガード」他一種",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005397",
+		"jp_text": "アイギス・レプカ影箱",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「アイギス・レプカ影[Ba]」\n「アイギスリボン」\n「アイギスフェイスガード」他一種",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005398",
+		"jp_text": "☆アイギス・レプカＢ箱",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「アイギス・レプカ[Ou]」\n「アイギス・レプカＢ[Ba]」\n「アイギスヘアー２」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005399",
+		"jp_text": "桐条美鶴の制服箱",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「桐条美鶴の制服[Ba]」\n「桐条美鶴ヘアー」\n「桐条美鶴リボン」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005400",
+		"jp_text": "桐条美鶴の制服　影箱",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「桐条美鶴の制服　影[Ba]」\n「桐条美鶴ヘアー」\n「桐条美鶴リボン」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005401",
+		"jp_text": "桐条美鶴の制服　雪箱",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「桐条美鶴の制服　雪[Ba]」\n「桐条美鶴ヘアー」\n「桐条美鶴リボン」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005402",
+		"jp_text": "☆エリザベス・レプカ箱",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「エリザベス・レプカ」\n「エリザベスヘアー」\n「エリザベスハット」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005403",
+		"jp_text": "☆エリザベス・レプカ月箱",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「エリザベス・レプカ月」\n「エリザベスヘアー」\n「エリザベスハット」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005404",
+		"jp_text": "☆エリザベス・レプカ雪箱",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「エリザベス・レプカ雪」\n「エリザベスヘアー」\n「エリザベスハット」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005405",
+		"jp_text": "☆奥村春の制服箱",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「奥村春の制服」\n「奥村春ヘアー」\n「Rivers In the Desert(Remix)」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005406",
+		"jp_text": "☆奥村春の制服　影箱",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「奥村春の制服　影」\n「奥村春ヘアー」\n「Rivers In the Desert(Remix)」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005407",
+		"jp_text": "☆奥村春の制服　雪箱",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「奥村春の制服　雪」\n「奥村春ヘアー」\n「Rivers In the Desert(Remix)」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005408",
+		"jp_text": "☆アイレアエトス影セット１",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「アイレアエトス影[Ou]」\n「アイレアエトス玄[Ba]」\n「アイレヘッドギアＢ」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005409",
+		"jp_text": "☆アイレアエトス影セット２",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「アイレアエトス影[Ou]」\n「アイレアエトス冬[Ba]」\n「アイレウィングＢ」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005410",
+		"jp_text": "☆アカデミアブレザーＦ曜箱",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「アカデミアブレザーＦ曜」\n「チェックキャスケット　灰」\n「カフス付きピアス　銀」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005411",
+		"jp_text": "☆アカデミアブレザーＦ凍箱",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「アカデミアブレザーＦ凍」\n「チェックキャスケット　灰」\n「カフス付きピアス　銀」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005412",
+		"jp_text": "☆アカデミアブレザーＦ茜箱",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「アカデミアブレザーＦ茜」\n「チェックキャスケット　灰」\n「カフス付きピアス　銀」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005413",
+		"jp_text": "☆エアロスＣＶセット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「エアロスＣＶ」シリーズ\n「エアロス・ヘッドＣＶ」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005414",
+		"jp_text": "秀尽学園真制服箱Ｂ",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「秀尽学園真制服[Ba]」\n「新島真ヘアー」\n「ペルソナ５ オープニング」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005415",
+		"jp_text": "☆秀尽学園杏制服箱Ｂ",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「秀尽学園杏制服」\n「高巻杏ヘアー」\n「Last Surprise」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005416",
+		"jp_text": "☆佐倉双葉の私服箱Ｂ",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「佐倉双葉の私服」\n「佐倉双葉ヘアー」\n「佐倉双葉メガネ」他一種",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005417",
+		"jp_text": "夏のおしゃれグッズセット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「チェックキャスケット　青」\n「縦巻きロールエクステ」\n「レースチョーカーＭ　黒」他一種",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005418",
+		"jp_text": "丸まつげセット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテム４種を獲得する。\n「丸まつげ　黒／紺／茶／白」",
+		"tr_explain": ""
 	}
 ]
