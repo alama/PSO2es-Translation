@@ -7496,7 +7496,7 @@
 	},
 	{
 		"assign": "datetime_v",
-		"jp_text": "",
+		"jp_text": "$（year）/$（month）/$（day） $（hour）:$（minute）",
 		"tr_text": ""
 	},
 	{
@@ -7506,7 +7506,7 @@
 	},
 	{
 		"assign": "datetime_sec_v",
-		"jp_text": "",
+		"jp_text": "$（year）/$（month）/$（day） $（hour）:$（minute）: $（second）",
 		"tr_text": ""
 	},
 	{
