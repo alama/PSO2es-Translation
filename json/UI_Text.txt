@@ -7492,21 +7492,21 @@
 	{
 		"assign": "datetime",
 		"jp_text": "$（year）年$（month）月$（day）日$（hour）時$（minute）分",
-		"tr_text": "$（year）/（month）/$（day） $（hour）:$（minute）"
+		"tr_text": "$（year）/$（month）/$（day） $（hour）:$（minute）"
 	},
 	{
 		"assign": "datetime_v",
-		"jp_text": "$（year）/$（month）/$（day） $（hour）:$（minute）",
+		"jp_text": "",
 		"tr_text": ""
 	},
 	{
 		"assign": "datetime_sec",
 		"jp_text": "$（year）年$（month）月$（day）日$（hour）時$（minute）分$（second）秒",
-		"tr_text": "$（year）/（month）/$（day） $（hour）:$（minute）: $（second）"
+		"tr_text": "$（year）/$（month）/$（day） $（hour）:$（minute）: $（second）"
 	},
 	{
 		"assign": "datetime_sec_v",
-		"jp_text": "$（year）/（month）/$（day） $（hour）:$（minute）: $（second）",
+		"jp_text": "",
 		"tr_text": ""
 	},
 	{
