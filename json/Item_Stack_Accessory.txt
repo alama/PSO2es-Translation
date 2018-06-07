@@ -22227,9 +22227,9 @@
 	{
 		"assign": "3803427",
 		"jp_text": "背負い蒸気機関　黒",
-		"tr_text": "Gold Rear Steam Engine",
+		"tr_text": "Black Rear Steam Engine",
 		"jp_explain": "使用すると、新しいアクセサリーの\n背負い蒸気機関　黒が選択可能。",
-		"tr_explain": "Usando este tiquete, el accesorio\n\"Gold Rear Steam Engine\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Black Rear Steam Engine\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803428",
