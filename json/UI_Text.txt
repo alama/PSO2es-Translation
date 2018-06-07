@@ -7502,11 +7502,11 @@
 	{
 		"assign": "datetime_sec",
 		"jp_text": "$（year）年$（month）月$（day）日$（hour）時$（minute）分$（second）秒",
-		"tr_text": "$（year）/$（month）/$（day） $（hour）:$（minute）: $（second）"
+		"tr_text": "$（year）/$（month）/$（day） $（hour）:$（minute）:$（second）"
 	},
 	{
 		"assign": "datetime_sec_v",
-		"jp_text": "$（year）/$（month）/$（day） $（hour）:$（minute）: $（second）",
+		"jp_text": "$（year）/$（month）/$（day） $（hour）:$（minute）:$（second）",
 		"tr_text": ""
 	},
 	{
