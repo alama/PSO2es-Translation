@@ -4848,7 +4848,7 @@
 		"jp_text": "佳凰錦繍　玄[Ba]",
 		"tr_text": "Beautiful Phoenix Attire Dark [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n佳凰錦繍　玄[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Beautiful Phoenix Attire Mysterious [Ba]\".\nSolo para personajes femeninos."
+		"tr_explain": "Un nuevo traje base\n\"Beautiful Phoenix Attire Myst. [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350758",
