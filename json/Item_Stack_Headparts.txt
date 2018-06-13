@@ -4,273 +4,273 @@
 		"jp_text": "ジョーカ・ヘッド",
 		"tr_text": "Joker Head",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nジョーカ・ヘッドが選択可能。\nキャスト男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Joker Head\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nmasculina \"Joker Head\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "31601",
 		"jp_text": "マギウス・ヘッド",
 		"tr_text": "Magius Head",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nマギウス・ヘッドが選択可能。\nキャスト男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Magius Head\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nmasculina \"Magius Head\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "31602",
 		"jp_text": "シェリフ・ヘッド",
 		"tr_text": "Sheriff Head",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nシェリフ・ヘッドが選択可能。\nキャスト男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Sheriff Head\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nmasculina \"Sheriff Head\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "31603",
 		"jp_text": "コロッサス・ヘッド",
 		"tr_text": "Colossus Head",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nコロッサス・ヘッドが選択可能。\nキャスト男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Colossus Head\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nmasculina \"Colossus Head\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "31604",
 		"jp_text": "バルドル・ヘッド",
 		"tr_text": "Baldur Head",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nバルドル・ヘッドが選択可能。\nキャスト男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Baldur Head\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nmasculina \"Baldur Head\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "31605",
 		"jp_text": "アングリフ・ヘッド",
 		"tr_text": "Angriff Head",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nアングリフ・ヘッドが選択可能。\nキャスト男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Angriff Head\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nmasculina \"Angriff Head\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "31606",
 		"jp_text": "メルダー・ヘッド",
 		"tr_text": "Melder Head",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nメルダー・ヘッドが選択可能。\nキャスト男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Melder Head\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nmasculina \"Melder Head\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "31607",
 		"jp_text": "ディスタ・ヘッドＣＶ",
 		"tr_text": "Dista Head CV",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nディスタ・ヘッドＣＶが選択可能。\nキャスト男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Dista Head CV\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nmasculina \"Dista Head CV\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "31608",
 		"jp_text": "ロニア・ヘッドＣＶ",
 		"tr_text": "Ronia Head CV",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nロニア・ヘッドＣＶが選択可能。\nキャスト男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Ronia Head CV\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nmasculina \"Ronia Head CV\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "31609",
 		"jp_text": "ワスプ・ヘッド",
 		"tr_text": "Wasp Head",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nワスプ・ヘッドが選択可能。\nキャスト女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Wasp Head\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nfemenina \"Wasp Head\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "316010",
 		"jp_text": "ランクス・ヘッド",
 		"tr_text": "Ranks Head",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nランクス・ヘッドが選択可能。\nキャスト女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Ranks Head\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nfemenina \"Ranks Head\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "316011",
 		"jp_text": "イオニア・ヘッド",
 		"tr_text": "Ionia Head",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nイオニア・ヘッドが選択可能。\nキャスト女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Ionia Head\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nfemenina \"Ionia Head\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "316012",
 		"jp_text": "フリーゲン・ヘッド",
 		"tr_text": "Fliegen Head",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nフリーゲン・ヘッドが選択可能。\nキャスト女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Fliegen Head\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nfemenina \"Fliegen Head\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "316013",
 		"jp_text": "メディウム・ヘッド",
 		"tr_text": "Medium Head",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nメディウム・ヘッドが選択可能。\nキャスト女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Medium Head\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nfemenina \"Medium Head\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "316014",
 		"jp_text": "イルシオン・ヘッド",
 		"tr_text": "Illusion Head",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nイルシオン・ヘッドが選択可能。\nキャスト女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Illusion Head\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nfemenina \"Illusion Head\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "316015",
 		"jp_text": "ラミア・ヘッド",
 		"tr_text": "Lamia Head",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nラミア・ヘッドが選択可能。\nキャスト女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Lamia Head\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nfemenina \"Lamia Head\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "316016",
 		"jp_text": "ディール・ヘッドＣＶ",
 		"tr_text": "Deal Head CV",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nディール・ヘッドＣＶが選択可能。\nキャスト女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Deal Head CV\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nfemenina \"Deal Head CV\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "316017",
 		"jp_text": "ローズ・ヘッドＣＶ",
 		"tr_text": "Rose Head CV",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nローズ・ヘッドＣＶが選択可能。\nキャスト女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Rose Head CV\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nfemenina \"Rose Head CV\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "316018",
 		"jp_text": "ファウマ・ヘッドＣＶ",
 		"tr_text": "Fauma Head CV",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nファウマ・ヘッドＣＶが選択可能。\nキャスト男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Fauma Head CV\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nfemenina \"Fauma Head CV\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "316019",
 		"jp_text": "ファーネン・ヘッドＣＶ",
 		"tr_text": "Fanen Head CV",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nファーネン・ヘッドＣＶが選択可能。\nキャスト女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Fanen Head CV\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nfemenina \"Fanen Head CV\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "316020",
 		"jp_text": "アングリフ・ヘッドＣＶ",
 		"tr_text": "Angriff Head CV",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nアングリフ・ヘッドＣＶが選択可能。\nキャスト男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Angriff Head CV\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nmasculina \"Angriff Head CV\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "316021",
 		"jp_text": "イオニア・ヘッドＣＶ",
 		"tr_text": "Ionia Head CV",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nイオニア・ヘッドＣＶが選択可能。\nキャスト女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Ionia Head CV\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nfemenina \"Ionia Head CV\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "316022",
 		"jp_text": "コロッサス・ヘッドＣＶ",
 		"tr_text": "Colossus Head CV",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nコロッサス・ヘッドＣＶが選択可能。\nキャスト男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Colossus Head CV\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nmasculina \"Colossus Head CV\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "316023",
 		"jp_text": "ランクス・ヘッドＣＶ",
 		"tr_text": "Ranks Head CV",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nランクス・ヘッドＣＶが選択可能。\nキャスト女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Ranks Head CV\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nfemenina \"Ranks Head CV\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "316024",
 		"jp_text": "マギウス・ヘッドＣＶ",
 		"tr_text": "Magius Head CV",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nマギウス・ヘッドＣＶが選択可能。\nキャスト男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Magius Head CV\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nmasculina \"Magius Head CV\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "316025",
 		"jp_text": "イルシオン・ヘッドＣＶ",
 		"tr_text": "Illusion Head CV",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nイルシオン・ヘッドＣＶが選択可能。\nキャスト女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Illusion Head CV\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nfemenina \"Illusion Head CV\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "316026",
 		"jp_text": "ラミア・フェイス",
 		"tr_text": "Lamia Face",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nラミア・フェイスが選択可能。\nキャスト女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Lamia Face\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nfemenina \"Lamia Face\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "316027",
 		"jp_text": "シェリフ・ヘッドＣＶ",
 		"tr_text": "Sheriff Head CV",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nシェリフ・ヘッドＣＶが選択可能。\nキャスト男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Sheriff Head CV\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nmasculina \"Sheriff Head CV\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "316028",
 		"jp_text": "バルドル・ヘッドＣＶ",
 		"tr_text": "Baldur Head CV",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nバルドル・ヘッドＣＶが選択可能。\nキャスト男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Baldur Head CV\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nmasculina \"Baldur Head CV\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "316029",
 		"jp_text": "メルダー・ヘッドＣＶ",
 		"tr_text": "Melder Head CV",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nメルダー・ヘッドＣＶが選択可能。\nキャスト男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Melder Head CV\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nmasculina \"Melder Head CV\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "316030",
 		"jp_text": "ジョーカ・ヘッドＣＶ",
 		"tr_text": "Joker Head CV",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nジョーカ・ヘッドＣＶが選択可能。\nキャスト男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Joker Head CV\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nmasculina \"Joker Head CV\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "316031",
 		"jp_text": "フィルフ・ヘッド",
 		"tr_text": "Filph Head",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nフィルフ・ヘッドが選択可能。\nキャスト男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Filph Head\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nmasculina \"Filph Head\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "316032",
 		"jp_text": "フィルフ・ヘッドＣＶ",
 		"tr_text": "Filph Head CV",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nフィルフ・ヘッドＣＶが選択可能。\nキャスト男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Filph Head CV\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nmasculina \"Filph Head CV\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "316033",
 		"jp_text": "ゴウボイド・ヘッド",
 		"tr_text": "Gouboid Head",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nゴウボイド・ヘッドが選択可能。\nキャスト男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Gouboid Head\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nmasculina \"Gouboid Head\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "316034",
 		"jp_text": "ゴウボイド・ヘッドＣＶ",
 		"tr_text": "Gouboid Head CV",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nゴウボイド・ヘッドＣＶが選択可能。\nキャスト男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Gouboid Head CV\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nmasculina \"Gouboid Head CV\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "316035",
 		"jp_text": "アラオ・ヘッド",
 		"tr_text": "Arao Head",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nアラオ・ヘッドが選択可能。\nキャスト男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Arao Head\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nmasculina \"Arao Head\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "316036",
 		"jp_text": "アラオ・ヘッドＣＶ",
 		"tr_text": "Arao Head CV",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nアラオ・ヘッドＣＶが選択可能。\nキャスト男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Arao Head CV\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nmasculina \"Arao Head CV\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "316037",
 		"jp_text": "ベルガ・ヘッド",
 		"tr_text": "Beluga Head",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nベルガ・ヘッドが選択可能。\nキャスト男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Beluga Head\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nmasculina \"Beluga Head\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "316038",
 		"jp_text": "ベルガ・ヘッドＣＶ",
 		"tr_text": "Beluga Head CV",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nベルガ・ヘッドＣＶが選択可能。\nキャスト男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Beluga Head CV\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nmasculina \"Beluga Head CV\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "316039",
@@ -1572,49 +1572,49 @@
 		"jp_text": "トレイオン・ヘッドＣＶ",
 		"tr_text": "Traion Head CV",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nトレイオン・ヘッドＣＶが選択可能。\nキャスト男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, la cabeza\nmasculina \"Traion Head CV\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3160234",
 		"jp_text": "レクトアギル・ヘッドＧＶ",
 		"tr_text": "Rectagil Head GV",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nレクトアギル・ヘッドＧＶが選択可能。\nキャスト男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Rectagil Head GV\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nmasculina \"Rectagil Head GV\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3160235",
 		"jp_text": "アグリ・ヘッド",
 		"tr_text": "Agri Head",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nアグリ・ヘッドが選択可能。\nキャスト男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Agri Head\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nmasculina \"Agri Head\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3160238",
 		"jp_text": "エアロス・ヘッド",
 		"tr_text": "Aeros Head",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nエアロス・ヘッドが選択可能。\nキャスト女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Aeros Head\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nfemenina \"Aeros Head\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3160239",
 		"jp_text": "エアロス・ヘッドＣＶ",
 		"tr_text": "Aeros Head CV",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nエアロス・ヘッドＣＶが選択可能。\nキャスト女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, la cabeza\nfemenina \"Aeros Head CV\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3160241",
 		"jp_text": "エクレピスト・ヘッドＧＶ",
 		"tr_text": "Eclepiste Head GV",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nエクレピスト・ヘッドＧＶが選択可能。\nキャスト女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Eclepiste Head GV\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nfemenina \"Eclepiste Head GV\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3160242",
 		"jp_text": "アルキ・ヘッド",
 		"tr_text": "Alcy Head",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nアルキ・ヘッドが選択可能。\nキャスト女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la cabeza\n\"Alcy Head\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, la cabeza\nfemenina \"Alcy Head\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3160245",

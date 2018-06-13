@@ -22472,23 +22472,23 @@
 	{
 		"assign": "3803489",
 		"jp_text": "ヒューナルウィングＡ",
-		"tr_text": "",
+		"tr_text": "Hunar Wing A",
 		"jp_explain": "使用すると、新しいアクセサリーの\nヒューナルウィングＡが選択可能。",
-		"tr_explain": "Usando este tiquete, el accesorio\n\" \"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Hunar Wing A\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803490",
 		"jp_text": "ヒューナルウィングＢ",
-		"tr_text": "",
+		"tr_text": "Hunar Wing B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nヒューナルウィングＢが選択可能。",
-		"tr_explain": "Usando este tiquete, el accesorio\n\" \"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Hunar Wing B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803491",
 		"jp_text": "ヒューナルウィングＣ",
-		"tr_text": "",
+		"tr_text": "Hunar Wing C",
 		"jp_explain": "使用すると、新しいアクセサリーの\nヒューナルウィングＣが選択可能。",
-		"tr_explain": "Usando este tiquete, el accesorio\n\" \"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Hunar Wing C\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803492",

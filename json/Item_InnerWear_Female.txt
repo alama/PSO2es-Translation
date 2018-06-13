@@ -2781,7 +2781,7 @@
 	{
 		"assign": "3370441",
 		"jp_text": "アクティブキャミ影[In]",
-		"tr_text": "Active Camisole Shadow [In]",
+		"tr_text": "Active Camisole Black [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nアクティブキャミ影[In]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": "Una nueva ropa interior\n\"Active Camisole Shadow [In]\".\nSolo para personajes femeninos."
 	}

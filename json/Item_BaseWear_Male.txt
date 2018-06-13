@@ -3663,9 +3663,9 @@
 	{
 		"assign": "3340583",
 		"jp_text": "ラッピーミミクリＭ[Ba]",
-		"tr_text": "",
+		"tr_text": "Rappy Mimikli M [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nラッピーミミクリＭ[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Rappy Mimikli M [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340584",
@@ -3698,16 +3698,16 @@
 	{
 		"assign": "3340590",
 		"jp_text": "ラッピーミミクリＭ影[Ba]",
-		"tr_text": "",
+		"tr_text": "Rappy Mimikli M Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nラッピーミミクリＭ影[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Rappy Mimikli M [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340591",
 		"jp_text": "ラッピーミミクリＭ空[Ba]",
 		"tr_text": "",
 		"jp_explain": "使用すると、新しいベースウェアの\nラッピーミミクリＭ空[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Rappy Mimikli M Shadow [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340594",
@@ -3726,64 +3726,64 @@
 	{
 		"assign": "3340596",
 		"jp_text": "ザムロード[Ba]",
-		"tr_text": "",
+		"tr_text": "Zamlord [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nザムロード[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Zamlord [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340597",
 		"jp_text": "ザムロード影[Ba]",
-		"tr_text": "",
+		"tr_text": "Zamlord Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nザムロード影[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Zamlord Shadow [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340598",
 		"jp_text": "ザムロード陽[Ba]",
-		"tr_text": "",
+		"tr_text": "Zamlord Sun [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nザムロード陽[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Zamlord Sun [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340599",
 		"jp_text": "ザムロード紅[Ba]",
-		"tr_text": "",
+		"tr_text": "Zamlord Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nザムロード紅[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Zamlord Crimson [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340600",
 		"jp_text": "ラークバルバトス[Ba]",
-		"tr_text": "",
+		"tr_text": "Lark Barbatos [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nラークバルバトス[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Lark Barbatos [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340601",
 		"jp_text": "ラークバルバトス雪[Ba]",
-		"tr_text": "",
+		"tr_text": "Lark Barbatos Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nラークバルバトス雪[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Lark Barbatos Snow [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340602",
 		"jp_text": "ラークバルバトス影[Ba]",
-		"tr_text": "",
+		"tr_text": "Lark Barbatos Black [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nラークバルバトス影[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Lark Barbatos Black [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340603",
 		"jp_text": "ラークバルバトス紅[Ba]",
-		"tr_text": "",
+		"tr_text": "Lark Barbatos Red [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nラークバルバトス紅[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Lark Barbatos Red [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340604",
 		"jp_text": "アークスジャージーＭ[Ba]",
-		"tr_text": "",
+		"tr_text": "ARKS Jersey M [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nアークスジャージーＭ[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\" [Ba]\".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"ARKS Jersey M [Ba]\".\nSolo para personajes masculinos."
 	}
 ]

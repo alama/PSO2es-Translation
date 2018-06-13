@@ -2895,280 +2895,280 @@
 		"jp_text": "バルバタトゥーＭ　茶",
 		"tr_text": "Brown Barba Tattoo M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nバルバタトゥーＭ　茶が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Brown Barba Tattoo M\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, la pintura M\n\"Brown Barba Tattoo M\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290449",
 		"jp_text": "バルバタトゥーＭ　白",
 		"tr_text": "White Barba Tattoo M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nバルバタトゥーＭ　白が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"White Barba Tattoo M\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, la pintura M\n\"White Barba Tattoo M\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290450",
 		"jp_text": "バルバタトゥーＦ　茶",
 		"tr_text": "Brown Barba Tattoo F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nバルバタトゥーＦ　茶が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Brown Barba Tattoo F\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, la pintura F\n\"Brown Barba Tattoo F\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290451",
 		"jp_text": "バルバタトゥーＦ　白",
 		"tr_text": "White Barba Tattoo F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nバルバタトゥーＦ　白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"White Barba Tattoo F\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, la pintura F\n\"White Barba Tattoo F\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290452",
 		"jp_text": "インナー風ペイントＭ　Ａ白",
 		"tr_text": "White Inner Style Paint M A",
 		"jp_explain": "チケットを使用すると、ボディペイント\nインナー風ペイントＭ　Ａ白が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"White Inner Style Paint M A\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, la pintura M\n\"White Inner Style Paint M A\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290453",
 		"jp_text": "インナー風ペイントＭ　Ａ灰",
 		"tr_text": "Gray Inner Style Paint M A",
 		"jp_explain": "チケットを使用すると、ボディペイント\nインナー風ペイントＭ　Ａ灰が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Gray Inner Style Paint M A\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, la pintura M\n\"Gray Inner Style Paint M A\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290454",
 		"jp_text": "インナー風ペイントＭ　Ａ黒",
 		"tr_text": "Black Inner Style Paint M A",
 		"jp_explain": "チケットを使用すると、ボディペイント\nインナー風ペイントＭ　Ａ黒が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Black Inner Style Paint M A\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, la pintura M\n\"Black Inner Style Paint M A\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290455",
 		"jp_text": "インナー風ペイントＦ　Ａ白",
 		"tr_text": "White Inner Style Paint F A",
 		"jp_explain": "チケットを使用すると、ボディペイント\nインナー風ペイントＦ　Ａ白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"White Inner Style Paint F A\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, la pintura F\n\"White Inner Style Paint F A\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290456",
 		"jp_text": "インナー風ペイントＦ　Ａ灰",
 		"tr_text": "Gray Inner Style Paint F A",
 		"jp_explain": "チケットを使用すると、ボディペイント\nインナー風ペイントＦ　Ａ灰が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Gray Inner Style Paint F A\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, la pintura F\n\"Gray Inner Style Paint F A\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290457",
 		"jp_text": "インナー風ペイントＦ　Ａ黒",
 		"tr_text": "Black Inner Style Paint F A",
 		"jp_explain": "チケットを使用すると、ボディペイント\nインナー風ペイントＦ　Ａ黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Black Inner Style Paint F A\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, la pintura F\n\"Black Inner Style Paint F A\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290458",
 		"jp_text": "インナー風ペイントＭ　Ｂ白",
 		"tr_text": "White Inner Style Paint M B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nインナー風ペイントＭ　Ｂ白が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"White Inner Style Paint M B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, la pintura M\n\"White Inner Style Paint M B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290459",
 		"jp_text": "インナー風ペイントＭ　Ｂ灰",
 		"tr_text": "Gray Inner Style Paint M B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nインナー風ペイントＭ　Ｂ灰が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Gray Inner Style Paint M B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, la pintura M\n\"Gray Inner Style Paint M B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290460",
 		"jp_text": "インナー風ペイントＭ　Ｂ黒",
 		"tr_text": "Black Inner Style Paint M B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nインナー風ペイントＭ　Ｂ黒が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Black Inner Style Paint M B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, la pintura M\n\"Black Inner Style Paint M B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290461",
 		"jp_text": "インナー風ペイントＦ　Ｂ白",
 		"tr_text": "White Inner Style Paint F B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nインナー風ペイントＦ　Ｂ白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"White Inner Style Paint F B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, la pintura F\n\"White Inner Style Paint F B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290462",
 		"jp_text": "インナー風ペイントＦ　Ｂ灰",
 		"tr_text": "Gray Inner Style Paint F B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nインナー風ペイントＦ　Ｂ灰が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Gray Inner Style Paint F B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, la pintura F\n\"Gray Inner Style Paint F B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290463",
 		"jp_text": "インナー風ペイントＦ　Ｂ黒",
 		"tr_text": "Black Inner Style Paint F B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nインナー風ペイントＦ　Ｂ黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Black Inner Style Paint F B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, la pintura F\n\"Black Inner Style Paint F B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290464",
 		"jp_text": "巻きリボン柄タイツ赤",
 		"tr_text": "Red Wrapped Ribbon Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\n巻きリボン柄タイツ赤が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Red Wrapped Ribbon Tights\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, la pintura F\n\"Red Wrapped Ribbon Tights\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290465",
 		"jp_text": "巻きリボン柄タイツ桃",
 		"tr_text": "Peach Wrapped Ribbon Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\n巻きリボン柄タイツ桃が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Peach Wrapped Ribbon Tights\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, la pintura F\n\"Peach Wrapped Ribbon Tights\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290466",
 		"jp_text": "巻きリボン柄タイツ黒",
 		"tr_text": "Black Wrapped Ribbon Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\n巻きリボン柄タイツ黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Black Wrapped Ribbon Tights\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, la pintura F\n\"Black Wrapped Ribbon Tights\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290467",
 		"jp_text": "天星初等部女子ソックスＢ",
 		"tr_text": "Tensei Elementary Socks F B",
 		"jp_explain": "チケットを使用すると、ボディペイント\n天星初等部女子ソックスＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Tensei Elementary Socks F B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, la pintura F\n\"Tensei Elementary Socks F B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290468",
 		"jp_text": "シンプルチョーカーＭ　Ａ",
 		"tr_text": "Simple Choker M A",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシンプルチョーカーＭ　Ａが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Simple Choker M A\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, la pintura M\n\"Simple Choker M A\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290469",
 		"jp_text": "シンプルチョーカーＭ　Ｂ",
 		"tr_text": "Simple Choker M B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシンプルチョーカーＭ　Ｂが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Simple Choker M B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, la pintura M\n\"Simple Choker M B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290470",
 		"jp_text": "シンプルチョーカーＭ　Ｃ",
 		"tr_text": "Simple Choker M C",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシンプルチョーカーＭ　Ｃが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Simple Choker M C\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, la pintura M\n\"Simple Choker M C\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290471",
 		"jp_text": "シンプルチョーカーＭ　Ｄ",
 		"tr_text": "Simple Choker M D",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシンプルチョーカーＭ　Ｄが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Simple Choker M D\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, la pintura M\n\"Simple Choker M D\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290472",
 		"jp_text": "シンプルチョーカーＦ　Ａ",
 		"tr_text": "Simple Choker F A",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシンプルチョーカーＦ　Ａが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Simple Choker F A\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, la pintura F\n\"Simple Choker F A\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290473",
 		"jp_text": "シンプルチョーカーＦ　Ｂ",
 		"tr_text": "Simple Choker F B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシンプルチョーカーＦ　Ｂが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Simple Choker F B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, la pintura F\n\"Simple Choker F B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290474",
 		"jp_text": "シンプルチョーカーＦ　Ｃ",
 		"tr_text": "Simple Choker F C",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシンプルチョーカーＦ　Ｃが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Simple Choker F C\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, la pintura F\n\"Simple Choker F C\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290475",
 		"jp_text": "シンプルチョーカーＦ　Ｄ",
 		"tr_text": "Simple Choker F D",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシンプルチョーカーＦ　Ｄが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Simple Choker F D\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, la pintura F\n\"Simple Choker F D\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290476",
 		"jp_text": "エレメンタルボディ炎Ｍ",
 		"tr_text": "Elemental Body Fire M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nエレメンタルボディ炎Ｍが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Elemental Body Fire M\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, la pintura M\n\"Elemental Body Fire M\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290477",
 		"jp_text": "エレメンタルボディ水Ｍ",
 		"tr_text": "Elemental Body Ice M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nエレメンタルボディ水Ｍが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Elemental Body Ice M\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, la pintura M\n\"Elemental Body Ice M\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290478",
 		"jp_text": "エレメンタルボディ風Ｍ",
 		"tr_text": "Elemental Body Wind M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nエレメンタルボディ風Ｍが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Elemental Body Wind M\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, la pintura M\n\"Elemental Body Wind M\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290479",
 		"jp_text": "エレメンタルボディ炎Ｆ",
 		"tr_text": "Elemental Body Fire F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nエレメンタルボディ炎Ｆが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Elemental Body Fire F\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, la pintura F\n\"Elemental Body Fire F\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290480",
 		"jp_text": "エレメンタルボディ水Ｆ",
 		"tr_text": "Elemental Body Ice F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nエレメンタルボディ水Ｆが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Elemental Body Ice F\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, la pintura F\n\"Elemental Body Ice F\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290481",
 		"jp_text": "エレメンタルボディ風Ｆ",
 		"tr_text": "Elemental Body Wind F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nエレメンタルボディ風Ｆが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Elemental Body Wind F\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, la pintura F\n\"Elemental Body Wind F\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290482",
 		"jp_text": "しましまスーツＭ",
 		"tr_text": "Striped Suit M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nしましまスーツＭが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Striped Suit M\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, la pintura M\n\"Striped Suit M\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290483",
 		"jp_text": "しましまスーツＦ",
 		"tr_text": "Striped Suit F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nしましまスーツＦが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Striped Suit F\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, la pintura F\n\"Striped Suit F\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290484",
 		"jp_text": "グラスラージュタイツ",
 		"tr_text": "Grassoulage Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nグラスラージュタイツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Grassoulage Tights\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, la pintura F\n\"Grassoulage Tights\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290487",
 		"jp_text": "エナメルソックス　黒",
 		"tr_text": "Black Enamel Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nエナメルソックス　黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, la pintura F\n\"Black Enamel Socks\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290488",
 		"jp_text": "エナメルソックス　白",
 		"tr_text": "White Enamel Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nエナメルソックス　白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, la pintura F\n\"White Enamel Socks\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290489",
 		"jp_text": "エナメルソックス　赤",
 		"tr_text": "Red Enamel Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nエナメルソックス　赤が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, la pintura F\n\"Red Enamel Socks\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290490",
@@ -3182,41 +3182,41 @@
 		"jp_text": "レースチョーカーＭ　白",
 		"tr_text": "White Lace Choker M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nレースチョーカーＭ　白が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, la pintura M\n\"White Lace Choker M\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290492",
 		"jp_text": "レースチョーカーＭ　黒",
 		"tr_text": "Black Lace Choker M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nレースチョーカーＭ　黒が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, la pintura M\n\"Black Lace Choker M\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290493",
 		"jp_text": "レースチョーカーＭ　赤",
 		"tr_text": "Red Lace Choker M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nレースチョーカーＭ　赤が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, la pintura M\n\"Red Lace Choker M\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290494",
 		"jp_text": "レースチョーカーＦ　白",
 		"tr_text": "White Lace Choker F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nレースチョーカーＦ　白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, la pintura F\n\"White Lace Choker F\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290495",
 		"jp_text": "レースチョーカーＦ　黒",
 		"tr_text": "Black Lace Choker F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nレースチョーカーＦ　黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, la pintura F\n\"Black Lace Choker F\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3290496",
 		"jp_text": "レースチョーカーＦ　赤",
 		"tr_text": "Red Lace Choker F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nレースチョーカーＦ　赤が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, la pintura F\n\"Red Lace Choker F\"\nse podra usar en el Estilista."
 	}
 ]
