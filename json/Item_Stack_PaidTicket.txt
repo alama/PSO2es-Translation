@@ -67,63 +67,63 @@
 		"jp_text": "拡張倉庫１利用３０日",
 		"tr_text": "Almacen EX.1 30 Dias",
 		"jp_explain": "拡張倉庫１の利用許可チケット。\n使用するとアイテム５００個を格納する\n拡張倉庫１が３０日間利用可能になる。",
-		"tr_explain": "Te permite acceder al Almacen EX.1\npor 30 dias. Aun podras sacar los objetos\ndespues de que este expire."
+		"tr_explain": "Te permite acceder al Almacen EX.1\npor 30 dias. Aun podras sacar los\nobjetos despues de expirar."
 	},
 	{
 		"assign": "320011",
 		"jp_text": "拡張倉庫１利用６０日",
 		"tr_text": "Almacen EX.1 60 Dias",
 		"jp_explain": "拡張倉庫１の利用許可チケット。\n使用するとアイテム５００個を格納する\n拡張倉庫１が６０日間利用可能になる。",
-		"tr_explain": "Te permite acceder al Almacen EX.1\npor 60 dias. Aun podras sacar los objetos\ndespues de que este expire."
+		"tr_explain": "Te permite acceder al Almacen EX.1\npor 60 dias. Aun podras sacar los\nobjetos despues de expirar."
 	},
 	{
 		"assign": "320012",
 		"jp_text": "拡張倉庫１利用９０日",
 		"tr_text": "Almacen EX.1 90 Dias",
 		"jp_explain": "拡張倉庫１の利用許可チケット。\n使用するとアイテム５００個を格納する\n拡張倉庫１が９０日間利用可能になる。",
-		"tr_explain": "Te permite acceder al Almacen EX.1\npor 90 dias. Aun podras sacar los objetos\ndespues de que este expire."
+		"tr_explain": "Te permite acceder al Almacen EX.1\npor 90 dias. Aun podras sacar los\nobjetos despues de expirar."
 	},
 	{
 		"assign": "320013",
 		"jp_text": "拡張倉庫２利用３０日",
 		"tr_text": "Almacen EX.2 30 Dias",
 		"jp_explain": "拡張倉庫２の利用許可チケット。\n使用するとアイテム５００個を格納する\n拡張倉庫２が３０日間利用可能になる。",
-		"tr_explain": "Te permite acceder al Almacen EX.2\npor 30 dias. Aun podras sacar los objetos\ndespues de que este expire."
+		"tr_explain": "Te permite acceder al Almacen EX.2\npor 30 dias. Aun podras sacar los\nobjetos despues de expirar."
 	},
 	{
 		"assign": "320014",
 		"jp_text": "拡張倉庫２利用６０日",
 		"tr_text": "Almacen EX.2 60 Dias",
 		"jp_explain": "拡張倉庫２の利用許可チケット。\n使用するとアイテム５００個を格納する\n拡張倉庫２が６０日間利用可能になる。",
-		"tr_explain": "Te permite acceder al Almacen EX.2\npor 60 dias. Aun podras sacar los objetos\ndespues de que este expire."
+		"tr_explain": "Te permite acceder al Almacen EX.2\npor 60 dias. Aun podras sacar los\nobjetos despues de expirar."
 	},
 	{
 		"assign": "320015",
 		"jp_text": "拡張倉庫２利用９０日",
 		"tr_text": "Almacen EX.2 90 Dias",
 		"jp_explain": "拡張倉庫２の利用許可チケット。\n使用するとアイテム５００個を格納する\n拡張倉庫２が９０日間利用可能になる。",
-		"tr_explain": "Te permite acceder al Almacen EX.2\npor 90 dias. Aun podras sacar los objetos\ndespues de que este expire."
+		"tr_explain": "Te permite acceder al Almacen EX.2\npor 90 dias. Aun podras sacar los\nobjetos despues de expirar."
 	},
 	{
 		"assign": "320016",
 		"jp_text": "拡張倉庫３利用３０日",
 		"tr_text": "Almacen EX.3 30 Dias",
 		"jp_explain": "拡張倉庫３の利用許可チケット。\n使用するとアイテム５００個を格納する\n拡張倉庫３が３０日間利用可能になる。",
-		"tr_explain": "Te permite acceder al Almacen EX.3\npor 30 dias. Aun podras sacar los objetos\ndespues de que este expire."
+		"tr_explain": "Te permite acceder al Almacen EX.3\npor 30 dias. Aun podras sacar los\nobjetos despues de expirar."
 	},
 	{
 		"assign": "320017",
 		"jp_text": "拡張倉庫３利用６０日",
 		"tr_text": "Almacen EX.3 60 Dias",
 		"jp_explain": "拡張倉庫３の利用許可チケット。\n使用するとアイテム５００個を格納する\n拡張倉庫３が６０日間利用可能になる。",
-		"tr_explain": "Te permite acceder al Almacen EX.3\npor 60 dias. Aun podras sacar los objetos\ndespues de que este expire."
+		"tr_explain": "Te permite acceder al Almacen EX.3\npor 60 dias. Aun podras sacar los\nobjetos despues de expirar."
 	},
 	{
 		"assign": "320018",
 		"jp_text": "拡張倉庫３利用９０日",
 		"tr_text": "Almacen EX.3 90 Dias",
 		"jp_explain": "拡張倉庫３の利用許可チケット。\n使用するとアイテム５００個を格納する\n拡張倉庫３が９０日間利用可能になる。",
-		"tr_explain": "Te permite acceder al Almacen EX.3\npor 90 dias. Aun podras sacar los objetos\ndespues de que este expire."
+		"tr_explain": "Te permite acceder al Almacen EX.3\npor 90 dias. Aun podras sacar los\nobjetos despues de expirar."
 	},
 	{
 		"assign": "320019",
@@ -585,28 +585,28 @@
 		"jp_text": "拡張倉庫４利用３０日",
 		"tr_text": "Almacen EX.4 30 Dias",
 		"jp_explain": "拡張倉庫４の利用許可チケット。\n使用するとアイテム５００個を格納する\n拡張倉庫４が３０日間利用可能になる。",
-		"tr_explain": "Te permite acceder al Almacen EX.4\npor 30 dias. Aun podras sacar los objetos\ndespues de que este expire."
+		"tr_explain": "Te permite acceder al Almacen EX.4\npor 30 dias. Aun podras sacar los\nobjetos despues de expirar."
 	},
 	{
 		"assign": "320088",
 		"jp_text": "拡張倉庫４利用９０日",
 		"tr_text": "Almacen EX.4 90 Dias",
 		"jp_explain": "拡張倉庫４の利用許可チケット。\n使用するとアイテム５００個を格納する\n拡張倉庫４が９０日間利用可能になる。",
-		"tr_explain": "Te permite acceder al Almacen EX.4\npor 90 dias. Aun podras sacar los objetos\ndespues de que este expire."
+		"tr_explain": "Te permite acceder al Almacen EX.4\npor 90 dias. Aun podras sacar los\nobjetos despues de expirar."
 	},
 	{
 		"assign": "320089",
 		"jp_text": "拡張倉庫５利用３０日",
 		"tr_text": "Almacen EX.5 30 Dias",
 		"jp_explain": "拡張倉庫５の利用許可チケット。\n使用するとアイテム５００個を格納する\n拡張倉庫５が３０日間利用可能になる。",
-		"tr_explain": "Te permite acceder al Almacen EX.5\npor 30 dias. Aun podras sacar los objetos\ndespues de que este expire."
+		"tr_explain": "Te permite acceder al Almacen EX.5\npor 30 dias. Aun podras sacar los\nobjetos despues de expirar."
 	},
 	{
 		"assign": "320090",
 		"jp_text": "拡張倉庫５利用９０日",
 		"tr_text": "Almacen EX.5 90 Dias",
 		"jp_explain": "拡張倉庫５の利用許可チケット。\n使用するとアイテム５００個を格納する\n拡張倉庫５が９０日間利用可能になる。",
-		"tr_explain": "Te permite acceder al Almacen EX.5\npor 90 dias. Aun podras sacar los objetos\ndespues de que este expire."
+		"tr_explain": "Te permite acceder al Almacen EX.5\npor 90 dias. Aun podras sacar los\nobjetos despues de expirar."
 	},
 	{
 		"assign": "320094",
@@ -1201,14 +1201,14 @@
 		"jp_text": "素材倉庫利用３０日",
 		"tr_text": "Almacen Material 30 Dias",
 		"jp_explain": "素材倉庫の利用許可チケット。\nオーダーアイテム／素材を格納する\n素材倉庫が３０日間利用可能になる。",
-		"tr_explain": "Te permite acceder al A. Material.\nGuarda materiales y\nobjetos de ordenes por 30 dias."
+		"tr_explain": "Te permite acceder al A. Material.\nGuarda materiales y objetos\nde ordenes por 30 dias."
 	},
 	{
 		"assign": "3200184",
 		"jp_text": "素材倉庫利用９０日",
 		"tr_text": "Almacen Material 90 Dias",
 		"jp_explain": "素材倉庫の利用許可チケット。\nオーダーアイテム／素材を格納する\n素材倉庫が９０日間利用可能になる。",
-		"tr_explain": "Te permite acceder al A. Material.\nGuarda materiales y\nobjetos de ordenes por 90 dias."
+		"tr_explain": "Te permite acceder al A. Material.\nGuarda materiales y objetos\nde ordenes por 90 dias."
 	},
 	{
 		"assign": "3200185",
@@ -1229,35 +1229,35 @@
 		"jp_text": "素材倉庫利用５日",
 		"tr_text": "Almacen Material 5 Dias",
 		"jp_explain": "素材倉庫の利用許可チケット。\nオーダーアイテム／素材を格納する\n素材倉庫が５日間利用可能になる。",
-		"tr_explain": "Te permite acceder al A. Material.\nGuarda materiales y\nobjetos de ordenes por 5 dias."
+		"tr_explain": "Te permite acceder al A. Material.\nGuarda materiales y objetos\nde ordenes por 5 dias."
 	},
 	{
 		"assign": "3200188",
 		"jp_text": "拡張倉庫１利用３０日Ｓ",
 		"tr_text": "Almacen EX.1 30 Dias S",
 		"jp_explain": "拡張倉庫１の利用許可チケット。\n使用するとアイテム５００個を格納する\n拡張倉庫１が３０日間利用可能になる。",
-		"tr_explain": "Te permite acceder al Almacen EX.1\npor 30 dias. Aun podras sacar los objetos\ndespues de que este expire."
+		"tr_explain": "Te permite acceder al Almacen EX.1\npor 30 dias. Aun podras sacar los\nobjetos despues de expirar."
 	},
 	{
 		"assign": "3200189",
 		"jp_text": "拡張倉庫１利用９０日Ｓ",
 		"tr_text": "Almacen EX.1 90 Dias S",
 		"jp_explain": "拡張倉庫１の利用許可チケット。\n使用するとアイテム５００個を格納する\n拡張倉庫１が９０日間利用可能になる。",
-		"tr_explain": "Te permite acceder al Almacen EX.1\npor 90 dias. Aun podras sacar los objetos\ndespues de que este expire."
+		"tr_explain": "Te permite acceder al Almacen EX.1\npor 90 dias. Aun podras sacar los\nobjetos despues de expirar."
 	},
 	{
 		"assign": "3200190",
 		"jp_text": "素材倉庫利用３０日Ｓ",
 		"tr_text": "Almacen Material 30 Dias S",
 		"jp_explain": "素材倉庫の利用許可チケット。\nオーダーアイテム／素材を格納する\n素材倉庫が３０日間利用可能になる。",
-		"tr_explain": "Te permite acceder al A. Material.\nGuarda materiales y\nobjetos de ordenes por 30 dias."
+		"tr_explain": "Te permite acceder al A. Material.\nGuarda materiales y objetos\nde ordenes por 30 dias."
 	},
 	{
 		"assign": "3200191",
 		"jp_text": "素材倉庫利用９０日Ｓ",
 		"tr_text": "Almacen Material 90 Dias S",
 		"jp_explain": "素材倉庫の利用許可チケット。\nオーダーアイテム／素材を格納する\n素材倉庫が９０日間利用可能になる。",
-		"tr_explain": "Te permite acceder al A. Material.\nGuarda materiales y\nobjetos de ordenes por 90 dias."
+		"tr_explain": "Te permite acceder al A. Material.\nGuarda materiales y objetos\nde ordenes por 90 dias."
 	},
 	{
 		"assign": "3200192",
