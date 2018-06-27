@@ -954,9 +954,9 @@
 	{
 		"assign": "3250141",
 		"jp_text": "目のクマＢ",
-		"tr_text": "Bear Eyes B",
+		"tr_text": "Dark Circles B",
 		"jp_explain": "チケットを使用すると、新しいメイクの\n目のクマＢが選択可能。",
-		"tr_explain": "Usando este tiquete, el maquillaje\n\"Bear Eyes B\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el maquillaje\n\"Dark Circles B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3250143",
@@ -1419,5 +1419,12 @@
 		"tr_text": "Aigis Face Guard",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nアイギスフェイスガードが選択可能。",
 		"tr_explain": "Usando este tiquete, el maquillaje\n\"Aigis Face Guard\"\nse podra usar en el Estilista."
+	},
+	{
+		"assign": "3250220",
+		"jp_text": "涙袋メイク",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、新しいメイクの\n涙袋メイクが選択可能。",
+		"tr_explain": ""
 	}
 ]

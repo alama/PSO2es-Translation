@@ -348,5 +348,12 @@
 		"tr_text": "Multiple Eyebrows B",
 		"jp_explain": "チケットを使用すると、まゆ\n多重まゆＢが選択可能。",
 		"tr_explain": "Usando este tiquete, las cejas\n\"Multiple Eyebrows B\"\nse podran usar en el Estilista."
+	},
+	{
+		"assign": "327055",
+		"jp_text": "ゆったり太まゆ",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、まゆ\nゆったり太まゆが選択可能。",
+		"tr_explain": ""
 	}
 ]

@@ -4572,22 +4572,22 @@
 	{
 		"assign": "4042301",
 		"jp_text": "純白のリボンを求めて・初級",
-		"tr_text": ""
+		"tr_text": "Pure White Ribbon Search - N"
 	},
 	{
 		"assign": "4042302",
 		"jp_text": "純白のリボンを求めて・中級",
-		"tr_text": ""
+		"tr_text": "Pure White Ribbon Search - H"
 	},
 	{
 		"assign": "4042303",
 		"jp_text": "純白のリボンを求めて・上級",
-		"tr_text": ""
+		"tr_text": "Pure White Ribbon Search - VH"
 	},
 	{
 		"assign": "4042304",
 		"jp_text": "純白のリボンを求めて・超級",
-		"tr_text": ""
+		"tr_text": "Pure White Ribbon Search - SH"
 	},
 	{
 		"assign": "4030101",
@@ -4882,41 +4882,41 @@
 	{
 		"assign": "5021101",
 		"jp_text": "アーレスの目覚め",
-		"tr_text": ""
+		"tr_text": "Ares Awakens"
 	},
 	{
 		"assign": "5021102",
 		"jp_text": "旅のはじまり",
-		"tr_text": ""
+		"tr_text": "The Journey Begins"
 	},
 	{
 		"assign": "5021103",
 		"jp_text": "火山での決意",
-		"tr_text": ""
+		"tr_text": "Determination in the Caves"
 	},
 	{
 		"assign": "5021104",
 		"jp_text": "海辺の修行",
-		"tr_text": ""
+		"tr_text": "Seaside Training"
 	},
 	{
 		"assign": "5021105",
-		"jp_text": "－",
+		"jp_text": "不屈の戦士",
 		"tr_text": ""
 	},
 	{
 		"assign": "5021106",
-		"jp_text": "－",
+		"jp_text": "この星で生きる資格",
 		"tr_text": ""
 	},
 	{
 		"assign": "5021107",
-		"jp_text": "－",
+		"jp_text": "最後の試練",
 		"tr_text": ""
 	},
 	{
 		"assign": "5021108",
-		"jp_text": "－",
+		"jp_text": "アーレスの女神",
 		"tr_text": ""
 	},
 	{
@@ -8236,22 +8236,22 @@
 	},
 	{
 		"assign": "7036801",
-		"jp_text": "-",
+		"jp_text": "女王の鼓舞",
 		"tr_text": ""
 	},
 	{
 		"assign": "7036901",
-		"jp_text": "-",
+		"jp_text": "女王の作戦",
 		"tr_text": ""
 	},
 	{
 		"assign": "7037001",
-		"jp_text": "-",
+		"jp_text": "女王の覚悟",
 		"tr_text": ""
 	},
 	{
 		"assign": "7037101",
-		"jp_text": "-",
+		"jp_text": "女王と臣下",
 		"tr_text": ""
 	},
 	{
@@ -9296,22 +9296,22 @@
 	},
 	{
 		"assign": "7058001",
-		"jp_text": "-",
+		"jp_text": "秘かな依頼",
 		"tr_text": ""
 	},
 	{
 		"assign": "7058101",
-		"jp_text": "-",
+		"jp_text": "試練の先に",
 		"tr_text": ""
 	},
 	{
 		"assign": "7058201",
-		"jp_text": "-",
+		"jp_text": "惑星の脅威",
 		"tr_text": ""
 	},
 	{
 		"assign": "7058301",
-		"jp_text": "-",
+		"jp_text": "ヒトの未来は",
 		"tr_text": ""
 	},
 	{

@@ -1052,9 +1052,9 @@
 	{
 		"assign": "3120166",
 		"jp_text": "進化Ｄ／テルテルラッピー",
-		"tr_text": "Evo. Device/TelTel Rappy",
+		"tr_text": "Evo. Device/Teru Teru Rappy",
 		"jp_explain": "Ｌｖ．１００以上のマグに使用できる\nマグの形態進化デバイス。\n「テルテルラッピー」に進化する。",
-		"tr_explain": "Requiere un mag de Lv.100 o mas\npara usarse. Evoluciona tu mag en un\nTelTel Rappy."
+		"tr_explain": "Requiere un mag de Lv.100 o mas\npara usarse. Evoluciona tu mag en un\nTeru Teru Rappy."
 	},
 	{
 		"assign": "3120167",

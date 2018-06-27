@@ -663,5 +663,89 @@
 		"tr_text": "Huevo de Redran 13★",
 		"jp_explain": "ペット「レドラン」のエッグ。\n使用するとレドランが\nペット登録され、育成可能となる。",
 		"tr_explain": "Huevo de Redran.\nUsalo para registrar\ny cria esta mascota."
+	},
+	{
+		"assign": "1210127",
+		"jp_text": "ワンダエッグ★１４",
+		"tr_text": "Huevo de Wanda 14★",
+		"jp_explain": "ペット「ワンダ」のエッグ。\n使用するとワンダが\nペット登録され、育成可能となる。",
+		"tr_explain": "Huevo de Wanda.\nUsalo para registrar\ny cria esta mascota."
+	},
+	{
+		"assign": "1210128",
+		"jp_text": "ワンダＳエッグ★１４",
+		"tr_text": "Huevo de Wanda S 14★",
+		"jp_explain": "ペット「ワンダ」のエッグ。\n使用するとワンダが\nペット登録され、育成可能となる。",
+		"tr_explain": "Huevo de Wanda.\nUsalo para registrar\ny cria esta mascota."
+	},
+	{
+		"assign": "1210129",
+		"jp_text": "トリムエッグ★１４",
+		"tr_text": "Huevo de Torim 14★",
+		"jp_explain": "ペット「トリム」のエッグ。\n使用するとトリムが\nペット登録され、育成可能となる。",
+		"tr_explain": "Huevo de Torim.\nUsalo para registrar\ny cria esta mascota."
+	},
+	{
+		"assign": "1210130",
+		"jp_text": "トリムＳエッグ★１４",
+		"tr_text": "Huevo de Torim S 14★",
+		"jp_explain": "ペット「トリム」のエッグ。\n使用するとトリムが\nペット登録され、育成可能となる。",
+		"tr_explain": "Huevo de Torim.\nUsalo para registrar\ny cria esta mascota."
+	},
+	{
+		"assign": "1210131",
+		"jp_text": "サリィエッグ★１４",
+		"tr_text": "Huevo de Cery 14★",
+		"jp_explain": "ペット「サリィ」のエッグ。\n使用するとサリィが\nペット登録され、育成可能となる。",
+		"tr_explain": "Huevo de Cery.\nUsalo para registrar\ny cria esta mascota."
+	},
+	{
+		"assign": "1210132",
+		"jp_text": "サリィＳエッグ★１４",
+		"tr_text": "Huevo de Cery S 14★",
+		"jp_explain": "ペット「サリィ」のエッグ。\n使用するとサリィが\nペット登録され、育成可能となる。",
+		"tr_explain": "Huevo de Cery.\nUsalo para registrar\ny cria esta mascota."
+	},
+	{
+		"assign": "1210133",
+		"jp_text": "ジンガエッグ★１４",
+		"tr_text": "Huevo de Jinga 14★",
+		"jp_explain": "ペット「ジンガ」のエッグ。\n使用するかワンダからレアリティ進化\nすることでペット登録される。",
+		"tr_explain": "Huevo de Jinga.\nUsalo para registrar\ny cria esta mascota."
+	},
+	{
+		"assign": "1210134",
+		"jp_text": "ジンガＳエッグ★１４",
+		"tr_text": "Huevo de Jinga S 14★",
+		"jp_explain": "ペット「ジンガ」のエッグ。\n使用するかワンダからレアリティ進化\nすることでペット登録される。",
+		"tr_explain": "Huevo de Jinga.\nUsalo para registrar\ny cria esta mascota."
+	},
+	{
+		"assign": "1210135",
+		"jp_text": "エアロエッグ★１４",
+		"tr_text": "Huevo de Aero 14★",
+		"jp_explain": "ペット「エアロ」のエッグ。\n使用するかトリムからレアリティ進化\nすることでペット登録される。",
+		"tr_explain": "Huevo de Aero.\nUsalo para registrar\ny cria esta mascota."
+	},
+	{
+		"assign": "1210136",
+		"jp_text": "エアロＳエッグ★１４",
+		"tr_text": "Huevo de Aero S 14★",
+		"jp_explain": "ペット「エアロ」のエッグ。\n使用するかトリムからレアリティ進化\nすることでペット登録される。",
+		"tr_explain": "Huevo de Aero.\nUsalo para registrar\ny cria esta mascota."
+	},
+	{
+		"assign": "1210137",
+		"jp_text": "ポップルエッグ★１４",
+		"tr_text": "Huevo de Popple 14★",
+		"jp_explain": "ペット「ポップル」のエッグ。\n使用するかサリィからレアリティ進化\nすることでペット登録される。",
+		"tr_explain": "Huevo de Popple.\nUsalo para registrar\ny cria esta mascota."
+	},
+	{
+		"assign": "1210138",
+		"jp_text": "ポップルＳエッグ★１４",
+		"tr_text": "Huevo de Popple S 14★",
+		"jp_explain": "ペット「ポップル」のエッグ。\n使用するかサリィからレアリティ進化\nすることでペット登録される。",
+		"tr_explain": "Huevo de Popple.\nUsalo para registrar\ny cria esta mascota."
 	}
 ]

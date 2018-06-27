@@ -4,3219 +4,3275 @@
 		"jp_text": "サイハイソックス黒",
 		"tr_text": "Black Thigh-high Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nサイハイソックス黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Thigh-high Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Black Thigh-high Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "32901",
 		"jp_text": "サイハイソックス赤",
 		"tr_text": "Red Thigh-high Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nサイハイソックス赤が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Red Thigh-high Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Red Thigh-high Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "32902",
 		"jp_text": "サイハイソックス白",
 		"tr_text": "White Thigh-high Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nサイハイソックス白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"White Thigh-high Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"White Thigh-high Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "32903",
 		"jp_text": "スリット入りソックス黒",
 		"tr_text": "Slitted Socks Black",
 		"jp_explain": "チケットを使用すると、ボディペイント\nスリット入りソックス黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Slitted Socks Black\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Slitted Socks Black\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "32904",
 		"jp_text": "スリット入りソックス茶",
 		"tr_text": "Slitted Socks Maroon",
 		"jp_explain": "チケットを使用すると、ボディペイント\nスリット入りソックス茶が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Slitted Socks Maroon\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Slitted Socks Maroon\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "32905",
 		"jp_text": "スリット入りソックス白",
 		"tr_text": "Slitted Socks White",
 		"jp_explain": "チケットを使用すると、ボディペイント\nスリット入りソックス白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Slitted Socks White\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Slitted Socks White\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "32906",
 		"jp_text": "レース付ニーソックス黒",
 		"tr_text": "Laced Knee Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nレース付ニーソックス黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Laced Knee Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Laced Knee Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "32907",
 		"jp_text": "レース付ニーソックス桃",
 		"tr_text": "Laced Knee Socks Peach",
 		"jp_explain": "チケットを使用すると、ボディペイント\nレース付ニーソックス桃が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Laced Knee Socks Peach\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Laced Knee Socks Peach\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "32908",
 		"jp_text": "レース付ニーソックス白",
 		"tr_text": "Laced Knee Socks White",
 		"jp_explain": "チケットを使用すると、ボディペイント\nレース付ニーソックス白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Laced Knee Socks White\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Laced Knee Socks White\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "32909",
 		"jp_text": "リボンニーソックス黒",
 		"tr_text": "Black Ribbon Kneesocks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nリボンニーソックス黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Ribbon Kneesocks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Black Ribbon Kneesocks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329011",
 		"jp_text": "リボンニーソックス白",
 		"tr_text": "White Ribbon Kneesocks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nリボンニーソックス白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"White Ribbon Kneesocks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"White Ribbon Kneesocks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329025",
 		"jp_text": "スリットソックス＆手袋黒",
 		"tr_text": "Black Slit Socks & Gloves",
 		"jp_explain": "チケットを使用すると、ボディペイント\nスリットソックス＆手袋黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Slit Socks & Gloves\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Black Slit Socks & Gloves\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329026",
 		"jp_text": "スリットソックス＆手袋茶",
 		"tr_text": "Brown Slit Socks & Gloves",
 		"jp_explain": "チケットを使用すると、ボディペイント\nスリットソックス＆手袋茶が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Brown Slit Socks & Gloves\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Brown Slit Socks & Gloves\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329027",
 		"jp_text": "スリットソックス＆手袋白",
 		"tr_text": "White Slit Socks & Gloves",
 		"jp_explain": "チケットを使用すると、ボディペイント\nスリットソックス＆手袋白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"White Slit Socks & Gloves\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"White Slit Socks & Gloves\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329028",
 		"jp_text": "レース付ソックス＆手袋黒",
 		"tr_text": "Black Lace Socks & Gloves",
 		"jp_explain": "チケットを使用すると、ボディペイント\nレース付ソックス＆手袋黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Lace Socks & Gloves\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Black Lace Socks & Gloves\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329029",
 		"jp_text": "レース付ソックス＆手袋桃",
 		"tr_text": "Peach Lace Socks & Gloves",
 		"jp_explain": "チケットを使用すると、ボディペイント\nレース付ソックス＆手袋桃が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Peach Lace Socks & Gloves\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Peach Lace Socks & Gloves\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329030",
 		"jp_text": "レース付ソックス＆手袋白",
 		"tr_text": "White Lace Socks & Gloves",
 		"jp_explain": "チケットを使用すると、ボディペイント\nレース付ソックス＆手袋白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"White Lace Socks & Gloves\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"White Lace Socks & Gloves\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329031",
 		"jp_text": "リボンソックス＆手袋黒",
 		"tr_text": "Ribbon Socks & Gloves Black",
 		"jp_explain": "チケットを使用すると、ボディペイント\nリボンソックス＆手袋黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Ribbon Socks & Gloves Black\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Ribbon Socks & Gloves Black\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329033",
 		"jp_text": "リボンソックス＆手袋白",
 		"tr_text": "White Ribbon Socks & Gloves",
 		"jp_explain": "チケットを使用すると、ボディペイント\nリボンソックス＆手袋白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"White Ribbon Socks & Gloves\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"White Ribbon Socks & Gloves\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329034",
 		"jp_text": "編み上げソックス＆手袋黒",
 		"tr_text": "Black Gloves and Laced Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\n編み上げソックス＆手袋黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Gloves and Laced Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Black Gloves and Laced Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329035",
 		"jp_text": "編み上げソックス＆手袋赤",
 		"tr_text": "Lace Socks & Gloves Red",
 		"jp_explain": "チケットを使用すると、ボディペイント\n編み上げソックス＆手袋赤が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Lace Socks & Gloves Red\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Lace Socks & Gloves Red\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329036",
 		"jp_text": "編み上げソックス＆手袋白",
 		"tr_text": "White Gloves and Laced Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\n編み上げソックス＆手袋白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"White Gloves and Laced Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"White Gloves and Laced Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329038",
 		"jp_text": "ショルダーウィングＭ",
 		"tr_text": "Shoulder Wings M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nショルダーウィングＭが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Shoulder Wings M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Shoulder Wings M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329039",
 		"jp_text": "パイレーツＭタトゥーＡ",
 		"tr_text": "Pirates M Tattoo A",
 		"jp_explain": "チケットを使用すると、ボディペイント\nパイレーツＭタトゥーＡが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Pirates M Tattoo A\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Pirates M Tattoo A\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329040",
 		"jp_text": "パイレーツＭタトゥーＢ",
 		"tr_text": "Pirates M Tattoo B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nパイレーツＭタトゥーＢが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Pirates M Tattoo B\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Pirates M Tattoo B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329041",
 		"jp_text": "パイレーツＭタトゥーＣ",
 		"tr_text": "Pirates M Tattoo C",
 		"jp_explain": "チケットを使用すると、ボディペイント\nパイレーツＭタトゥーＣが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Pirates M Tattoo C\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Pirates M Tattoo C\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329042",
 		"jp_text": "パイレーツＭタトゥーＤ",
 		"tr_text": "Pirates M Tattoo D",
 		"jp_explain": "チケットを使用すると、ボディペイント\nパイレーツＭタトゥーＤが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Pirates M Tattoo D\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Pirates M Tattoo D\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329043",
 		"jp_text": "ヴォルドラタトゥーＭ",
 		"tr_text": "Vol Dragon Tattoo M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nヴォルドラタトゥーＭが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Vol Dragon Tattoo M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Vol Dragon Tattoo M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329044",
 		"jp_text": "アギニスタトゥーＭ",
 		"tr_text": "Aginis Tattoo M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nアギニスタトゥーＭが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Aginis Tattoo M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Aginis Tattoo M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329045",
 		"jp_text": "ショルダーウィングＦ",
 		"tr_text": "Shoulder Wing F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nショルダーウィングＦが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Shoulder Wing F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Shoulder Wing F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329046",
 		"jp_text": "ブレストウィングＦ",
 		"tr_text": "Breast Wing F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nブレストウィングＦが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Breast Wing F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Breast Wing F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329047",
 		"jp_text": "ウェストウィングＦ",
 		"tr_text": "Waist Wing F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nウェストウィングＦが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Waist Wing F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Waist Wing F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329048",
 		"jp_text": "ブルーネックバタフライ",
 		"tr_text": "Blue Neck Butterfly",
 		"jp_explain": "チケットを使用すると、ボディペイント\nブルーネックバタフライが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Blue Neck Butterfly\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Blue Neck Butterfly\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329049",
 		"jp_text": "ピンクネックバタフライ",
 		"tr_text": "Pink Neck Butterfly",
 		"jp_explain": "チケットを使用すると、ボディペイント\nピンクネックバタフライが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Pink Neck Butterfly\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Pink Neck Butterfly\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329050",
 		"jp_text": "ブルーブレストバタフライ",
 		"tr_text": "Blue Breast Butterfly",
 		"jp_explain": "チケットを使用すると、ボディペイント\nブルーブレストバタフライが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Blue Breast Butterfly\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Blue Breast Butterfly\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329051",
 		"jp_text": "ピンクブレストバタフライ",
 		"tr_text": "Pink Breast Butterfly",
 		"jp_explain": "チケットを使用すると、ボディペイント\nピンクブレストバタフライが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Pink Breast Butterfly\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Pink Breast Butterfly\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329052",
 		"jp_text": "ブルーウェストバタフライ",
 		"tr_text": "Blue Waist Butterfly",
 		"jp_explain": "チケットを使用すると、ボディペイント\nブルーウェストバタフライが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Blue Waist Butterfly\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Blue Waist Butterfly\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329053",
 		"jp_text": "ピンクウェストバタフライ",
 		"tr_text": "Pink Waist Butterfly",
 		"jp_explain": "チケットを使用すると、ボディペイント\nピンクウェストバタフライが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Pink Waist Butterfly\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Pink Waist Butterfly\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329054",
 		"jp_text": "パイレーツＦタトゥーＡ",
 		"tr_text": "Pirates F Tattoo A",
 		"jp_explain": "チケットを使用すると、ボディペイント\nパイレーツＦタトゥーＡが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Pirates F Tattoo A\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Pirates F Tattoo A\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329055",
 		"jp_text": "パイレーツＦタトゥーＢ",
 		"tr_text": "Pirates F Tattoo B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nパイレーツＦタトゥーＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Pirates F Tattoo B\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Pirates F Tattoo B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329056",
 		"jp_text": "ヴォルドラタトゥーＦ",
 		"tr_text": "Vol Dragon Tattoo F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nヴォルドラタトゥーＦが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Vol Dragon Tattoo F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Vol Dragon Tattoo F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329057",
 		"jp_text": "アギニスタトゥーＦ",
 		"tr_text": "Aginis Tattoo F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nアギニスタトゥーＦが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Aginis Tattoo F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Aginis Tattoo F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329058",
 		"jp_text": "バル・ロドスタトゥー",
 		"tr_text": "Bal Rodos Tattoo",
 		"jp_explain": "チケットを使用すると、ボディペイント\nバル・ロドスタトゥーが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Bal Rodos Tattoo\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Bal Rodos Tattoo\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329059",
 		"jp_text": "網タイツ",
 		"tr_text": "Fishnet Stockings",
 		"jp_explain": "チケットを使用すると、ボディペイント\n網タイツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Fishnet Stockings\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Fishnet Stockings\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329060",
 		"jp_text": "指ぬきグローブＭ　黒",
 		"tr_text": "Black Fingerless Gloves M",
 		"jp_explain": "チケットを使用すると、ボディペイント\n指ぬきグローブＭ　黒が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Fingerless Gloves M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Black Fingerless Gloves M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329061",
 		"jp_text": "指ぬきグローブＭ　赤",
 		"tr_text": "Red Fingerless Gloves M",
 		"jp_explain": "チケットを使用すると、ボディペイント\n指ぬきグローブＭ　赤が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Red Fingerless Gloves M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Red Fingerless Gloves M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329062",
 		"jp_text": "指ぬきグローブＭ　白",
 		"tr_text": "White Fingerless Gloves M",
 		"jp_explain": "チケットを使用すると、ボディペイント\n指ぬきグローブＭ　白が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"White Fingerless Gloves M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"White Fingerless Gloves M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329063",
 		"jp_text": "指ぬきグローブＦ　黒",
 		"tr_text": "Black Fingerless Gloves F",
 		"jp_explain": "チケットを使用すると、ボディペイント\n指ぬきグローブＦ　黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Fingerless Gloves F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Black Fingerless Gloves F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329064",
 		"jp_text": "指ぬきグローブＦ　赤",
 		"tr_text": "Red Fingerless Gloves F",
 		"jp_explain": "チケットを使用すると、ボディペイント\n指ぬきグローブＦ　赤が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Red Fingerless Gloves F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Red Fingerless Gloves F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329065",
 		"jp_text": "指ぬきグローブＦ　白",
 		"tr_text": "White Fingerless Gloves F",
 		"jp_explain": "チケットを使用すると、ボディペイント\n指ぬきグローブＦ　白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"White Fingerless Gloves F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"White Fingerless Gloves F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329066",
 		"jp_text": "チェック柄タイツ黒",
 		"tr_text": "Black Plaid Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nチェック柄タイツ黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Plaid Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Black Plaid Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329067",
 		"jp_text": "チェック柄タイツ紫",
 		"tr_text": "Purple Plaid Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nチェック柄タイツ紫が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Purple Plaid Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Purple Plaid Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329068",
 		"jp_text": "ラッピータイツ",
 		"tr_text": "Rappy Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nラッピータイツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Rappy Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Rappy Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329069",
 		"jp_text": "網ラッピータイツ",
 		"tr_text": "Fishnet Rappy Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\n網ラッピータイツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Fishnet Rappy Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Fishnet Rappy Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329070",
 		"jp_text": "縞タイツ白",
 		"tr_text": "White Striped Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\n縞タイツ白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"White Striped Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"White Striped Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329071",
 		"jp_text": "縞タイツ赤",
 		"tr_text": "Red Striped Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\n縞タイツ赤が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Red Striped Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Red Striped Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329072",
 		"jp_text": "縞タイツピンク",
 		"tr_text": "Pink Striped Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\n縞タイツピンクが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Pink Striped Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Pink Striped Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329073",
 		"jp_text": "縞タイツ青",
 		"tr_text": "Blue Striped Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\n縞タイツ青が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Blue Striped Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Blue Striped Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329074",
 		"jp_text": "レントゲンペイントＭ",
 		"tr_text": "X-Ray Paint M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nレントゲンペイントＭが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"X-Ray Paint M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"X-Ray Paint M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329075",
 		"jp_text": "レントゲンペイントＦ",
 		"tr_text": "X-Ray Paint F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nレントゲンペイントＦが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"X-Ray Paint F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"X-Ray Paint F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329076",
 		"jp_text": "ブレイズペイントＭ　青",
 		"tr_text": "Blaze Paint M Blue",
 		"jp_explain": "チケットを使用すると、ボディペイント\nブレイズペイントＭ　青が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Blaze Paint M Blue\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Blaze Paint M Blue\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329077",
 		"jp_text": "ブレイズペイントＭ　紫",
 		"tr_text": "Blaze Paint M Purple",
 		"jp_explain": "チケットを使用すると、ボディペイント\nブレイズペイントＭ　紫が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Blaze Paint M Purple\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Blaze Paint M Purple\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329078",
 		"jp_text": "ブレイズペイントＭ　赤",
 		"tr_text": "Blaze Paint M Red",
 		"jp_explain": "チケットを使用すると、ボディペイント\nブレイズペイントＭ　赤が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Blaze Paint M Red\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Blaze Paint M Red\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329079",
 		"jp_text": "ブレイズペイントＦ　青",
 		"tr_text": "Blaze Paint F Blue",
 		"jp_explain": "チケットを使用すると、ボディペイント\nブレイズペイントＦ　青が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Blaze Paint F Blue\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Blaze Paint F Blue\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329080",
 		"jp_text": "ブレイズペイントＦ　紫",
 		"tr_text": "Blaze Paint F Purple",
 		"jp_explain": "チケットを使用すると、ボディペイント\nブレイズペイントＦ　紫が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Blaze Paint F Purple\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Blaze Paint F Purple\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329081",
 		"jp_text": "ブレイズペイントＦ　赤",
 		"tr_text": "Blaze Paint F Red",
 		"jp_explain": "チケットを使用すると、ボディペイント\nブレイズペイントＦ　赤が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Blaze Paint F Red\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Blaze Paint F Red\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329082",
 		"jp_text": "網リリーパタイツ",
 		"tr_text": "Fishnet Lillipa Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\n網リリーパタイツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Fishnet Lillipa Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Fishnet Lillipa Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329083",
 		"jp_text": "リリーパタイツ",
 		"tr_text": "Lillipa Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nリリーパタイツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Lillipa Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Lillipa Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329084",
 		"jp_text": "迷彩ロングタイツ緑",
 		"tr_text": "Camouflage Long Tights Green",
 		"jp_explain": "チケットを使用すると、ボディペイント\n迷彩ロングタイツ緑が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Camouflage Long Tights Green\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Camouflage Long Tights Green\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329085",
 		"jp_text": "迷彩ロングタイツ灰",
 		"tr_text": "Camouflage Long Tights Grey",
 		"jp_explain": "チケットを使用すると、ボディペイント\n迷彩ロングタイツ灰が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Camouflage Long Tights Grey\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Camouflage Long Tights Grey\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329086",
 		"jp_text": "ショルダータトゥーＭ",
 		"tr_text": "Shoulder Tattoo M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nショルダータトゥーＭが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Shoulder Tattoo M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Shoulder Tattoo M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329087",
 		"jp_text": "ショルダータトゥーＦ",
 		"tr_text": "Shoulder Tattoo F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nショルダータトゥーＦが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Shoulder Tattoo F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Shoulder Tattoo F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329088",
 		"jp_text": "バルキータイツ黒",
 		"tr_text": "Bulky Black Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nバルキータイツ黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Bulky Black Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Bulky Black Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329089",
 		"jp_text": "バルキータイツ白",
 		"tr_text": "Bulky White Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nバルキータイツ白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Bulky White Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Bulky White Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329090",
 		"jp_text": "バルキータイツ紫",
 		"tr_text": "Bulky Purple Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nバルキータイツ紫が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Bulky Purple Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Bulky Purple Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329091",
 		"jp_text": "バルキータイツ赤",
 		"tr_text": "Bulky Red Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nバルキータイツ赤が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Bulky Red Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Bulky Red Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329092",
 		"jp_text": "ストッキング黒",
 		"tr_text": "Black Stockings",
 		"jp_explain": "チケットを使用すると、ボディペイント\nストッキング黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Stockings\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Black Stockings\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329093",
 		"jp_text": "ストッキング白",
 		"tr_text": "White Stockings",
 		"jp_explain": "チケットを使用すると、ボディペイント\nストッキング白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"White Stockings\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"White Stockings\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329094",
 		"jp_text": "縦縞タイツ白／黒",
 		"tr_text": "Striped Tights White/Black",
 		"jp_explain": "チケットを使用すると、ボディペイント\n縦縞タイツ白／黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Striped Tights White/Black\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Striped Tights White/Black\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329095",
 		"jp_text": "縦縞タイツ紫／黒",
 		"tr_text": "Striped Tights Purple/Black",
 		"jp_explain": "チケットを使用すると、ボディペイント\n縦縞タイツ紫／黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Striped Tights Purple/Black\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Striped Tights Purple/Black\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329096",
 		"jp_text": "電撃ソックス",
 		"tr_text": "Blitz Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\n電撃ソックスが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Blitz Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Blitz Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329097",
 		"jp_text": "電撃サイハイ",
 		"tr_text": "Blitz Thigh High Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\n電撃サイハイが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Blitz Thigh High Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Blitz Thigh High Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329098",
 		"jp_text": "豹柄ロングタイツ黄",
 		"tr_text": "Long Leopard Tights Yellow",
 		"jp_explain": "チケットを使用すると、ボディペイント\n豹柄ロングタイツ黄が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Long Leopard Tights Yellow\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Long Leopard Tights Yellow\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "329099",
 		"jp_text": "豹柄ロングタイツ白",
 		"tr_text": "Long Leopard Tights White",
 		"jp_explain": "チケットを使用すると、ボディペイント\n豹柄ロングタイツ白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Long Leopard Tights White\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Long Leopard Tights White\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290100",
 		"jp_text": "オウガタイツ＆手袋",
 		"tr_text": "Ogre Tights and Arm Wraps",
 		"jp_explain": "チケットを使用すると、ボディペイント\nオウガタイツ＆手袋が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Ogre Tights and Arm Wraps\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Ogre Tights and Arm Wraps\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290101",
 		"jp_text": "オウガタイツ",
 		"tr_text": "Ogre Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nオウガタイツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Ogre Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Ogre Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290102",
 		"jp_text": "オウガタトゥー",
 		"tr_text": "Ogre Tattoo",
 		"jp_explain": "チケットを使用すると、ボディペイント\nオウガタトゥーが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Ogre Tattoo\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Ogre Tattoo\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290103",
 		"jp_text": "全身タイツＭ　赤",
 		"tr_text": "Full body Tights M Red",
 		"jp_explain": "チケットを使用すると、ボディペイント\n全身タイツＭ　赤が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Full body Tights M Red\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Full body Tights M Red\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290104",
 		"jp_text": "全身タイツＭ　青",
 		"tr_text": "Full Body Tights M Blue",
 		"jp_explain": "チケットを使用すると、ボディペイント\n全身タイツＭ　青が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Full Body Tights M Blue\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Full Body Tights M Blue\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290105",
 		"jp_text": "全身タイツＭ　緑",
 		"tr_text": "Full Body Tights M Green",
 		"jp_explain": "チケットを使用すると、ボディペイント\n全身タイツＭ　緑が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Full Body Tights M Green\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Full Body Tights M Green\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290106",
 		"jp_text": "全身タイツＦ　赤",
 		"tr_text": "Full Body Tights F Red",
 		"jp_explain": "チケットを使用すると、ボディペイント\n全身タイツＦ　赤が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Full Body Tights F Red\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Full Body Tights F Red\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290107",
 		"jp_text": "全身タイツＦ　青",
 		"tr_text": "Full Body Tights F Blue",
 		"jp_explain": "チケットを使用すると、ボディペイント\n全身タイツＦ　青が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Full Body Tights F Blue\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Full Body Tights F Blue\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290108",
 		"jp_text": "全身タイツＦ　緑",
 		"tr_text": "Full Body Tights F Green",
 		"jp_explain": "チケットを使用すると、ボディペイント\n全身タイツＦ　緑が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Full Body Tights F Green\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Full Body Tights F Green\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290109",
 		"jp_text": "ロング網タイツ黒",
 		"tr_text": "Long Black Fishnet Stockings",
 		"jp_explain": "チケットを使用すると、ボディペイント\nロング網タイツ黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Long Black Fishnet Stockings\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Long Black Fishnet Stockings\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290110",
 		"jp_text": "ロング網タイツ白",
 		"tr_text": "Long White Fishnet Stockings",
 		"jp_explain": "チケットを使用すると、ボディペイント\nロング網タイツ白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Long White Fishnet Stockings\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Long White Fishnet Stockings\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290111",
 		"jp_text": "シャトタイツ",
 		"tr_text": "Sato Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシャトタイツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Sato Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Sato Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290112",
 		"jp_text": "シャト網タイツ",
 		"tr_text": "Sato Fishnet Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシャト網タイツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Sato Fishnet Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Sato Fishnet Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290113",
 		"jp_text": "ガーター＆白タイツ",
 		"tr_text": "Garter & White Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nガーター＆白タイツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\" Garter & White Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\" Garter & White Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290114",
 		"jp_text": "スクールタイツ",
 		"tr_text": "School Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nスクールタイツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\" School Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\" School Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290115",
 		"jp_text": "網タイツ白",
 		"tr_text": "White Fishnet Stockings",
 		"jp_explain": "チケットを使用すると、ボディペイント\n網タイツ白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura \"\nWhite Fishnet Stockings\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura \"\nWhite Fishnet Stockings\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290116",
 		"jp_text": "水玉スケルトンタイツ黒",
 		"tr_text": "Black Polka Dot Skeleton Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\n水玉スケルトンタイツ黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Polka Dot Skeleton Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Black Polka Dot Skeleton Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290117",
 		"jp_text": "水玉スケルトンタイツ白",
 		"tr_text": "White Polka Dot Skeleton Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\n水玉スケルトンタイツ白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"White Polka Dot Skeleton Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"White Polka Dot Skeleton Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290118",
 		"jp_text": "星柄スケルトンタイツ白",
 		"tr_text": "White Star Skeleton Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\n星柄スケルトンタイツ白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"White Star Skeleton Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"White Star Skeleton Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290119",
 		"jp_text": "星柄スケルトンタイツ黒",
 		"tr_text": "Black Star Skeleton Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\n星柄スケルトンタイツ黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Star Skeleton Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Black Star Skeleton Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290120",
 		"jp_text": "サクヤ・タイツ＆手袋",
 		"tr_text": "Sakuya Tights & Gloves",
 		"jp_explain": "チケットを使用すると、ボディペイント\nサクヤ・タイツ＆手袋が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Sakuya Tights & Gloves\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Sakuya Tights & Gloves\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290121",
 		"jp_text": "足袋＆手袋Ｍ　白",
 		"tr_text": "White Tabi & Gloves M",
 		"jp_explain": "チケットを使用すると、ボディペイント\n足袋＆手袋Ｍ　白が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"White Tabi & Gloves M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"White Tabi & Gloves M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290122",
 		"jp_text": "足袋＆手袋Ｍ　黒",
 		"tr_text": "Black Tabi & Gloves M",
 		"jp_explain": "チケットを使用すると、ボディペイント\n足袋＆手袋Ｍ　黒が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Tabi & Gloves M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Black Tabi & Gloves M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290123",
 		"jp_text": "足袋＆手袋Ｆ　白",
 		"tr_text": "White Tabi & Gloves F",
 		"jp_explain": "チケットを使用すると、ボディペイント\n足袋＆手袋Ｆ　白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"White Tabi & Gloves F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"White Tabi & Gloves F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290124",
 		"jp_text": "足袋＆手袋Ｆ　黒",
 		"tr_text": "Black Tabi & Gloves F",
 		"jp_explain": "チケットを使用すると、ボディペイント\n足袋＆手袋Ｆ　黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Tabi & Gloves F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Black Tabi & Gloves F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290125",
 		"jp_text": "足袋Ｍ　白",
 		"tr_text": "White Tabi M",
 		"jp_explain": "チケットを使用すると、ボディペイント\n足袋Ｍ　白が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"White Tabi M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"White Tabi M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290126",
 		"jp_text": "足袋Ｍ　黒",
 		"tr_text": "Black Tabi M",
 		"jp_explain": "チケットを使用すると、ボディペイント\n足袋Ｍ　黒が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Tabi M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Black Tabi M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290127",
 		"jp_text": "足袋Ｆ　白",
 		"tr_text": "White Tabi F",
 		"jp_explain": "チケットを使用すると、ボディペイント\n足袋Ｆ　白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"White Tabi F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"White Tabi F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290128",
 		"jp_text": "足袋Ｆ　黒",
 		"tr_text": "Black Tabi F",
 		"jp_explain": "チケットを使用すると、ボディペイント\n足袋Ｆ　黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Tabi F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Black Tabi F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290129",
 		"jp_text": "レースレギンス黒",
 		"tr_text": "Black Lace Leggings",
 		"jp_explain": "チケットを使用すると、ボディペイント\nレースレギンス黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Lace Leggings\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Black Lace Leggings\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290130",
 		"jp_text": "レースレギンス茶",
 		"tr_text": "Brown Lace Leggings",
 		"jp_explain": "チケットを使用すると、ボディペイント\nレースレギンス茶が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Brown Lace Leggings\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Brown Lace Leggings\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290131",
 		"jp_text": "レッドローズタトゥーＭ",
 		"tr_text": "Red Rose Tattoo M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nレッドローズタトゥーＭが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Red Rose Tattoo M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Red Rose Tattoo M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290132",
 		"jp_text": "パープルローズタトゥーＭ",
 		"tr_text": "Purple Rose Tattoo M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nパープルローズタトゥーＭが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Purple Rose Tattoo M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Purple Rose Tattoo M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290133",
 		"jp_text": "レッドローズタトゥーＦ",
 		"tr_text": "Red Rose Tattoo F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nレッドローズタトゥーＦが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Red Rose Tattoo F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Red Rose Tattoo F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290134",
 		"jp_text": "パープルローズタトゥーＦ",
 		"tr_text": "Purple Rose Tattoo F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nパープルローズタトゥーＦが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Purple Rose Tattoo F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Purple Rose Tattoo F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290135",
 		"jp_text": "アンカータトゥーＭ",
 		"tr_text": "Anchor Tattoo M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nアンカータトゥーＭが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Anchor Tattoo M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Anchor Tattoo M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290136",
 		"jp_text": "アンカータトゥーＦ",
 		"tr_text": "Anchor Tattoo F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nアンカータトゥーＦが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Anchor Tattoo F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Anchor Tattoo F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290137",
 		"jp_text": "スクールソックスＭ　白",
 		"tr_text": "White School Socks M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nスクールソックスＭ　白が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"White School Socks M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"White School Socks M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290138",
 		"jp_text": "スクールソックスＭ　黒",
 		"tr_text": "Black School Socks M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nスクールソックスＭ　黒が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black School Socks M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Black School Socks M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290139",
 		"jp_text": "スクールソックスＦ　白",
 		"tr_text": "White School Socks F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nスクールソックスＦ　白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"White School Socks F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"White School Socks F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290140",
 		"jp_text": "スクールソックスＦ　黒",
 		"tr_text": "Black School Socks F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nスクールソックスＦ　黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black School Socks F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Black School Socks F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290141",
 		"jp_text": "ダメージタイツ",
 		"tr_text": "Damaged Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nダメージタイツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Damaged Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Damaged Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290142",
 		"jp_text": "ロングレギンス　黒",
 		"tr_text": "Black Long Leggings",
 		"jp_explain": "チケットを使用すると、ボディペイント\nロングレギンス　黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Long Leggings\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Black Long Leggings\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290143",
 		"jp_text": "ロングレギンス　茶",
 		"tr_text": "Brown Long Leggings",
 		"jp_explain": "チケットを使用すると、ボディペイント\nロングレギンス　茶が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Brown Long Leggings\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Brown Long Leggings\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290144",
 		"jp_text": "ディーラータイツ　黒",
 		"tr_text": "Black Dealer Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nディーラータイツ　黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Dealer Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Black Dealer Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290145",
 		"jp_text": "ディーラータイツ　白",
 		"tr_text": "White Dealer Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nディーラータイツ　白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"White Dealer Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"White Dealer Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290146",
 		"jp_text": "ディーラータイツ　赤",
 		"tr_text": "Red Dealer Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nディーラータイツ　赤が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Red Dealer Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Red Dealer Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290147",
 		"jp_text": "腕包帯Ｍ",
 		"tr_text": "Arm Bandages M",
 		"jp_explain": "チケットを使用すると、ボディペイント\n腕包帯Ｍが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Arm Bandages M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Arm Bandages M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290148",
 		"jp_text": "腕包帯Ｆ",
 		"tr_text": "Arm Bandages F",
 		"jp_explain": "チケットを使用すると、ボディペイント\n腕包帯Ｆが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Arm Bandages F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Arm Bandages F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290149",
 		"jp_text": "ショルダータトゥーＭ　青",
 		"tr_text": "Blue Shoulder Tattoo M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nショルダータトゥーＭ　青が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Blue Shoulder Tattoo M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Blue Shoulder Tattoo M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290150",
 		"jp_text": "ショルダータトゥーＦ　青",
 		"tr_text": "Blue Shoulder Tattoo F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nショルダータトゥーＦ　青が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Blue Shoulder Tattoo F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Blue Shoulder Tattoo F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290151",
 		"jp_text": "グラデーションタイツ",
 		"tr_text": "Gradient Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nグラデーションタイツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Gradient Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Gradient Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290152",
 		"jp_text": "グラデーションタイツ　白",
 		"tr_text": "White Gradient Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nグラデーションタイツ　白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"White Gradient Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"White Gradient Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290153",
 		"jp_text": "グラデーションタイツ　紫",
 		"tr_text": "Purple Gradient Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nグラデーションタイツ　紫が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Purple Gradient Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Purple Gradient Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290154",
 		"jp_text": "縞タイツＢ　赤",
 		"tr_text": "Red Striped Tights B",
 		"jp_explain": "チケットを使用すると、ボディペイント\n縞タイツＢ　赤が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Red Striped Tights B\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Red Striped Tights B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290155",
 		"jp_text": "縞タイツＢ　青",
 		"tr_text": "Blue Striped Tights B",
 		"jp_explain": "チケットを使用すると、ボディペイント\n縞タイツＢ　青が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Blue Striped Tights B\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Blue Striped Tights B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290156",
 		"jp_text": "ニーハイソックス黒",
 		"tr_text": "Black Knee High Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nニーハイソックス黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Knee High Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Black Knee High Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290157",
 		"jp_text": "ニーハイソックス桃",
 		"tr_text": "Peach Knee High Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nニーハイソックス桃が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Peach Knee High Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Peach Knee High Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290158",
 		"jp_text": "ニーハイソックス白",
 		"tr_text": "White Knee High Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nニーハイソックス白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"White Knee High Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"White Knee High Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290159",
 		"jp_text": "ハイソックス黒",
 		"tr_text": "Black Knee Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nハイソックス黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Knee Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Black Knee Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290160",
 		"jp_text": "ハイソックス紺",
 		"tr_text": "Navy Knee Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nハイソックス紺が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Navy Knee Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Navy Knee Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290161",
 		"jp_text": "ハイソックス白",
 		"tr_text": "White Knee Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nハイソックス白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"White Knee Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"White Knee Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290162",
 		"jp_text": "縦縞タイツ赤／黒",
 		"tr_text": "Red/Black Striped Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\n縦縞タイツ赤／黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Red/Black Striped Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Red/Black Striped Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290163",
 		"jp_text": "チェック柄タイツ赤",
 		"tr_text": "Red Plaid Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nチェック柄タイツ赤が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Red Plaid Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Red Plaid Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290164",
 		"jp_text": "ラインペイントＭ",
 		"tr_text": "Line Paint M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nラインペイントＭが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Line Paint M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Line Paint M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290165",
 		"jp_text": "ラインペイントＦ",
 		"tr_text": "Line Paint F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nラインペイントＦが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Line Paint F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Line Paint F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290166",
 		"jp_text": "オウガタトゥー　赤",
 		"tr_text": "Ogre Tattoo Red",
 		"jp_explain": "チケットを使用すると、ボディペイント\nオウガタトゥー　赤が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Ogre Tattoo Red\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Ogre Tattoo Red\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290167",
 		"jp_text": "クロームタトゥーＭ",
 		"tr_text": "Chrome Tattoo M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nクロームタトゥーＭが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Chrome Tattoo M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Chrome Tattoo M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290168",
 		"jp_text": "クロームタトゥーＦ",
 		"tr_text": "Chrome Tattoo F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nクロームタトゥーＦが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Chrome Tattoo F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Chrome Tattoo F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290169",
 		"jp_text": "スノータイツ",
 		"tr_text": "Snow Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nスノータイツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Snow Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Snow Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290170",
 		"jp_text": "オガルタトゥーＭ",
 		"tr_text": "Ogar Tattoo M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nオガルタトゥーＭが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Ogar Tattoo M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Ogar Tattoo M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290171",
 		"jp_text": "オガルタトゥーＦ",
 		"tr_text": "Ogar Tattoo F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nオガルタトゥーＦが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Ogar Tattoo F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Ogar Tattoo F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290172",
 		"jp_text": "クロスタイツ",
 		"tr_text": "Cross Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nクロスタイツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Cross Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Cross Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290173",
 		"jp_text": "クロスストッキング",
 		"tr_text": "Cross Stockings",
 		"jp_explain": "チケットを使用すると、ボディペイント\nクロスストッキングが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Cross Stockings\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Cross Stockings\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290174",
 		"jp_text": "クモの巣タイツ",
 		"tr_text": "Cobweb Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nクモの巣タイツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Cobweb Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Cobweb Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290175",
 		"jp_text": "クモの巣ニーソ",
 		"tr_text": "Cobweb Knee High Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nクモの巣ニーソが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Cobweb Knee-high Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Cobweb Knee-high Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290176",
 		"jp_text": "和風ニーソ",
 		"tr_text": "Japanese Style Knee-Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\n和風ニーソが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Japanese Style Knee-Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Japanese Style Knee-Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290177",
 		"jp_text": "レッグバンテージＭ",
 		"tr_text": "Leg Bandage M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nレッグバンテージＭが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Leg Bandage M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Leg Bandage M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290178",
 		"jp_text": "レッグバンテージＦ",
 		"tr_text": "Leg Bandage F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nレッグバンテージＦが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Leg Bandage F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Leg Bandage F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290179",
 		"jp_text": "チェック柄タイツＢ",
 		"tr_text": "Plaid Tights B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nチェック柄タイツＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Plaid Tights B\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Plaid Tights B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290180",
 		"jp_text": "スタータイツ",
 		"tr_text": "Star Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nスタータイツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Star Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Star Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290181",
 		"jp_text": "アジャイルタトゥー",
 		"tr_text": "Agile Tattoo",
 		"jp_explain": "チケットを使用すると、ボディペイント\nアジャイルタトゥーが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Agile Tattoo\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Agile Tattoo\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290182",
 		"jp_text": "ダイヤ柄タイツ",
 		"tr_text": "Diamond-Pattern Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nダイヤ柄タイツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Diamond-Pattern Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Diamond-Pattern Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290183",
 		"jp_text": "ムーンタトゥーＭ",
 		"tr_text": "Moon Tattoo M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nムーンタトゥーＭが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "By using this ticket, the tattoo\n\"Moon Tattoo M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Moon Tattoo M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290184",
 		"jp_text": "ムーンタトゥーＦ",
 		"tr_text": "Moon Tattoo F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nムーンタトゥーＦが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "By using this ticket, the tattoo\n\"Moon Tattoo F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Moon Tattoo F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290185",
 		"jp_text": "水着日焼け跡",
 		"tr_text": "Swimsuit Tan Mark",
 		"jp_explain": "チケットを使用すると、ボディペイント\n水着日焼け跡が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Swimsuit Tan Mark\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Swimsuit Tan Mark\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290186",
 		"jp_text": "ファスナーペイントＭ",
 		"tr_text": "Zipper Paint M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nファスナーペイントＭが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Zipper Paint M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Zipper Paint M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290187",
 		"jp_text": "ファスナーペイントＦ",
 		"tr_text": "Zipper Paint F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nファスナーペイントＦが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Zipper Paint F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Zipper Paint F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290188",
 		"jp_text": "シーリスペイントＭ",
 		"tr_text": "Xirys Paint M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシーリスペイントＭが選択可能。\n男性のみ使用可能。\n※アニメーションはしません。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Xirys Paint M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Xirys Paint M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290189",
 		"jp_text": "シーリスペイントＦ",
 		"tr_text": "Xirys Paint F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシーリスペイントＦが選択可能。\n女性のみ使用可能。\n※アニメーションはしません。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Xirys Paint F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Xirys Paint F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290190",
 		"jp_text": "サークルタトゥーＭ",
 		"tr_text": "Circle Tattoo M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nサークルタトゥーＭが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Circle Tattoo M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Circle Tattoo M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290191",
 		"jp_text": "サークルタトゥーＦ",
 		"tr_text": "Circle Tattoo F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nサークルタトゥーＦが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Circle Tattoo F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Circle Tattoo F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290192",
 		"jp_text": "ハートタトゥーＭ",
 		"tr_text": "Heart Tattoo M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nハートタトゥーＭが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Heart Tattoo M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Heart Tattoo M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290193",
 		"jp_text": "ハートタトゥーＦ",
 		"tr_text": "Heart Tattoo F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nハートタトゥーＦが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Heart Tattoo F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Heart Tattoo F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290194",
 		"jp_text": "マツリタイツ",
 		"tr_text": "Matsuri Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nマツリタイツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Matsuri Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Matsuri Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290195",
 		"jp_text": "エルナタイツ",
 		"tr_text": "Eruna Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nエルナタイツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Eruna Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Eruna Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290196",
 		"jp_text": "ヴォルドラニーソックス",
 		"tr_text": "Vol Dragon Knee Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nヴォルドラニーソックスが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Vol Dragon Knee Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Vol Dragon Knee Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290197",
 		"jp_text": "喧嘩屋サラシＭ",
 		"tr_text": "Brawler's Sarashi M",
 		"jp_explain": "チケットを使用すると、ボディペイント\n喧嘩屋サラシＭが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Brawler's Sarashi M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Brawler's Sarashi M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290198",
 		"jp_text": "喧嘩屋サラシＦ",
 		"tr_text": "Brawler's Sarashi F",
 		"jp_explain": "チケットを使用すると、ボディペイント\n喧嘩屋サラシＦが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Brawler's Sarashi F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Brawler's Sarashi F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290199",
 		"jp_text": "アイエフタイツＭ",
 		"tr_text": "IF Tights M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nアイエフタイツＭが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"IF Tights M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"IF Tights M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290200",
 		"jp_text": "アイエフタイツＦ",
 		"tr_text": "IF Tights F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nアイエフタイツＦが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"IF Tights F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"IF Tights F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290201",
 		"jp_text": "ドクロニーソックス",
 		"tr_text": "Skull Knee High Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nドクロニーソックスが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Skull Knee High Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Skull Knee High Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290202",
 		"jp_text": "ゲンショウタイツ",
 		"tr_text": "Genshou Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nゲンショウタイツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Genshou Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Genshou Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290203",
 		"jp_text": "メカ関節風ペイントＭ",
 		"tr_text": "Mechanical Joints Paint M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nメカ関節風ペイントＭが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Mechanical Joints Paint M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Mechanical Joints Paint M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290204",
 		"jp_text": "メカ関節風ペイントＦ",
 		"tr_text": "Mechanical Joints Paint F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nメカ関節風ペイントＦが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Mechanical Joints Paint F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Mechanical Joints Paint F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290205",
 		"jp_text": "スチューデントＳタイツＡ",
 		"tr_text": "Student S Tights A",
 		"jp_explain": "チケットを使用すると、ボディペイント\nスチューデントＳタイツＡが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Student S Tights A\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Student S Tights A\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290206",
 		"jp_text": "スチューデントＳタイツＢ",
 		"tr_text": "Student S Tights B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nスチューデントＳタイツＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Student S Tights B\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Student S Tights B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290207",
 		"jp_text": "スチューデントＳタイツＣ",
 		"tr_text": "Student S Tights C",
 		"jp_explain": "チケットを使用すると、ボディペイント\nスチューデントＳタイツＣが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Student S Tights C\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Student S Tights C\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290208",
 		"jp_text": "全身タイツＭ　白",
 		"tr_text": "White Full Body Tights M",
 		"jp_explain": "チケットを使用すると、ボディペイント\n全身タイツＭ　白が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"White Full Body Tights M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"White Full Body Tights M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290209",
 		"jp_text": "全身タイツＭ　黒",
 		"tr_text": "Black Full Body Tights M",
 		"jp_explain": "チケットを使用すると、ボディペイント\n全身タイツＭ　黒が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Full Body Tights M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Black Full Body Tights M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290210",
 		"jp_text": "全身タイツＭ　メタル",
 		"tr_text": "Metal Full Body Tights M",
 		"jp_explain": "チケットを使用すると、ボディペイント\n全身タイツＭ　メタルが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Metal Full Body Tights M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Metal Full Body Tights M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290211",
 		"jp_text": "全身タイツＦ　白",
 		"tr_text": "White Full Body Tights F",
 		"jp_explain": "チケットを使用すると、ボディペイント\n全身タイツＦ　白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"White Full Body Tights F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"White Full Body Tights F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290212",
 		"jp_text": "全身タイツＦ　黒",
 		"tr_text": "Black Full Body Tights F",
 		"jp_explain": "チケットを使用すると、ボディペイント\n全身タイツＦ　黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Full Body Tights F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Black Full Body Tights F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290213",
 		"jp_text": "全身タイツＦ　メタル",
 		"tr_text": "Metal Full Body Tights F",
 		"jp_explain": "チケットを使用すると、ボディペイント\n全身タイツＦ　メタルが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Metal Full Body Tights F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Metal Full Body Tights F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290214",
 		"jp_text": "メロディタイツ",
 		"tr_text": "Melody Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nメロディタイツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Melody Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Melody Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290215",
 		"jp_text": "メロディニーソックス",
 		"tr_text": "Melody Knee High Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nメロディニーソックスが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Melody Knee High Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Melody Knee High Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290216",
 		"jp_text": "ハピネスニーソックス",
 		"tr_text": "Happiness Knee High Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nハピネスニーソックスが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Happiness Knee High Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Happiness Knee High Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290217",
 		"jp_text": "リボン付き縞ニーソックス",
 		"tr_text": "Striped Ribbon Knee Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nリボン付き縞ニーソックスが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Striped Ribbon Knee Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Striped Ribbon Knee Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290218",
 		"jp_text": "トップラインニーソ桃",
 		"tr_text": "Peach Top Line Knee Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nトップラインニーソ桃が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Peach Top Line Knee Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Peach Top Line Knee Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290219",
 		"jp_text": "トップラインニーソ白",
 		"tr_text": "White Top Line Knee Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nトップラインニーソ白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"White Top Line Knee Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"White Top Line Knee Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290220",
 		"jp_text": "トップラインニーソ黒",
 		"tr_text": "Black Top Line Knee Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nトップラインニーソ黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Top Line Knee Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Black Top Line Knee Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290221",
 		"jp_text": "トリリアムタイツ",
 		"tr_text": "Trillium Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nトリリアムタイツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Trillium Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Trillium Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290222",
 		"jp_text": "フロンティアタイツ",
 		"tr_text": "Frontier Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nフロンティアタイツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Frontier Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Frontier Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290223",
 		"jp_text": "レース縦縞タイツ",
 		"tr_text": "Lace Striped Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nレース縦縞タイツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Lace Striped Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Lace Striped Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290224",
 		"jp_text": "レース縦縞タイツ　桃",
 		"tr_text": "Peach Lace Striped Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nレース縦縞タイツ　桃が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Peach Lace Striped Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Peach Lace Striped Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290225",
 		"jp_text": "オーバーニータイツ",
 		"tr_text": "Over Knee Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nオーバーニータイツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Over Knee Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Over Knee Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290226",
 		"jp_text": "オーバーニータイツ　桃",
 		"tr_text": "Peach Over Knee Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nオーバーニータイツ　桃が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Peach Over Knee Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Peach Over Knee Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290227",
 		"jp_text": "パターンレギンス",
 		"tr_text": "Pattern Leggings",
 		"jp_explain": "チケットを使用すると、ボディペイント\nパターンレギンスが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Pattern Leggings\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Pattern Leggings\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290228",
 		"jp_text": "天星学院ニーソックス",
 		"tr_text": "Tensei Ac. Knee Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\n天星学院ニーソックスが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Tensei Ac. Knee Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Tensei Ac. Knee Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290229",
 		"jp_text": "天星学院ソックス",
 		"tr_text": "Tensei Ac. Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\n天星学院ソックスが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Tensei Ac. Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Tensei Ac. Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290230",
 		"jp_text": "ストレイトグローブ",
 		"tr_text": "Straight Gloves",
 		"jp_explain": "チケットを使用すると、ボディペイント\nストレイトグローブが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Straight Gloves\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Straight Gloves\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290231",
 		"jp_text": "ラッケージニーソックス",
 		"tr_text": "Luccage Knee Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nラッケージニーソックスが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Luccage Knee Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Luccage Knee Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290232",
 		"jp_text": "清雅学園制服タイツ",
 		"tr_text": "Seiga Ac. Uniform Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\n清雅学園制服タイツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Seiga Ac. Uniform Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Seiga Ac. Uniform Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290235",
 		"jp_text": "トップフリルニーソ",
 		"tr_text": "Top Frill Knee Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nトップフリルニーソが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Top Frill Knee Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Top Frill Knee Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290236",
 		"jp_text": "リボン柄タイツ",
 		"tr_text": "Ribbon Pattern Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nリボン柄タイツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Ribbon Pattern Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Ribbon Pattern Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290237",
 		"jp_text": "アステリアタイツ",
 		"tr_text": "Asteria Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nアステリアタイツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Asteria Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Asteria Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290238",
 		"jp_text": "アステリアグローブＭ",
 		"tr_text": "Asteria Gloves M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nアステリアグローブＭが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Asteria Gloves M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Asteria Gloves M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290239",
 		"jp_text": "アステリアグローブＦ",
 		"tr_text": "Asteria Gloves F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nアステリアグローブＦが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Asteria Gloves F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Asteria Gloves F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290240",
 		"jp_text": "清雅学園制服ハイソックス",
 		"tr_text": "Seiga Ac. High Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\n清雅学園制服ハイソックスが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Seiga Ac. High Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Seiga Ac. High Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290241",
 		"jp_text": "清雅学園制服ソックス",
 		"tr_text": "Seiga Ac. Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\n清雅学園制服ソックスが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Seiga Ac. Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Seiga Ac. Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290242",
 		"jp_text": "スパッツＭ　黒",
 		"tr_text": "Black Spats M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nスパッツＭ　黒が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Spats M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Black Spats M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290243",
 		"jp_text": "スパッツＭ　白",
 		"tr_text": "White Spats M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nスパッツＭ　白が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"White Spats M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"White Spats M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290244",
 		"jp_text": "スパッツＭ　紺",
 		"tr_text": "Navy Spats M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nスパッツＭ　紺が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Navy Spats M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Navy Spats M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290245",
 		"jp_text": "スパッツＭ　赤",
 		"tr_text": "Red Spats M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nスパッツＭ　赤が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Red Spats M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Red Spats M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290246",
 		"jp_text": "スパッツＦ　黒",
 		"tr_text": "Black Spats F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nスパッツＦ　黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Spats F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Black Spats F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290247",
 		"jp_text": "スパッツＦ　白",
 		"tr_text": "White Spats F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nスパッツＦ　白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"White Spats F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"White Spats F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290248",
 		"jp_text": "スパッツＦ　紺",
 		"tr_text": "Navy Spats F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nスパッツＦ　紺が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Navy Spats F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Navy Spats F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290249",
 		"jp_text": "スパッツＦ　赤",
 		"tr_text": "Red Spats F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nスパッツＦ　赤が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Red Spats F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Red Spats F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290250",
 		"jp_text": "グラデーションタイツ　青",
 		"tr_text": "Blue Gradient Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nグラデーションタイツ　青が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Blue Gradient Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Blue Gradient Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290251",
 		"jp_text": "清雅学園制服ハイソックスＢ",
 		"tr_text": "Seiga Ac. Uniform High Socks B",
 		"jp_explain": "チケットを使用すると、ボディペイント\n清雅学園制服ハイソックスＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Seiga Ac. Uniform High Socks\nB\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Seiga Ac. Uniform High Socks\nB\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290252",
 		"jp_text": "マーシャルグローブ",
 		"tr_text": "Martial Gloves",
 		"jp_explain": "チケットを使用すると、ボディペイント\nマーシャルグローブが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Martial Gloves\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Martial Gloves\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290253",
 		"jp_text": "ショートスパッツＭ　黒",
 		"tr_text": "Black Short Spats M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nショートスパッツＭ　黒が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Short Spats M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Black Short Spats M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290254",
 		"jp_text": "ショートスパッツＭ　白",
 		"tr_text": "White Short Spats M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nショートスパッツＭ　白が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"White Short Spats M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"White Short Spats M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290255",
 		"jp_text": "ショートスパッツＭ　紺",
 		"tr_text": "Navy Short Spats M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nショートスパッツＭ　紺が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Navy Short Spats M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Navy Short Spats M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290256",
 		"jp_text": "ショートスパッツＭ　赤",
 		"tr_text": "Red Short Spats M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nショートスパッツＭ　赤が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Red Short Spats M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Red Short Spats M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290257",
 		"jp_text": "ショートスパッツＦ　黒",
 		"tr_text": "Black Short Spats F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nショートスパッツＦ　黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Short Spats F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Black Short Spats F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290258",
 		"jp_text": "ショートスパッツＦ　白",
 		"tr_text": "White Short Spats F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nショートスパッツＦ　白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"White Short Spats F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"White Short Spats F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290259",
 		"jp_text": "ショートスパッツＦ　紺",
 		"tr_text": "Navy Short Spats F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nショートスパッツＦ　紺が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Navy Short Spats F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Navy Short Spats F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290260",
 		"jp_text": "ショートスパッツＦ　赤",
 		"tr_text": "Red Short Spats F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nショートスパッツＦ　赤が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Red Short Spats F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Red Short Spats F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290261",
 		"jp_text": "カブキテッコウＭ",
 		"tr_text": "Kabuki Tekkou M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nカブキテッコウＭが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Kabuki Tekkou M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Kabuki Tekkou M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290262",
 		"jp_text": "カブキテッコウＦ",
 		"tr_text": "Kabuki Tekkou F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nカブキテッコウＦが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Kabuki Tekkou F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Kabuki Tekkou F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290264",
 		"jp_text": "ガーター付き網タイツ　黒",
 		"tr_text": "Black Garter and Fishnet Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nガーター付き網タイツ　黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Garter and Fishnet Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Black Garter and Fishnet Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290265",
 		"jp_text": "弓子スキン",
 		"tr_text": "Yumiko Skin",
 		"jp_explain": "チケットを使用すると、ボディペイント\n弓子スキンが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Yumiko Skin\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Yumiko Skin\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290266",
 		"jp_text": "スポーツリブソックスＭ",
 		"tr_text": "Sports Ribbed Socks M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nスポーツリブソックスＭが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Sports Ribbed Socks M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Sports Ribbed Socks M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290267",
 		"jp_text": "スポーツリブソックスＦ",
 		"tr_text": "Sports Ribbed Socks F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nスポーツリブソックスＦが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Sports Ribbed Socks F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Sports Ribbed Socks F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290268",
 		"jp_text": "ガーター付き網タイツ　白",
 		"tr_text": "White Garter and Fishnet Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nガーター付き網タイツ　白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"White Garter and Fishnet Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"White Garter and Fishnet Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290269",
 		"jp_text": "ガーター付き網タイツ　赤",
 		"tr_text": "Red Garter and Fishnet Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nガーター付き網タイツ　赤が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Red Garter and Fishnet Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Red Garter and Fishnet Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290270",
 		"jp_text": "ノーヴィソックス",
 		"tr_text": "Novi Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nノーヴィソックスが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Novi Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Novi Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290271",
 		"jp_text": "バックウィングＭ　黒",
 		"tr_text": "Black Back Wings M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nバックウィングＭ　黒が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Back Wings M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintur masculinaa\n\"Black Back Wings M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290272",
 		"jp_text": "バックウィングＭ　白",
 		"tr_text": "White Back Wings M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nバックウィングＭ　白が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"White Back Wings M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"White Back Wings M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290273",
 		"jp_text": "バックウィングＦ　黒",
 		"tr_text": "Black Back Wings F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nバックウィングＦ　黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Back Wings F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Black Back Wings F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290274",
 		"jp_text": "バックウィングＦ　白",
 		"tr_text": "White Back Wings F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nバックウィングＦ　白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"White Back Wings F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"White Back Wings F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290275",
 		"jp_text": "ソードタトゥーＭ",
 		"tr_text": "Sword Tattoo M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nソードタトゥーＭが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Sword Tattoo M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Sword Tattoo M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290276",
 		"jp_text": "ソードタトゥーＦ",
 		"tr_text": "Sword Tattoo F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nソードタトゥーＦが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Sword Tattoo F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Sword Tattoo F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290277",
 		"jp_text": "ボディバタフライ",
 		"tr_text": "Body Butterfly",
 		"jp_explain": "チケットを使用すると、ボディペイント\nボディバタフライが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Body Butterfly\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Body Butterfly\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290278",
 		"jp_text": "ディレクトグローブＭ",
 		"tr_text": "Direct Gloves M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nディレクトグローブＭが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Direct Gloves M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Direct Gloves M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290279",
 		"jp_text": "ディレクトグローブＦ",
 		"tr_text": "Direct Gloves F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nディレクトグローブＦが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Direct Gloves F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Direct Gloves F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290280",
 		"jp_text": "蓮花ソックス",
 		"tr_text": "Lotus Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\n蓮花ソックスが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Lotus Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Lotus Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290281",
 		"jp_text": "フロンティアタイツＢ",
 		"tr_text": "Frontier Tights B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nフロンティアタイツＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Frontier Tights B\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Frontier Tights B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290282",
 		"jp_text": "ゲンショウタイツＢ",
 		"tr_text": "Genshou Tights B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nゲンショウタイツＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Genshou Tights B\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Genshou Tights B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290286",
 		"jp_text": "シルバＲタイツ",
 		"tr_text": "Silva R Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシルバＲタイツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Silva R Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Silva R Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290287",
 		"jp_text": "カンナギノタビ",
 		"tr_text": "Kannagi Tabi",
 		"jp_explain": "チケットを使用すると、ボディペイント\nカンナギノタビが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Kannagi Tabi\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Kannagi Tabi\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290288",
 		"jp_text": "メディックニーハイ",
 		"tr_text": "Medic Knee High Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nメディックニーハイが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Medic Knee High Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Medic Knee High Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290289",
 		"jp_text": "フォージグラブ",
 		"tr_text": "Forge Gloves",
 		"jp_explain": "チケットを使用すると、ボディペイント\nフォージグラブが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Forge Gloves\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Forge Gloves\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290291",
 		"jp_text": "リブルソックス",
 		"tr_text": "Libre Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nリブルソックスが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Libre Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Libre Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290292",
 		"jp_text": "メルレットグローブ",
 		"tr_text": "Merletto Gloves",
 		"jp_explain": "チケットを使用すると、ボディペイント\nメルレットグローブが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Merletto Gloves\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Merletto Gloves\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290293",
 		"jp_text": "フォリーグローブ",
 		"tr_text": "Folly Gloves",
 		"jp_explain": "チケットを使用すると、ボディペイント\nフォリーグローブが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Folly Gloves\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Folly Gloves\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290294",
 		"jp_text": "ハウザースキン",
 		"tr_text": "Howzer Skin",
 		"jp_explain": "チケットを使用すると、ボディペイント\nハウザースキンが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Howzer Skin\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Howzer Skin\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290295",
 		"jp_text": "網タイツ＆手袋Ｍ",
 		"tr_text": "Fishnet Tights & Gloves M",
 		"jp_explain": "チケットを使用すると、ボディペイント\n網タイツ＆手袋Ｍが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Fishnet Tights & Gloves M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Fishnet Tights & Gloves M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290296",
 		"jp_text": "網タイツ＆手袋Ｆ",
 		"tr_text": "Fishnet Tights & Gloves F",
 		"jp_explain": "チケットを使用すると、ボディペイント\n網タイツ＆手袋Ｆが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Fishnet Tights & Gloves F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Fishnet Tights & Gloves F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290297",
 		"jp_text": "ブレイブハンド",
 		"tr_text": "Brave Hands",
 		"jp_explain": "チケットを使用すると、ボディペイント\nブレイブハンドが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Brave Hands\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Brave Hands\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290298",
 		"jp_text": "ガーター＆ストッキングＢ",
 		"tr_text": "Garter & Stockings B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nガーター＆ストッキングＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Garter & Stockings B\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Garter & Stockings B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290299",
 		"jp_text": "イルミナスペイント",
 		"tr_text": "Illuminus Paint",
 		"jp_explain": "チケットを使用すると、ボディペイント\nイルミナスペイントが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Illuminus Paint\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Illuminus Paint\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290300",
 		"jp_text": "ヘルガグローブ",
 		"tr_text": "Helga Gloves",
 		"jp_explain": "チケットを使用すると、ボディペイント\nヘルガグローブが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Helga Gloves\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Helga Gloves\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290301",
 		"jp_text": "ショートソックス",
 		"tr_text": "Short Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nショートソックスが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Short Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Short Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290302",
 		"jp_text": "華乙女ソックス",
 		"tr_text": "Yakisaka Otome Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\n華乙女ソックスが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Yakisaka Otome Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Yakisaka Otome Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290303",
 		"jp_text": "華乙女チョーカー",
 		"tr_text": "Yakisaka Otome Choker",
 		"jp_explain": "チケットを使用すると、ボディペイント\n華乙女チョーカーが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Yakisaka Otome Choker\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Yakisaka Otome Choker\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290304",
 		"jp_text": "テオレマードグローブ",
 		"tr_text": "Teoremard Gloves",
 		"jp_explain": "チケットを使用すると、ボディペイント\nテオレマードグローブが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Teoremard Gloves\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Teoremard Gloves\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290305",
 		"jp_text": "ハピネスニーソックスＢ",
 		"tr_text": "Happiness Knee Socks B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nハピネスニーソックスＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Happiness Knee Socks B\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Happiness Knee Socks B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290306",
 		"jp_text": "花柄ストッキング　黒",
 		"tr_text": "Black Flower Stockings",
 		"jp_explain": "チケットを使用すると、ボディペイント\n花柄ストッキング　黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Flower Stockings\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Black Flower Stockings\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290307",
 		"jp_text": "花柄ストッキング　白",
 		"tr_text": "White Flower Stockings",
 		"jp_explain": "チケットを使用すると、ボディペイント\n花柄ストッキング　白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"White Flower Stockings\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"White Flower Stockings\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290308",
 		"jp_text": "マーシャルグローブＢ",
 		"tr_text": "Martial Gloves B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nマーシャルグローブＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Martial Gloves B\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Martial Gloves B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290309",
 		"jp_text": "タウリアタイツ",
 		"tr_text": "Taulia Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nタウリアタイツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Taulia Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Taulia Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290310",
 		"jp_text": "トリリアムタイツＢ",
 		"tr_text": "Trillium Tights B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nトリリアムタイツＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Trillium Tights B\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Trillium Tights B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290311",
 		"jp_text": "ショコラソックス＆手袋",
 		"tr_text": "Chocolat Socks & Gloves",
 		"jp_explain": "チケットを使用すると、ボディペイント\nショコラソックス＆手袋が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Chocolat Socks & Gloves\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Chocolat Socks & Gloves\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290312",
 		"jp_text": "ノーヴィソックスＢ",
 		"tr_text": "Novi Socks B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nノーヴィソックスＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Novi Socks B\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Novi Socks B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290313",
 		"jp_text": "アーガイルタイツ　赤",
 		"tr_text": "Red Argyle Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nアーガイルタイツ　赤が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Red Argyle Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Red Argyle Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290314",
 		"jp_text": "アーガイルタイツ　青",
 		"tr_text": "Blue Argyle Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nアーガイルタイツ　青が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Blue Argyle Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Blue Argyle Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290315",
 		"jp_text": "アーガイルタイツ　紫",
 		"tr_text": "Purple Argyle Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nアーガイルタイツ　紫が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Purple Argyle Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Purple Argyle Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290316",
 		"jp_text": "レッグサポーターＭ黒",
 		"tr_text": "Black Leg Supporters M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nレッグサポーターＭ黒が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Leg Supporters M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Black Leg Supporters M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290317",
 		"jp_text": "レッグサポーターＭ白",
 		"tr_text": "White Leg Supporters M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nレッグサポーターＭ白が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"White Leg Supporters M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"White Leg Supporters M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290318",
 		"jp_text": "レッグサポーターＦ黒",
 		"tr_text": "Black Leg Supporters F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nレッグサポーターＦ黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Leg Supporters F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Black Leg Supporters F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290319",
 		"jp_text": "レッグサポーターＦ白",
 		"tr_text": "White Leg Supporters F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nレッグサポーターＦ白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"White Leg Supporters F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"White Leg Supporters F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290320",
 		"jp_text": "リデルグローブＭ",
 		"tr_text": "Ridel Gloves M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nリデルグローブＭが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Ridel Gloves M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Ridel Gloves M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290321",
 		"jp_text": "リデルグローブＦ",
 		"tr_text": "Ridel Gloves F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nリデルグローブＦが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Ridel Gloves F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Ridel Gloves F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290322",
 		"jp_text": "サイハイストッキング",
 		"tr_text": "Thigh-High Stockings",
 		"jp_explain": "チケットを使用すると、ボディペイント\nサイハイストッキングが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Thigh-High Stockings\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Thigh-High Stockings\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290323",
 		"jp_text": "天星初等部男子ソックス",
 		"tr_text": "Tensei Elementary Socks M",
 		"jp_explain": "チケットを使用すると、ボディペイント\n天星初等部男子ソックスが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Tensei Elementary Socks M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Tensei Elementary Socks M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290324",
 		"jp_text": "ボディサークルＦ　赤",
 		"tr_text": "Red Body Circle F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nボディサークルＦ　赤が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Red Body Circle F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Red Body Circle F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290325",
 		"jp_text": "ボディサークルＦ　紫",
 		"tr_text": "Purple Body Circle F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nボディサークルＦ　紫が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Purple Body Circle F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Purple Body Circle F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290326",
 		"jp_text": "ボディサークルＭ　赤",
 		"tr_text": "Red Body Circle M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nボディサークルＭ　赤が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Red Body Circle M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Red Body Circle M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290327",
 		"jp_text": "ボディサークルＭ　紫",
 		"tr_text": "Purple Body Circle M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nボディサークルＭ　紫が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Purple Body Circle M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Purple Body Circle M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290328",
 		"jp_text": "ゴシックメイドタイツ",
 		"tr_text": "Gothic Maid Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nゴシックメイドタイツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Gothic Maid Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Gothic Maid Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290329",
 		"jp_text": "ピュアグレースタイツ",
 		"tr_text": "Pure Grace Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nピュアグレースタイツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Pure Grace Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Pure Grace Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290330",
 		"jp_text": "ニーサポーターＭ",
 		"tr_text": "Knee Supporters M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nニーサポーターＭが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Knee Supporters M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Knee Supporters M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290331",
 		"jp_text": "ニーサポーターＦ",
 		"tr_text": "Knee Supporters F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nニーサポーターＦが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Knee Supporters F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Knee Supporters F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290332",
 		"jp_text": "ナノブラストペイントＭ黒",
 		"tr_text": "Black Nanoblast Paint M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nナノブラストペイントＭ黒が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Nanoblast Paint M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Black Nanoblast Paint M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290333",
 		"jp_text": "ナノブラストペイントＭ灰",
 		"tr_text": "Gray Nanoblast Paint M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nナノブラストペイントＭ灰が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Gray Nanoblast Paint M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Gray Nanoblast Paint M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290334",
 		"jp_text": "ナノブラストペイントＭ白",
 		"tr_text": "White Nanoblast Paint M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nナノブラストペイントＭ白が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"White Nanoblast Paint M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"White Nanoblast Paint M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290335",
 		"jp_text": "ナノブラストペイントＦ黒",
 		"tr_text": "Black Nanoblast Paint F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nナノブラストペイントＦ黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Nanoblast Paint F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Black Nanoblast Paint F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290336",
 		"jp_text": "ナノブラストペイントＦ灰",
 		"tr_text": "Gray Nanoblast Paint F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nナノブラストペイントＦ灰が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Gray Nanoblast Paint F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Gray Nanoblast Paint F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290337",
 		"jp_text": "ナノブラストペイントＦ白",
 		"tr_text": "White Nanoblast Paint F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nナノブラストペイントＦ白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"White Nanoblast Paint F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"White Nanoblast Paint F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290338",
 		"jp_text": "トップフリルニーソＢ",
 		"tr_text": "Top Frill Knee Socks B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nトップフリルニーソＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Top Frill Knee Socks B\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Top Frill Knee Socks B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290339",
 		"jp_text": "リブルソックスＢ",
 		"tr_text": "Libre Socks B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nリブルソックスＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Libre Socks B\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Libre Socks B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290340",
 		"jp_text": "ボーダーニーハイＭ　白",
 		"tr_text": "White Border Knee Highs M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nボーダーニーハイＭ　白が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"White Border Knee Highs M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"White Border Knee Highs M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290341",
 		"jp_text": "ボーダーニーハイＭ　赤",
 		"tr_text": "Red Border Knee Highs M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nボーダーニーハイＭ　赤が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Red Border Knee Highs M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Red Border Knee Highs M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290342",
 		"jp_text": "ボーダーニーハイＭ　青",
 		"tr_text": "Blue Border Knee Highs M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nボーダーニーハイＭ　青が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Blue Border Knee Highs M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Blue Border Knee Highs M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290343",
 		"jp_text": "ボーダーニーハイＦ　白",
 		"tr_text": "White Border Knee Highs F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nボーダーニーハイＦ　白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"White Border Knee Highs F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"White Border Knee Highs F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290344",
 		"jp_text": "ボーダーニーハイＦ　赤",
 		"tr_text": "Red Border Knee Highs F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nボーダーニーハイＦ　赤が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Red Border Knee Highs F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Red Border Knee Highs F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290345",
 		"jp_text": "ボーダーニーハイＦ　青",
 		"tr_text": "Blue Border Knee Highs F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nボーダーニーハイＦ　青が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Blue Border Knee Highs F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Blue Border Knee Highs F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290346",
 		"jp_text": "ガーターベルト",
 		"tr_text": "Garter Belt",
 		"jp_explain": "チケットを使用すると、ボディペイント\nガーターベルトが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Garter Belt\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Garter Belt\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290347",
 		"jp_text": "天星初等部女子ソックス",
 		"tr_text": "Tensei Elementary Socks F",
 		"jp_explain": "チケットを使用すると、ボディペイント\n天星初等部女子ソックスが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Tensei Elementary Socks F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Tensei Elementary Socks F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290348",
 		"jp_text": "リボン柄タイツＢ",
 		"tr_text": "Ribbon Pattern Tights B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nリボン柄タイツＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Ribbon Pattern Tights B\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Ribbon Pattern Tights B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290349",
 		"jp_text": "カテドラルタイツＭ　淡",
 		"tr_text": "Light Cathedral Tights M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nカテドラルタイツＭ　淡が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Light Cathedral Tights M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Light Cathedral Tights M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290350",
 		"jp_text": "カテドラルタイツＭ",
 		"tr_text": "Cathedral Tights M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nカテドラルタイツＭが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Cathedral Tights M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Cathedral Tights M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290351",
 		"jp_text": "カテドラルタイツＭ　濃",
 		"tr_text": "Dark Cathedral Tights M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nカテドラルタイツＭ　濃が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Dark Cathedral Tights M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Dark Cathedral Tights M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290352",
 		"jp_text": "カテドラルタイツＦ　淡",
 		"tr_text": "Light Cathedral Tights F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nカテドラルタイツＦ　淡が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Light Cathedral Tights F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Light Cathedral Tights F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290353",
 		"jp_text": "カテドラルタイツＦ",
 		"tr_text": "Cathedral Tights F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nカテドラルタイツＦが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Cathedral Tights F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Cathedral Tights F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290354",
 		"jp_text": "カテドラルタイツＦ　濃",
 		"tr_text": "Dark Cathedral Tights F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nカテドラルタイツＦ　濃が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Dark Cathedral Tights F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Dark Cathedral Tights F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290355",
 		"jp_text": "使徒礼装の手甲",
 		"tr_text": "Apostle Gauntlets",
 		"jp_explain": "チケットを使用すると、ボディペイント\n使徒礼装の手甲が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Apostle Gauntlets\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Apostle Gauntlets\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290356",
 		"jp_text": "使徒礼装の手袋",
 		"tr_text": "Apostle Gloves",
 		"jp_explain": "チケットを使用すると、ボディペイント\n使徒礼装の手袋が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Apostle Gloves\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Apostle Gloves\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290357",
 		"jp_text": "セイレンペティパンツ",
 		"tr_text": "Siren Pettipants",
 		"jp_explain": "チケットを使用すると、ボディペイント\nセイレンペティパンツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Siren Pettipants\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Siren Pettipants\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290358",
 		"jp_text": "スリットニーソックス",
 		"tr_text": "Slit Knee High Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nスリットニーソックスが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Slit Knee High Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Slit Knee High Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290359",
 		"jp_text": "シェリーグローブ",
 		"tr_text": "Sherry Gloves",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシェリーグローブが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Sherry Gloves\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Sherry Gloves\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290360",
 		"jp_text": "シェリーソックス",
 		"tr_text": "Sherry Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシェリーソックスが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Sherry Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Sherry Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290361",
 		"jp_text": "スポーツウェアＭ",
 		"tr_text": "Sportswear M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nスポーツウェアＭが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Sportswear M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Sportswear M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290362",
 		"jp_text": "スポーツウェアＦ",
 		"tr_text": "Sportswear F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nスポーツウェアＦが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Sportswear F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Sportswear F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290363",
 		"jp_text": "クロームタトゥーＭ　黒",
 		"tr_text": "Black Chrome Tattoo M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nクロームタトゥーＭ　黒が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Chrome Tattoo M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Black Chrome Tattoo M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290364",
 		"jp_text": "クロームタトゥーＦ　黒",
 		"tr_text": "Black Chrome Tattoo F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nクロームタトゥーＦ　黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Chrome Tattoo F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Black Chrome Tattoo F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290365",
 		"jp_text": "ブレイズペイントＭ　黒",
 		"tr_text": "Black Blaze Paint M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nブレイズペイントＭ　黒が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Blaze Paint M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Black Blaze Paint M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290366",
 		"jp_text": "ブレイズペイントＦ　黒",
 		"tr_text": "Black Blaze Paint F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nブレイズペイントＦ　黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Blaze Paint F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Black Blaze Paint F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290367",
 		"jp_text": "ヘリオスソックス",
 		"tr_text": "Helios Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nヘリオスソックスが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Helios Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Helios Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290368",
 		"jp_text": "クエンジットスリーブ",
 		"tr_text": "Cuensit Sleeves",
 		"jp_explain": "チケットを使用すると、ボディペイント\nクエンジットスリーブが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Cuensit Sleeves\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Cuensit Sleeves\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290369",
 		"jp_text": "フロントスリットニーソ",
 		"tr_text": "Front Slit Knee Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nフロントスリットニーソが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Front Slit Knee Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Front Slit Knee Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290376",
 		"jp_text": "ボーダーニーハイＭ　Ｂ白",
 		"tr_text": "White Border Knee Highs M B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nボーダーニーハイＭ　Ｂ白が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"White Border Knee Highs M B\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"White Border Knee Highs M B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290377",
 		"jp_text": "ボーダーニーハイＭ　Ｂ赤",
 		"tr_text": "Red Border Knee Highs M B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nボーダーニーハイＭ　Ｂ赤が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Red Border Knee Highs M B\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Red Border Knee Highs M B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290378",
 		"jp_text": "ボーダーニーハイＭ　Ｂ青",
 		"tr_text": "Blue Border Knee Highs M B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nボーダーニーハイＭ　Ｂ青が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Blue Border Knee Highs M B\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Blue Border Knee Highs M B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290379",
 		"jp_text": "ボーダーニーハイＦ　Ｂ白",
 		"tr_text": "White Border Knee Highs F B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nボーダーニーハイＦ　Ｂ白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"White Border Knee Highs F B\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"White Border Knee Highs F B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290380",
 		"jp_text": "ボーダーニーハイＦ　Ｂ赤",
 		"tr_text": "Red Border Knee Highs F B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nボーダーニーハイＦ　Ｂ赤が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Red Border Knee Highs F B\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Red Border Knee Highs F B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290381",
 		"jp_text": "ボーダーニーハイＦ　Ｂ青",
 		"tr_text": "Blue Border Knee Highs F B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nボーダーニーハイＦ　Ｂ青が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Blue Border Knee Highs F B\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Blue Border Knee Highs F B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290382",
 		"jp_text": "クエンチカソックス",
 		"tr_text": "Cuentica Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nクエンチカソックスが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Cuentica Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Cuentica Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290383",
 		"jp_text": "ルーサーの手袋",
 		"tr_text": "Luther Gloves",
 		"jp_explain": "チケットを使用すると、ボディペイント\nルーサーの手袋が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Luther Gloves\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Luther Gloves\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290384",
 		"jp_text": "ハリエットのタイツ",
 		"tr_text": "Harriet Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nハリエットのタイツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Harriet Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Harriet Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290385",
 		"jp_text": "蓮花ソックスＢ",
 		"tr_text": "Lotus Socks B",
 		"jp_explain": "チケットを使用すると、ボディペイント\n蓮花ソックスＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Lotus Socks B\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Lotus Socks B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290386",
 		"jp_text": "縞タイツＢ　黒",
 		"tr_text": "Black Striped Tights B",
 		"jp_explain": "チケットを使用すると、ボディペイント\n縞タイツＢ　黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Striped Tights B\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Black Striped Tights B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290387",
 		"jp_text": "翠玉の手袋",
 		"tr_text": "Emerald Gloves",
 		"jp_explain": "チケットを使用すると、ボディペイント\n翠玉の手袋が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Emerald Gloves\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Emerald Gloves\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290388",
 		"jp_text": "シュタットバンド",
 		"tr_text": "Stadt Bands",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシュタットバンドが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Stadt Bands\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Stadt Bands\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290389",
 		"jp_text": "シーナのソックス",
 		"tr_text": "Sina Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシーナのソックスが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Sina Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Sina Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290390",
 		"jp_text": "ハリエットのグローブ",
 		"tr_text": "Harriet Gloves",
 		"jp_explain": "チケットを使用すると、ボディペイント\nハリエットのグローブが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Harriet Gloves\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Harriet Gloves\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290391",
 		"jp_text": "ハリエットのサイハイ",
 		"tr_text": "Harriet Thigh Highs",
 		"jp_explain": "チケットを使用すると、ボディペイント\nハリエットのサイハイが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Harriet Thigh Highs\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Harriet Thigh Highs\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290392",
 		"jp_text": "カンナギノタビＢ",
 		"tr_text": "Kannagi Tabi B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nカンナギノタビＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Kannagi Tabi B\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Kannagi Tabi B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290395",
 		"jp_text": "ハロウィンサイハイＭ",
 		"tr_text": "Halloween Thigh Highs M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nハロウィンサイハイＭが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Halloween Thigh Highs M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Halloween Thigh Highs M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290396",
 		"jp_text": "ハロウィンサイハイＦ",
 		"tr_text": "Halloween Thigh Highs F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nハロウィンサイハイＦが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Halloween Thigh Highs F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Halloween Thigh Highs F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290397",
 		"jp_text": "レントゲンペイントＭ　Ｂ",
 		"tr_text": "X-Ray Paint M B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nレントゲンペイントＭ　Ｂが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"X-Ray Paint M B\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"X-Ray Paint M B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290398",
 		"jp_text": "レントゲンペイントＦ　Ｂ",
 		"tr_text": "X-Ray Paint F B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nレントゲンペイントＦ　Ｂが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"X-Ray Paint F B\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"X-Ray Paint F B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290399",
 		"jp_text": "メルレットグローブＢ",
 		"tr_text": "Merletto Gloves B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nメルレットグローブＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Merletto Gloves B\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Merletto Gloves B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290400",
 		"jp_text": "軍手Ｍ",
 		"tr_text": "Cotton Gloves M",
 		"jp_explain": "チケットを使用すると、ボディペイント\n軍手Ｍが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Cotton Gloves M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Cotton Gloves M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290401",
 		"jp_text": "軍手Ｆ",
 		"tr_text": "Cotton Gloves F",
 		"jp_explain": "チケットを使用すると、ボディペイント\n軍手Ｆが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Cotton Gloves F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Cotton Gloves F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290402",
 		"jp_text": "幻創種タトゥーＭ",
 		"tr_text": "Phantom Tattoo M",
 		"jp_explain": "チケットを使用すると、ボディペイント\n幻創種タトゥーＭが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Phantom Tattoo M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Phantom Tattoo M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290403",
 		"jp_text": "幻創種タトゥーＦ",
 		"tr_text": "Phantom Tattoo F",
 		"jp_explain": "チケットを使用すると、ボディペイント\n幻創種タトゥーＦが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Phantom Tattoo F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Phantom Tattoo F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290404",
 		"jp_text": "華乙女ソックスＢ",
 		"tr_text": "Yakisaka Otome Socks B",
 		"jp_explain": "チケットを使用すると、ボディペイント\n華乙女ソックスＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Yakisaka Otome Socks B\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Yakisaka Otome Socks B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290405",
 		"jp_text": "かすみのソックス",
 		"tr_text": "Kasumi Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nかすみのソックスが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Kasumi Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Kasumi Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290406",
 		"jp_text": "あやねのソックス",
 		"tr_text": "Ayane Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nあやねのソックスが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Ayane Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Ayane Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290407",
 		"jp_text": "エナメル全身タイツＭ　黒",
 		"tr_text": "Black Enamel Body Tights M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nエナメル全身タイツＭ　黒が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Enamel Body Tights M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Black Enamel Body Tights M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290408",
 		"jp_text": "エナメル全身タイツＭ　白",
 		"tr_text": "White Enamel Body Tights M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nエナメル全身タイツＭ　白が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"White Enamel Body Tights M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"White Enamel Body Tights M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290409",
 		"jp_text": "エナメル全身タイツＭ　赤",
 		"tr_text": "Red Enamel Body Tights M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nエナメル全身タイツＭ　赤が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Red Enamel Body Tights M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Red Enamel Body Tights M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290410",
 		"jp_text": "エナメル全身タイツＭ　青",
 		"tr_text": "Blue Enamel Body Tights M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nエナメル全身タイツＭ　青が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Blue Enamel Body Tights M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Blue Enamel Body Tights M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290411",
 		"jp_text": "エナメル全身タイツＦ　黒",
 		"tr_text": "Black Enamel Body Tights F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nエナメル全身タイツＦ　黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Enamel Body Tights F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Black Enamel Body Tights F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290412",
 		"jp_text": "エナメル全身タイツＦ　白",
 		"tr_text": "White Enamel Body Tights F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nエナメル全身タイツＦ　白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"White Enamel Body Tights F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"White Enamel Body Tights F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290413",
 		"jp_text": "エナメル全身タイツＦ　赤",
 		"tr_text": "Red Enamel Body Tights F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nエナメル全身タイツＦ　赤が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Red Enamel Body Tights F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Red Enamel Body Tights F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290414",
 		"jp_text": "エナメル全身タイツＦ　青",
 		"tr_text": "Blue Enamel Body Tights F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nエナメル全身タイツＦ　青が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Blue Enamel Body Tights F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Blue Enamel Body Tights F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290415",
 		"jp_text": "メリーキャロルペイント",
 		"tr_text": "Merry Carol Paint",
 		"jp_explain": "チケットを使用すると、ボディペイント\nメリーキャロルペイントが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Merry Carol Paint\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Merry Carol Paint\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290416",
 		"jp_text": "ケインペイント",
 		"tr_text": "Rhys Paint",
 		"jp_explain": "チケットを使用すると、ボディペイント\nケインペイントが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Rhys Paint\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Rhys Paint\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290417",
 		"jp_text": "春風桜ニーソックス",
 		"tr_text": "Spring Breeze Knee Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\n春風桜ニーソックスが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Spring Breeze Knee Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Spring Breeze Knee Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290418",
 		"jp_text": "ラバータイツＭ　黒",
 		"tr_text": "Black Rubber Tights M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nラバータイツＭ　黒が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Rubber Tights M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Black Rubber Tights M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290419",
 		"jp_text": "ラバータイツＭ　灰",
 		"tr_text": "Gray Rubber Tights M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nラバータイツＭ　灰が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Gray Rubber Tights M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Gray Rubber Tights M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290420",
 		"jp_text": "ラバータイツＦ　黒",
 		"tr_text": "Black Rubber Tights F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nラバータイツＦ　黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Black Rubber Tights F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Black Rubber Tights F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290421",
 		"jp_text": "ラバータイツＦ　灰",
 		"tr_text": "Gray Rubber Tights F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nラバータイツＦ　灰が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Gray Rubber Tights F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Gray Rubber Tights F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290423",
 		"jp_text": "アルモニーグローブ",
 		"tr_text": "Harmony Gloves",
 		"jp_explain": "チケットを使用すると、ボディペイント\nアルモニーグローブが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Harmony Gloves\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Harmony Gloves\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290425",
 		"jp_text": "ラバータイツＭ　白",
 		"tr_text": "Rubber Tights M White",
 		"jp_explain": "チケットを使用すると、ボディペイント\nラバータイツＭ　白が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Rubber Tights M White\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Rubber Tights M White\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290426",
 		"jp_text": "ラバータイツＦ　白",
 		"tr_text": "Rubber Tights F White",
 		"jp_explain": "チケットを使用すると、ボディペイント\nラバータイツＦ　白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Rubber Tights F White\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Rubber Tights F White\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290427",
 		"jp_text": "結月ゆかりのソックスＭ",
 		"tr_text": "Yuzuki Yukari Socks M",
 		"jp_explain": "チケットを使用すると、ボディペイント\n結月ゆかりのソックスＭが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Yuzuki Yukari Socks M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Yuzuki Yukari Socks M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290428",
 		"jp_text": "結月ゆかりのソックスＦ",
 		"tr_text": "Yuzuki Yukari Socks F",
 		"jp_explain": "チケットを使用すると、ボディペイント\n結月ゆかりのソックスＦが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Yuzuki Yukari Socks F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Yuzuki Yukari Socks F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290429",
 		"jp_text": "結月ゆかりアームカバーＭ",
 		"tr_text": "Yuzuki Yukari Arm Cover M",
 		"jp_explain": "チケットを使用すると、ボディペイント\n結月ゆかりアームカバーＭが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Yuzuki Yukari Arm Cover M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Yuzuki Yukari Arm Cover M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290430",
 		"jp_text": "結月ゆかりアームカバーＦ",
 		"tr_text": "Yuzuki Yukari Arm Cover F",
 		"jp_explain": "チケットを使用すると、ボディペイント\n結月ゆかりアームカバーＦが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Yuzuki Yukari Arm Cover F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Yuzuki Yukari Arm Cover F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290431",
 		"jp_text": "ヘリオスソックスＢ",
 		"tr_text": "Helios Socks B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nヘリオスソックスＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Helios Socks B\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Helios Socks B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290432",
 		"jp_text": "フェリチェニーソックス",
 		"tr_text": "Felice Knee Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nフェリチェニーソックスが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Felice Knee Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Felice Knee Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290433",
 		"jp_text": "編み上げリボン",
 		"tr_text": "High Laced Ribbons",
 		"jp_explain": "チケットを使用すると、ボディペイント\n編み上げリボンが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"High Laced Ribbons\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"High Laced Ribbons\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290434",
 		"jp_text": "ショコラソックス＆手袋Ｂ",
 		"tr_text": "Chocolat Socks & Gloves B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nショコラソックス＆手袋Ｂが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Chocolat Socks & Gloves B\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Chocolat Socks & Gloves B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290435",
 		"jp_text": "花柄ニーソックス",
 		"tr_text": "Floral Thigh Highs",
 		"jp_explain": "チケットを使用すると、ボディペイント\n花柄ニーソックスが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Floral Thigh Highs\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Floral Thigh Highs\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290436",
 		"jp_text": "ボーダーストッキング",
 		"tr_text": "Border Stockings",
 		"jp_explain": "チケットを使用すると、ボディペイント\nボーダーストッキングが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Border Stockings\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Border Stockings\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290438",
 		"jp_text": "アーガイルタイツ　灰",
 		"tr_text": "Gray Argyle Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nアーガイルタイツ　灰が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Gray Argyle Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Gray Argyle Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290439",
 		"jp_text": "ダスクサイハイソックス",
 		"tr_text": "Dusk Thigh High Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nダスクサイハイソックスが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Dusk Thigh High Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Dusk Thigh High Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290440",
 		"jp_text": "チャームサイハイソックス",
 		"tr_text": "Charm Thigh High Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nチャームサイハイソックスが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Charm Thigh High Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Charm Thigh High Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290441",
 		"jp_text": "リデルグローブＭ　Ｂ",
 		"tr_text": "Ridel Gloves M B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nリデルグローブＭ　Ｂが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Ridel Gloves M B\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Ridel Gloves M B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290442",
 		"jp_text": "リデルグローブＦ　Ｂ",
 		"tr_text": "Ridel Gloves F B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nリデルグローブＦ　Ｂが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Ridel Gloves F B\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Ridel Gloves F B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290443",
 		"jp_text": "ステラアームウェア",
 		"tr_text": "Stella Arm Wear",
 		"jp_explain": "チケットを使用すると、ボディペイント\nステラアームウェアが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Stella Arm Wear\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Stella Arm Wear\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290444",
 		"jp_text": "スミシータトゥー",
 		"tr_text": "Smithy Tattoo",
 		"jp_explain": "チケットを使用すると、ボディペイント\nスミシータトゥーが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Smithy Tattoo\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Smithy Tattoo\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290446",
 		"jp_text": "チェック柄タイツＣ",
 		"tr_text": "Plaid Tights C",
 		"jp_explain": "チケットを使用すると、ボディペイント\nチェック柄タイツＣが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Plaid Tights C\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Plaid Tights C\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290447",
 		"jp_text": "ピュアグレースタイツＢ",
 		"tr_text": "Pure Grace Tights B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nピュアグレースタイツＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura\n\"Pure Grace Tights B\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Pure Grace Tights B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290448",
 		"jp_text": "バルバタトゥーＭ　茶",
 		"tr_text": "Brown Barba Tattoo M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nバルバタトゥーＭ　茶が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura M\n\"Brown Barba Tattoo M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Brown Barba Tattoo M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290449",
 		"jp_text": "バルバタトゥーＭ　白",
 		"tr_text": "White Barba Tattoo M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nバルバタトゥーＭ　白が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura M\n\"White Barba Tattoo M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"White Barba Tattoo M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290450",
 		"jp_text": "バルバタトゥーＦ　茶",
 		"tr_text": "Brown Barba Tattoo F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nバルバタトゥーＦ　茶が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura F\n\"Brown Barba Tattoo F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Brown Barba Tattoo F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290451",
 		"jp_text": "バルバタトゥーＦ　白",
 		"tr_text": "White Barba Tattoo F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nバルバタトゥーＦ　白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura F\n\"White Barba Tattoo F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"White Barba Tattoo F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290452",
 		"jp_text": "インナー風ペイントＭ　Ａ白",
 		"tr_text": "White Inner Style Paint M A",
 		"jp_explain": "チケットを使用すると、ボディペイント\nインナー風ペイントＭ　Ａ白が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura M\n\"White Inner Style Paint M A\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"White Inner Style Paint M A\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290453",
 		"jp_text": "インナー風ペイントＭ　Ａ灰",
 		"tr_text": "Gray Inner Style Paint M A",
 		"jp_explain": "チケットを使用すると、ボディペイント\nインナー風ペイントＭ　Ａ灰が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura M\n\"Gray Inner Style Paint M A\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Gray Inner Style Paint M A\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290454",
 		"jp_text": "インナー風ペイントＭ　Ａ黒",
 		"tr_text": "Black Inner Style Paint M A",
 		"jp_explain": "チケットを使用すると、ボディペイント\nインナー風ペイントＭ　Ａ黒が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura M\n\"Black Inner Style Paint M A\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Black Inner Style Paint M A\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290455",
 		"jp_text": "インナー風ペイントＦ　Ａ白",
 		"tr_text": "White Inner Style Paint F A",
 		"jp_explain": "チケットを使用すると、ボディペイント\nインナー風ペイントＦ　Ａ白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura F\n\"White Inner Style Paint F A\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"White Inner Style Paint F A\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290456",
 		"jp_text": "インナー風ペイントＦ　Ａ灰",
 		"tr_text": "Gray Inner Style Paint F A",
 		"jp_explain": "チケットを使用すると、ボディペイント\nインナー風ペイントＦ　Ａ灰が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura F\n\"Gray Inner Style Paint F A\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Gray Inner Style Paint F A\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290457",
 		"jp_text": "インナー風ペイントＦ　Ａ黒",
 		"tr_text": "Black Inner Style Paint F A",
 		"jp_explain": "チケットを使用すると、ボディペイント\nインナー風ペイントＦ　Ａ黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura F\n\"Black Inner Style Paint F A\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Black Inner Style Paint F A\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290458",
 		"jp_text": "インナー風ペイントＭ　Ｂ白",
 		"tr_text": "White Inner Style Paint M B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nインナー風ペイントＭ　Ｂ白が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura M\n\"White Inner Style Paint M B\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"White Inner Style Paint M B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290459",
 		"jp_text": "インナー風ペイントＭ　Ｂ灰",
 		"tr_text": "Gray Inner Style Paint M B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nインナー風ペイントＭ　Ｂ灰が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura M\n\"Gray Inner Style Paint M B\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Gray Inner Style Paint M B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290460",
 		"jp_text": "インナー風ペイントＭ　Ｂ黒",
 		"tr_text": "Black Inner Style Paint M B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nインナー風ペイントＭ　Ｂ黒が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura M\n\"Black Inner Style Paint M B\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Black Inner Style Paint M B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290461",
 		"jp_text": "インナー風ペイントＦ　Ｂ白",
 		"tr_text": "White Inner Style Paint F B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nインナー風ペイントＦ　Ｂ白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura F\n\"White Inner Style Paint F B\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"White Inner Style Paint F B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290462",
 		"jp_text": "インナー風ペイントＦ　Ｂ灰",
 		"tr_text": "Gray Inner Style Paint F B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nインナー風ペイントＦ　Ｂ灰が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura F\n\"Gray Inner Style Paint F B\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Gray Inner Style Paint F B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290463",
 		"jp_text": "インナー風ペイントＦ　Ｂ黒",
 		"tr_text": "Black Inner Style Paint F B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nインナー風ペイントＦ　Ｂ黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura F\n\"Black Inner Style Paint F B\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Black Inner Style Paint F B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290464",
 		"jp_text": "巻きリボン柄タイツ赤",
 		"tr_text": "Red Wrapped Ribbon Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\n巻きリボン柄タイツ赤が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura F\n\"Red Wrapped Ribbon Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Red Wrapped Ribbon Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290465",
 		"jp_text": "巻きリボン柄タイツ桃",
 		"tr_text": "Peach Wrapped Ribbon Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\n巻きリボン柄タイツ桃が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura F\n\"Peach Wrapped Ribbon Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Peach Wrapped Ribbon Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290466",
 		"jp_text": "巻きリボン柄タイツ黒",
 		"tr_text": "Black Wrapped Ribbon Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\n巻きリボン柄タイツ黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura F\n\"Black Wrapped Ribbon Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Black Wrapped Ribbon Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290467",
 		"jp_text": "天星初等部女子ソックスＢ",
 		"tr_text": "Tensei Elementary Socks F B",
 		"jp_explain": "チケットを使用すると、ボディペイント\n天星初等部女子ソックスＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura F\n\"Tensei Elementary Socks F B\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Tensei Elementary Socks F B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290468",
 		"jp_text": "シンプルチョーカーＭ　Ａ",
 		"tr_text": "Simple Choker M A",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシンプルチョーカーＭ　Ａが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura M\n\"Simple Choker M A\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Simple Choker M A\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290469",
 		"jp_text": "シンプルチョーカーＭ　Ｂ",
 		"tr_text": "Simple Choker M B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシンプルチョーカーＭ　Ｂが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura M\n\"Simple Choker M B\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Simple Choker M B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290470",
 		"jp_text": "シンプルチョーカーＭ　Ｃ",
 		"tr_text": "Simple Choker M C",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシンプルチョーカーＭ　Ｃが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura M\n\"Simple Choker M C\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Simple Choker M C\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290471",
 		"jp_text": "シンプルチョーカーＭ　Ｄ",
 		"tr_text": "Simple Choker M D",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシンプルチョーカーＭ　Ｄが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura M\n\"Simple Choker M D\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Simple Choker M D\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290472",
 		"jp_text": "シンプルチョーカーＦ　Ａ",
 		"tr_text": "Simple Choker F A",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシンプルチョーカーＦ　Ａが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura F\n\"Simple Choker F A\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Simple Choker F A\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290473",
 		"jp_text": "シンプルチョーカーＦ　Ｂ",
 		"tr_text": "Simple Choker F B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシンプルチョーカーＦ　Ｂが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura F\n\"Simple Choker F B\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Simple Choker F B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290474",
 		"jp_text": "シンプルチョーカーＦ　Ｃ",
 		"tr_text": "Simple Choker F C",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシンプルチョーカーＦ　Ｃが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura F\n\"Simple Choker F C\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Simple Choker F C\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290475",
 		"jp_text": "シンプルチョーカーＦ　Ｄ",
 		"tr_text": "Simple Choker F D",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシンプルチョーカーＦ　Ｄが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura F\n\"Simple Choker F D\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Simple Choker F D\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290476",
 		"jp_text": "エレメンタルボディ炎Ｍ",
 		"tr_text": "Elemental Body Fire M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nエレメンタルボディ炎Ｍが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura M\n\"Elemental Body Fire M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Elemental Body Fire M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290477",
 		"jp_text": "エレメンタルボディ水Ｍ",
 		"tr_text": "Elemental Body Ice M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nエレメンタルボディ水Ｍが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura M\n\"Elemental Body Ice M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Elemental Body Ice M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290478",
 		"jp_text": "エレメンタルボディ風Ｍ",
 		"tr_text": "Elemental Body Wind M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nエレメンタルボディ風Ｍが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura M\n\"Elemental Body Wind M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Elemental Body Wind M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290479",
 		"jp_text": "エレメンタルボディ炎Ｆ",
 		"tr_text": "Elemental Body Fire F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nエレメンタルボディ炎Ｆが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura F\n\"Elemental Body Fire F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Elemental Body Fire F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290480",
 		"jp_text": "エレメンタルボディ水Ｆ",
 		"tr_text": "Elemental Body Ice F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nエレメンタルボディ水Ｆが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura F\n\"Elemental Body Ice F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Elemental Body Ice F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290481",
 		"jp_text": "エレメンタルボディ風Ｆ",
 		"tr_text": "Elemental Body Wind F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nエレメンタルボディ風Ｆが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura F\n\"Elemental Body Wind F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Elemental Body Wind F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290482",
 		"jp_text": "しましまスーツＭ",
 		"tr_text": "Striped Suit M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nしましまスーツＭが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura M\n\"Striped Suit M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Striped Suit M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290483",
 		"jp_text": "しましまスーツＦ",
 		"tr_text": "Striped Suit F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nしましまスーツＦが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura F\n\"Striped Suit F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Striped Suit F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290484",
 		"jp_text": "グラスラージュタイツ",
 		"tr_text": "Grassoulage Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nグラスラージュタイツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura F\n\"Grassoulage Tights\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Grassoulage Tights\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290487",
 		"jp_text": "エナメルソックス　黒",
 		"tr_text": "Black Enamel Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nエナメルソックス　黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura F\n\"Black Enamel Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Black Enamel Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290488",
 		"jp_text": "エナメルソックス　白",
 		"tr_text": "White Enamel Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nエナメルソックス　白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura F\n\"White Enamel Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"White Enamel Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290489",
 		"jp_text": "エナメルソックス　赤",
 		"tr_text": "Red Enamel Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nエナメルソックス　赤が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura F\n\"Red Enamel Socks\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Red Enamel Socks\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290490",
 		"jp_text": "アルキュリアトレンカ",
-		"tr_text": "",
+		"tr_text": "Alcuria Stirrup Leggings",
 		"jp_explain": "チケットを使用すると、ボディペイント\nアルキュリアトレンカが選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea la pintura femenina\n\"Alcuria Stirrup Leggings\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290491",
 		"jp_text": "レースチョーカーＭ　白",
 		"tr_text": "White Lace Choker M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nレースチョーカーＭ　白が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura M\n\"White Lace Choker M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"White Lace Choker M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290492",
 		"jp_text": "レースチョーカーＭ　黒",
 		"tr_text": "Black Lace Choker M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nレースチョーカーＭ　黒が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura M\n\"Black Lace Choker M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Black Lace Choker M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290493",
 		"jp_text": "レースチョーカーＭ　赤",
 		"tr_text": "Red Lace Choker M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nレースチョーカーＭ　赤が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura M\n\"Red Lace Choker M\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Red Lace Choker M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290494",
 		"jp_text": "レースチョーカーＦ　白",
 		"tr_text": "White Lace Choker F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nレースチョーカーＦ　白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura F\n\"White Lace Choker F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"White Lace Choker F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290495",
 		"jp_text": "レースチョーカーＦ　黒",
 		"tr_text": "Black Lace Choker F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nレースチョーカーＦ　黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura F\n\"Black Lace Choker F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Black Lace Choker F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290496",
 		"jp_text": "レースチョーカーＦ　赤",
 		"tr_text": "Red Lace Choker F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nレースチョーカーＦ　赤が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Usando este tiquete, la pintura F\n\"Red Lace Choker F\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Red Lace Choker F\"\npara usarse en el Estilista."
+	},
+	{
+		"assign": "3290497",
+		"jp_text": "紅霞の強化スキン",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、ボディペイント\n紅霞の強化スキンが選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3290498",
+		"jp_text": "エレガントニーハイ",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、ボディペイント\nエレガントニーハイが選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3290499",
+		"jp_text": "ハナヤギグローブＭ",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、ボディペイント\nハナヤギグローブＭが選択可能。\n男性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3290500",
+		"jp_text": "ハナヤギグローブＦ",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、ボディペイント\nハナヤギグローブＦが選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3290501",
+		"jp_text": "ハナヤギニーハイＭ",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、ボディペイント\nハナヤギニーハイＭが選択可能。\n男性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3290502",
+		"jp_text": "ハナヤギニーハイＦ",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、ボディペイント\nハナヤギニーハイＦが選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3290503",
+		"jp_text": "イロドリグローブＭ",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、ボディペイント\nイロドリグローブＭが選択可能。\n男性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3290504",
+		"jp_text": "イロドリグローブＦ",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、ボディペイント\nイロドリグローブＦが選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
 	}
 ]
