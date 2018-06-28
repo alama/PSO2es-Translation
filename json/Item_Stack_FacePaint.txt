@@ -1423,8 +1423,8 @@
 	{
 		"assign": "3250220",
 		"jp_text": "涙袋メイク",
-		"tr_text": "",
+		"tr_text": "Eye Bag Makeup",
 		"jp_explain": "チケットを使用すると、新しいメイクの\n涙袋メイクが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el maquillaje\n\"Eye Bag Makeup\"\nse podra usar en el Estilista."
 	}
 ]

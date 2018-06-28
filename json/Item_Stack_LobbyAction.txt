@@ -2734,7 +2734,7 @@
 		"jp_text": "382「杖を構える」",
 		"tr_text": "",
 		"jp_explain": "ロビアク『杖を構える』\nを全キャラクターで使用可能になる。",
-		"tr_explain": ""
+		"tr_explain": "Aprende una nueva accion de lobby\n\" \"."
 	},
 	{
 		"assign": "3230397",
@@ -2881,42 +2881,42 @@
 		"jp_text": "404「大剣を構える」",
 		"tr_text": "",
 		"jp_explain": "ロビアク『大剣を構える』\nを全キャラクターで使用可能になる。",
-		"tr_explain": ""
+		"tr_explain": "Aprende una nueva accion de lobby\n\" \"."
 	},
 	{
 		"assign": "3230419",
 		"jp_text": "405「カウボーイ射撃芸」",
 		"tr_text": "",
 		"jp_explain": "ロビアク『カウボーイ射撃芸』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": ""
+		"tr_explain": "Aprende una nueva accion de lobby\n\" \"."
 	},
 	{
 		"assign": "3230420",
 		"jp_text": "406「後光が差す」",
 		"tr_text": "",
 		"jp_explain": "ロビアク『後光が差す』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": ""
+		"tr_explain": "Aprende una nueva accion de lobby\n\" \"."
 	},
 	{
 		"assign": "3230422",
 		"jp_text": "408「ユーイ＆シャク」",
 		"tr_text": "408 \"Yui & Shaku\"",
 		"jp_explain": "ロビアク『ユーイ＆シャク』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Unlocks the new lobby action\n\"Yui & Shaku\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Yui & Shaku\"."
 	},
 	{
 		"assign": "3230423",
 		"jp_text": "409「アッチ向いてホイ」",
 		"tr_text": "409 \"Look That Way\"",
 		"jp_explain": "ロビアク『アッチ向いてホイ』\nを全キャラクターで使用可能になる。\n対応機能：リアクション",
-		"tr_explain": "Unlocks the new lobby action\n\"Look That Way\".\nReaction has extra actions."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Look That Way\".\nReaction has extra actions."
 	},
 	{
 		"assign": "3230424",
 		"jp_text": "410「ユーイ＆シャク２」",
 		"tr_text": "",
 		"jp_explain": "ロビアク『ユーイ＆シャク２』\nを全キャラクターで使用可能になる。",
-		"tr_explain": ""
+		"tr_explain": "Aprende una nueva accion de lobby\n\" \"."
 	},
 	{
 		"assign": "3230425",
@@ -2977,23 +2977,23 @@
 	{
 		"assign": "3230433",
 		"jp_text": "419「ダンス５２」",
-		"tr_text": "",
+		"tr_text": "419 \"Baile 52\"",
 		"jp_explain": "ロビアク『ダンス５２』\nを全キャラクターで使用可能になる。",
-		"tr_explain": ""
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 52\"."
 	},
 	{
 		"assign": "3230434",
 		"jp_text": "420「編知／乱知」",
 		"tr_text": "420 \"Henchi / Ranchi\"",
 		"jp_explain": "ロビアク『編知／乱知』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": "Unlocks the new lobby action\n\"Henchi Ranchi\".\nUse action buttons for extra actions."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Henchi Ranchi\".\nUse action buttons for extra actions."
 	},
 	{
 		"assign": "3230435",
 		"jp_text": "421「ユーイ＆シャク３」",
 		"tr_text": "",
 		"jp_explain": "ロビアク『ユーイ＆シャク３』\nを全キャラクターで使用可能になる。",
-		"tr_explain": ""
+		"tr_explain": "Aprende una nueva accion de lobby\n\" \"."
 	},
 	{
 		"assign": "3230436",
@@ -3014,55 +3014,55 @@
 		"jp_text": "424「編知／乱知２」",
 		"tr_text": "424 \"Henchi / Ranchi 2\"",
 		"jp_explain": "ロビアク『編知／乱知２』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": "Unlocks the new lobby action\n\"Henchi Ranchi 2\".\nUse action buttons for extra actions."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Henchi Ranchi 2\".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "3230439",
 		"jp_text": "425「ＢＥＡＴＬＥＳＳ」",
-		"tr_text": "",
+		"tr_text": "425 \"BEATLESS\"",
 		"jp_explain": "ロビアク『ＢＥＡＴＬＥＳＳ』\nを全キャラクターで使用可能になる。",
-		"tr_explain": ""
+		"tr_explain": "Aprende una nueva accion de lobby\n\"BEATLESS\"."
 	},
 	{
 		"assign": "3230440",
 		"jp_text": "426「ウェディングポーズ」",
-		"tr_text": "",
+		"tr_text": "426 \"Wedding Pose\"",
 		"jp_explain": "ロビアク『ウェディングポーズ』\nを全キャラクターで使用可能になる。",
-		"tr_explain": ""
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Wedding Pose\"."
 	},
 	{
 		"assign": "3230441",
 		"jp_text": "427「バージンロード」",
-		"tr_text": "",
+		"tr_text": "427 \"Virgin Road\"",
 		"jp_explain": "ロビアク『バージンロード』\nを全キャラクターで使用可能になる。",
-		"tr_explain": ""
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Virgin Road\"."
 	},
 	{
 		"assign": "3230442",
 		"jp_text": "428「酔拳ごっこ」",
 		"tr_text": "",
 		"jp_explain": "ロビアク『酔拳ごっこ』\nを全キャラクターで使用可能になる。",
-		"tr_explain": ""
+		"tr_explain": "Aprende una nueva accion de lobby\n\" \"."
 	},
 	{
 		"assign": "3230443",
 		"jp_text": "429「座る５」",
 		"tr_text": "",
 		"jp_explain": "ロビアク『座る５』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": ""
+		"tr_explain": "Aprende una nueva accion de lobby\n\" \".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "3230447",
 		"jp_text": "433「Ｖｏパフォーマンス６」",
 		"tr_text": "",
 		"jp_explain": "ロビアク『Ｖｏパフォーマンス６』\nを全キャラクターで使用可能になる。",
-		"tr_explain": ""
+		"tr_explain": "Aprende una nueva accion de lobby\n\" \"."
 	},
 	{
 		"assign": "3230465",
 		"jp_text": "451「すわダンス」",
 		"tr_text": "",
 		"jp_explain": "ロビアク『すわダンス』\nを全キャラクターで使用可能になる。",
-		"tr_explain": ""
+		"tr_explain": "Aprende una nueva accion de lobby\n\" \"."
 	}
 ]
