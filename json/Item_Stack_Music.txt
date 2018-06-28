@@ -3810,7 +3810,7 @@
 	{
 		"assign": "3190645",
 		"jp_text": "Striker",
-		"tr_text": "Striker (PSU)",
+		"tr_text": "Striker PSU",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃５９\n『Striker』",
 		"tr_explain": "Un disco de musica para tu jukebox.\nPSU #59\n\"Striker\""
 	},

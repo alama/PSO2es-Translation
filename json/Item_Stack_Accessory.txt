@@ -18888,9 +18888,9 @@
 	{
 		"assign": "3802909",
 		"jp_text": "アーマーバイザー",
-		"tr_text": "Armor Visor",
+		"tr_text": "Armored Visor",
 		"jp_explain": "使用すると、新しいアクセサリーの\nアーマーバイザーが選択可能。",
-		"tr_explain": "Usando este tiquete, el accesorio\n\"Armor Visor\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Armored Visor\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3802910",
