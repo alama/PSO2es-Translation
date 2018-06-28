@@ -3700,14 +3700,14 @@
 		"jp_text": "ラッピーミミクリＭ影[Ba]",
 		"tr_text": "Rappy Mimikli M Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nラッピーミミクリＭ影[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Rappy Mimikli M [Ba]\".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Rappy Mimikli M Shadow [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340591",
 		"jp_text": "ラッピーミミクリＭ空[Ba]",
-		"tr_text": "",
+		"tr_text": "Rappy Mimikli M SKy [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nラッピーミミクリＭ空[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Rappy Mimikli M Shadow [Ba]\".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Rappy Mimikli M SKy [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340594",
@@ -3859,128 +3859,128 @@
 	{
 		"assign": "3340617",
 		"jp_text": "イロドリテリトリーＭ[Ba]",
-		"tr_text": "",
+		"tr_text": "Irodori Territory M [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nイロドリテリトリーＭ[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\" \".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Irodori Territory M [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340618",
 		"jp_text": "イロドリテリトリーＭ夜[Ba]",
-		"tr_text": "",
+		"tr_text": "Irodori Territory M Night [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nイロドリテリトリーＭ夜[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\" \".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Irodori Territory M Night [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340619",
 		"jp_text": "イロドリテリトリーＭ雅[Ba]",
-		"tr_text": "",
+		"tr_text": "Irodori Territory M Elegance [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nイロドリテリトリーＭ雅[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\" \".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Irodori Territory M Elegance [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340621",
 		"jp_text": "イロドリテリトリーＭ雪[Ba]",
-		"tr_text": "",
+		"tr_text": "Irodori Territory M Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nイロドリテリトリーＭ雪[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\" \".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Irodori Territory M Snow [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340622",
 		"jp_text": "イロドリテリトリーＭ影[Ba]",
-		"tr_text": "",
+		"tr_text": "Irodori Territory M Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nイロドリテリトリーＭ影[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\" \".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Irodori Territory M Shadow [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340623",
 		"jp_text": "ハナヤギテリトリーＭ[Ba]",
-		"tr_text": "",
+		"tr_text": "Hanayagi Territory M [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nハナヤギテリトリーＭ[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\" \".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Hanayagi Territory M [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340624",
 		"jp_text": "ハナヤギテリトリーＭ月[Ba]",
-		"tr_text": "",
+		"tr_text": "Hanayagi Territory M Moon [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nハナヤギテリトリーＭ月[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\" \".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Hanayagi Territory M Moon [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340625",
 		"jp_text": "ハナヤギテリトリーＭ雅[Ba]",
-		"tr_text": "",
+		"tr_text": "Hanayagi Territory M Elegance [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nハナヤギテリトリーＭ雅[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\" \".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Hanayagi Territory M Elegance [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340626",
 		"jp_text": "ハナヤギテリトリーＭ空[Ba]",
-		"tr_text": "",
+		"tr_text": "Hanayagi Territory M Sky [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nハナヤギテリトリーＭ空[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\" \".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Hanayagi Territory M Sky [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340627",
 		"jp_text": "ハナヤギテリトリーＭ雪[Ba]",
-		"tr_text": "",
+		"tr_text": "Hanayagi Territory M Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nハナヤギテリトリーＭ雪[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\" \".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Hanayagi Territory M Snow [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340628",
 		"jp_text": "ハナヤギテリトリーＭ影[Ba]",
-		"tr_text": "",
+		"tr_text": "Hanayagi Territory M Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nハナヤギテリトリーＭ影[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\" \".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Hanayagi Territory M Shadow [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340629",
 		"jp_text": "エスクリダオン[Ba]",
-		"tr_text": "",
+		"tr_text": "Escrow Daon [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエスクリダオン[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\" \".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Escrow Daon [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340630",
 		"jp_text": "エスクリダオン夜[Ba]",
-		"tr_text": "",
+		"tr_text": "Escrow Daon Night [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエスクリダオン夜[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\" \".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Escrow Daon Night [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340631",
 		"jp_text": "エスクリダオン葉[Ba]",
-		"tr_text": "",
+		"tr_text": "Escrow Daon Leaf [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエスクリダオン葉[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\" \".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Escrow Daon Leaf [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340632",
 		"jp_text": "エスクリダオン雅[Ba]",
-		"tr_text": "",
+		"tr_text": "Escrow Daon Elegance [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエスクリダオン雅[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\" \".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Escrow Daon Elegance [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340633",
 		"jp_text": "エスクリダオン雪[Ba]",
-		"tr_text": "",
+		"tr_text": "Escrow Daon Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエスクリダオン雪[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\" \".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Escrow Daon Snow [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340634",
 		"jp_text": "エスクリダオン影[Ba]",
-		"tr_text": "",
+		"tr_text": "Escrow Daon Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエスクリダオン影[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\" \".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Escrow Daon Shadow [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340635",
 		"jp_text": "ニンドリＴシャツＭ[Ba]",
-		"tr_text": "",
+		"tr_text": "Nindori T-Shirt M [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nニンドリＴシャツＭ[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\" \".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Nindori T-Shirt M [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340636",
@@ -4013,15 +4013,15 @@
 	{
 		"assign": "3340640",
 		"jp_text": "クランマラッド玄[Ba]",
-		"tr_text": "",
+		"tr_text": "Clan Maraud Mysterious [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nクランマラッド玄[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\" \".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Clan Maraud Mysterious [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340641",
 		"jp_text": "クランマラッド冬[Ba]",
-		"tr_text": "",
+		"tr_text": "Clan Maraud Winter [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nクランマラッド冬[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\" \".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Clan Maraud Winter [Ba]\".\nSolo para personajes masculinos."
 	}
 ]

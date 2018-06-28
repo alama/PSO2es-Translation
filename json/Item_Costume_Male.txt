@@ -8129,14 +8129,14 @@
 	{
 		"assign": "2101352",
 		"jp_text": "ゲッコウアンブスＣ１",
-		"tr_text": "",
+		"tr_text": "Gecko Ambus C1",
 		"jp_explain": "幻の隠密部隊が着用したとされる装束。\n隠密行動に適した素材が使われており\n静かに動けるような気がする。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2101353",
 		"jp_text": "ゲッコウアンブスＣ２",
-		"tr_text": "",
+		"tr_text": "Gecko Ambus C2",
 		"jp_explain": "幻の隠密部隊が着用したとされる装束。\n隠密行動に適した素材が使われており\n静かに動けるような気がする。",
 		"tr_explain": ""
 	},
@@ -8913,21 +8913,21 @@
 	{
 		"assign": "2101469",
 		"jp_text": "輝星・空式・レプカ",
-		"tr_text": "",
+		"tr_text": "BrightStar-SKY Repca",
 		"jp_explain": "ハティが搭乗するブラスト・ランナー\n「輝星・空式」を模したコスチューム。\nニュードを動力として稼働する。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2101470",
 		"jp_text": "アークマスーツ・ミニ",
-		"tr_text": "",
+		"tr_text": "Arkuma Suit Mini",
 		"jp_explain": "ヒューマノイドインターフェイスの\nアークマを模して作られた着ぐるみ。\n本人監修のもと、制作された逸品。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2101471",
 		"jp_text": "アクスラッピースーツ・ミニ",
-		"tr_text": "",
+		"tr_text": "ARKS Rappy Suit Mini",
 		"jp_explain": "ふわふわでかわいいラッピーの姿に\n虜になったメンバーが作り上げた服。\n戦闘に備え完全装備済み。",
 		"tr_explain": ""
 	}

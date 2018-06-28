@@ -2074,7 +2074,7 @@
 	{
 		"assign": "220333",
 		"jp_text": "ブライダルドレス雪",
-		"tr_text": "",
+		"tr_text": "Bridal Dress Snow",
 		"jp_explain": "一世一代の晴れ舞台に準備した\n厳かできらびやかな礼装。\nこれを着ることこそが女性の誉れ。",
 		"tr_explain": ""
 	},
@@ -14296,14 +14296,14 @@
 	{
 		"assign": "2202278",
 		"jp_text": "ヤテンアンブスＣ１",
-		"tr_text": "",
+		"tr_text": "Yaten Ambus C1",
 		"jp_explain": "幻の隠密部隊が着用したとされる装束。\n隠密行動の時により身軽に動けるよう\n布面積が少なめになっている。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2202279",
 		"jp_text": "ヤテンアンブスＣ２",
-		"tr_text": "",
+		"tr_text": "Yaten Ambus C2",
 		"jp_explain": "幻の隠密部隊が着用したとされる装束。\n隠密行動の時により身軽に動けるよう\n布面積が少なめになっている。",
 		"tr_explain": ""
 	},
@@ -15633,28 +15633,28 @@
 	{
 		"assign": "2202476",
 		"jp_text": "ハティ・レプカ",
-		"tr_text": "",
+		"tr_text": "Hattie Repca",
 		"jp_explain": "輝星・空式を駆る、復讐に燃える\nボーダー、ハティのスーツを模して\n作られたコスチューム。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2202477",
 		"jp_text": "ハティ・レプカ影",
-		"tr_text": "",
+		"tr_text": "Hattie Repca Shadow",
 		"jp_explain": "輝星・空式を駆る、復讐に燃える\nボーダー、ハティのスーツを模して\n作られたコスチューム。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2202478",
 		"jp_text": "ハティ・レプカ月",
-		"tr_text": "",
+		"tr_text": "Hattie Repca Moon",
 		"jp_explain": "輝星・空式を駆る、復讐に燃える\nボーダー、ハティのスーツを模して\n作られたコスチューム。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2202479",
 		"jp_text": "ハティ・レプカ陽",
-		"tr_text": "",
+		"tr_text": "Hattie Repca Sun",
 		"jp_explain": "輝星・空式を駆る、復讐に燃える\nボーダー、ハティのスーツを模して\n作られたコスチューム。",
 		"tr_explain": ""
 	},
@@ -15668,7 +15668,7 @@
 	{
 		"assign": "2202481",
 		"jp_text": "フィオナ・レプカ玄",
-		"tr_text": "",
+		"tr_text": "Fiona Repca Mysterious",
 		"jp_explain": "優秀なシステムオペレーターの服装。\nフィオナの美貌と、凜とした雰囲気を\n思い起こさせる。",
 		"tr_explain": ""
 	}
