@@ -18888,9 +18888,9 @@
 	{
 		"assign": "3802909",
 		"jp_text": "アーマーバイザー",
-		"tr_text": "Armored Visor",
+		"tr_text": "Armor Visor",
 		"jp_explain": "使用すると、新しいアクセサリーの\nアーマーバイザーが選択可能。",
-		"tr_explain": "Usando este tiquete, el accesorio\n\"Armored Visor\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Armor Visor\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3802910",
@@ -22514,30 +22514,30 @@
 	{
 		"assign": "3803495",
 		"jp_text": "甲冑バイザー",
-		"tr_text": "Armor Visor",
+		"tr_text": "Helmet Visor",
 		"jp_explain": "使用すると、新しいアクセサリーの\n甲冑バイザーが選択可能。",
-		"tr_explain": "Usando este tiquete, el accesorio\n\"Armor Visor\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Helmet Visor\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803496",
 		"jp_text": "甲冑バイザー　金",
-		"tr_text": "Gold Armor Visor",
+		"tr_text": "Gold Helmet Visor",
 		"jp_explain": "使用すると、新しいアクセサリーの\n甲冑バイザー　金が選択可能。",
-		"tr_explain": "Usando este tiquete, el accesorio\n\"Gold Armor Visor\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Gold Helmet Visor\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803497",
 		"jp_text": "甲冑バイザー　銀",
-		"tr_text": "Silver Armor Visor",
+		"tr_text": "Silver Helmet Visor",
 		"jp_explain": "使用すると、新しいアクセサリーの\n甲冑バイザー　銀が選択可能。",
-		"tr_explain": "Usando este tiquete, el accesorio\n\"Silver Armor Visor\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Silver Helmet Visor\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803498",
 		"jp_text": "甲冑バイザー　黒",
-		"tr_text": "Black Armor Visor",
+		"tr_text": "Black Helmet Visor",
 		"jp_explain": "使用すると、新しいアクセサリーの\n甲冑バイザー　黒が選択可能。",
-		"tr_explain": "Usando este tiquete, el accesorio\n\"Black Armor Visor\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Black Helmet Visor\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803499",

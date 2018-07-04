@@ -172,7 +172,7 @@
 		"jp_text": "清雅学園冬制服Ｍ[Ba]",
 		"tr_text": "Seiga AC Winter Uniform M [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n清雅学園冬制服Ｍ[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Seiga Ac. Winter Uniform M [Ba]\".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Seiga AC Winter Uniform M [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "334039",
@@ -452,7 +452,7 @@
 		"jp_text": "清雅学園夏制服Ｍ[Ba]",
 		"tr_text": "Seiga AC Summer M [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n清雅学園夏制服Ｍ[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Seiga Ac. Summer M [Ba]\".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Seiga AC Summer M [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "334082",
@@ -578,7 +578,7 @@
 		"jp_text": "清雅学園夏制服２Ｍ[Ba]",
 		"tr_text": "Seiga AC Summer 2 M [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n清雅学園夏制服２Ｍ[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Seiga Ac. Summer 2 M [Ba]\".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Seiga AC Summer 2 M [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340103",
@@ -1292,14 +1292,14 @@
 		"jp_text": "秀尽学園男子制服　夜[Ba]",
 		"tr_text": "Male Shujin AC Uniform Night [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n秀尽学園男子制服　夜[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Male Shujin Ac. Uniform Night [Ba]\".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Male Shujin AC Uniform Night [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340212",
 		"jp_text": "秀尽学園男子制服　雪[Ba]",
 		"tr_text": "Male Shujin AC Uniform Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n秀尽学園男子制服　雪[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Male Shujin A Uniform Snow [Ba]\".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Male Shujin AC Uniform Snow [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340213",
@@ -2193,9 +2193,9 @@
 	{
 		"assign": "3340343",
 		"jp_text": "幻創使徒礼装・木　玄[Ba]",
-		"tr_text": "Phantom Apostle Wood Mysterious [Ba]",
+		"tr_text": "Phantom Apostle Wood Dark [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n幻創使徒礼装・木　玄[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Phantom Apostle Wood Myst. [Ba]\".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Phantom Apostle Wood Dark [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340344",
@@ -3854,7 +3854,7 @@
 		"jp_text": "カザメントタキシード雅[Ba]",
 		"tr_text": "Casamento Tux Elegance [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nカザメントタキシード雅[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\" \".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Casamento Tux Elegance [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340617",
