@@ -3936,44 +3936,44 @@
 	{
 		"assign": "3340629",
 		"jp_text": "エスクリダオン[Ba]",
-		"tr_text": "Escrow Daon [Ba]",
+		"tr_text": "Escuridaon [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエスクリダオン[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Escrow Daon [Ba]\".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Escuridaon [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340630",
 		"jp_text": "エスクリダオン夜[Ba]",
-		"tr_text": "Escrow Daon Night [Ba]",
+		"tr_text": "Escuridaon Night [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエスクリダオン夜[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Escrow Daon Night [Ba]\".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Escuridaon Night [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340631",
 		"jp_text": "エスクリダオン葉[Ba]",
-		"tr_text": "Escrow Daon Leaf [Ba]",
+		"tr_text": "Escuridaon Leaf [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエスクリダオン葉[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Escrow Daon Leaf [Ba]\".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Escuridaon Leaf [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340632",
 		"jp_text": "エスクリダオン雅[Ba]",
-		"tr_text": "Escrow Daon Elegance [Ba]",
+		"tr_text": "Escuridaon Elegance [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエスクリダオン雅[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Escrow Daon Elegance [Ba]\".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Escuridaon Elegance [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340633",
 		"jp_text": "エスクリダオン雪[Ba]",
-		"tr_text": "Escrow Daon Snow [Ba]",
+		"tr_text": "Escuridaon Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエスクリダオン雪[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Escrow Daon Snow [Ba]\".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Escuridaon Snow [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340634",
 		"jp_text": "エスクリダオン影[Ba]",
-		"tr_text": "Escrow Daon Shadow [Ba]",
+		"tr_text": "Escuridaon Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエスクリダオン影[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Escrow Daon Shadow [Ba]\".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Escuridaon Shadow [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340635",

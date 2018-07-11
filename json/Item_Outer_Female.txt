@@ -1304,7 +1304,7 @@
 	{
 		"assign": "240457",
 		"jp_text": "ダウスタラニス[Ou]",
-		"tr_text": "Daus Telanis [Ou]",
+		"tr_text": "Daustarnis [Ou]",
 		"jp_explain": "勝利に固執し、黒い激情に\n身を任せた凶闘の戦士がまとう戦闘服。\n装着する者の心を暗闇に陥れるという。",
 		"tr_explain": ""
 	}

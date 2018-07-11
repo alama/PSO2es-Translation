@@ -3250,16 +3250,16 @@
 	{
 		"assign": "3290501",
 		"jp_text": "ハナヤギニーハイＭ",
-		"tr_text": "Hanayagi Knee High M",
+		"tr_text": "Hanayagi Knee Highs M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nハナヤギニーハイＭが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Desbloquea la pintura masculina\n\"Hanayagi Knee High M\"\npara usarse en el Estilista."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Hanayagi Knee Highs M\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290502",
 		"jp_text": "ハナヤギニーハイＦ",
-		"tr_text": "Hanayagi Knee High F",
+		"tr_text": "Hanayagi Knee Highs F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nハナヤギニーハイＦが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Desbloquea la pintura femenina\n\"Hanayagi Knee High F\"\npara usarse en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Hanayagi Knee Highs F\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290503",

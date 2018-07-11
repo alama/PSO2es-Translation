@@ -6680,44 +6680,44 @@
 	{
 		"assign": "33501039",
 		"jp_text": "ダウスタラニス[Ba]",
-		"tr_text": "Daus Telanis [Ba]",
+		"tr_text": "Daustarnis [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nダウスタラニス[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Daus Telanis [Ba]\".\nSolo para personajes femeninos."
+		"tr_explain": "Un nuevo traje base\n\"Daustarnis [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501040",
 		"jp_text": "ダウスタラニス夜[Ba]",
-		"tr_text": "Daus Telanis Night [Ba]",
+		"tr_text": "Daustarnis Night [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nダウスタラニス夜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Daus Telanis Night [Ba]\".\nSolo para personajes femeninos."
+		"tr_explain": "Un nuevo traje base\n\"Daustarnis Night [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501041",
 		"jp_text": "ダウスタラニス紅[Ba]",
-		"tr_text": "Daus Telanis Crimson [Ba]",
+		"tr_text": "Daustarnis Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nダウスタラニス紅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Daus Telanis Crimson [Ba]\".\nSolo para personajes femeninos."
+		"tr_explain": "Un nuevo traje base\n\"Daustarnis Crimson [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501042",
 		"jp_text": "ダウスタラニス雅[Ba]",
-		"tr_text": "Daus Telanis Elegance [Ba]",
+		"tr_text": "Daustarnis Elegance [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nダウスタラニス雅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Daus Telanis Elegance [Ba]\".\nSolo para personajes femeninos."
+		"tr_explain": "Un nuevo traje base\n\"Daustarnis Elegance [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501043",
 		"jp_text": "ダウスタラニス雪[Ba]",
-		"tr_text": "Daus Telanis Snow [Ba]",
+		"tr_text": "Daustarnis Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nダウスタラニス雪[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Daus Telanis Snow [Ba]\".\nSolo para personajes femeninos."
+		"tr_explain": "Un nuevo traje base\n\"Daustarnis Snow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501044",
 		"jp_text": "ダウスタラニス影[Ba]",
-		"tr_text": "Daus Telanis Shadow [Ba]",
+		"tr_text": "Daustarnis Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nダウスタラニス影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Daus Telanis Shadow [Ba]\".\nSolo para personajes femeninos."
+		"tr_explain": "Un nuevo traje base\n\"Daustarnis Shadow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501045",

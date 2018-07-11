@@ -4209,23 +4209,23 @@
 	{
 		"assign": "3150717",
 		"jp_text": "エスクリダオンヘアー",
-		"tr_text": "Escrow Daon Hair",
+		"tr_text": "Escuridaon Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nエスクリダオンヘアーが選択可能。",
-		"tr_explain": "Usando este tiquete, el peinado\n\"Escrow Daon Hair\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el peinado\n\"Escuridaon Hair\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3150718",
 		"jp_text": "ダウスタラニスヘアー",
-		"tr_text": "Daus Telanis Hair",
+		"tr_text": "Daustarnis Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nダウスタラニスヘアーが選択可能。",
-		"tr_explain": "Usando este tiquete, el peinado\n\"Daus Telanis Hair\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el peinado\n\"Daustarnis Hair\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3150719",
 		"jp_text": "ハティヘアー",
-		"tr_text": "Hattie Hair",
+		"tr_text": "Hati Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nハティヘアーが選択可能。",
-		"tr_explain": "Usando este tiquete, el peinado\n\"Hattie Hair\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el peinado\n\"Hati Hair\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3150720",

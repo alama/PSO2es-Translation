@@ -954,7 +954,7 @@
 	{
 		"assign": "230328",
 		"jp_text": "エスクリダオン[Ou]",
-		"tr_text": "Escrow Daon [Ou]",
+		"tr_text": "Escuridaon [Ou]",
 		"jp_explain": "力を求めるが余り昏き淵に手を\n伸ばした者がまとう、禍々しき戦闘服。\n味方すら拒む、荊の如き装甲を持つ。",
 		"tr_explain": ""
 	}

@@ -22654,9 +22654,9 @@
 	{
 		"assign": "3803515",
 		"jp_text": "ＳＣ－マルチウェイ",
-		"tr_text": "SC-MultiWay",
+		"tr_text": "SC-Multiway",
 		"jp_explain": "使用すると、新しいアクセサリーの\nＳＣ－マルチウェイが選択可能。",
-		"tr_explain": "Usando este tiquete, el accesorio\n\"SC-MultiWay\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el accesorio\n\"SC-Multiway\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803516",
@@ -22668,9 +22668,9 @@
 	{
 		"assign": "3803517",
 		"jp_text": "スラスターウィング",
-		"tr_text": "Thruster Wing",
+		"tr_text": "Thruster Wings",
 		"jp_explain": "使用すると、新しいアクセサリーの\nスラスターウィングが選択可能。",
-		"tr_explain": "Usando este tiquete, el accesorio\n\"Thruster Wing\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Thruster Wings\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803518",
@@ -22773,16 +22773,16 @@
 	{
 		"assign": "3803532",
 		"jp_text": "ダウスタラニスヘッドギア",
-		"tr_text": "Daus Telanis Headgear",
+		"tr_text": "Daustarnis Headgear",
 		"jp_explain": "使用すると、新しいアクセサリーの\nダウスタラニスヘッドギアが選択可能。",
-		"tr_explain": "Usando este tiquete, el accesorio\n\"Daus Telanis Headgear\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Daustarnis Headgear\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803533",
 		"jp_text": "エスクリダオンマスク",
-		"tr_text": "Escrow Daon Mask",
+		"tr_text": "Escuridaon Mask",
 		"jp_explain": "使用すると、新しいアクセサリーの\nエスクリダオンマスクが選択可能。",
-		"tr_explain": "Usando este tiquete, el accesorio\n\"Escrow Daon Mask\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Escuridaon Mask\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803534",
@@ -22878,23 +22878,23 @@
 	{
 		"assign": "3803548",
 		"jp_text": "フェザーマント",
-		"tr_text": "Feather Cloak",
+		"tr_text": "Feather Mantle",
 		"jp_explain": "使用すると、新しいアクセサリーの\nフェザーマントが選択可能。",
-		"tr_explain": "Usando este tiquete, el accesorio\n\"Feather Cloak\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Feather Mantle\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803549",
 		"jp_text": "フェザーマント　黒",
-		"tr_text": "Feather Cloak Black",
+		"tr_text": "Feather Mantle Black",
 		"jp_explain": "使用すると、新しいアクセサリーの\nフェザーマント　黒が選択可能。",
-		"tr_explain": "Usando este tiquete, el accesorio\n\"Feather Cloak Black\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Feather Mantle Black\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803550",
 		"jp_text": "フェザーマント　白",
-		"tr_text": "Feather Cloak White",
+		"tr_text": "Feather Mantle White",
 		"jp_explain": "使用すると、新しいアクセサリーの\nフェザーマント　白が選択可能。",
-		"tr_explain": "Usando este tiquete, el accesorio\n\"Feather Cloak White\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Feather Mantle White\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803551",
