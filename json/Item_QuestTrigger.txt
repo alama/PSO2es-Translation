@@ -261,8 +261,22 @@
 	{
 		"assign": "373040",
 		"jp_text": "創世導く母トリガー",
-		"tr_text": "T. Mision: Creationists",
+		"tr_text": "T. Mision: Mother-Deus",
 		"jp_explain": "創世導く母なる神を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
-		"tr_explain": "[The Guides of Creation]\npodra elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespues de su consumo.<c>"
+		"tr_explain": "[Guias de la Creacion]\npodra elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespues de su consumo.<c>"
+	},
+	{
+		"assign": "373041",
+		"jp_text": "ビーチ２０１８トリガー",
+		"tr_text": "T. Mision: Beach 2018",
+		"jp_explain": "ビーチウォーズ２０１８！を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
+		"tr_explain": "[Beach Wars 2018!]\npodra elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespues de su consumo.<c>"
+	},
+	{
+		"assign": "373042",
+		"jp_text": "地底を染めし女王トリガー",
+		"tr_text": "T. Mision: Pesadilla Subterranea",
+		"jp_explain": "地底を染めし女王の悪夢を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
+		"tr_explain": "[Pesadilla Subterranea]\npodra elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespues de su consumo.<c>"
 	}
 ]

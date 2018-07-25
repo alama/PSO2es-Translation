@@ -3040,9 +3040,9 @@
 	{
 		"assign": "3230442",
 		"jp_text": "428「酔拳ごっこ」",
-		"tr_text": "",
+		"tr_text": "428 \"Drunken Fist\"",
 		"jp_explain": "ロビアク『酔拳ごっこ』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\" \"."
+		"tr_explain": "Unlocks the new lobby action\n\"Drunken Fist\"."
 	},
 	{
 		"assign": "3230443",
@@ -3052,11 +3052,53 @@
 		"tr_explain": "Aprende una nueva accion de lobby\n\"Sentarse 5\".\nUsa los botones para cambiar de pose."
 	},
 	{
+		"assign": "3230444",
+		"jp_text": "430「ダンス５３」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『ダンス５３』\nを全キャラクターで使用可能になる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230445",
+		"jp_text": "431「泳ぐ２」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『泳ぐ２』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230446",
+		"jp_text": "432「マリンポーズ」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『マリンポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": ""
+	},
+	{
 		"assign": "3230447",
 		"jp_text": "433「Ｖｏパフォーマンス６」",
 		"tr_text": "433 \"Vo Performance 6\"",
 		"jp_explain": "ロビアク『Ｖｏパフォーマンス６』\nを全キャラクターで使用可能になる。",
 		"tr_explain": "Aprende una nueva accion de lobby\n\"Vo Performance 6\"."
+	},
+	{
+		"assign": "3230448",
+		"jp_text": "434「エルミルポーズ」",
+		"tr_text": "434 \"Elmir Pose\"",
+		"jp_explain": "ロビアク『エルミルポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": "Unlocks the new lobby action\n\"Elmir Pose\"."
+	},
+	{
+		"assign": "3230449",
+		"jp_text": "435「マルガレータポーズ」",
+		"tr_text": "435 \"Margareta Pose\"",
+		"jp_explain": "ロビアク『マルガレータポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": "Unlocks the new lobby action\n\"Margareta Pose\"."
+	},
+	{
+		"assign": "3230450",
+		"jp_text": "436「忍者」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『忍者』\nを全キャラクターで使用可能になる。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "3230465",

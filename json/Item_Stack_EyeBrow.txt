@@ -329,6 +329,13 @@
 		"tr_explain": "Usando este tiquete, las cejas\n\"Light Eyebrows\"\nse podran usar en el Estilista."
 	},
 	{
+		"assign": "327051",
+		"jp_text": "シュレッガーまゆ",
+		"tr_text": "Schlegger Eyebrows",
+		"jp_explain": "チケットを使用すると、まゆ\nシュレッガーまゆが選択可能。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "327052",
 		"jp_text": "ロードまゆ",
 		"tr_text": "Lord Eyebrows",
@@ -354,6 +361,13 @@
 		"jp_text": "ゆったり太まゆ",
 		"tr_text": "Calm Thick Eyebrows",
 		"jp_explain": "チケットを使用すると、まゆ\nゆったり太まゆが選択可能。",
-		"tr_explain": "Usando este tiquete, las cejas\n\"Calm Thick Eyebrows\"\nse podran usar en el Estilista."
+		"tr_explain": "Unlocks the eyebrows\n\"Calm Thick Eyebrows\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "327056",
+		"jp_text": "ゆったりミニまゆ",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、まゆ\nゆったりミニまゆが選択可能。",
+		"tr_explain": ""
 	}
 ]

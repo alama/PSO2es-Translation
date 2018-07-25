@@ -1092,20 +1092,6 @@
 		"assign": 0
 	},
 	{
-		"jp_text": "女性追加ボイス１７４",
-		"tr_text": "Female Extra Voice 174",
-		"jp_explain": "",
-		"tr_explain": "Usando este tiquete, la voz\n\"Female Extra Voice 174\"\nse podra usar en el Estilista.",
-		"assign": 0
-	},
-	{
-		"jp_text": "女性追加ボイス１７５",
-		"tr_text": "Female Extra Voice 175",
-		"jp_explain": "",
-		"tr_explain": "Usando este tiquete, la voz\n\"Female Extra Voice 175\"\nse podra usar en el Estilista.",
-		"assign": 0
-	},
-	{
 		"jp_text": "女性追加ボイス１７６",
 		"tr_text": "Female Extra Voice 176",
 		"jp_explain": "",
@@ -1390,20 +1376,6 @@
 		"tr_text": "Female C Unique Voice 14",
 		"jp_explain": "",
 		"tr_explain": "Usando este tiquete, la voz\n\"Female C Unique Voice 14\"\nse podra usar en el Estilista.",
-		"assign": 0
-	},
-	{
-		"jp_text": "女性Ｃ追加ボイス１７４",
-		"tr_text": "Female C Extra Voice 174",
-		"jp_explain": "",
-		"tr_explain": "Usando este tiquete, la voz\n\"Female C Extra Voice 174\"\nse podra usar en el Estilista.",
-		"assign": 0
-	},
-	{
-		"jp_text": "女性Ｃ追加ボイス１７５",
-		"tr_text": "Female C Extra Voice 175",
-		"jp_explain": "",
-		"tr_explain": "Usando este tiquete, la voz\n\"Female C Extra Voice 175\"\nse podra usar en el Estilista.",
 		"assign": 0
 	},
 	{
@@ -1859,20 +1831,6 @@
 		"tr_text": "Male Unique Voice 14",
 		"jp_explain": "",
 		"tr_explain": "Usando este tiquete, la voz\n\"Male Unique Voice 14\"\nse podra usar en el Estilista.",
-		"assign": 0
-	},
-	{
-		"jp_text": "男性追加ボイス１４１",
-		"tr_text": "Male Extra Voice 141",
-		"jp_explain": "",
-		"tr_explain": "Usando este tiquete, la voz\n\"Male Extra Voice 141\"\nse podra usar en el Estilista.",
-		"assign": 0
-	},
-	{
-		"jp_text": "男性追加ボイス１４２",
-		"tr_text": "Male Extra Voice 142",
-		"jp_explain": "",
-		"tr_explain": "Usando este tiquete, la voz\n\"Male Extra Voice 142\"\nse podra usar en el Estilista.",
 		"assign": 0
 	},
 	{
@@ -2370,20 +2328,6 @@
 		"tr_text": "Male C Unique Voice 14",
 		"jp_explain": "",
 		"tr_explain": "Usando este tiquete, la voz\n\"Male C Unique Voice 14\"\nse podra usar en el Estilista.",
-		"assign": 0
-	},
-	{
-		"jp_text": "男性Ｃ追加ボイス１４１",
-		"tr_text": "Male C Extra Voice 141",
-		"jp_explain": "",
-		"tr_explain": "Usando este tiquete, la voz\n\"Male C Extra Voice 141\"\nse podra usar en el Estilista.",
-		"assign": 0
-	},
-	{
-		"jp_text": "男性Ｃ追加ボイス１４２",
-		"tr_text": "Male C Extra Voice 142",
-		"jp_explain": "",
-		"tr_explain": "Usando este tiquete, la voz\n\"Male C Extra Voice 142\"\nse podra usar en el Estilista.",
 		"assign": 0
 	},
 	{

@@ -1253,6 +1253,13 @@
 		"tr_explain": "Usando este tiquete, el maquillaje\n\"Orange Party Makeup\"\nse podra usar en el Estilista."
 	},
 	{
+		"assign": "3250194",
+		"jp_text": "シュレッガーのヒゲ",
+		"tr_text": "Schlegger Moustache",
+		"jp_explain": "チケットを使用すると、新しいメイクの\nシュレッガーのヒゲが選択可能。\n男性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "3250195",
 		"jp_text": "ハーミディオメイク",
 		"tr_text": "Hermedio Makeup",
@@ -1425,6 +1432,13 @@
 		"jp_text": "涙袋メイク",
 		"tr_text": "Eye Bag Makeup",
 		"jp_explain": "チケットを使用すると、新しいメイクの\n涙袋メイクが選択可能。",
-		"tr_explain": "Usando este tiquete, el maquillaje\n\"Eye Bag Makeup\"\nse podra usar en el Estilista."
+		"tr_explain": "Unlocks the makeup\n\"Eye Bag Makeup\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3250221",
+		"jp_text": "エルミルメイク",
+		"tr_text": "Elmir Makeup",
+		"jp_explain": "チケットを使用すると、新しいメイクの\nエルミルメイクが選択可能。",
+		"tr_explain": ""
 	}
 ]
