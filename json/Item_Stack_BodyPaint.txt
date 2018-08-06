@@ -1633,9 +1633,9 @@
 	{
 		"assign": "3290251",
 		"jp_text": "清雅学園制服ハイソックスＢ",
-		"tr_text": "Seiga Ac. Uniform High Socks B",
+		"tr_text": "Seiga Academy High Socks B",
 		"jp_explain": "チケットを使用すると、ボディペイント\n清雅学園制服ハイソックスＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Desbloquea la pintura femenina\n\"Seiga Ac. Uniform High Socks\nB\"\npara usarse en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Seiga Academy High Socks B\"\npara usarse en el Estilista."
 	},
 	{
 		"assign": "3290252",

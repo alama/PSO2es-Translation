@@ -4316,7 +4316,7 @@
 		"jp_text": "男性追加ボイス１４１",
 		"tr_text": "Male Extra Voice 141",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間男性のみ使用可能。\nＣＶ陶山 章央",
-		"tr_explain": "By using this ticket, the voice\n\"Male Extra Voice 141\"\ncan be used in the Beauty Salon."
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo No-Cast masculinos.\nCV: Akio Suyama"
 	},
 	{
 		"assign": "3180825",
@@ -4757,7 +4757,7 @@
 		"jp_text": "女性追加ボイス１７４",
 		"tr_text": "Female Extra Voice 174",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間女性のみ使用可能。\nＣＶ豊口 めぐみ",
-		"tr_explain": "By using this ticket, the voice\n\"Female Extra Voice 174\"\ncan be used in the Beauty Salon."
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo No-Cast femeninos.\nCV: Megumi Toyoguchi"
 	},
 	{
 		"assign": "3180913",
@@ -5023,7 +5023,7 @@
 		"jp_text": "女性追加ボイス１７５",
 		"tr_text": "Female Extra Voice 175",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間女性のみ使用可能。\nＣＶＭ・Ａ・Ｏ",
-		"tr_explain": "By using this ticket, the voice\n\"Female Extra Voice 175\"\ncan be used in the Beauty Salon."
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo No-Cast femeninos.\nCV: M・A・O"
 	},
 	{
 		"assign": "3180982",
@@ -5128,14 +5128,14 @@
 		"jp_text": "男性Ｃ追加ボイス１４１",
 		"tr_text": "Male C Extra Voice 141",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト男性のみ使用可能。\nＣＶ陶山 章央",
-		"tr_explain": "By using this ticket, the voice\n\"Male C Extra Voice 141\"\ncan be used in the Beauty Salon."
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo Casts masculinos.\nCV: Akio Suyama"
 	},
 	{
 		"assign": "31801005",
 		"jp_text": "男性Ｃ追加ボイス１３０",
 		"tr_text": "Male C Extra Voice 130",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト男性のみ使用可能。\nＣＶ神原 大地",
-		"tr_explain": "Una nueva voz podra ser elegida.\nSolo Casts femeninos.\nCV: Daichi Kanbara"
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo Casts masculinos.\nCV: Daichi Kanbara"
 	},
 	{
 		"assign": "31801007",
@@ -5513,7 +5513,7 @@
 		"jp_text": "女性Ｃ追加ボイス１７４",
 		"tr_text": "Female C Extra Voice 174",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト女性のみ使用可能。\nＣＶ豊口 めぐみ",
-		"tr_explain": "By using this ticket, the voice\n\"Female C Extra Voice 174\"\ncan be used in the Beauty Salon."
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo Casts femeninos.\nCV: Megumi Toyoguchi"
 	},
 	{
 		"assign": "31801095",
@@ -5716,7 +5716,7 @@
 		"jp_text": "女性Ｃ追加ボイス１７５",
 		"tr_text": "Female C Extra Voice 175",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト女性のみ使用可能。\nＣＶＭ・Ａ・Ｏ",
-		"tr_explain": "By using this ticket, the voice\n\"Female C Extra Voice 175\"\ncan be used in the Beauty Salon."
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo Casts femeninos.\nCV: M・A・O"
 	},
 	{
 		"assign": "31801160",
@@ -5856,7 +5856,7 @@
 		"jp_text": "男性追加ボイス１４２",
 		"tr_text": "Male Extra Voice 142",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間男性のみ使用可能。\nＣＶ玄田 哲章",
-		"tr_explain": "By using this ticket, the voice\n\"Male Extra Voice 142\"\ncan be used in the Beauty Salon."
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo No-Cast masculinos.\nCV: Tessho Genda"
 	},
 	{
 		"assign": "31801199",
@@ -6045,7 +6045,7 @@
 		"jp_text": "男性Ｃ追加ボイス１４２",
 		"tr_text": "Male C Extra Voice 142",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト男性のみ使用可能。\nＣＶ玄田 哲章",
-		"tr_explain": "By using this ticket, the voice\n\"Male C Extra Voice 142\"\ncan be used in the Beauty Salon."
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo Casts masculinos.\nCV: Tessho Genda"
 	},
 	{
 		"assign": "31801299",

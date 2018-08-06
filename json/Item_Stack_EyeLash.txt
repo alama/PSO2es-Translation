@@ -898,30 +898,30 @@
 	{
 		"assign": "3280128",
 		"jp_text": "二重デフォルメまつげＢ　黒",
-		"tr_text": "Black Double Awry Eyelashes B",
+		"tr_text": "Black D. Deformed Eyelashes B",
 		"jp_explain": "チケットを使用すると、新しいまつげの\n二重デフォルメまつげＢ　黒が選択可能。",
-		"tr_explain": "Usando este tiquete, las pestaйas\n\"Black Double Awry Eyelashes B\"\nse podran usar en el Estilista."
+		"tr_explain": "Usando este tiquete, las pestaйas\n\"Black D. Deformed Eyelashes B\"\nse podran usar en el Estilista."
 	},
 	{
 		"assign": "3280129",
 		"jp_text": "二重デフォルメまつげＢ　紺",
-		"tr_text": "Navy Double Awry Eyelashes B",
+		"tr_text": "Navy D. Deformed Eyelashes B",
 		"jp_explain": "チケットを使用すると、新しいまつげの\n二重デフォルメまつげＢ　紺が選択可能。",
-		"tr_explain": "Usando este tiquete, las pestaйas\n\"Navy Double Awry Eyelashes B\"\nse podran usar en el Estilista."
+		"tr_explain": "Usando este tiquete, las pestaйas\n\"Navy D. Deformed Eyelashes B\"\nse podran usar en el Estilista."
 	},
 	{
 		"assign": "3280130",
 		"jp_text": "二重デフォルメまつげＢ　茶",
-		"tr_text": "Brown Double Awry Eyelashes B",
+		"tr_text": "Brown D. Deformed Eyelashes B",
 		"jp_explain": "チケットを使用すると、新しいまつげの\n二重デフォルメまつげＢ　茶が選択可能。",
-		"tr_explain": "Usando este tiquete, las pestaйas\n\"Brown Double Awry Eyelashes\nB\" se podran usar en el Estilista."
+		"tr_explain": "Usando este tiquete, las pestaйas\n\"Brown D. Deformed Eyelashes\nB\" se podran usar en el Estilista."
 	},
 	{
 		"assign": "3280131",
 		"jp_text": "二重デフォルメまつげＢ　白",
-		"tr_text": "White Double Awry Eyelashes B",
+		"tr_text": "White D. Deformed Eyelashes B",
 		"jp_explain": "チケットを使用すると、新しいまつげの\n二重デフォルメまつげＢ　白が選択可能。",
-		"tr_explain": "Usando este tiquete, las pestaйas\n\"White Double Awry Eyelashes B\"\nse podran usar en el Estilista."
+		"tr_explain": "Usando este tiquete, las pestaйas\n\"White D. Deformed Eyelashes B\"\nse podran usar en el Estilista."
 	},
 	{
 		"assign": "3280134",
@@ -1467,34 +1467,34 @@
 		"jp_text": "セクシーまつげ　白",
 		"tr_text": "Sexy Eyelashes White",
 		"jp_explain": "チケットを使用すると、新しいまつげの\nセクシーまつげ　白が選択可能。",
-		"tr_explain": "Unlocks the eyelashes\n\"Sexy Eyelashes White\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, las pestaйas\n\"Sexy Eyelashes White\"\nse podran usar en el Estilista."
 	},
 	{
 		"assign": "3280215",
 		"jp_text": "ピンまつげ　黒",
 		"tr_text": "Pin Eyelashes Black",
 		"jp_explain": "チケットを使用すると、新しいまつげの\nピンまつげ　黒が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, las pestaйas\n\"Pin Eyelashes Black\"\nse podran usar en el Estilista."
 	},
 	{
 		"assign": "3280216",
 		"jp_text": "ピンまつげ　紺",
 		"tr_text": "Pin Eyelashes Blue",
 		"jp_explain": "チケットを使用すると、新しいまつげの\nピンまつげ　紺が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, las pestaйas\n\"Pin Eyelashes Blue\"\nse podran usar en el Estilista."
 	},
 	{
 		"assign": "3280217",
 		"jp_text": "ピンまつげ　茶",
 		"tr_text": "Pin Eyelashes Brown",
 		"jp_explain": "チケットを使用すると、新しいまつげの\nピンまつげ　茶が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, las pestaйas\n\"Pin Eyelashes Brown\"\nse podran usar en el Estilista."
 	},
 	{
 		"assign": "3280218",
 		"jp_text": "ピンまつげ　白",
 		"tr_text": "Pin Eyelashes White",
 		"jp_explain": "チケットを使用すると、新しいまつげの\nピンまつげ　白が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, las pestaйas\n\"Pin Eyelashes White\"\nse podran usar en el Estilista."
 	}
 ]

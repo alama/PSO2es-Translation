@@ -12392,7 +12392,7 @@
 	{
 		"assign": "3801884",
 		"jp_text": "肩乗り通天閣(R)ラッピー",
-		"tr_text": "Shoulder Riding Tsutenkaku(R) Rappy",
+		"tr_text": "Shoulder Tsutenkaku(R) Rappy",
 		"jp_explain": "使用すると、新しいアクセサリーの\n肩乗り通天閣(R)ラッピーが選択可能。",
 		"tr_explain": "Usando este tiquete, el accesorio\n\"Shoulder Riding Tsutenkaku(R)\nRappy\"\nse podra usar en el Estilista."
 	},
@@ -18482,30 +18482,30 @@
 	{
 		"assign": "3802850",
 		"jp_text": "クエントの飾り剣　白",
-		"tr_text": "Cuent Decorative Sword W",
+		"tr_text": "White Cuent Decorative Sword",
 		"jp_explain": "使用すると、新しいアクセサリーの\nクエントの飾り剣　白が選択可能。",
-		"tr_explain": "Usando este tiquete, el accesorio\n\"Cuent Decorative Sword W\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el accesorio\n\"White Cuent Decorative Sword\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3802851",
 		"jp_text": "クエントの飾り剣　黒",
-		"tr_text": "Cuent Decorative Sword B",
+		"tr_text": "Black Cuent Decorative Sword",
 		"jp_explain": "使用すると、新しいアクセサリーの\nクエントの飾り剣　黒が選択可能。",
-		"tr_explain": "Usando este tiquete, el accesorio\n\"Cuent Decorative Sword B\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Black Cuent Decorative Sword\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3802852",
 		"jp_text": "クエントの飾り盾　白",
-		"tr_text": "Cuent Decorative Shield W",
+		"tr_text": "White Cuent Decorative Shield",
 		"jp_explain": "使用すると、新しいアクセサリーの\nクエントの飾り盾　白が選択可能。",
-		"tr_explain": "Usando este tiquete, el accesorio\n\"Cuent Decorative Shield W\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el accesorio\n\"White Cuent Decorative Shield\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3802853",
 		"jp_text": "クエントの飾り盾　黒",
-		"tr_text": "Cuent Decorative Shield B",
+		"tr_text": "Black Cuent Decorative Shield",
 		"jp_explain": "使用すると、新しいアクセサリーの\nクエントの飾り盾　黒が選択可能。",
-		"tr_explain": "Usando este tiquete, el accesorio\n\"Cuent Decorative Shield B\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Black Cuent Decorative Shield\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3802854",
@@ -20136,35 +20136,35 @@
 		"jp_text": "シュレッガーの冠",
 		"tr_text": "Schlegger Crown",
 		"jp_explain": "使用すると、新しいアクセサリーの\nシュレッガーの冠が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Schlegger Crown\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803104",
 		"jp_text": "シュレッガーのマント",
 		"tr_text": "Schlegger Cloak",
 		"jp_explain": "使用すると、新しいアクセサリーの\nシュレッガーのマントが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Schlegger Cloak\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803105",
 		"jp_text": "シュレッガーの肩あて",
 		"tr_text": "Schlegger Pauldrons",
 		"jp_explain": "使用すると、新しいアクセサリーの\nシュレッガーの肩あてが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Schlegger Pauldrons\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803106",
 		"jp_text": "エルミルの帽子",
 		"tr_text": "Elmir Hat",
 		"jp_explain": "使用すると、新しいアクセサリーの\nエルミルの帽子が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Elmir Hat\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803107",
 		"jp_text": "エルミルのペンダント",
 		"tr_text": "Elmir Pendant",
 		"jp_explain": "使用すると、新しいアクセサリーの\nエルミルのペンダントが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Elmir Pendant\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803108",
@@ -22796,7 +22796,7 @@
 		"jp_text": "ハナヤギピアス",
 		"tr_text": "Hanayagi Earrings",
 		"jp_explain": "使用すると、新しいアクセサリーの\nハナヤギピアスが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Hanayagi Earrings\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Hanayagi Earrings\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803530",
@@ -22866,7 +22866,7 @@
 		"jp_text": "闇ペンダントつけ襟",
 		"tr_text": "Dark Pendant",
 		"jp_explain": "使用すると、新しいアクセサリーの\n闇ペンダントつけ襟が選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Dark Pendant\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Dark Pendant\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803540",
@@ -22894,28 +22894,28 @@
 		"jp_text": "バタフライヘソピアス　赤",
 		"tr_text": "Butterfly Navel Piercing Red",
 		"jp_explain": "使用すると、新しいアクセサリーの\nバタフライヘソピアス　赤が選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Butterfly Navel Piercing Red\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Butterfly Navel Piercing Red\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803545",
 		"jp_text": "バタフライヘソピアス　青",
 		"tr_text": "Butterfly Navel Piercing Blue",
 		"jp_explain": "使用すると、新しいアクセサリーの\nバタフライヘソピアス　青が選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Butterfly Navel Piercing Blue\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Butterfly Navel Piercing Blue\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803546",
 		"jp_text": "バタフライヘソピアス　緑",
 		"tr_text": "Butterfly Navel Piercing Green",
 		"jp_explain": "使用すると、新しいアクセサリーの\nバタフライヘソピアス　緑が選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Butterfly Navel Piercing Green\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Butterfly Navel Piercing Green\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803547",
 		"jp_text": "バタフライヘソピアス　紫",
 		"tr_text": "Butterfly Navel Piercing Purple",
 		"jp_explain": "使用すると、新しいアクセサリーの\nバタフライヘソピアス　紫が選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Butterfly Navel Piercing Purple\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Butterfly Navel Piercing Purple\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803548",
@@ -22992,147 +22992,147 @@
 		"jp_text": "リストブレードＲ",
 		"tr_text": "Wrist Blade R",
 		"jp_explain": "使用すると、新しいアクセサリーの\nリストブレードＲが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Wrist Blade R\"\nfor use in the Beauty Salon."
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Wrist Blade R\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803561",
 		"jp_text": "スプレッドウィングＢ",
 		"tr_text": "Spread Wings B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nスプレッドウィングＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Spread Wings B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803562",
 		"jp_text": "シェリーヘアドレスＢ",
-		"tr_text": "",
+		"tr_text": "Sherry Headdress B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nシェリーヘアドレスＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Sherry Headdress B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803563",
 		"jp_text": "シェリーリボンＢ",
-		"tr_text": "",
+		"tr_text": "Sherry Ribbon B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nシェリーリボンＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Sherry Ribbon B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803564",
 		"jp_text": "クエントの飾り盾Ｂ",
-		"tr_text": "",
+		"tr_text": "Cuent Decorative Shield B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nクエントの飾り盾Ｂが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Cuent Decorative Shield B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803565",
 		"jp_text": "ディアルマアクセサリーＢ",
 		"tr_text": "DeAlma Accessory B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nディアルマアクセサリーＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"DeAlma Accessory B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803566",
 		"jp_text": "妖精の羽根Ｂ",
 		"tr_text": "Fairy Wings B",
 		"jp_explain": "使用すると、新しいアクセサリーの\n妖精の羽根Ｂが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Fairy Wings B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803567",
 		"jp_text": "翼の髪飾りＢ",
-		"tr_text": "",
+		"tr_text": "Wing Hair Ornaments B",
 		"jp_explain": "使用すると、新しいアクセサリーの\n翼の髪飾りＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Wing Hair Ornaments B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803568",
 		"jp_text": "フロートブレードＢ",
 		"tr_text": "Floating Blades B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nフロートブレードＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Floating Blades B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803569",
 		"jp_text": "プロテクトスカートＢ",
-		"tr_text": "",
+		"tr_text": "Protective Skirt B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nプロテクトスカートＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Protetive Skirt\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803570",
 		"jp_text": "エルミルのステッキ",
 		"tr_text": "Elmir Cane",
 		"jp_explain": "使用すると、新しいアクセサリーの\nエルミルのステッキが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Elmir Cane\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803571",
 		"jp_text": "フラールヘッドドレスＢ",
-		"tr_text": "",
+		"tr_text": "Flower Headdress B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nフラールヘッドドレスＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Flower Headdress B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803572",
 		"jp_text": "ナイトショルダーＢ",
 		"tr_text": "Knight Shoulders B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nナイトショルダーＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Knight Shoulders B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803573",
 		"jp_text": "神王の髪飾り",
 		"tr_text": "Regent Hair Ornament",
 		"jp_explain": "使用すると、新しいアクセサリーの\n神王の髪飾りが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Regent Hair Ornament\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803574",
 		"jp_text": "神王のピアス",
 		"tr_text": "Regent Earrings",
 		"jp_explain": "使用すると、新しいアクセサリーの\n神王のピアスが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Regent Earrings\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803575",
 		"jp_text": "エピティナチョーカー",
 		"tr_text": "Epitina Choker",
 		"jp_explain": "使用すると、新しいアクセサリーの\nエピティナチョーカーが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Epitina Choker\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803576",
 		"jp_text": "神官エルミルのマスク",
 		"tr_text": "Priest Elmir Mask",
 		"jp_explain": "使用すると、新しいアクセサリーの\n神官エルミルのマスクが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Priest Elmir Mask\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803577",
 		"jp_text": "神官エルミルの髪飾り",
 		"tr_text": "Priest Elmir Hair Ornament",
 		"jp_explain": "使用すると、新しいアクセサリーの\n神官エルミルの髪飾りが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Priest Elmir Hair Ornament\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803578",
 		"jp_text": "神官エルミルの首飾り",
 		"tr_text": "Priest Elmir Necklace",
 		"jp_explain": "使用すると、新しいアクセサリーの\n神官エルミルの首飾りが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Priest Elmir Necklace\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803579",
 		"jp_text": "エピリアチェーン",
 		"tr_text": "Epiria Chains",
 		"jp_explain": "使用すると、新しいアクセサリーの\nエピリアチェーンが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Epiria Chains\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803580",
 		"jp_text": "エピリアバンド",
 		"tr_text": "Epiria Band",
 		"jp_explain": "使用すると、新しいアクセサリーの\nエピリアバンドが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Epiria Band\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803581",
@@ -23167,14 +23167,14 @@
 		"jp_text": "リップピアス　銀",
 		"tr_text": "Lip Piercing Silver",
 		"jp_explain": "使用すると、新しいアクセサリーの\nリップピアス　銀が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Lip Piercing Silver\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803586",
 		"jp_text": "リップピアス　黒",
 		"tr_text": "Lip Piercing Black",
 		"jp_explain": "使用すると、新しいアクセサリーの\nリップピアス　黒が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el accesorio\n\"Lip Piercing Black\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3803587",
