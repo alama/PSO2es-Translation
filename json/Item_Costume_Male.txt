@@ -2151,14 +2151,14 @@
 	{
 		"assign": "210363",
 		"jp_text": "エニグマレベリオン栗",
-		"tr_text": "Enigma Rebellion Leaf",
+		"tr_text": "Enigma Rebellion Chestnut",
 		"jp_explain": "アークス用の特殊戦闘服。\n隠密での機動を想定し、独特の模様と\n迷彩発光が施された、軽装の服。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "210364",
 		"jp_text": "エニグマレベリオン葉",
-		"tr_text": "Enigma Rebellion Chestnut",
+		"tr_text": "Enigma Rebellion Leaf",
 		"jp_explain": "アークス用の特殊戦闘服。\n隠密での機動を想定し、独特の模様と\n迷彩発光が施された、軽装の服。",
 		"tr_explain": ""
 	},
@@ -8129,14 +8129,14 @@
 	{
 		"assign": "2101352",
 		"jp_text": "ゲッコウアンブス夜",
-		"tr_text": "",
+		"tr_text": "Gekkou Anbus Night",
 		"jp_explain": "幻の隠密部隊が着用したとされる装束。\n隠密行動に適した素材が使われており\n静かに動けるような気がする。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2101353",
 		"jp_text": "ゲッコウアンブス紅",
-		"tr_text": "",
+		"tr_text": "Gekkou Anbus Crimson",
 		"jp_explain": "幻の隠密部隊が着用したとされる装束。\n隠密行動に適した素材が使われており\n静かに動けるような気がする。",
 		"tr_explain": ""
 	},
@@ -8957,6 +8957,20 @@
 		"jp_text": "クエンウィルプレート影",
 		"tr_text": "Cuenwill Plate Shadow",
 		"jp_explain": "クエント地方に伝わる重装鎧。\n装飾が施された金属で覆われた鎧。\n非常に強固で、鉄壁といえる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101476",
+		"jp_text": "三二式一型 轟雷",
+		"tr_text": "32 Type 1 Gourai",
+		"jp_explain": "人型戦闘兵器「フレームアームズ」の\n「三二式一型 轟雷」を模して\n開発されたコスチューム。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101477",
+		"jp_text": "YSX-24 バーゼラルド",
+		"tr_text": "YSX-24 Baselard",
+		"jp_explain": "人型戦闘兵器「フレームアームズ」の\n「YSX-24 バーゼラルド」を模して\n開発されたコスチューム。",
 		"tr_explain": ""
 	}
 ]

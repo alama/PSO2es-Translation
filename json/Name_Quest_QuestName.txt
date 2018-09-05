@@ -3072,82 +3072,82 @@
 	{
 		"assign": "6201001",
 		"jp_text": "彼方から呼ぶ声",
-		"tr_text": ""
+		"tr_text": "A Voice in the Distance"
 	},
 	{
 		"assign": "6201002",
 		"jp_text": "招かれざる客人",
-		"tr_text": ""
+		"tr_text": "Unbidden Guests"
 	},
 	{
 		"assign": "6201003",
 		"jp_text": "災厄は深く静かに",
-		"tr_text": ""
+		"tr_text": "Disaster Runs Quiet But Deep"
 	},
 	{
 		"assign": "6201004",
 		"jp_text": "エルジマルト",
-		"tr_text": ""
+		"tr_text": "Erzimarut"
 	},
 	{
 		"assign": "6201101",
 		"jp_text": "彼方から呼ぶ声",
-		"tr_text": ""
+		"tr_text": "A Voice in the Distance"
 	},
 	{
 		"assign": "6201102",
 		"jp_text": "招かれざる客人",
-		"tr_text": ""
+		"tr_text": "Unbidden Guests"
 	},
 	{
 		"assign": "6201103",
 		"jp_text": "災厄は深く静かに",
-		"tr_text": ""
+		"tr_text": "Disaster Runs Quiet But Deep"
 	},
 	{
 		"assign": "6201104",
 		"jp_text": "エルジマルト",
-		"tr_text": ""
+		"tr_text": "Erzimarut"
 	},
 	{
 		"assign": "6202001",
 		"jp_text": "光と影",
-		"tr_text": ""
+		"tr_text": "Light and Shadow"
 	},
 	{
 		"assign": "6202002",
 		"jp_text": "脅威、または吹き荒れる嵐",
-		"tr_text": ""
+		"tr_text": "A Threat, or a Raging Storm"
 	},
 	{
 		"assign": "6202003",
 		"jp_text": "解き放たれし力",
-		"tr_text": ""
+		"tr_text": "Unleashed Power"
 	},
 	{
 		"assign": "6202004",
 		"jp_text": "決意",
-		"tr_text": ""
+		"tr_text": "Resolve"
 	},
 	{
 		"assign": "6202101",
 		"jp_text": "光と影",
-		"tr_text": ""
+		"tr_text": "Light and Shadow"
 	},
 	{
 		"assign": "6202102",
 		"jp_text": "脅威、または吹き荒れる嵐",
-		"tr_text": ""
+		"tr_text": "A Threat, or a Raging Storm"
 	},
 	{
 		"assign": "6202103",
 		"jp_text": "解き放たれし力",
-		"tr_text": ""
+		"tr_text": "Unleashed Power"
 	},
 	{
 		"assign": "6202104",
 		"jp_text": "決意",
-		"tr_text": ""
+		"tr_text": "Resolve"
 	},
 	{
 		"assign": "4001001",
@@ -4312,12 +4312,12 @@
 	{
 		"assign": "4500401",
 		"jp_text": "開店！　アークス海の家",
-		"tr_text": ""
+		"tr_text": "Opening! ARKS Sea House"
 	},
 	{
 		"assign": "4500501",
 		"jp_text": "バカンスはみんなで！",
-		"tr_text": ""
+		"tr_text": "Vacation With Everyone!"
 	},
 	{
 		"assign": "4040601",
@@ -4682,22 +4682,22 @@
 	{
 		"assign": "4042401",
 		"jp_text": "深紅のリボンを求めて・初級",
-		"tr_text": ""
+		"tr_text": "Crimson Ribbon Search - N"
 	},
 	{
 		"assign": "4042402",
 		"jp_text": "深紅のリボンを求めて・中級",
-		"tr_text": ""
+		"tr_text": "Crimson Ribbon Search - H"
 	},
 	{
 		"assign": "4042403",
 		"jp_text": "深紅のリボンを求めて・上級",
-		"tr_text": ""
+		"tr_text": "Crimson Ribbon Search - VH"
 	},
 	{
 		"assign": "4042404",
 		"jp_text": "深紅のリボンを求めて・超級",
-		"tr_text": ""
+		"tr_text": "Crimson Ribbon Search - SH"
 	},
 	{
 		"assign": "4030101",
@@ -5012,12 +5012,12 @@
 	{
 		"assign": "5021105",
 		"jp_text": "不屈の戦士",
-		"tr_text": ""
+		"tr_text": "Indomitable Warrior"
 	},
 	{
 		"assign": "5021106",
 		"jp_text": "この星で生きる資格",
-		"tr_text": ""
+		"tr_text": "The Right to Live Here"
 	},
 	{
 		"assign": "5021107",
@@ -5027,7 +5027,7 @@
 	{
 		"assign": "5021108",
 		"jp_text": "アーレスの女神",
-		"tr_text": "The Goddess of Ares"
+		"tr_text": "Goddess of Ares"
 	},
 	{
 		"assign": "5021201",
@@ -5071,22 +5071,22 @@
 	},
 	{
 		"assign": "5022101",
-		"jp_text": "ネメシスストーリー１（仮",
-		"tr_text": ""
+		"jp_text": "天使の一族",
+		"tr_text": "Angelic Clan"
 	},
 	{
 		"assign": "5022102",
-		"jp_text": "ネメシスストーリー２（仮",
-		"tr_text": ""
+		"jp_text": "ネメシスセイバー",
+		"tr_text": "Nemesis Saber"
 	},
 	{
 		"assign": "5022103",
-		"jp_text": "ネメシスストーリー３（仮",
+		"jp_text": "－",
 		"tr_text": ""
 	},
 	{
 		"assign": "5022104",
-		"jp_text": "ネメシスストーリー４（仮",
+		"jp_text": "－",
 		"tr_text": ""
 	},
 	{
@@ -11006,12 +11006,12 @@
 	},
 	{
 		"assign": "7089601",
-		"jp_text": "-",
+		"jp_text": "再び与えられた命",
 		"tr_text": ""
 	},
 	{
 		"assign": "7089701",
-		"jp_text": "-",
+		"jp_text": "封じた想い",
 		"tr_text": ""
 	},
 	{
@@ -13087,6 +13087,56 @@
 	{
 		"assign": "4920210",
 		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "4920301",
+		"jp_text": "テスト１",
+		"tr_text": ""
+	},
+	{
+		"assign": "4920302",
+		"jp_text": "テスト２",
+		"tr_text": ""
+	},
+	{
+		"assign": "4920303",
+		"jp_text": "テスト３",
+		"tr_text": ""
+	},
+	{
+		"assign": "4920304",
+		"jp_text": "テスト４",
+		"tr_text": ""
+	},
+	{
+		"assign": "4920305",
+		"jp_text": "テスト５",
+		"tr_text": ""
+	},
+	{
+		"assign": "4920306",
+		"jp_text": "テスト６",
+		"tr_text": ""
+	},
+	{
+		"assign": "4920307",
+		"jp_text": "テスト７",
+		"tr_text": ""
+	},
+	{
+		"assign": "4920308",
+		"jp_text": "テスト８",
+		"tr_text": ""
+	},
+	{
+		"assign": "4920309",
+		"jp_text": "テスト９",
+		"tr_text": ""
+	},
+	{
+		"assign": "4920310",
+		"jp_text": "テスト１０",
 		"tr_text": ""
 	}
 ]

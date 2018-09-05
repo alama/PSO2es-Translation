@@ -60,7 +60,7 @@
 		"jp_text": "アングリフ・ボディ",
 		"tr_text": "Angriff Body",
 		"jp_explain": "男性キャスト向けの基礎的なパーツ。\n空気抵抗を抑えた、突撃傾向の形が\n前線で戦うアークス達に好評。",
-		"tr_explain": ""
+		"tr_explain": "Core parts for male Casts. Popular\namong ARKS who fight on the front\nline, due to their low air resistance."
 	},
 	{
 		"assign": "6109",
@@ -95,7 +95,7 @@
 		"jp_text": "アングリフ・ボディＣＶ",
 		"tr_text": "Angriff Body CV",
 		"jp_explain": "男性キャスト向けの基礎的なパーツ。\n空気抵抗を抑えた、突撃傾向の形が\n前線で戦うアークス達に好評。",
-		"tr_explain": ""
+		"tr_explain": "Core parts for male Casts. Popular\namong ARKS who fight on the front\nline, due to their low air resistance."
 	},
 	{
 		"assign": "61015",
@@ -436,7 +436,7 @@
 	{
 		"assign": "61063",
 		"jp_text": "レクトアギル・ボディＣＶ",
-		"tr_text": "Rectagil Body Cv",
+		"tr_text": "Rectagil Body CV",
 		"jp_explain": "男性キャスト向けの基礎的なパーツ。\n細身のシルエットで、機動力の高さから\nブレイバーに愛用されている。",
 		"tr_explain": ""
 	},
@@ -501,7 +501,7 @@
 		"jp_text": "アングリフ・ボディＧＶ",
 		"tr_text": "Angriff Body GV",
 		"jp_explain": "男性キャスト向けの基礎的なパーツ。\n空気抵抗を抑えた、突撃傾向の形が\n前線で戦うアークス達に好評。",
-		"tr_explain": ""
+		"tr_explain": "Core parts for male Casts. Popular\namong ARKS who fight on the front\nline, due to their low air resistance."
 	},
 	{
 		"assign": "61075",
@@ -520,7 +520,7 @@
 	{
 		"assign": "61077",
 		"jp_text": "バンテスタ・ボディＣＶ",
-		"tr_text": "Vantesta Body Cv",
+		"tr_text": "Vantesta Body CV",
 		"jp_explain": "男性キャスト向けの基礎的なパーツ。\nたくましいフォルムが特徴的で\n見た目に違わぬ出力、頑強さを誇る。",
 		"tr_explain": ""
 	},
@@ -879,14 +879,14 @@
 		"jp_text": "シュバル・ボディ",
 		"tr_text": "Cheval Body",
 		"jp_explain": "男性キャスト向けの基礎的なパーツ。\n洗練された幾重もの装甲を備え\n仲間を護ることに重点を置いている。",
-		"tr_explain": ""
+		"tr_explain": "Core parts for male Casts. Designed\nwith multiple layers of armor, allowing\nthe user to protect their comrades."
 	},
 	{
 		"assign": "610150",
 		"jp_text": "シュバル・ボディＣＶ",
 		"tr_text": "Cheval Body CV",
 		"jp_explain": "男性キャスト向けの基礎的なパーツ。\n洗練された幾重もの装甲を備え\n仲間を護ることに重点を置いている。",
-		"tr_explain": ""
+		"tr_explain": "Core parts for male Casts. Designed\nwith multiple layers of armor, allowing\nthe user to protect their comrades."
 	},
 	{
 		"assign": "610152",
@@ -943,5 +943,26 @@
 		"tr_text": "Bright Star Type-0 Body",
 		"jp_explain": "男性キャスト向けの基礎的なパーツ。\nブラスト・ランナー「輝星・空式」を\n模して開発された。",
 		"tr_explain": "Core parts for male Casts. Designed\nas an imitation of the Blast Runner,\n\"Bright Star Type-0\"."
+	},
+	{
+		"assign": "610168",
+		"jp_text": "轟雷・ボディ",
+		"tr_text": "Gourai Body",
+		"jp_explain": "男性キャスト向けの基礎的なパーツ。\n人型戦闘兵器「フレームアームズ」の\n「三二式一型 轟雷」を模している。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "610171",
+		"jp_text": "バーゼラルド・ボディ",
+		"tr_text": "Baselard Body",
+		"jp_explain": "男性キャスト向けの基礎的なパーツ。\n人型戦闘兵器「フレームアームズ」の\n「YSX-24 バーゼラルド」を模している。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "610174",
+		"jp_text": "ゼルフィカール・ボディ",
+		"tr_text": "Zelfikar Body",
+		"jp_explain": "男性キャスト向けの基礎的なパーツ。\n「YSX-24 バーゼラルド」の強化型\n「ゼルフィカール」を模して造られた。",
+		"tr_explain": ""
 	}
 ]
