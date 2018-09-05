@@ -431,7 +431,7 @@
 		"jp_text": "王者の紋章",
 		"tr_text": "King's Crest",
 		"jp_explain": "様々な戦場で活躍したアークスの証。\n提示することで、ジグの持つ\n貴重なアイテムと交換ができる。",
-		"tr_explain": "Prueba de que participaste en\nbatallas con los ARKS. pueden ser\intercambiadas por armas con Zieg."
+		"tr_explain": "Prueba de que participaste en\nbatallas con los ARKS. pueden ser\nintercambiadas por armas con Zieg."
 	},
 	{
 		"assign": "37074",
