@@ -2466,9 +2466,9 @@
 	{
 		"assign": "3150397",
 		"jp_text": "サラヘアー",
-		"tr_text": "Sarah Hair",
+		"tr_text": "Sara Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nサラヘアーが選択可能。",
-		"tr_explain": "Usando este tiquete, el peinado\n\"Sarah Hair\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el peinado\n\"Sara Hair\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3150398",
@@ -4230,9 +4230,9 @@
 	{
 		"assign": "3150720",
 		"jp_text": "前分けミディアムＧＶ",
-		"tr_text": "Parted Straight Medium GV",
+		"tr_text": "Parted Medium GV",
 		"jp_explain": "チケットを使用すると、新しい髪型の\n前分けミディアムＧＶが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el peinado\n\"Parted Medium GV\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3150721",
@@ -4295,27 +4295,62 @@
 		"jp_text": "サイド編みこみボブ",
 		"tr_text": "Side Braid Bob",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nサイド編みこみボブが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el peinado\n\"Side Braid Bob\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3150730",
 		"jp_text": "サイド編みこみボブＢ",
 		"tr_text": "Side Braid Bob B",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nサイド編みこみボブＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el peinado\n\"Side Braid Bob B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3150731",
 		"jp_text": "ドラグニカクレストＢ",
 		"tr_text": "Dragnica Crest B",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nドラグニカクレストＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el peinado\n\"Dragnica Crest B\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3150732",
 		"jp_text": "アンブスマスク",
-		"tr_text": "",
+		"tr_text": "Anbus Mask",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nアンブスマスクが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Usando este tiquete, el peinado\n\"Anbus Mask\"\nse podra usar en el Estilista."
+	},
+	{
+		"assign": "3150734",
+		"jp_text": "ビターシムーンフード",
+		"tr_text": "Bitter Simoom Hood",
+		"jp_explain": "チケットを使用すると、新しい髪型の\nビターシムーンフードが選択可能。",
+		"tr_explain": "Usando este tiquete, el peinado\n\"Bitter Simoom Hood\"\nse podra usar en el Estilista."
+	},
+	{
+		"assign": "3150735",
+		"jp_text": "スイートシムーンフード",
+		"tr_text": "Sweet Simoom Hood",
+		"jp_explain": "チケットを使用すると、新しい髪型の\nスイートシムーンフードが選択可能。",
+		"tr_explain": "Usando este tiquete, el peinado\n\"Sweet Simoom Hood\"\nse podra usar en el Estilista."
+	},
+	{
+		"assign": "3150736",
+		"jp_text": "轟雷Ｇヘアー",
+		"tr_text": "Gourai G Hair",
+		"jp_explain": "チケットを使用すると、新しい髪型の\n轟雷Ｇヘアーが選択可能。",
+		"tr_explain": "Usando este tiquete, el peinado\n\"Gourai G Hair\"\nse podra usar en el Estilista."
+	},
+	{
+		"assign": "3150737",
+		"jp_text": "バーゼラルドＧヘアー",
+		"tr_text": "Baselard G Hair",
+		"jp_explain": "チケットを使用すると、新しい髪型の\nバーゼラルドＧヘアーが選択可能。",
+		"tr_explain": "Usando este tiquete, el peinado\n\"Baselard G Hair\"\nse podra usar en el Estilista."
+	},
+	{
+		"assign": "3150738",
+		"jp_text": "アルディナバンダナＢ",
+		"tr_text": "Aldina Bandana B",
+		"jp_explain": "チケットを使用すると、新しい髪型の\nアルディナバンダナＢが選択可能。",
+		"tr_explain": "Usando este tiquete, el peinado\n\"Aldina Bandana B\"\nse podra usar en el Estilista."
 	}
 ]

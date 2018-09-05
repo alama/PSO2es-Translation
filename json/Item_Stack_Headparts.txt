@@ -1642,7 +1642,7 @@
 		"jp_text": "シュバル・ヘッドＣＶ",
 		"tr_text": "Cheval Head CV",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nシュバル・ヘッドＣＶが選択可能。\nキャスト男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea la cabeza masculina\n\"Cheval Head CV\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3160250",
@@ -1656,7 +1656,7 @@
 		"jp_text": "シュバリア・ヘッドＣＶ",
 		"tr_text": "Chevalier Head CV",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nシュバリア・ヘッドＣＶが選択可能。\nキャスト女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea la cabeza femenina\n\"Chevalier Head CV\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3160253",
@@ -1762,5 +1762,26 @@
 		"tr_text": "Bright Star Type-0 Head",
 		"jp_explain": "チケットを使用すると、新しい頭部の\n輝星・空式・ヘッドが選択可能。\nキャスト男性のみ使用可能。",
 		"tr_explain": "Desbloquea la cabeza masculina\n\"Bright Star Type-0 Head\"\npara usarse en el Estilista."
+	},
+	{
+		"assign": "3160276",
+		"jp_text": "轟雷・ヘッド",
+		"tr_text": "Gourai Head",
+		"jp_explain": "チケットを使用すると、新しい頭部の\n轟雷・ヘッドが選択可能。\nキャスト男性のみ使用可能。",
+		"tr_explain": "Desbloquea la cabeza masculina\n\"Gourai Head\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3160279",
+		"jp_text": "バーゼラルド・ヘッド",
+		"tr_text": "Baselard Head",
+		"jp_explain": "チケットを使用すると、新しい頭部の\nバーゼラルド・ヘッドが選択可能。\nキャスト男性のみ使用可能。",
+		"tr_explain": "Desbloquea la cabeza masculina\n\"Baselard Head\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3160282",
+		"jp_text": "ゼルフィカール・ヘッド",
+		"tr_text": "Zelfikar Head",
+		"jp_explain": "チケットを使用すると、新しい頭部の\nゼルフィカール・ヘッドが選択可能。\nキャスト男性のみ使用可能。",
+		"tr_explain": "Desbloquea la cabeza masculina\n\"Zelfikar Head\"\nfor use in the Beauty Salon."
 	}
 ]

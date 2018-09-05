@@ -1440,5 +1440,12 @@
 		"tr_text": "Elmir Makeup",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nエルミルメイクが選択可能。",
 		"tr_explain": "Desbloquea el maquillaje\n\"Elmir Makeup\"\npara usar en el Estilista."
+	},
+	{
+		"assign": "3250222",
+		"jp_text": "ナチュラルメイクＥ",
+		"tr_text": "Natural Makeup E",
+		"jp_explain": "チケットを使用すると、新しいメイクの\nナチュラルメイクＥが選択可能。",
+		"tr_explain": "Desbloquea el maquillaje\n\"Natural Makeup E\"\npara usar en el Estilista."
 	}
 ]

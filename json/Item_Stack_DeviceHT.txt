@@ -1083,5 +1083,19 @@
 		"tr_text": "Evo. Device/Morgana",
 		"jp_explain": "Ｌｖ．１００以上のマグに使用できる\nマグの形態進化デバイス。\n「モルガナ」に進化する。",
 		"tr_explain": "Requiere un mag de Lv.100 o mas\npara usarse. Evoluciona tu mag en un\nMorgana."
+	},
+	{
+		"assign": "3120168",
+		"jp_text": "進化Ｄ／バーゼラルドＧ",
+		"tr_text": "Evo Device / Baselard G",
+		"jp_explain": "Ｌｖ．１００以上のマグに使用できる\nマグの形態進化デバイス。\n「バーゼラルドＧ」に進化する。",
+		"tr_explain": "Requiere un mag de Lv.100 o mas\npara usarse. Evoluciona tu mag en un\nBaselard G."
+	},
+	{
+		"assign": "3120169",
+		"jp_text": "進化デバイス／轟雷Ｇ",
+		"tr_text": "Evo Device / Gourai G",
+		"jp_explain": "Ｌｖ．１００以上のマグに使用できる\nマグの形態進化デバイス。\n「轟雷Ｇ」に進化する。",
+		"tr_explain": "Requiere un mag de Lv.100 o mas\npara usarse. Evoluciona tu mag en un\nGourai G."
 	}
 ]
