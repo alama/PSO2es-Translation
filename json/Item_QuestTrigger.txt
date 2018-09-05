@@ -278,5 +278,12 @@
 		"tr_text": "T. Mision: Pesadilla Subterranea",
 		"jp_explain": "地底を染めし女王の悪夢を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
 		"tr_explain": "[Pesadilla Subterranea]\npodra elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespues de su consumo.<c>"
+	},
+	{
+		"assign": "373043",
+		"jp_text": "砂都に迫りし女王トリガー",
+		"tr_text": "T. Mision: Desert Nightmare",
+		"jp_explain": "砂都に迫りし女王の悪夢を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
+		"tr_explain": "[The Desert Nightmare]\npodra elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespues de su consumo.<c>"
 	}
 ]

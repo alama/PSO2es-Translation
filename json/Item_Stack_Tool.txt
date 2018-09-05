@@ -135,9 +135,9 @@
 	{
 		"assign": "37020",
 		"jp_text": "アークスバッヂ赤",
-		"tr_text": "",
+		"tr_text": "Divisa ARKS: Roja",
 		"jp_explain": "特別な条件を満たした者だけが\n手にすることができるアークスの\nロゴが彫り込まれた赤色のバッヂ。",
-		"tr_explain": ""
+		"tr_explain": "Tiene el logo de ARKS grabado.\nEs usada como moneda en\nTienda de insignias."
 	},
 	{
 		"assign": "37021",
@@ -277,21 +277,21 @@
 		"jp_text": "ラグオルメモリ",
 		"tr_text": "Ragol Memory",
 		"jp_explain": "表面に特徴的な魔法陣が刻印されている\n何らかの記録媒体。内部データが復元\nできれば有用なものとなる。",
-		"tr_explain": "An odd symbol engraved on its\nsurface. An ancient recording device.\nRestoring internal data is possible."
+		"tr_explain": "Un raro simbolo esta grabado en su\nsuperficie. Un antiguo dispositivo de grabacion.\nRestaurar los datos internos es posible."
 	},
 	{
 		"assign": "37048",
 		"jp_text": "フォトンブースター",
 		"tr_text": "Photon Booster",
 		"jp_explain": "励起状態のフォトン結晶。\n周囲のフォトンに働きかけ\n対象の励起反応を促進させる素材。",
-		"tr_explain": "Photon Crystals in an excited state.\nSurrounding Photon activity in\ncertain weapons cause a reaction."
+		"tr_explain": "Cristal de Photon en estado excitado.\nUn material que afina la actividad,\nmejorando asi el potencial de un arma."
 	},
 	{
 		"assign": "37049",
 		"jp_text": "創者の証",
 		"tr_text": "Creator's Emblem",
 		"jp_explain": "創世器を抱くに相応しき者に与えられる\n名誉の証。ジグに創世器武器迷彩の\n製作を依頼できるようになる。",
-		"tr_explain": "Proof of honor given to a person that\nis suitable for Genesis Weapon\nreproduction from Zieg."
+		"tr_explain": "Prueba de honor dada a alguien que\nsea capaz de portar una reproduccion\nde un arma Genesis por Zieg."
 	},
 	{
 		"assign": "37050",
@@ -312,7 +312,7 @@
 		"jp_text": "ウェポノイドブースター",
 		"tr_text": "Weaponoid Booster",
 		"jp_explain": "励起状態のフォトン結晶。\n特定武器のフォトンに働きかけ\nフォトン励起を促進させる素材。",
-		"tr_explain": "Photon Crystals in an excited state.\nWorks by promoting photon activity\nin certain weapons."
+		"tr_explain": "Cristal de Photon en estado excitado.\nUn material que afina la actividad,\nmejorando asi el potencial de un arma."
 	},
 	{
 		"assign": "37053",
@@ -403,21 +403,21 @@
 		"jp_text": "覇者の紋章",
 		"tr_text": "Conqueror's Crest",
 		"jp_explain": "様々な戦場で活躍したアークスの証。\n提示することで、ジグの持つ\n貴重なアイテムと交換ができる。",
-		"tr_explain": ""
+		"tr_explain": "Prueba de que participaste en\nbatallas con los ARKS. pueden ser\intercambiadas por armas con Zieg."
 	},
 	{
 		"assign": "37070",
 		"jp_text": "レオンティーナ証書",
 		"tr_text": "Leontina Certificate",
 		"jp_explain": "条件を達成した者に与えられる証書。\nゲートエリアのレオンティーナに渡すと\n強力な★13武器などを入手できる。",
-		"tr_explain": "A certificate handed out under\nspecial conditions. Give it to\nLeontina for powerful items."
+		"tr_explain": "Un certificado entregado bajo\ncondiciones especiales. Entregalo a\nLeontina para recibir poderosas armas."
 	},
 	{
 		"assign": "37071",
 		"jp_text": "６周年記念バッヂ",
 		"tr_text": "6th Anniv. Badge",
 		"jp_explain": "６周年記念に作られた、特徴的な紋章が\n刻印されたバッヂ。提示することで\n様々なアイテムと交換可能。",
-		"tr_explain": "A badge that was engraved with a\ncrest in commemoration of the 6th\nAnniv. Can be exchanged for prizes."
+		"tr_explain": "Emblema creado para el\n6to Aniversario.\nLos grabados cubren su superficie.\nPuede ser cambiado por premios."
 	},
 	{
 		"assign": "37072",
@@ -425,5 +425,19 @@
 		"tr_text": "Homura Series Voucher",
 		"jp_explain": "ホムラシリーズの引換券。\nシー（6周年記念）に渡すことで\n強力な武器と交換できる。\n<yellow>交換期限／２０１８年８月８日１１時００分<c>",
 		"tr_explain": "Homura Series Voucher. By\nexchanging it with Xie (Anniversary),\nyou can obtain a powerful weapon.\n<yellow>Expires: Aug 8th, 2018 11:00 JST<c>"
+	},
+	{
+		"assign": "37073",
+		"jp_text": "王者の紋章",
+		"tr_text": "King's Crest",
+		"jp_explain": "様々な戦場で活躍したアークスの証。\n提示することで、ジグの持つ\n貴重なアイテムと交換ができる。",
+		"tr_explain": "Prueba de que participaste en\nbatallas con los ARKS. pueden ser\intercambiadas por armas con Zieg."
+	},
+	{
+		"assign": "37074",
+		"jp_text": "恋やかんメモリ",
+		"tr_text": "Love Kettle Memory",
+		"jp_explain": "表面に特徴的な絵が描かれている\n何らかの記憶媒体。内部データから\n楽しいものが作れそう。",
+		"tr_explain": ""
 	}
 ]

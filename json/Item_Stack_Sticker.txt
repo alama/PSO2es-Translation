@@ -1675,9 +1675,9 @@
 	{
 		"assign": "3170270",
 		"jp_text": "５００万ＩＤ記念ステッカー",
-		"tr_text": "5M ID Sticker",
+		"tr_text": "5 Million ID Memorial Sticker",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\n５００万ＩＤ記念が選択可能。",
-		"tr_explain": "Usando este tiquete, el emblema\n\"5M ID Sticker\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el emblema\n\"5 Million ID Memorial Sticker\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3170271",
@@ -1752,9 +1752,9 @@
 	{
 		"assign": "3170281",
 		"jp_text": "ＰＳ３０周年記念ロゴ",
-		"tr_text": "",
+		"tr_text": "PS 30th Anniversary Logo",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nＰＳ３０周年記念ロゴが選択可能。",
-		"tr_explain": ""
+		"tr_explain": ""Usando este tiquete, el emblema\n\"PS 30th Anniversary Logo\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3170282",
@@ -1776,5 +1776,12 @@
 		"tr_text": "Epic Emblem C",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nエピックエンブレムＣが選択可能。",
 		"tr_explain": "Usando este tiquete, el emblema\n\"Epic Emblem C\"\nse podra usar en el Estilista."
+	},
+	{
+		"assign": "3170285",
+		"jp_text": "こぶたステッカー",
+		"tr_text": "",
+		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nこぶたが選択可能。",
+		"tr_explain": ""
 	}
 ]

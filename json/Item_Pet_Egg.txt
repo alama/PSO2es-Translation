@@ -747,5 +747,33 @@
 		"tr_text": "Huevo de Popple S 14★",
 		"jp_explain": "ペット「ポップル」のエッグ。\n使用するかサリィからレアリティ進化\nすることでペット登録される。",
 		"tr_explain": "Huevo de Popple.\nUsalo para registrar\ny cria esta mascota."
+	},
+	{
+		"assign": "1210139",
+		"jp_text": "マロンエッグ★１４",
+		"tr_text": "Huevo de Maron 14★",
+		"jp_explain": "ペット「マロン」のエッグ。\n使用するとマロンが\nペット登録され、育成可能となる。",
+		"tr_explain": "Huevo de Maron.\nUsalo para registrar\ny cria esta mascota."
+	},
+	{
+		"assign": "1210140",
+		"jp_text": "マロンＳエッグ★１４",
+		"tr_text": "Huevo de Maron S 14★",
+		"jp_explain": "ペット「マロン」のエッグ。\n使用するとマロンが\nペット登録され、育成可能となる。",
+		"tr_explain": "Huevo de Maron.\nUsalo para registrar\ny cria esta mascota."
+	},
+	{
+		"assign": "1210141",
+		"jp_text": "メロンエッグ★１４",
+		"tr_text": "Huevo de Melon 14★",
+		"jp_explain": "ペット「メロン」のエッグ。\n使用するとメロンが\nペット登録され、育成可能となる。",
+		"tr_explain": "Huevo de Melon.\nUsalo para registrar\ny cria esta mascota."
+	},
+	{
+		"assign": "1210142",
+		"jp_text": "メロンＳエッグ★１４",
+		"tr_text": "Huevo de Melon S 14★",
+		"jp_explain": "ペット「メロン」のエッグ。\n使用するとメロンが\nペット登録され、育成可能となる。",
+		"tr_explain": "Huevo de Melon.\nUsalo para registrar\ny cria esta mascota."
 	}
 ]
