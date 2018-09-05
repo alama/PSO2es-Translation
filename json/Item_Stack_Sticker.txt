@@ -1754,7 +1754,7 @@
 		"jp_text": "ＰＳ３０周年記念ロゴ",
 		"tr_text": "PS 30th Anniversary Logo",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nＰＳ３０周年記念ロゴが選択可能。",
-		"tr_explain": ""Usando este tiquete, el emblema\n\"PS 30th Anniversary Logo\"\nse podra usar en el Estilista."
+		"tr_explain": "Usando este tiquete, el emblema\n\"PS 30th Anniversary Logo\"\nse podra usar en el Estilista."
 	},
 	{
 		"assign": "3170282",
