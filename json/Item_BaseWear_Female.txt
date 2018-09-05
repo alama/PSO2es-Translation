@@ -5735,9 +5735,9 @@
 	{
 		"assign": "3350890",
 		"jp_text": "零氷散華之衣Ｆ雅[Ba]",
-		"tr_text": "Reihyou Sange F Elegant [Ba]",
+		"tr_text": "Reihyou Sange F Elegance [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n零氷散華之衣Ｆ雅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Reihyou Sange F Elegant [Ba]\".\nSolo para personajes femeninos."
+		"tr_explain": "Un nuevo traje base\n\"Reihyou Sange F Elegance [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350891",
@@ -6148,9 +6148,9 @@
 	{
 		"assign": "3350949",
 		"jp_text": "ラッピーミミクリＦ[Ba]",
-		"tr_text": "Rappy Mimikli F [Ba]",
+		"tr_text": "Rappy Mimicry F [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nラッピーミミクリＦ[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Rappy Mimikli F [Ba]\".\nSolo para personajes femeninos."
+		"tr_explain": "Un nuevo traje base\n\"Rappy Mimicry F [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350950",
@@ -6197,16 +6197,16 @@
 	{
 		"assign": "3350956",
 		"jp_text": "ラッピーミミクリＦ影[Ba]",
-		"tr_text": "Rappy Mimikli F Shadow [Ba]",
+		"tr_text": "Rappy Mimicry F Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nラッピーミミクリＦ影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Rappy Mimikli F Shadow [Ba]\".\nSolo para personajes femeninos."
+		"tr_explain": "Un nuevo traje base\n\"Rappy Mimicry F Shadow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350957",
 		"jp_text": "ラッピーミミクリＦ桜[Ba]",
-		"tr_text": "Rappy Mimikli F Sakura [Ba]",
+		"tr_text": "Rappy Mimicry F Sakura [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nラッピーミミクリＦ桜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Rappy Mimikli F Sakura [Ba]\".\nSolo para personajes femeninos."
+		"tr_explain": "Un nuevo traje base\n\"Rappy Mimicry F Sakura [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3350969",
@@ -6323,7 +6323,7 @@
 	{
 		"assign": "3350985",
 		"jp_text": "ゼルシウス萌[Ba]",
-		"tr_text": "Zelsius Leaf [Ba]",
+		"tr_text": "Zelsius Sprout [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nゼルシウス萌[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": "Un nuevo traje base\n\"Zelsius Leaf [Ba]\".\nSolo para personajes femeninos."
 	},
@@ -6771,44 +6771,44 @@
 	{
 		"assign": "33501053",
 		"jp_text": "神王の正礼装[Ba]",
-		"tr_text": "Regent Formals [Ba]",
+		"tr_text": "Queen Formals [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n神王の正礼装[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Regent Formals [Ba]\".\nSolo para personajes femeninos."
+		"tr_explain": "Un nuevo traje base\n\"Queen Formals [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501054",
 		"jp_text": "神王の正礼装　影[Ba]",
-		"tr_text": "Regent Formals Shadow [Ba]",
+		"tr_text": "Queen Formals Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n神王の正礼装　影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Regent Formals Shadow [Ba]\".\nSolo para personajes femeninos."
+		"tr_explain": "Un nuevo traje base\n\"Queen Formals Shadow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501055",
 		"jp_text": "神王の正礼装　紅[Ba]",
-		"tr_text": "Regent Formals Crimson [Ba]",
+		"tr_text": "Queen Formals Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n神王の正礼装　紅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Regent Formals Crimson [Ba]\".\nSolo para personajes femeninos."
+		"tr_explain": "Un nuevo traje base\n\"Queen Formals Crimson [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501056",
 		"jp_text": "神王の正礼装　夜[Ba]",
-		"tr_text": "Regent Formals Night [Ba]",
+		"tr_text": "Queen Formals Night [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n神王の正礼装　夜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Regent Formals Night [Ba]\".\nSolo para personajes femeninos."
+		"tr_explain": "Un nuevo traje base\n\"Queen Formals Night [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501057",
 		"jp_text": "神王の正礼装　桜[Ba]",
-		"tr_text": "Regent Formals Sakura [Ba]",
+		"tr_text": "Queen Formals Sakura [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n神王の正礼装　桜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Regent Formals Sakura [Ba]\".\nSolo para personajes femeninos."
+		"tr_explain": "Un nuevo traje base\n\"Queen Formals Sakura [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501058",
 		"jp_text": "神王の正礼装　葉[Ba]",
-		"tr_text": "Regent Formals Leaf [Ba]",
+		"tr_text": "Queen Formals Leaf [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n神王の正礼装　葉[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Regent Formals Leaf [Ba]\".\nSolo para personajes femeninos."
+		"tr_explain": "Un nuevo traje base\n\"Queen Formals Leaf [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501059",
@@ -7002,9 +7002,9 @@
 	{
 		"assign": "33501086",
 		"jp_text": "ジェネ水着　雅[Ba]",
-		"tr_text": "Gene Swimsuit Elegant [Ba]",
+		"tr_text": "Gene Swimsuit Elegance [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nジェネ水着　雅[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Gene Swimsuit Elegant [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta interiores cuando se usa.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Gene Swimsuit Elegance [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta interiores cuando se usa.<c>"
 	},
 	{
 		"assign": "33501087",
@@ -7163,8 +7163,106 @@
 	{
 		"assign": "33501113",
 		"jp_text": "ナギサスイムウェア紅[Ba]",
-		"tr_text": "Nagisa Swimwear Crimson [Ba]",
+		"tr_text": "Nagisa Swimwear Scarlet [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nナギサスイムウェア紅[Ba]が選択可能。\n女性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Un nuevo traje base\n\"Nagisa Swimwear Crimson [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta interiores cuando se usa.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Nagisa Swimwear Scarlet [Ba]\".\nSolo para personajes femeninos.\n<yellow>※Oculta interiores cuando se usa.<c>"
+	},
+	{
+		"assign": "33501114",
+		"jp_text": "スイートシムーン[Ba]",
+		"tr_text": "Sweet Simoom [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nスイートシムーン[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Sweet Simoom [Ba]\".\nSolo para personajes femeninos."
+	},
+	{
+		"assign": "33501115",
+		"jp_text": "スイートシムーン紅[Ba]",
+		"tr_text": "Sweet Simoom Crimson [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nスイートシムーン紅[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Sweet Simoom Crimson [Ba]\".\nSolo para personajes femeninos."
+	},
+	{
+		"assign": "33501116",
+		"jp_text": "スイートシムーン夜[Ba]",
+		"tr_text": "Sweet Simoom Night [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nスイートシムーン夜[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Sweet Simoom Night [Ba]\".\nSolo para personajes femeninos."
+	},
+	{
+		"assign": "33501117",
+		"jp_text": "スイートシムーン静[Ba]",
+		"tr_text": "Sweet Simoom Calm [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nスイートシムーン静[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Sweet Simoom Calm [Ba]\".\nSolo para personajes femeninos."
+	},
+	{
+		"assign": "33501118",
+		"jp_text": "スイートシムーン雪[Ba]",
+		"tr_text": "Sweet Simoom Snow [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nスイートシムーン雪[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Sweet Simoom Snow [Ba]\".\nSolo para personajes femeninos."
+	},
+	{
+		"assign": "33501119",
+		"jp_text": "スイートシムーン影[Ba]",
+		"tr_text": "Sweet Simoom Shadow [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nスイートシムーン影[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Sweet Simoom Shadow [Ba]\".\nSolo para personajes femeninos."
+	},
+	{
+		"assign": "33501120",
+		"jp_text": "ハリエットの戦装束　冬[Ba]",
+		"tr_text": "Harriet Battlewear Winter [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nハリエットの戦装束　冬[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Harriet Battlewear Winter [Ba]\".\nSolo para personajes femeninos."
+	},
+	{
+		"assign": "33501121",
+		"jp_text": "ハリエットの戦装束　玄[Ba]",
+		"tr_text": "Harriet Battlewear Black [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nハリエットの戦装束　玄[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Harriet Battlewear Black [Ba]\".\nSolo para personajes femeninos."
+	},
+	{
+		"assign": "33501122",
+		"jp_text": "アリサの戦装束　冬[Ba]",
+		"tr_text": "Alisa Battlewear Winter [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nアリサの戦装束　冬[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Alisa Battlewear Winter [Ba]\".\nSolo para personajes femeninos."
+	},
+	{
+		"assign": "33501123",
+		"jp_text": "アリサの戦装束　玄[Ba]",
+		"tr_text": "Alisa Battlewear Black [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nアリサの戦装束　玄[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Alisa Battlewear Black [Ba]\".\nSolo para personajes femeninos."
+	},
+	{
+		"assign": "33501124",
+		"jp_text": "アルディナテナー冬[Ba]",
+		"tr_text": "Aldina Tenor Winter [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nアルディナテナー冬[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Aldina Tenor Winter [Ba]\".\nSolo para personajes femeninos."
+	},
+	{
+		"assign": "33501125",
+		"jp_text": "アルディナテナー玄[Ba]",
+		"tr_text": "Aldina Tenor Mysterious [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nアルディナテナー玄[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Aldina Tenor Mysterious [Ba]\".\nSolo para personajes femeninos."
+	},
+	{
+		"assign": "33501126",
+		"jp_text": "セパレートチャイナ冬[Ba]",
+		"tr_text": "Split China Winter [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nセパレートチャイナ冬[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Split China Winter [Ba]\".\nSolo para personajes femeninos."
+	},
+	{
+		"assign": "33501127",
+		"jp_text": "セパレートチャイナ玄[Ba]",
+		"tr_text": "Split China Mysterious [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nセパレートチャイナ玄[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Split China Mysterious [Ba]\".\nSolo para personajes femeninos."
 	}
 ]

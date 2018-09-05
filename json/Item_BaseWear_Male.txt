@@ -3565,9 +3565,9 @@
 	{
 		"assign": "3340569",
 		"jp_text": "零氷散華之衣Ｍ雅[Ba]",
-		"tr_text": "Reihyou Sange M Elegant [Ba]",
+		"tr_text": "Reihyou Sange M Elegance [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n零氷散華之衣Ｍ雅[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Reihyou Sange M Elegant [Ba]\".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Reihyou Sange M Elegance [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340570",
@@ -3663,9 +3663,9 @@
 	{
 		"assign": "3340583",
 		"jp_text": "ラッピーミミクリＭ[Ba]",
-		"tr_text": "Rappy Mimikli M [Ba]",
+		"tr_text": "Rappy Mimicry M [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nラッピーミミクリＭ[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Rappy Mimikli M [Ba]\".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Rappy Mimicry M [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340584",
@@ -3698,16 +3698,16 @@
 	{
 		"assign": "3340590",
 		"jp_text": "ラッピーミミクリＭ影[Ba]",
-		"tr_text": "Rappy Mimikli M Shadow [Ba]",
+		"tr_text": "Rappy Mimicry M Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nラッピーミミクリＭ影[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Rappy Mimikli M Shadow [Ba]\".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Rappy Mimicry M Shadow [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340591",
 		"jp_text": "ラッピーミミクリＭ空[Ba]",
-		"tr_text": "Rappy Mimikli M SKy [Ba]",
+		"tr_text": "Rappy Mimicry M Sky [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nラッピーミミクリＭ空[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Rappy Mimikli M SKy [Ba]\".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Rappy Mimicry M Sky [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340594",
@@ -3978,9 +3978,9 @@
 	{
 		"assign": "3340635",
 		"jp_text": "ニンドリＴシャツＭ[Ba]",
-		"tr_text": "Nindori T-Shirt M [Ba]",
+		"tr_text": "Nintendo Dream T-shirt M [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nニンドリＴシャツＭ[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Nindori T-Shirt M [Ba]\".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Nintendo Dream T-shirt M [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340636",
@@ -4048,9 +4048,9 @@
 	{
 		"assign": "3340646",
 		"jp_text": "シュレッガーの戦鎧　雅[Ba]",
-		"tr_text": "Schlegger Armor Elegant [Ba]",
+		"tr_text": "Schlegger Armor Elegance [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nシュレッガーの戦鎧　雅[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Schlegger Armor Elegant [Ba]\".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Schlegger Armor Elegance [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340647",
@@ -4090,9 +4090,9 @@
 	{
 		"assign": "3340652",
 		"jp_text": "エルミルの正礼装　雅[Ba]",
-		"tr_text": "Elmir Formals Elegant [Ba]",
+		"tr_text": "Elmir Formals Elegance [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエルミルの正礼装　雅[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Elmir Formals Elegant [Ba]\".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Elmir Formals Elegance [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340653",
@@ -4139,9 +4139,9 @@
 	{
 		"assign": "3340659",
 		"jp_text": "エピラスウェスティ雅[Ba]",
-		"tr_text": "Epiras Westie Elegant [Ba]",
+		"tr_text": "Epiras Westie Elegance [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエピラスウェスティ雅[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Epiras Westie Elegant [Ba]\".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Epiras Westie Elegance [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340660",
@@ -4155,42 +4155,42 @@
 		"jp_text": "バーニングサマー[Ba]",
 		"tr_text": "Burning Summer [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nバーニングサマー[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Burning Summer [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340662",
 		"jp_text": "バーニングサマー雪[Ba]",
 		"tr_text": "Burning Summer Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nバーニングサマー雪[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Burning Summer Snow [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340663",
 		"jp_text": "バーニングサマー紅[Ba]",
 		"tr_text": "Burning Summer Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nバーニングサマー紅[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Burning Summer Crimson [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340664",
 		"jp_text": "バーニングサマー夜[Ba]",
 		"tr_text": "Burning Summer Night [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nバーニングサマー夜[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Burning Summer Night [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340665",
 		"jp_text": "バーニングサマー月[Ba]",
 		"tr_text": "Burning Summer Moon [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nバーニングサマー月[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Burning Summer Moon [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340666",
 		"jp_text": "バーニングサマー影[Ba]",
 		"tr_text": "Burning Summer Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nバーニングサマー影[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Burning Summer Shadow [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340668",
@@ -4211,27 +4211,97 @@
 		"jp_text": "トレーニングＳウェア茜[Ba]",
 		"tr_text": "Training S Wear Madder [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nトレーニングＳウェア茜[Ba]が選択可能。\n男性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Training S Wear Madder [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Oculta interiores cuando se usa.<c>"
 	},
 	{
 		"assign": "3340671",
 		"jp_text": "トレーニングＳウェア夜[Ba]",
 		"tr_text": "Training S Wear Night [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nトレーニングＳウェア夜[Ba]が選択可能。\n男性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Training S Wear Night [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Oculta interiores cuando se usa.<c>"
 	},
 	{
 		"assign": "3340672",
 		"jp_text": "ドラグニカクロス玄[Ba]",
 		"tr_text": "Dragnica Cross Black [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nドラグニカクロス玄[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Dragnica Cross Black [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340673",
 		"jp_text": "ドラグニカクロス冬[Ba]",
 		"tr_text": "Dragnica Cross Winter [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nドラグニカクロス冬[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Dragnica Cross Winter [Ba]\".\nSolo para personajes masculinos."
+	},
+	{
+		"assign": "3340675",
+		"jp_text": "ビターシムーン[Ba]",
+		"tr_text": "Bitter Simoom [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nビターシムーン[Ba]が選択可能。\n男性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Bitter Simoom [Ba]\".\nSolo para personajes masculinos."
+	},
+	{
+		"assign": "3340676",
+		"jp_text": "ビターシムーン夜[Ba]",
+		"tr_text": "Bitter Simoom Night [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nビターシムーン夜[Ba]が選択可能。\n男性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Bitter Simoom Night [Ba]\".\nSolo para personajes masculinos."
+	},
+	{
+		"assign": "3340677",
+		"jp_text": "ビターシムーン雅[Ba]",
+		"tr_text": "Bitter Simoom Elegance [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nビターシムーン雅[Ba]が選択可能。\n男性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Bitter Simoom Elegance [Ba]\".\nSolo para personajes masculinos."
+	},
+	{
+		"assign": "3340678",
+		"jp_text": "ビターシムーン栗[Ba]",
+		"tr_text": "Bitter Simoom Chestnut [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nビターシムーン栗[Ba]が選択可能。\n男性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Bitter Simoom Chestnut [Ba]\".\nSolo para personajes masculinos."
+	},
+	{
+		"assign": "3340679",
+		"jp_text": "ビターシムーン雪[Ba]",
+		"tr_text": "Bitter Simoom Snow [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nビターシムーン雪[Ba]が選択可能。\n男性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Bitter Simoom Snow [Ba]\".\nSolo para personajes masculinos."
+	},
+	{
+		"assign": "3340680",
+		"jp_text": "ビターシムーン紅[Ba]",
+		"tr_text": "Bitter Simoom Crimson [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nビターシムーン紅[Ba]が選択可能。\n男性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Bitter Simoom Crimson [Ba]\".\nSolo para personajes masculinos."
+	},
+	{
+		"assign": "3340681",
+		"jp_text": "ルーサーの正礼装　冬[Ba]",
+		"tr_text": "Luther Formalwear Winter [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nルーサーの正礼装　冬[Ba]が選択可能。\n男性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Luther Formalwear Winter [Ba]\".\nSolo para personajes masculinos."
+	},
+	{
+		"assign": "3340682",
+		"jp_text": "ルーサーの正礼装　曜[Ba]",
+		"tr_text": "Luther Formalwear Day [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nルーサーの正礼装　曜[Ba]が選択可能。\n男性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Luther Formalwear Day [Ba]\".\nSolo para personajes masculinos."
+	},
+	{
+		"assign": "3340683",
+		"jp_text": "アルディナアード冬[Ba]",
+		"tr_text": "Aldina Arde Winter [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nアルディナアード冬[Ba]が選択可能。\n男性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Aldina Arde Winter [Ba]\".\nSolo para personajes masculinos."
+	},
+	{
+		"assign": "3340684",
+		"jp_text": "アルディナアード玄[Ba]",
+		"tr_text": "Aldina Arde Mysterious [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nアルディナアード玄[Ba]が選択可能。\n男性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Aldina Arde Mysterious [Ba]\".\nSolo para personajes masculinos."
 	}
 ]

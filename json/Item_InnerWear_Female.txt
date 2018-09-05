@@ -2746,9 +2746,9 @@
 	{
 		"assign": "3370433",
 		"jp_text": "ボーダー２雅[In]",
-		"tr_text": "Border 2 Elegant [In]",
+		"tr_text": "Border 2 Elegance [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nボーダー２雅[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Una nueva ropa interior\n\"Border 2 Elegant [In]\".\nSolo para personajes femeninos."
+		"tr_explain": "Una nueva ropa interior\n\"Border 2 Elegance [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370434",
@@ -2858,44 +2858,44 @@
 	{
 		"assign": "3370454",
 		"jp_text": "神王の正礼装[In]",
-		"tr_text": "Regent Formals [In]",
+		"tr_text": "Queen Formals [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\n神王の正礼装[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Una nueva ropa interior\n\"Regent Formals [In]\".\nSolo para personajes femeninos."
+		"tr_explain": "Una nueva ropa interior\n\"Queen Formals [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370455",
 		"jp_text": "神王の正礼装　紅[In]",
-		"tr_text": "Regent Formals Crimson [In]",
+		"tr_text": "Queen Formals Crimson [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\n神王の正礼装　紅[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Una nueva ropa interior\n\"Regent Formals Crimson [In]\".\nSolo para personajes femeninos."
+		"tr_explain": "Una nueva ropa interior\n\"Queen Formals Crimson [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370456",
 		"jp_text": "神王の正礼装　月[In]",
-		"tr_text": "Regent Formals Moon [In]",
+		"tr_text": "Queen Formals Moon [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\n神王の正礼装　月[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Una nueva ropa interior\n\"Regent Formals Moon [In]\".\nSolo para personajes femeninos."
+		"tr_explain": "Una nueva ropa interior\n\"Queen Formals Moon [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370457",
 		"jp_text": "神王の正礼装　海[In]",
-		"tr_text": "Regent Formals Sea [In]",
+		"tr_text": "Queen Formals Sea [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\n神王の正礼装　海[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Una nueva ropa interior\n\"Regent Formals Sea [In]\".\nSolo para personajes femeninos."
+		"tr_explain": "Una nueva ropa interior\n\"Queen Formals Sea [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370458",
 		"jp_text": "神王の正礼装　雪[In]",
-		"tr_text": "Regent Formals Snow [In]",
+		"tr_text": "Queen Formals Snow [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\n神王の正礼装　雪[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Una nueva ropa interior\n\"Regent Formals Snow [In]\".\nSolo para personajes femeninos."
+		"tr_explain": "Una nueva ropa interior\n\"Queen Formals Snow [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370459",
 		"jp_text": "神王の正礼装　影[In]",
-		"tr_text": "Regent Formals Shadow [In]",
+		"tr_text": "Queen Formals Shadow [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\n神王の正礼装　影[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Una nueva ropa interior\n\"Regent Formals Shadow [In]\".\nSolo para personajes femeninos."
+		"tr_explain": "Una nueva ropa interior\n\"Queen Formals Shadow [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370460",
@@ -2938,5 +2938,47 @@
 		"tr_text": "Epitina Tolca Moon [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nエピティナトルカ月[In]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": "Una nueva ropa interior\n\"Epitina Tolca Moon [In]\".\nSolo para personajes femeninos."
+	},
+	{
+		"assign": "3370466",
+		"jp_text": "スイートシムーン[In]",
+		"tr_text": "Sweet Simoom [In]",
+		"jp_explain": "使用すると、新しいインナーウェアの\nスイートシムーン[In]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Una nueva ropa interior\n\"Sweet Simoom [In]\".\nSolo para personajes femeninos."
+	},
+	{
+		"assign": "3370467",
+		"jp_text": "スイートシムーン紅[In]",
+		"tr_text": "Sweet Simoom Crimson [In]",
+		"jp_explain": "使用すると、新しいインナーウェアの\nスイートシムーン紅[In]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Una nueva ropa interior\n\"Sweet Simoom Crimson [In]\".\nSolo para personajes femeninos."
+	},
+	{
+		"assign": "3370468",
+		"jp_text": "スイートシムーン夜[In]",
+		"tr_text": "Sweet Simoom Night [In]",
+		"jp_explain": "使用すると、新しいインナーウェアの\nスイートシムーン夜[In]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Una nueva ropa interior\n\"Sweet Simoom Night [In]\".\nSolo para personajes femeninos."
+	},
+	{
+		"assign": "3370469",
+		"jp_text": "スイートシムーン静[In]",
+		"tr_text": "Sweet Simoom Calm [In]",
+		"jp_explain": "使用すると、新しいインナーウェアの\nスイートシムーン静[In]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Una nueva ropa interior\n\"Sweet Simoom Calm [In]\".\nSolo para personajes femeninos."
+	},
+	{
+		"assign": "3370470",
+		"jp_text": "スイートシムーン雪[In]",
+		"tr_text": "Sweet Simoom Snow [In]",
+		"jp_explain": "使用すると、新しいインナーウェアの\nスイートシムーン雪[In]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Una nueva ropa interior\n\"Sweet Simoom Snow [In]\".\nSolo para personajes femeninos."
+	},
+	{
+		"assign": "3370471",
+		"jp_text": "スイートシムーン影[In]",
+		"tr_text": "Sweet Simoom Shadow [In]",
+		"jp_explain": "使用すると、新しいインナーウェアの\nスイートシムーン影[In]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Una nueva ropa interior\n\"Sweet Simoom Shadow [In]\".\nSolo para personajes femeninos."
 	}
 ]
