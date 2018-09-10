@@ -2,15 +2,20 @@
 
 [![CircleCI](https://circleci.com/gh/TheBlazter/PSO2es-Translation/tree/master.svg?style=svg)](https://circleci.com/gh/TheBlazter/workflows/PSO2es-Translation/tree/master)
 
-## Usage
+## Modo de Uso
 
-1. Get ESBreaker from its repository https://github.com/PolCPP/ESBreaker
-2. Copy the JSON files to the JSON directory (if it's not there create it on the same level as the EXE).
-3. Follow the usage instructions on the ESBreaker repo
-3. Run ESBreaker (it may take a while).
-4. Grab the Output files from the output directory and put them on your android device.
+1. Obtener el ESBreaker desde este repositorio https://github.com/PolCPP/ESBreaker
+2. Copiar los archivos JSON de la carpeta JSON (si no esta ahi creelo en el mismo lugar donde esta el ejecutable EXE).
+3. Siga las instrucciones que estan en el repo de ESBreaker
+3. Corra el ESBreaker (esto tomara un tiempo).
+4. Coja los archivos de salida desde la carpeta Output y ponlos en tu dispositivo android.
 
-## Credits
+## Creditos de la Version en Español
+
+
+* Blazter - Traduccion al Español
+
+## Creditos
 
 
 * SEGAC - For the libs that power the trans tool (lol)
@@ -25,7 +30,7 @@
 * YukaLily - Misc. translations
 * Nora - Misc. translations
 
-## License
+## Licencia
 
             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                     Version 2, December 2004
