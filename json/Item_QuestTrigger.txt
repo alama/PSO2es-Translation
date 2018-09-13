@@ -285,5 +285,19 @@
 		"tr_text": "T. Mision: Desert Nightmare",
 		"jp_explain": "砂都に迫りし女王の悪夢を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
 		"tr_explain": "[The Desert Nightmare]\npodra elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespues de su consumo.<c>"
+	},
+	{
+		"assign": "373044",
+		"jp_text": "戦道２０１８トリガー",
+		"tr_text": "T. Mision: Regiment 2018",
+		"jp_explain": "禍魂集いし戦道２０１８を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
+		"tr_explain": "[Regiment of the Wicked 2018]\npodra elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespues de su consumo.<c>"
+	},
+	{
+		"assign": "373045",
+		"jp_text": "不尽の狂気トリガー",
+		"tr_text": "T. Mision: Perpetual Madness",
+		"jp_explain": "魔神城戦：不尽の狂気を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
+		"tr_explain": "[Perpetual Madness]\npodra elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespues de su consumo.<c>"
 	}
 ]
