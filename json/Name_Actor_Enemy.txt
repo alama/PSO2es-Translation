@@ -2692,7 +2692,7 @@
 	{
 		"assign": "TD1Hou",
 		"jp_text": "オロタ・ビケッタ",
-		"tr_text": ""
+		"tr_text": "Orota Biketta"
 	},
 	{
 		"assign": "KingRappy",
@@ -2796,8 +2796,8 @@
 	},
 	{
 		"assign": "SpiderW0",
-		"jp_text": "？？？",
-		"tr_text": ""
+		"jp_text": "DWダーク・ラグネ",
+		"tr_text": "DW Dark Ragne"
 	},
 	{
 		"assign": "MantisWarriorASP1",
@@ -2891,8 +2891,8 @@
 	},
 	{
 		"assign": "BirdDoubleHeadW0",
-		"jp_text": "？？？",
-		"tr_text": ""
+		"jp_text": "DWリューダソーサラー",
+		"tr_text": "DW Luda Sorcerer"
 	},
 	{
 		"assign": "BirdCentaurSP1",
@@ -2911,18 +2911,18 @@
 	},
 	{
 		"assign": "BirdCrestW0",
-		"jp_text": "？？？",
-		"tr_text": ""
+		"jp_text": "DWドリュアーダ",
+		"tr_text": "DW Doluahda"
 	},
 	{
 		"assign": "BirdSoldierAW0",
-		"jp_text": "？？？",
-		"tr_text": ""
+		"jp_text": "DWソルダ・カピタ",
+		"tr_text": "DW Solda Kapita"
 	},
 	{
 		"assign": "BirdStackedW0",
-		"jp_text": "？？？",
-		"tr_text": ""
+		"jp_text": "DWデコル・マリューダ",
+		"tr_text": "DW Decol Malluda"
 	},
 	{
 		"assign": "NativeBeastSP1",
@@ -3886,8 +3886,8 @@
 	},
 	{
 		"assign": "SpiderExW0",
-		"jp_text": "？？？？",
-		"tr_text": ""
+		"jp_text": "DWダーク・ラグネＥｘ",
+		"tr_text": "DW Dark Ragne EX"
 	},
 	{
 		"assign": "MantisWarriorAEx",
@@ -4001,8 +4001,8 @@
 	},
 	{
 		"assign": "BirdDoubleHeadExW0",
-		"jp_text": "？？？？",
-		"tr_text": ""
+		"jp_text": "DWリューダソーサラーＥｘ",
+		"tr_text": "DW Luda Sorcerer EX"
 	},
 	{
 		"assign": "BirdCentaurEx",
@@ -4021,8 +4021,8 @@
 	},
 	{
 		"assign": "BirdCrestExW0",
-		"jp_text": "？？？？",
-		"tr_text": ""
+		"jp_text": "DWドリュアーダＥｘ",
+		"tr_text": "DW Doluahda EX"
 	},
 	{
 		"assign": "BirdSoldierAEx",
@@ -4031,8 +4031,8 @@
 	},
 	{
 		"assign": "BirdSoldierAExW0",
-		"jp_text": "？？？？",
-		"tr_text": ""
+		"jp_text": "DWソルダ・カピタＥｘ",
+		"tr_text": "DW Solda Kapita EX"
 	},
 	{
 		"assign": "BirdStackedEx",
@@ -4041,8 +4041,8 @@
 	},
 	{
 		"assign": "BirdStackedExW0",
-		"jp_text": "？？？？",
-		"tr_text": ""
+		"jp_text": "DWデコル・マリューダＥｘ",
+		"tr_text": "DW Decol Malluda EX"
 	},
 	{
 		"assign": "NativeBeastEx",
@@ -4280,6 +4280,11 @@
 		"tr_text": "Dragon Ex EX"
 	},
 	{
+		"assign": "DragonBerserkAEx",
+		"jp_text": "クローム・ドラゴンＥｘ",
+		"tr_text": "Chrome Dragon EX"
+	},
+	{
 		"assign": "MarineTetraEx",
 		"jp_text": "トルボンＥｘ",
 		"tr_text": "Torbon EX"
@@ -4313,6 +4318,11 @@
 		"assign": "DarkerCannonAEx",
 		"jp_text": "特殊粒子砲台Ｅｘ",
 		"tr_text": "Darker Particle Battery EX"
+	},
+	{
+		"assign": "AbyssFlowerEx",
+		"jp_text": "ビオル・メデューナＥｘ",
+		"tr_text": "Biol Meduna EX"
 	},
 	{
 		"assign": "PantherBRareST0Ex",

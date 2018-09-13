@@ -71,12 +71,12 @@
 	},
 	{
 		"assign": "6515",
-		"jp_text": "7342",
-		"tr_text": ""
+		"jp_text": "ラグナロック",
+		"tr_text": "Ragnarok"
 	},
 	{
 		"assign": "6516",
-		"jp_text": "7343",
-		"tr_text": ""
+		"jp_text": "フェンリル",
+		"tr_text": "Fenrir"
 	}
 ]
