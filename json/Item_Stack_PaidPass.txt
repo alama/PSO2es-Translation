@@ -88,7 +88,7 @@
 		"jp_text": "属性強化＋５％",
 		"tr_text": "Incremento de Atributo +5%",
 		"jp_explain": "属性強化用の強化補助素材。\n属性強化時に使用することで\n属性値を５％底上げする。",
-		"tr_explain": "Cuando estas mejorando el atributo.\nIncrementa el atributo del arma un 5%."
+		"tr_explain": "Cuando estas mejorando el atributo.\nAumenta el atributo del arma un 5%."
 	},
 	{
 		"assign": "321015",
@@ -263,7 +263,7 @@
 		"jp_text": "属性強化＋１０％",
 		"tr_text": "Incremento de Atributo +10%",
 		"jp_explain": "属性強化用の強化補助素材。\n属性強化時に使用することで\n属性値を１０％底上げする。",
-		"tr_explain": "Cuando estas mejorando el atributo.\nIncrementa el atributo del arma un 10%."
+		"tr_explain": "Cuando estas mejorando el atributo.\nAumenta el atributo del arma un 10%."
 	},
 	{
 		"assign": "321054",
@@ -1250,7 +1250,7 @@
 		"jp_text": "属性強化＋２％",
 		"tr_text": "Incremento de Atributo +2%",
 		"jp_explain": "属性強化用の強化補助素材。\n属性強化時に使用することで\n属性値を２％底上げする。",
-		"tr_explain": "Cuando estas mejorando el atributo.\nIncrementa el atributo del arma un 2%."
+		"tr_explain": "Cuando estas mejorando el atributo.\nAumenta el atributo del arma un 2%."
 	},
 	{
 		"assign": "3210232",

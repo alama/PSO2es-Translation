@@ -3133,7 +3133,7 @@
 		"jp_text": "勇鳳錦装　玄[Ba]",
 		"tr_text": "Valiant Phoenix Attire Dark [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n勇鳳錦装　玄[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Valiant Phoenix Attire Mysterious [Ba]\".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Valiant Phoenix Attire Dark [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340506",
