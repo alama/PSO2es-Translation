@@ -3336,9 +3336,6 @@
 		"jp_text": "ハリエットのタイツＢ",
 		"tr_text": "Harriet Tights B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nハリエットのタイツＢが選択可能。\n女性のみ使用可能。",
-<<<<<<< HEAD
-		"tr_explain": "Desbloquea la pintura femenina\n\"Harriet Tights B\"\npara usarse en el Estilista."
-=======
 		"tr_explain": "Desbloquea la pintura femenina\n\"Harriet Tights B\"\npara usarse en el Estilista."
 	},
 	{
@@ -3396,6 +3393,5 @@
 		"tr_text": "",
 		"jp_explain": "チケットを使用すると、ボディペイント\nハリエットのサイハイＢが選択可能。\n女性のみ使用可能。",
 		"tr_explain": ""
->>>>>>> upstream/master
 	}
 ]
