@@ -4,7 +4,7 @@
 
 # PSO2es Parche en Español
 
-## Bienvenido al Repositorio CSV del Parche en Español de PSO2es.  
+## Bienvenido al Repositorio del Parche en Español de PSO2es.  
 #### Estado actual segun el ultimo chequeo:  [![CircleCI](https://circleci.com/gh/TheBlazter/PSO2es-Translation/tree/master.svg?style=svg)](https://circleci.com/gh/TheBlazter/workflows/PSO2es-Translation/tree/master)
 #### De igual manera hay repositorio de **[PSO2 en Español]**
 ---
