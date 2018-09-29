@@ -1,18 +1,39 @@
 # Phantasy Star Online 2 es Proyecto de Traduccion al Español
 
-[![CircleCI](https://circleci.com/gh/TheBlazter/PSO2es-Translation/tree/master.svg?style=svg)](https://circleci.com/gh/TheBlazter/workflows/PSO2es-Translation/tree/master)
+## Bienvenido al Repositorio CSV del Parche en Español de PSO2es.  [![CircleCI](https://circleci.com/gh/TheBlazter/PSO2es-Translation/tree/master.svg?style=svg)](https://circleci.com/gh/TheBlazter/workflows/PSO2es-Translation/tree/master)
+#### De igual manera hay repositorio de **[PSO2 en Español]**
+---
 
 ## Modo de Uso
 
-1. Obtener el ESBreaker desde este repositorio https://github.com/PolCPP/ESBreaker
+1. Obtener el **[ESBreaker]** desde su repositorio
 2. Copiar los archivos JSON de la carpeta JSON (si no esta ahi creelo en el mismo lugar donde esta el ejecutable EXE).
 3. Siga las instrucciones que estan en el repo de ESBreaker
 3. Corra el ESBreaker (esto tomara un tiempo).
 4. Coja los archivos de salida desde la carpeta Output y ponlos en tu dispositivo android.
 
+## Como Traducir
+### Desde la Web
+ 1. Presiona el botón "Fork" que se encuentra en la esquina superior derecha de esta pagina de GitHub para hacer una copia de las traducciones para que puedas trabajar con esta.
+ 2. Haz clic en el archivo que desees editar.
+ 3. Haz clic en el icono del pincel.
+ 4. Edita el archivo con cuidado y cariño! (**SOLO EDITA EL TEXTO QUE SE ENCUENTRA DENTRO DE LAS COMILLAS DESPUES DE tr_text o tr_explain**)
+ 5. Escribe un pequeño sumario de los cambios realizados.
+ 6. Presiona "Commit changes".
+ 7. Repite los 2 al 6 con todos los archivos que quieras editar. Una vez finalizado procedemos al paso 8.
+ 8. Haz clic en el botón "New pull request" en la esquina superior izquierda en la pagina de GitHub.
+ 9. Asegúrate que "Base fork" sea "TheBlazter/PSO2es-Translation" y en el "Head fork" se encuentre el tuyo.
+ 10. Haz clic en el botón de "Create pull request" y escribe un titulo y un pequeño sumario.
+ 11. Haz clic en el botón de "Create pull request" de nuevo y tus cambios serán enviados.
+ 12. Hasta que alguien del equipo observe los cambios que has realizado estos serán a combinados con el parche de traducción.
+### Para tener en cuenta
+* Solo edita los archivos .txt en la carpeta **[JSON]**
+* Puedes crear una **[Issue]** para abrir una discusión sobre las traducciones con otros traductores. Por favor ten en cuenta que las discusiones que no estén relacionadas con la traducción, serán eliminadas sin ninguna advertencia.
+* Este no es compatible con caracteres con tilde o diéresis, asi que evitar usarlas, y de igual manera, la ñ debe ser reemplazada con й.
+
 ## Creditos de la Version en Español
 
-
+* NozomiRen - Traduccion Inicial del Menu
 * Blazter - Traduccion al Español
 
 ## Creditos
@@ -34,6 +55,8 @@
 
 ## Licencia
 
+```
+
             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                     Version 2, December 2004
  
@@ -47,3 +70,10 @@
    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
  
   0. You just DO WHAT THE FUCK YOU WANT TO.
+  
+```
+
+[PSO2 en Español]: https://github.com/Arks-Layer/PSO2ENPatchCSV/tree/ES
+[ESBreaker]: https://github.com/PolCPP/ESBreaker
+[Issue]: https://github.com/TheBlazter/PSO2es-Translation/issues  
+[JSON]: https://github.com/TheBlazter/PSO2es-Translation/tree/master/json
