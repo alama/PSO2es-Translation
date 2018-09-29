@@ -1,6 +1,11 @@
-# Phantasy Star Online 2 es Proyecto de Traduccion al Español
+<p align="center">
+  <img src="http://i.imgur.com/dM2s0Jo.png" alt="PSO2 Logo"/>
+</p>
 
-## Bienvenido al Repositorio CSV del Parche en Español de PSO2es.  [![CircleCI](https://circleci.com/gh/TheBlazter/PSO2es-Translation/tree/master.svg?style=svg)](https://circleci.com/gh/TheBlazter/workflows/PSO2es-Translation/tree/master)
+# PSO2es Parche en Español
+
+## Bienvenido al Repositorio CSV del Parche en Español de PSO2es.  
+#### Estado actual segun el ultimo chequeo:  [![CircleCI](https://circleci.com/gh/TheBlazter/PSO2es-Translation/tree/master.svg?style=svg)](https://circleci.com/gh/TheBlazter/workflows/PSO2es-Translation/tree/master)
 #### De igual manera hay repositorio de **[PSO2 en Español]**
 ---
 
