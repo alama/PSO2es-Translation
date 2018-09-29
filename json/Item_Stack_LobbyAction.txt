@@ -1670,7 +1670,7 @@
 		"jp_text": "228「エア居合」",
 		"tr_text": "228 \"Air Iai\"",
 		"jp_explain": "ロビアク『エア居合』\nを全キャラクターで使用可能になる。\n対応機能：リアクション",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Air Iai\".\nReaction has extra actions."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Air Iai\".\nReacciona como una accion extra."
 	},
 	{
 		"assign": "3230242",
@@ -1684,7 +1684,7 @@
 		"jp_text": "230「カンチョー」",
 		"tr_text": "230 \"Kancho\"",
 		"jp_explain": "ロビアク『カンチョー』\nを全キャラクターで使用可能になる。\n対応機能：リアクション",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Kancho\".\nReaction has extra actions."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Kancho\".\nReacciona como una accion extra."
 	},
 	{
 		"assign": "3230244",
@@ -1831,7 +1831,7 @@
 		"jp_text": "251「一丁締め」",
 		"tr_text": "251 \"Itchou-jime\"",
 		"jp_explain": "ロビアク『一丁締め』\nを全キャラクターで使用可能になる。\n対応機能：リアクション",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Itchou-jime\".\nReaction has extra actions."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Itchou-jime\".\nReacciona como una accion extra."
 	},
 	{
 		"assign": "3230265",
@@ -2048,7 +2048,7 @@
 		"jp_text": "282「円陣」",
 		"tr_text": "282 \"Circle Formation\"",
 		"jp_explain": "ロビアク『円陣』\nを全キャラクターで使用可能になる。\n対応機能：リアクション",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Circle Formation\".\nReaction has extra actions."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Circle Formation\".\nReacciona como una accion extra."
 	},
 	{
 		"assign": "3230296",
@@ -2202,7 +2202,7 @@
 		"jp_text": "304「テイスティ」",
 		"tr_text": "304 \"Tasty\"",
 		"jp_explain": "ロビアク『テイスティ』\nを全キャラクターで使用可能になる。\n対応機能：リアクション",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Tasty\".\nReaction has extra actions."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Tasty\".\nReacciona como una accion extra."
 	},
 	{
 		"assign": "3230318",
@@ -2349,7 +2349,7 @@
 		"jp_text": "325「吹き飛ばす」",
 		"tr_text": "325 \"Blow Off\"",
 		"jp_explain": "ロビアク『吹き飛ばす』\nを全キャラクターで使用可能になる。\n対応機能：リアクション",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Blow Off\".\nReaction has extra actions."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Blow Off\".\nReacciona como una accion extra."
 	},
 	{
 		"assign": "3230340",
@@ -2909,7 +2909,7 @@
 		"jp_text": "409「アッチ向いてホイ」",
 		"tr_text": "409 \"Look That Way\"",
 		"jp_explain": "ロビアク『アッチ向いてホイ』\nを全キャラクターで使用可能になる。\n対応機能：リアクション",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Look That Way\".\nReaction has extra actions."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Look That Way\".\nReacciona como una accion extra."
 	},
 	{
 		"assign": "3230424",
@@ -3110,16 +3110,16 @@
 	{
 		"assign": "3230452",
 		"jp_text": "438「恋やかん」",
-		"tr_text": "",
+		"tr_text": "438 \"Love Kettle\"",
 		"jp_explain": "ロビアク『恋やかん』\nを全キャラクターで使用可能になる。\n対応機能：リアクション",
-		"tr_explain": ""
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Love Kettle\".\nReacciona como una accion extra."
 	},
 	{
 		"assign": "3230453",
 		"jp_text": "439「ブタキムを食べる」",
-		"tr_text": "",
+		"tr_text": "438 \"Eat Butakim\"",
 		"jp_explain": "ロビアク『ブタキムを食べる』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": ""
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Eat Butakim\".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "3230454",
@@ -3166,30 +3166,30 @@
 	{
 		"assign": "3230460",
 		"jp_text": "446「武器構え」",
-		"tr_text": "",
+		"tr_text": "446 \"Weapon Pose\"",
 		"jp_explain": "ロビアク『武器構え』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": ""
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Weapon Pose\".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "3230461",
 		"jp_text": "447「フロー＆フラウポーズ」",
-		"tr_text": "",
+		"tr_text": "447 \"Flo & Frau Pose\"",
 		"jp_explain": "ロビアク『フロー＆フラウポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": ""
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Flo & Frau Pose\".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "3230462",
 		"jp_text": "448「ツーショット」",
-		"tr_text": "",
+		"tr_text": "448 \"Two-Shot\"",
 		"jp_explain": "ロビアク『ツーショット』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": ""
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Two-Shot\".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "3230463",
 		"jp_text": "449「ぶらさがる」",
-		"tr_text": "",
+		"tr_text": "449 \"Hanging\"",
 		"jp_explain": "ロビアク『ぶらさがる』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": ""
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Hanging\".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "3230464",
