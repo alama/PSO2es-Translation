@@ -162,7 +162,7 @@
 	{
 		"assign": "DragonCrystalUniq",
 		"jp_text": "コ・レラ",
-		"tr_text": "Ko Lera"
+		"tr_text": "Ko Rela"
 	},
 	{
 		"assign": "DragonGladiator",
@@ -287,12 +287,12 @@
 	{
 		"assign": "RappyDragon",
 		"jp_text": "ドラグ・ラッピー",
-		"tr_text": ""
+		"tr_text": "Drag Rappy"
 	},
 	{
 		"assign": "RappyElep",
 		"jp_text": "エレフ・ラッピー",
-		"tr_text": ""
+		"tr_text": "Eleph Rappy"
 	},
 	{
 		"assign": "DragonRaptor",
@@ -2380,6 +2380,11 @@
 		"tr_text": "Devil Castle - Misil Ghasud"
 	},
 	{
+		"assign": "B3CatsD",
+		"jp_text": "魔神城・バスターバレス",
+		"tr_text": "Devil Castle - Buster Valace"
+	},
+	{
 		"assign": "B1CatsBU",
 		"jp_text": "魔神城・ランザーバレス",
 		"tr_text": "Devil Castle - Lanzer Valace"
@@ -2387,7 +2392,7 @@
 	{
 		"assign": "B1CatsCSP",
 		"jp_text": "魔神城・ミシルガスード",
-		"tr_text": ""
+		"tr_text": "Devil Castle - Misil Ghasud"
 	},
 	{
 		"assign": "B1OrBo",
@@ -2460,19 +2465,34 @@
 		"tr_text": "Cyclonehda"
 	},
 	{
+		"assign": "BD1Dp",
+		"jp_text": "オメガファルス・ルーサー",
+		"tr_text": "Omega Falz Loser"
+	},
+	{
 		"assign": "FD1Dhu",
 		"jp_text": "オメガ・ヒューナル",
 		"tr_text": "Omega Hunar"
 	},
 	{
+		"assign": "BD2Crw",
+		"jp_text": "ティラルーダ",
+		"tr_text": "Tyraluda"
+	},
+	{
+		"assign": "ID1Apple",
+		"jp_text": "OF・アプレンティス",
+		"tr_text": "Omega Falz Apprentice"
+	},
+	{
 		"assign": "RD",
 		"jp_text": "エリュトロン・ドラゴン",
-		"tr_text": ""
+		"tr_text": "Erythron Dragon"
 	},
 	{
 		"assign": "B2RdR",
 		"jp_text": "ドラゴン・アートルム",
-		"tr_text": ""
+		"tr_text": "Dragon Atrum"
 	},
 	{
 		"assign": "REHW",
@@ -2482,7 +2502,17 @@
 	{
 		"assign": "REVD",
 		"jp_text": "ラブ・エンペラッピー",
-		"tr_text": ""
+		"tr_text": "Love Emperappy"
+	},
+	{
+		"assign": "REWD",
+		"jp_text": "ラヴィ・エンペラッピー",
+		"tr_text": "Lovey Emperappy"
+	},
+	{
+		"assign": "REBL",
+		"jp_text": "ダーク・エンペラッピー",
+		"tr_text": "Dark Emperappy"
 	},
 	{
 		"assign": "RP2",
@@ -2515,19 +2545,319 @@
 		"tr_text": "Gu Wonda"
 	},
 	{
+		"assign": "BD2Bbb",
+		"jp_text": "ボンバヴァレーダ",
+		"tr_text": "Bomber Vareda"
+	},
+	{
+		"assign": "BD2Ctl",
+		"jp_text": "ブリュー・リンガーダ",
+		"tr_text": "Blu Ringahda"
+	},
+	{
 		"assign": "FD1Fbb",
 		"jp_text": "ウォルガーダ",
 		"tr_text": "Wolgahda"
 	},
 	{
+		"assign": "B3Glf",
+		"jp_text": "オメガグリフォン",
+		"tr_text": "Omega Gryphon"
+	},
+	{
 		"assign": "N1Dbe",
 		"jp_text": "サンダーロックベア",
-		"tr_text": ""
+		"tr_text": "Thunder Rockbear"
 	},
 	{
 		"assign": "P1Dbe",
 		"jp_text": "サンダーベア",
+		"tr_text": "Thunder Bear"
+	},
+	{
+		"assign": "ID1Ant",
+		"jp_text": "ブリアーダ",
+		"tr_text": "Breeahda"
+	},
+	{
+		"assign": "ID1Bleg",
+		"jp_text": "ダモス",
+		"tr_text": "Damoth"
+	},
+	{
+		"assign": "BD2Drm",
+		"jp_text": "デコル・マリューダ",
+		"tr_text": "Decol Malluda"
+	},
+	{
+		"assign": "B3Blg",
+		"jp_text": "フレイムディアモス",
+		"tr_text": "Flame Diamos"
+	},
+	{
+		"assign": "C4_S",
+		"jp_text": "SOROKING・D",
+		"tr_text": "SOROKING D"
+	},
+	{
+		"assign": "ID1Ahu",
+		"jp_text": "オメガ・アプレジナ",
+		"tr_text": "Omega Apprezina"
+	},
+	{
+		"assign": "B3Drl",
+		"jp_text": "ヴェルムリッター",
+		"tr_text": "Wurmritter"
+	},
+	{
+		"assign": "D1BdS",
+		"jp_text": "アポストロ・ドラゴン",
+		"tr_text": "Apostolo Dragon"
+	},
+	{
+		"assign": "D1BdSR",
+		"jp_text": "デサント・ドラール",
+		"tr_text": "Decente Draal"
+	},
+	{
+		"assign": "ID1Coc",
+		"jp_text": "ゴルドラーダ",
+		"tr_text": "Goldrahda"
+	},
+	{
+		"assign": "ID1Man",
+		"jp_text": "プレディカーダ",
+		"tr_text": "Predicahda"
+	},
+	{
+		"assign": "BD2Bhu",
+		"jp_text": "オメガ・アンゲル",
+		"tr_text": "Omega Angel"
+	},
+	{
+		"assign": "MEDN",
+		"jp_text": "ダークファルス・ペルソナ",
+		"tr_text": "Dark Falz Persona"
+	},
+	{
+		"assign": "B5Coc",
+		"jp_text": "オメガコカトリス",
+		"tr_text": "Omega Cockatrice"
+	},
+	{
+		"assign": "ID1Spa",
+		"jp_text": "ダーク・ラグネ",
+		"tr_text": "Dark Ragne"
+	},
+	{
+		"assign": "TD1Crr",
+		"jp_text": "ボンタ・ベアッダ",
+		"tr_text": "Bonta Bearadda"
+	},
+	{
+		"assign": "TD1ThuW",
+		"jp_text": "オメガ・ダランブル",
+		"tr_text": "Omega Dourumble"
+	},
+	{
+		"assign": "TD1ThuWU",
+		"jp_text": "オメガ・ダランブル",
+		"tr_text": "Omega Dourumble"
+	},
+	{
+		"assign": "TD1ThuWC",
+		"jp_text": "ダランブル・クローネ",
+		"tr_text": "Dourumble Clone"
+	},
+	{
+		"assign": "TD1ThuFU",
+		"jp_text": "オメガ・ダリル",
+		"tr_text": "Omega Dourill"
+	},
+	{
+		"assign": "TD1Pip",
+		"jp_text": "マーダ・トカッタ",
+		"tr_text": "Marda Tocatta"
+	},
+	{
+		"assign": "AKK",
+		"jp_text": "オメガ・マスカレーダ",
+		"tr_text": "Omega Masquerade"
+	},
+	{
+		"assign": "AKKU",
+		"jp_text": "エルガ・マスカレーダ",
+		"tr_text": "Elga Masquerade"
+	},
+	{
+		"assign": "AKKSh",
+		"jp_text": "マスカクローネ",
+		"tr_text": "Masquerade Clone"
+	},
+	{
+		"assign": "AKKUSh",
+		"jp_text": "エルガクローネ",
+		"tr_text": "Elga Clone"
+	},
+	{
+		"assign": "C5_P",
+		"jp_text": "ペルソナ・エルミル",
+		"tr_text": "Persona Elmir"
+	},
+	{
+		"assign": "TD1Blo",
+		"jp_text": "コドッタ・イーデッタ",
+		"tr_text": "Codotta Idetta"
+	},
+	{
+		"assign": "AAADebugEnemyShotS",
+		"jp_text": "デバッグエネミーS",
 		"tr_text": ""
+	},
+	{
+		"assign": "AAADebugEnemyShotL",
+		"jp_text": "デバッグエネミーL",
+		"tr_text": ""
+	},
+	{
+		"assign": "N2Abe",
+		"jp_text": "ミントロックベア",
+		"tr_text": "Mint Rockbear"
+	},
+	{
+		"assign": "P2Abe",
+		"jp_text": "ミントポーラベア",
+		"tr_text": "Mint Polar Bear"
+	},
+	{
+		"assign": "Volcano",
+		"jp_text": "エルゼリオン",
+		"tr_text": "Elzelion"
+	},
+	{
+		"assign": "AAADebugEnemyMoveOnly",
+		"jp_text": "デバッグエネミーM",
+		"tr_text": ""
+	},
+	{
+		"assign": "TD1Hou",
+		"jp_text": "オロタ・ビケッタ",
+		"tr_text": "Orota Biketta"
+	},
+	{
+		"assign": "CY1Dro",
+		"jp_text": "バリール",
+		"tr_text": "Bareel"
+	},
+	{
+		"assign": "M1Tra",
+		"jp_text": "シュトルムマイザー",
+		"tr_text": "Sturm Mizer"
+	},
+	{
+		"assign": "CY1Knu",
+		"jp_text": "ラディルーゴ",
+		"tr_text": "Radilugo"
+	},
+	{
+		"assign": "CY1Tan",
+		"jp_text": "ドラルベルージュ",
+		"tr_text": "Dral Veluge"
+	},
+	{
+		"assign": "CY1TanR",
+		"jp_text": "ドラルグルーディ",
+		"tr_text": "Dral Gurudy"
+	},
+	{
+		"assign": "CY1Shi",
+		"jp_text": "ハバルッサ",
+		"tr_text": "Havalussa"
+	},
+	{
+		"assign": "CY1Ace",
+		"jp_text": "ネメスアンジュール",
+		"tr_text": "Nemes Ange"
+	},
+	{
+		"assign": "CY1AceR",
+		"jp_text": "アヴァールネメシス",
+		"tr_text": "Avar Nemesis"
+	},
+	{
+		"assign": "ID2Doo",
+		"jp_text": "グラナグワナーダ",
+		"tr_text": "Grana Gwanahda"
+	},
+	{
+		"assign": "ID2Don",
+		"jp_text": "グラナグワナーダ・ビット",
+		"tr_text": "Grana Gwanahda Bit"
+	},
+	{
+		"assign": "BD3Ctl",
+		"jp_text": "ラファガ・リンガーダ",
+		"tr_text": "Rafaga Ringahda"
+	},
+	{
+		"assign": "CY1Bos",
+		"jp_text": "ディモールドゥミヌス",
+		"tr_text": "Demoire Dominus"
+	},
+	{
+		"assign": "CY1Sol",
+		"jp_text": "ゾルーラ",
+		"tr_text": "Zolura"
+	},
+	{
+		"assign": "AKKM",
+		"jp_text": "オメガ・マスカレーダ",
+		"tr_text": "Omega Masquerade"
+	},
+	{
+		"assign": "AKKMSh",
+		"jp_text": "マスカクローネ",
+		"tr_text": "Masquerade Clone"
+	},
+	{
+		"assign": "AKKL",
+		"jp_text": "オメガ・マスカレーダ",
+		"tr_text": "Omega Masquerade"
+	},
+	{
+		"assign": "CY1Cap",
+		"jp_text": "ディゾルセイバー",
+		"tr_text": "Dissolsaber"
+	},
+	{
+		"assign": "N3PanA",
+		"jp_text": "ブリザードバンサー",
+		"tr_text": "Blizzard Banther"
+	},
+	{
+		"assign": "N3PanB",
+		"jp_text": "ブリザードバンシー",
+		"tr_text": "Blizzard Banshee"
+	},
+	{
+		"assign": "CY1CapR",
+		"jp_text": "セイバーディグル",
+		"tr_text": "Saber Diggle"
+	},
+	{
+		"assign": "CY1Gun",
+		"jp_text": "オルカーバ",
+		"tr_text": "Orkabah"
+	},
+	{
+		"assign": "N3Bbe",
+		"jp_text": "バンガーベア",
+		"tr_text": "Banger Bear"
+	},
+	{
+		"assign": "FD2All",
+		"jp_text": "ゴルシュレイダ",
+		"tr_text": "Golshrayda"
 	},
 	{
 		"assign": "KingRappy",
@@ -2540,9 +2870,39 @@
 		"tr_text": "Queen Rappy"
 	},
 	{
+		"assign": "KingRappyF",
+		"jp_text": "フログ・キングラッピー",
+		"tr_text": "Frog King Rappy"
+	},
+	{
+		"assign": "KingRappySU",
+		"jp_text": "サマー・キングラッピー",
+		"tr_text": "Summer King Rappy"
+	},
+	{
+		"assign": "KingRappyL",
+		"jp_text": "ラタン・キングラッピー",
+		"tr_text": "Latan King Rappy"
+	},
+	{
+		"assign": "KingRappySE",
+		"jp_text": "セント・キングラッピー",
+		"tr_text": "St. King Rappy"
+	},
+	{
+		"assign": "KingRappyE",
+		"jp_text": "エグ・キングラッピー",
+		"tr_text": "Egg King Rappy"
+	},
+	{
 		"assign": "LocustSP1",
 		"jp_text": "クラーダ＋",
 		"tr_text": "Krada+"
+	},
+	{
+		"assign": "LocustW0",
+		"jp_text": "DWクラーダ",
+		"tr_text": "DW Krada"
 	},
 	{
 		"assign": "SoldierAntSP1",
@@ -2550,9 +2910,19 @@
 		"tr_text": "Dagan+"
 	},
 	{
+		"assign": "SoldierAntW0",
+		"jp_text": "DWダガン",
+		"tr_text": "DW Dagan"
+	},
+	{
 		"assign": "SoldierAntEliteSP1",
 		"jp_text": "エル・ダガン＋",
 		"tr_text": "El Dagan+"
+	},
+	{
+		"assign": "SoldierAntEliteW0",
+		"jp_text": "DWエル・ダガン ",
+		"tr_text": "DW El Dagan"
 	},
 	{
 		"assign": "AntReaperSP1",
@@ -2560,14 +2930,29 @@
 		"tr_text": "El Ahda+"
 	},
 	{
+		"assign": "AntReaperW0",
+		"jp_text": "DWエル・アーダ",
+		"tr_text": "DW El Ahda"
+	},
+	{
 		"assign": "SnailSP1",
 		"jp_text": "カルターゴ＋",
 		"tr_text": "Kartargot+"
 	},
 	{
+		"assign": "SnailW0",
+		"jp_text": "DWカルターゴ",
+		"tr_text": "DW Kartagot"
+	},
+	{
 		"assign": "QueenAntSP1",
 		"jp_text": "ブリアーダ＋",
 		"tr_text": "Breeahda+"
+	},
+	{
+		"assign": "QueenAntW0",
+		"jp_text": "DWブリアーダ",
+		"tr_text": "DW Breeahda"
 	},
 	{
 		"assign": "DoodlebugSP1",
@@ -2590,9 +2975,19 @@
 		"tr_text": "Dark Ragne+"
 	},
 	{
+		"assign": "SpiderW0",
+		"jp_text": "DWダーク・ラグネ",
+		"tr_text": "DW Dark Ragne"
+	},
+	{
 		"assign": "MantisWarriorASP1",
 		"jp_text": "プレディカーダ＋",
 		"tr_text": "Predicahda+"
+	},
+	{
+		"assign": "MantisWarriorAW0",
+		"jp_text": "DWプレディカーダ",
+		"tr_text": "DW Predicahda"
 	},
 	{
 		"assign": "MimicASP1",
@@ -2600,9 +2995,19 @@
 		"tr_text": "Mi Micda+"
 	},
 	{
+		"assign": "MimicAW0",
+		"jp_text": "DWミクダ",
+		"tr_text": "DW Micda"
+	},
+	{
 		"assign": "FloatageFishASP1",
 		"jp_text": "ダーガッシュ＋",
 		"tr_text": "Dahgash+"
+	},
+	{
+		"assign": "FloatageFishAW0",
+		"jp_text": "DWダーガッシュ",
+		"tr_text": "DW Dagash"
 	},
 	{
 		"assign": "FloatageFishBSP1",
@@ -2610,9 +3015,44 @@
 		"tr_text": "Dagacha+"
 	},
 	{
+		"assign": "FloatageFishBW0",
+		"jp_text": "DWダガッチャ",
+		"tr_text": "DW Dagacha"
+	},
+	{
+		"assign": "FishShieldW0",
+		"jp_text": "DWガウォンダ",
+		"tr_text": "DW Ga Wonda"
+	},
+	{
+		"assign": "FishShieldReverseW0",
+		"jp_text": "DWグウォンダ",
+		"tr_text": "DW Gu Wonda"
+	},
+	{
 		"assign": "FishBigBeastASP1",
 		"jp_text": "ウォルガーダ＋",
 		"tr_text": "Wolgahda+"
+	},
+	{
+		"assign": "FishBigBeastAST0",
+		"jp_text": "ソルーシュ",
+		"tr_text": "Soroush"
+	},
+	{
+		"assign": "FishBigBeastAST1",
+		"jp_text": "ソルーシュ",
+		"tr_text": "Soroush"
+	},
+	{
+		"assign": "FishBigBeastAST2",
+		"jp_text": "ソルーシュ",
+		"tr_text": "Soroush"
+	},
+	{
+		"assign": "FishBigBeastAW0",
+		"jp_text": "？？？",
+		"tr_text": ""
 	},
 	{
 		"assign": "MonoeyeASP1",
@@ -2620,9 +3060,19 @@
 		"tr_text": "Kuklonahda+"
 	},
 	{
+		"assign": "MonoeyeAW0",
+		"jp_text": "DWキュクロナーダ",
+		"tr_text": "DW Kuklonahda"
+	},
+	{
 		"assign": "AlligatorSnapperASP1",
 		"jp_text": "ゼッシュレイダ＋",
 		"tr_text": "Zeshrayda+"
+	},
+	{
+		"assign": "AlligatorSnapperAW0",
+		"jp_text": "DWゼッシュレイダ",
+		"tr_text": "DW Zeshrayda"
 	},
 	{
 		"assign": "BirdBirdcrowASP1",
@@ -2630,9 +3080,19 @@
 		"tr_text": "Strahda+"
 	},
 	{
+		"assign": "BirdBirdcrowAW0",
+		"jp_text": "？？？",
+		"tr_text": ""
+	},
+	{
 		"assign": "BirdDoubleHeadSP1",
 		"jp_text": "リューダソーサラー＋",
 		"tr_text": "Luda Sorcerer+"
+	},
+	{
+		"assign": "BirdDoubleHeadW0",
+		"jp_text": "DWリューダソーサラー",
+		"tr_text": "DW Luda Sorcerer"
 	},
 	{
 		"assign": "BirdCentaurSP1",
@@ -2643,6 +3103,36 @@
 		"assign": "BirdCentaurSP2",
 		"jp_text": "ブリュー・リンガーダ＋",
 		"tr_text": "Blu Ringahda+"
+	},
+	{
+		"assign": "BirdCentaurW0",
+		"jp_text": "？？？",
+		"tr_text": ""
+	},
+	{
+		"assign": "BirdCrestW0",
+		"jp_text": "DWドリュアーダ",
+		"tr_text": "DW Doluahda"
+	},
+	{
+		"assign": "BirdCrestSP1",
+		"jp_text": "ドリュアーダ＋",
+		"tr_text": "Doluahda+"
+	},
+	{
+		"assign": "BirdSoldierAW0",
+		"jp_text": "DWソルダ・カピタ",
+		"tr_text": "DW Solda Kapita"
+	},
+	{
+		"assign": "BirdSoldierASP1",
+		"jp_text": "ソルダ・カピタ＋",
+		"tr_text": "Solda Kapita+"
+	},
+	{
+		"assign": "BirdStackedW0",
+		"jp_text": "DWデコル・マリューダ",
+		"tr_text": "DW Decol Malluda"
 	},
 	{
 		"assign": "NativeBeastSP1",
@@ -2862,7 +3352,7 @@
 	{
 		"assign": "DragonBerserkASP1",
 		"jp_text": "クローム・ドラゴン＋",
-		"tr_text": ""
+		"tr_text": "Chrome Dragon+"
 	},
 	{
 		"assign": "MarineTetraSP1",
@@ -2878,6 +3368,16 @@
 		"assign": "MarineOrcaSP1",
 		"jp_text": "オルグブラン＋",
 		"tr_text": "Org Blan+"
+	},
+	{
+		"assign": "AbyssTetraSP1",
+		"jp_text": "ブルトルボン＋",
+		"tr_text": "Blutorbon+"
+	},
+	{
+		"assign": "AbyssFlowerSP1",
+		"jp_text": "ビオル・メデューナ＋",
+		"tr_text": "Biol Meduna+"
 	},
 	{
 		"assign": "MarineOrcaRareST0",
@@ -2930,6 +3430,31 @@
 		"tr_text": "Hade"
 	},
 	{
+		"assign": "DragonBerserkRareST1",
+		"jp_text": "ヘイド",
+		"tr_text": "Hade"
+	},
+	{
+		"assign": "DragonBerserkRareST2",
+		"jp_text": "ヘイド",
+		"tr_text": "Hade"
+	},
+	{
+		"assign": "AbyssFlowerRareST0",
+		"jp_text": "アナティス",
+		"tr_text": "Anatis"
+	},
+	{
+		"assign": "AbyssFlowerRareST1",
+		"jp_text": "アナティス",
+		"tr_text": "Anatis"
+	},
+	{
+		"assign": "DpAbyssHumanUniqST0",
+		"jp_text": "ホルシード",
+		"tr_text": "Khorshid"
+	},
+	{
 		"assign": "PantherBRareQU0",
 		"jp_text": "バンサ・ドンナ",
 		"tr_text": "Banther Donna"
@@ -2963,6 +3488,21 @@
 		"assign": "PantherSnowARareHC1",
 		"jp_text": "タイプＣバンサ・オラン＋",
 		"tr_text": "Type-C Banther Oran"
+	},
+	{
+		"assign": "PantherSnowARareMC0",
+		"jp_text": "覇滅バンサ・オラン",
+		"tr_text": "Superior Banther Oran"
+	},
+	{
+		"assign": "PantherSnowARareMC1",
+		"jp_text": "覇滅バンサ・オラン",
+		"tr_text": "Superior Banther Oran"
+	},
+	{
+		"assign": "PantherSnowARareMC2",
+		"jp_text": "覇滅バンサ・オラン",
+		"tr_text": "Superior Banther Oran"
 	},
 	{
 		"assign": "PantherARareLD0",
@@ -3190,6 +3730,51 @@
 		"tr_text": "Superior Embryo Vardha"
 	},
 	{
+		"assign": "UltMechaPanthBusterRareLD0",
+		"jp_text": "小型レオパード・ヴロッゾ",
+		"tr_text": "Small Leopard Vlozzo"
+	},
+	{
+		"assign": "UltMechaPanthBusterRareATK0",
+		"jp_text": "大型レオパード・ヴロッゾ",
+		"tr_text": "Large Leopard Vlozzo"
+	},
+	{
+		"assign": "UltMechaPanthBusterRareSPD0",
+		"jp_text": "狂暴レオパード・ヴロッゾ",
+		"tr_text": "Violent Leopard Vlozzo"
+	},
+	{
+		"assign": "UltMechaPanthBusterRareAN0",
+		"jp_text": "特異レオパード・ヴロッゾ",
+		"tr_text": "Exceptional Leopard Vlozzo"
+	},
+	{
+		"assign": "UltMechaPanthBusterRareHC0",
+		"jp_text": "タイプＣレオパード・ヴロッゾ",
+		"tr_text": "Type-C Leopard Vlozzo"
+	},
+	{
+		"assign": "UltMechaPanthBusterRareHC1",
+		"jp_text": "タイプＣレオパード・ヴロッゾ＋",
+		"tr_text": "Type-C Leopard Vlozzo+"
+	},
+	{
+		"assign": "UltMechaPanthBusterRareMC0",
+		"jp_text": "覇滅レオパード・ヴロッゾ",
+		"tr_text": "Superior Leopard Vlozzo"
+	},
+	{
+		"assign": "UltMechaPanthBusterRareMC1",
+		"jp_text": "覇滅レオパード・ヴロッゾ",
+		"tr_text": "Superior Leopard Vlozzo"
+	},
+	{
+		"assign": "UltMechaPanthBusterRareMC2",
+		"jp_text": "覇滅レオパード・ヴロッゾ",
+		"tr_text": "Superior Leopard Vlozzo"
+	},
+	{
 		"assign": "DragonCrystalRareLD0",
 		"jp_text": "小型クリス・ドラール",
 		"tr_text": "Small Crys Draal"
@@ -3265,6 +3850,21 @@
 		"tr_text": "Type-C Noir Draal+"
 	},
 	{
+		"assign": "DragonGladiatorRareMC0",
+		"jp_text": "覇滅ノワル・ドラール",
+		"tr_text": "Superior Noir Draal"
+	},
+	{
+		"assign": "DragonGladiatorRareMC1",
+		"jp_text": "覇滅ノワル・ドラール",
+		"tr_text": "Superior Noir Draal"
+	},
+	{
+		"assign": "DragonGladiatorRareMC2",
+		"jp_text": "覇滅ノワル・ドラール",
+		"tr_text": "Superior Noir Draal"
+	},
+	{
 		"assign": "DragonBerserkARareLD0",
 		"jp_text": "小型ヘイズ・ドラール",
 		"tr_text": "Small Haze Draal"
@@ -3333,6 +3933,21 @@
 		"assign": "AlligatorSnapperRareMU1",
 		"jp_text": "未知リグシュレイダ＋",
 		"tr_text": "Unknown Rigshrayda+"
+	},
+	{
+		"assign": "AlligatorSnapperRareMC0",
+		"jp_text": "覇滅リグシュレイダ",
+		"tr_text": "Superior Rigshrayda"
+	},
+	{
+		"assign": "AlligatorSnapperRareMC1",
+		"jp_text": "覇滅リグシュレイダ",
+		"tr_text": "Superior Rigshrayda"
+	},
+	{
+		"assign": "AlligatorSnapperRareMC2",
+		"jp_text": "覇滅リグシュレイダ",
+		"tr_text": "Superior Rigshrayda"
 	},
 	{
 		"assign": "SpiderRareLD0",
@@ -3460,6 +4075,51 @@
 		"tr_text": "Superior Org Keratos"
 	},
 	{
+		"assign": "AbyssFlowerRareLD0",
+		"jp_text": "小型マギサ・メデューナ",
+		"tr_text": "Small Magisa Meduna"
+	},
+	{
+		"assign": "AbyssFlowerRareATK0",
+		"jp_text": "大型マギサ・メデューナ",
+		"tr_text": "Large Magisa Meduna"
+	},
+	{
+		"assign": "AbyssFlowerRareSPD0",
+		"jp_text": "狂暴マギサ・メデューナ",
+		"tr_text": "Violent Magisa Meduna"
+	},
+	{
+		"assign": "AbyssFlowerRareAN0",
+		"jp_text": "特異マギサ・メデューナ",
+		"tr_text": "Exceptional Magisa Meduna"
+	},
+	{
+		"assign": "AbyssFlowerRareHC0",
+		"jp_text": "タイプＣマギサ・メデューナ",
+		"tr_text": "Type-C Magisa Meduna"
+	},
+	{
+		"assign": "AbyssFlowerRareHC1",
+		"jp_text": "タイプＣマギサ・メデューナ＋",
+		"tr_text": "Type-C Magisa Meduna+"
+	},
+	{
+		"assign": "AbyssFlowerRareMC0",
+		"jp_text": "覇滅マギサ・メデューナ",
+		"tr_text": "Superior Magisa Meduna"
+	},
+	{
+		"assign": "AbyssFlowerRareMC1",
+		"jp_text": "覇滅マギサ・メデューナ",
+		"tr_text": "Superior Magisa Meduna"
+	},
+	{
+		"assign": "AbyssFlowerRareMC2",
+		"jp_text": "覇滅マギサ・メデューナ",
+		"tr_text": "Superior Magisa Meduna"
+	},
+	{
 		"assign": "FishBigBeastLD0",
 		"jp_text": "小型アロナガーダ",
 		"tr_text": "Small Alonagahda"
@@ -3490,9 +4150,19 @@
 		"tr_text": "Krada EX"
 	},
 	{
+		"assign": "LocustExW0",
+		"jp_text": "DWクラーダＥｘ",
+		"tr_text": "DW Krada EX"
+	},
+	{
 		"assign": "SoldierAntEx",
 		"jp_text": "ダガンＥｘ",
 		"tr_text": "Dagan EX"
+	},
+	{
+		"assign": "SoldierAntExW0",
+		"jp_text": "DWダガンＥｘ",
+		"tr_text": "DW Dagan EX"
 	},
 	{
 		"assign": "SoldierAntEliteEx",
@@ -3500,9 +4170,19 @@
 		"tr_text": "El Dagan EX"
 	},
 	{
+		"assign": "SoldierAntEliteExW0",
+		"jp_text": "DWエル・ダガンＥｘ",
+		"tr_text": "DW El Dagan EX"
+	},
+	{
 		"assign": "AntReaperEx",
 		"jp_text": "エル・アーダＥｘ",
 		"tr_text": "El Ahda EX"
+	},
+	{
+		"assign": "AntReaperExW0",
+		"jp_text": "DWエル・アーダＥｘ",
+		"tr_text": "DW El Ahda EX"
 	},
 	{
 		"assign": "SnailEx",
@@ -3510,9 +4190,19 @@
 		"tr_text": "Kartargot EX"
 	},
 	{
+		"assign": "SnailExW0",
+		"jp_text": "DWカルターゴＥｘ",
+		"tr_text": "DW Kartargot EX"
+	},
+	{
 		"assign": "QueenAntEx",
 		"jp_text": "ブリアーダＥｘ",
 		"tr_text": "Breeahda EX"
+	},
+	{
+		"assign": "QueenAntExW0",
+		"jp_text": "DWブリアーダＥｘ",
+		"tr_text": "DW Breeahda EX"
 	},
 	{
 		"assign": "DoodlebugEx",
@@ -3525,9 +4215,19 @@
 		"tr_text": "Dark Ragne EX"
 	},
 	{
+		"assign": "SpiderExW0",
+		"jp_text": "DWダーク・ラグネＥｘ",
+		"tr_text": "DW Dark Ragne EX"
+	},
+	{
 		"assign": "MantisWarriorAEx",
 		"jp_text": "プレディカーダＥｘ",
 		"tr_text": "Predicahda EX"
+	},
+	{
+		"assign": "MantisWarriorAExW0",
+		"jp_text": "DWプレディカーダＥｘ",
+		"tr_text": "DW Predicahda EX"
 	},
 	{
 		"assign": "DoodlebugNeedleEx",
@@ -3540,9 +4240,19 @@
 		"tr_text": "Micda EX"
 	},
 	{
+		"assign": "MimicAExW0",
+		"jp_text": "DWミクダＥｘ",
+		"tr_text": "DW Micda EX"
+	},
+	{
 		"assign": "FloatageFishAEx",
 		"jp_text": "ダーガッシュＥｘ",
 		"tr_text": "Dahgash EX"
+	},
+	{
+		"assign": "FloatageFishAExW0",
+		"jp_text": "DWダーガッシュＥｘ",
+		"tr_text": "DW Dahgash EX"
 	},
 	{
 		"assign": "FloatageFishBEx",
@@ -3550,9 +4260,19 @@
 		"tr_text": "Dagacha EX"
 	},
 	{
+		"assign": "FloatageFishBExW0",
+		"jp_text": "DWダガッチャＥｘ",
+		"tr_text": "DW Dagacha EX"
+	},
+	{
 		"assign": "FishShieldEx",
 		"jp_text": "ガウォンダＥｘ",
 		"tr_text": "Ga Wonda EX"
+	},
+	{
+		"assign": "FishShieldExW0",
+		"jp_text": "DWガウォンダＥｘ",
+		"tr_text": "DW Ga Wonda EX"
 	},
 	{
 		"assign": "FishShieldReverseEx",
@@ -3560,9 +4280,34 @@
 		"tr_text": "Gu Wonda EX"
 	},
 	{
+		"assign": "FishShieldReverseExW0",
+		"jp_text": "DWグウォンダＥｘ",
+		"tr_text": "DW Gu Wonda EX"
+	},
+	{
 		"assign": "FishBigBeastAEx",
 		"jp_text": "ウォルガーダＥｘ",
 		"tr_text": "Wolgahda EX"
+	},
+	{
+		"assign": "FishBigBeastAST0Ex",
+		"jp_text": "ソルーシュＥｘ",
+		"tr_text": "Soroush EX"
+	},
+	{
+		"assign": "FishBigBeastAST1Ex",
+		"jp_text": "ソルーシュＥｘ",
+		"tr_text": "Soroush EX"
+	},
+	{
+		"assign": "FishBigBeastAST2Ex",
+		"jp_text": "ソルーシュＥｘ",
+		"tr_text": "Soroush EX"
+	},
+	{
+		"assign": "FishBigBeastAExW0",
+		"jp_text": "？？？？",
+		"tr_text": ""
 	},
 	{
 		"assign": "FishBigBeastBEx",
@@ -3575,9 +4320,19 @@
 		"tr_text": "Kuklonahda EX"
 	},
 	{
+		"assign": "MonoeyeAExW0",
+		"jp_text": "DWキュクロナーダＥｘ",
+		"tr_text": "DW Kuklonahda EX"
+	},
+	{
 		"assign": "AlligatorSnapperAEx",
 		"jp_text": "ゼッシュレイダＥｘ",
 		"tr_text": "Zeshrayda EX"
+	},
+	{
+		"assign": "AlligatorSnapperAExW0",
+		"jp_text": "DWゼッシュレイダＥｘ",
+		"tr_text": "DW Zeshrayda EX"
 	},
 	{
 		"assign": "BirdBirdcrowAEx",
@@ -3585,14 +4340,59 @@
 		"tr_text": "Strada EX"
 	},
 	{
+		"assign": "BirdBirdcrowAExW0",
+		"jp_text": "？？？？",
+		"tr_text": ""
+	},
+	{
 		"assign": "BirdDoubleHeadEx",
 		"jp_text": "リューダソーサラーＥｘ",
 		"tr_text": "Luda Sorcerer EX"
 	},
 	{
+		"assign": "BirdDoubleHeadExW0",
+		"jp_text": "DWリューダソーサラーＥｘ",
+		"tr_text": "DW Luda Sorcerer EX"
+	},
+	{
 		"assign": "BirdCentaurEx",
 		"jp_text": "ブリュー・リンガーダＥｘ",
 		"tr_text": "Blu Ringahda EX"
+	},
+	{
+		"assign": "BirdCentaurExW0",
+		"jp_text": "？？？？",
+		"tr_text": ""
+	},
+	{
+		"assign": "BirdCrestEx",
+		"jp_text": "ドリュアーダＥｘ",
+		"tr_text": "Doluahda EX"
+	},
+	{
+		"assign": "BirdCrestExW0",
+		"jp_text": "DWドリュアーダＥｘ",
+		"tr_text": "DW Doluahda EX"
+	},
+	{
+		"assign": "BirdSoldierAEx",
+		"jp_text": "ソルダ・カピタＥｘ",
+		"tr_text": "Solda Kapita EX"
+	},
+	{
+		"assign": "BirdSoldierAExW0",
+		"jp_text": "DWソルダ・カピタＥｘ",
+		"tr_text": "DW Solda Kapita EX"
+	},
+	{
+		"assign": "BirdStackedEx",
+		"jp_text": "デコル・マリューダＥｘ",
+		"tr_text": "Decol Malluda EX"
+	},
+	{
+		"assign": "BirdStackedExW0",
+		"jp_text": "DWデコル・マリューダＥｘ",
+		"tr_text": "DW Decol Malluda EX"
 	},
 	{
 		"assign": "NativeBeastEx",
@@ -3730,6 +4530,26 @@
 		"tr_text": "Vardha Soma EX"
 	},
 	{
+		"assign": "UltHologramRobotEx",
+		"jp_text": "シノワラピドゥスEx",
+		"tr_text": "Sinow Rapidus EX"
+	},
+	{
+		"assign": "UltMachineWolfEx",
+		"jp_text": "カイザーバルガーEx",
+		"tr_text": "Kaiser Vargr EX"
+	},
+	{
+		"assign": "UltMachineCCanonEx",
+		"jp_text": "ブレードディンゲールEx",
+		"tr_text": "Blade Dingell EX"
+	},
+	{
+		"assign": "UltMechaPanthBusterEx",
+		"jp_text": "ヴリマ・レオパードＥｘ",
+		"tr_text": "Vlima Leopard EX"
+	},
+	{
 		"assign": "DragonRizardmanAEx",
 		"jp_text": "シル・ディーニアンＥｘ",
 		"tr_text": "Sil Dinian EX"
@@ -3815,16 +4635,6 @@
 		"tr_text": "Vol Dragon EX"
 	},
 	{
-		"assign": "DragonMagmaEx",
-		"jp_text": "ヴォル・ドラゴン２Ｅｘ",
-		"tr_text": "Vol Dragon-2 EX"
-	},
-	{
-		"assign": "DragonMagmaEx",
-		"jp_text": "ヴォル・ドラゴン３Ｅｘ",
-		"tr_text": "Vol Dragon-3 EX"
-	},
-	{
 		"assign": "DragonCrystalEx",
 		"jp_text": "クォーツ・ドラゴンＥｘ",
 		"tr_text": "Quartz Dragon EX"
@@ -3833,6 +4643,11 @@
 		"assign": "DragonGladiatorEx",
 		"jp_text": "ドラゴン・エクスＥｘ",
 		"tr_text": "Dragon Ex EX"
+	},
+	{
+		"assign": "DragonBerserkAEx",
+		"jp_text": "クローム・ドラゴンＥｘ",
+		"tr_text": "Chrome Dragon EX"
 	},
 	{
 		"assign": "MarineTetraEx",
@@ -3860,9 +4675,54 @@
 		"tr_text": "Dante EX"
 	},
 	{
+		"assign": "AbyssTetraEx",
+		"jp_text": "ブルトルボンＥｘ",
+		"tr_text": "Blutorbon EX"
+	},
+	{
 		"assign": "DarkerCannonAEx",
 		"jp_text": "特殊粒子砲台Ｅｘ",
 		"tr_text": "Darker Particle Battery EX"
+	},
+	{
+		"assign": "AbyssFlowerEx",
+		"jp_text": "ビオル・メデューナＥｘ",
+		"tr_text": "Biol Meduna EX"
+	},
+	{
+		"assign": "Mono2EyeArmEx",
+		"jp_text": "パジゴワンEx",
+		"tr_text": "Paji-gowan EX"
+	},
+	{
+		"assign": "Mono2LanternEx",
+		"jp_text": "コドニアガリEx",
+		"tr_text": "Codoni-agari EX"
+	},
+	{
+		"assign": "Mono2MinkEx",
+		"jp_text": "イタギザクリEx",
+		"tr_text": "Itagi-zakri EX"
+	},
+	{
+		"assign": "Mono2SkullHummerEx",
+		"jp_text": "バン・オガキバルEx",
+		"tr_text": "Ban Ogaki-baru EX"
+	},
+	{
+		"assign": "Mono2SkullPoleEx",
+		"jp_text": "ボル・オガキバルEx",
+		"tr_text": "Bol Ogaki-baru EX"
+	},
+	{
+		"assign": "Mono2SkullRifleEx",
+		"jp_text": "ガウ・オガキバルEx",
+		"tr_text": "Gau Ogaki-baru EX"
+	},
+	{
+		"assign": "Mono2XcutionerEx",
+		"jp_text": "グアル・ジグモルデEx",
+		"tr_text": "Guar Zigmorde EX"
 	},
 	{
 		"assign": "PantherBRareST0Ex",
@@ -3903,6 +4763,31 @@
 		"assign": "DragonBerserkRareST0Ex",
 		"jp_text": "ヘイドＥｘ",
 		"tr_text": "Hade EX"
+	},
+	{
+		"assign": "DragonBerserkRareST1Ex",
+		"jp_text": "ヘイドＥｘ",
+		"tr_text": "Hade EX"
+	},
+	{
+		"assign": "DragonBerserkRareST2Ex",
+		"jp_text": "ヘイドＥｘ",
+		"tr_text": "Hade EX"
+	},
+	{
+		"assign": "AbyssFlowerRareST0Ex",
+		"jp_text": "アナティスＥｘ",
+		"tr_text": "Anatis EX"
+	},
+	{
+		"assign": "AbyssFlowerRareST1Ex",
+		"jp_text": "アナティスＥｘ",
+		"tr_text": "Anatis EX"
+	},
+	{
+		"assign": "DpAbyssHumanUniqST0Ex",
+		"jp_text": "ホルシードＥｘ",
+		"tr_text": "Khorshid EX"
 	},
 	{
 		"assign": "PantherBRareQU0Ex",

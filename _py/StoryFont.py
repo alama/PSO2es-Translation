@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-# coding=utf8
+# -*- coding: utf-8 -*-
 import _fonts
 import codecs
+from collections import OrderedDict
 import fnmatch
 import json
 import os
 import sys
-from collections import OrderedDict
 
 # error counter
 counterr = 0
@@ -62,7 +62,7 @@ FSs = OrderedDict(sorted(FSk.items(), key=lambda t: t[1]))
 if len(sys.argv) == 3:
     print(json.dumps(FSs, ensure_ascii=False, indent="\t", sort_keys=False))
 else:  # JP MAX: 37.53
-    FSWP = OrderedDict((key, value) for key, value in FSs.items() if value > 45)
+    FSWP = OrderedDict((key, value) for key, value in FSs.items() if value > 24.75)
     for e, s in FSWP.items():  # TXT MAX: 45
         t = e.replace("\n", "br")
         counterr += 1

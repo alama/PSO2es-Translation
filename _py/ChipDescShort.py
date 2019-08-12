@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-# coding=utf8
+# -*- coding: utf-8 -*-
 import _fonts
 import codecs
+from collections import OrderedDict
 import fnmatch
 import json
 import os
 import sys
-from collections import OrderedDict
 
 # Error counter
 counterr = 0
@@ -67,13 +67,13 @@ FSs = OrderedDict(sorted(FSk.items(), key=lambda t: t[1]))
 if len(sys.argv) == 3:
     print(json.dumps(FSs, ensure_ascii=False, indent="\t", sort_keys=False))
 else:  # JP MAX: 36.79
-    FSEP = OrderedDict((key, value) for key, value in FSs.items() if value > 36.79)
+    FSEP = OrderedDict((key, value) for key, value in FSs.items() if value > 21.5)
     for e, s in FSEP.items():
         counterr += 1
         print("Chip Short explain '{}' is too big: {}".format(e, s))
 
 # Disable error
-counterr = -counterr
+# counterr = -counterr
 
 if counterr > 0:
     sys.exit("Issues found")

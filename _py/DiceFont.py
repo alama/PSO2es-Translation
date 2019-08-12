@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-# coding=utf8
+# -*- coding: utf-8 -*-
 import _fonts
 import codecs
+from collections import OrderedDict
 import fnmatch
 import json
 import os
 import sys
-from collections import OrderedDict
 
 # Error counter
 counterr = 0
@@ -46,7 +46,7 @@ for files in dice_files:
 FSk = OrderedDict(sorted(FS.items(), key=lambda t: t[0]))
 FSs = OrderedDict(sorted(FSk.items(), key=lambda t: t[1]))
 
-FSER = OrderedDict((key, value) for key, value in FSs.items() if value > 41)
+FSER = OrderedDict((key, value) for key, value in FSs.items() if value > 21.58)
 
 if len(sys.argv) == 3:
     print(json.dumps(FSs, ensure_ascii=False, indent="\t", sort_keys=False))

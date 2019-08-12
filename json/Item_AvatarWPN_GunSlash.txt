@@ -58,9 +58,9 @@
 	{
 		"assign": "107014",
 		"jp_text": "＊戒剣ナナキ",
-		"tr_text": "＊Nanaki",
+		"tr_text": "＊Guiding Blade Nanaki",
 		"jp_explain": "創世器「戒剣ナナキ」を模して作られた\n銃剣型武器迷彩。始まりと終わりを\n具象した色調変化も再現されている。",
-		"tr_explain": ""
+		"tr_explain": "Weapon camo of the Genesis Weapon\n\"Guiding Blade Nanaki\". Its two colors\nrepresent the beginning and the end."
 	},
 	{
 		"assign": "107015",
@@ -130,6 +130,48 @@
 		"jp_text": "＊ロジーの錬金剣",
 		"tr_text": "＊Logy Alchemic Sword",
 		"jp_explain": "中央の技術の粋を集め作られた錬金剣の\n武器迷彩。ロジーが欠かさず手入れを\nしており、唯一無二の鋭さを発揮する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "107030",
+		"jp_text": "＊ロードアキシオン",
+		"tr_text": "＊Lord Axeon",
+		"jp_explain": "アキシオンに改良を加えた銃剣型\n武器迷彩。あるハンターの想い出の\n品であり命を預ける武器でもあった。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "107031",
+		"jp_text": "＊メガスラッシュエッジ",
+		"tr_text": "＊Mega Slash Edge",
+		"jp_explain": "フレームアームズの追加装備を模した\n武器迷彩。分離・合体・変形が可能な\nブレード型ヘヴィウェポンユニット。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "107032",
+		"jp_text": "＊カムラディオアモク",
+		"tr_text": "＊Camladio Amok",
+		"jp_explain": "ダーカー因子との調和を果たした\n武器迷彩。持つ者は闘争への欲望に\n突き動かされ、巨なる力を手にする。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "107033",
+		"jp_text": "＊フィーネスカリダス",
+		"tr_text": "＊Finesse Callidus",
+		"jp_explain": "ダーカー因子との調和を果たした\n武器迷彩。全知への執着が剥がれ落ち\n研ぎ澄まされた知性が輝き出す。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "107034",
+		"jp_text": "＊アディクトシャルム",
+		"tr_text": "＊Addict Charm",
+		"jp_explain": "ダーカー因子により変貌を遂げた\n武器迷彩。破滅に誘い込む魅惑の力で\n標的を甘美な終焉で満たす。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "107035",
+		"jp_text": "＊ブロマペトレーマ",
+		"tr_text": "＊Blow'm Up Tremor",
+		"jp_explain": "ダーカー因子によって変貌を遂げた\n武器迷彩。際限のない無邪気な悪意で\n標的を嘲り尽くし、恐怖の底へ堕とす。",
 		"tr_explain": ""
 	}
 ]

@@ -2,12 +2,12 @@
 	{
 		"assign": "2519901",
 		"jp_text": "es/ACスクラッチのアイテム・チップ",
-		"tr_text": "es/AC Scratch Item - Chip"
+		"tr_text": "es/AC Scratch Item/Chip"
 	},
 	{
 		"assign": "2519902",
 		"jp_text": "es/ACスクラッチ以外のアイテム・チップ",
-		"tr_text": "Item - Chip other than es/AC Scratch"
+		"tr_text": "Non-es/AC Scratch Item/Chip"
 	},
 	{
 		"assign": "2519903",
@@ -17,17 +17,17 @@
 	{
 		"assign": "2519904",
 		"jp_text": "es/ACスクラッチ以外のアイテム",
-		"tr_text": ""
+		"tr_text": "Non-es/AC Scratch Item"
 	},
 	{
 		"assign": "2519905",
 		"jp_text": "es/ACスクラッチのチップ",
-		"tr_text": ""
+		"tr_text": "es/AC Scratch Chip"
 	},
 	{
 		"assign": "2519906",
 		"jp_text": "es/ACスクラッチ以外のチップ",
-		"tr_text": ""
+		"tr_text": "Non-es/AC Scratch Chip"
 	},
 	{
 		"assign": "2519800",
@@ -102,7 +102,17 @@
 	{
 		"assign": "25198014",
 		"jp_text": "クロームドラゴン系チップ",
-		"tr_text": ""
+		"tr_text": "Chrome Dragon Chip"
+	},
+	{
+		"assign": "25198015",
+		"jp_text": "ビオル・メデューナ系チップ",
+		"tr_text": "Biol Meduna Chip"
+	},
+	{
+		"assign": "25198016",
+		"jp_text": "レオパード・ヴロッゾ系チップ",
+		"tr_text": "Leopard Vlozzo Chip"
 	},
 	{
 		"assign": "2519701",
@@ -110,34 +120,19 @@
 		"tr_text": "Arion Weapon"
 	},
 	{
-		"assign": "2519702",
-		"jp_text": "特定の解放用素材チップ",
-		"tr_text": ""
+		"assign": "60901",
+		"jp_text": "ボーナスポイント",
+		"tr_text": "Bonus Point"
 	},
 	{
-		"assign": "2519703",
-		"jp_text": "特定の解放用素材チップ",
-		"tr_text": ""
+		"assign": "601901",
+		"jp_text": "超級トリガー",
+		"tr_text": "SH Trigger"
 	},
 	{
-		"assign": "2519704",
-		"jp_text": "特定の解放用素材チップ",
-		"tr_text": ""
-	},
-	{
-		"assign": "2519705",
-		"jp_text": "特定の解放用素材チップ",
-		"tr_text": ""
-	},
-	{
-		"assign": "2519706",
-		"jp_text": "特定の解放用素材チップ",
-		"tr_text": ""
-	},
-	{
-		"assign": "2519707",
-		"jp_text": "特定の解放用素材チップ",
-		"tr_text": ""
+		"assign": "602101",
+		"jp_text": "覇級トリガー",
+		"tr_text": "XH Trigger"
 	},
 	{
 		"assign": "602401",
@@ -147,6 +142,56 @@
 	{
 		"assign": "602601",
 		"jp_text": "エターナルジュエル",
-		"tr_text": ""
+		"tr_text": "Eternal Jewel"
+	},
+	{
+		"assign": "602801",
+		"jp_text": "ウェポノイドポイント",
+		"tr_text": "Weaponoid Point"
+	},
+	{
+		"assign": "2519702",
+		"jp_text": "特定の解放用素材チップ",
+		"tr_text": "Specific Release Material Chip"
+	},
+	{
+		"assign": "2519703",
+		"jp_text": "特定の解放用素材チップ",
+		"tr_text": "Specific Release Material Chip"
+	},
+	{
+		"assign": "2519704",
+		"jp_text": "特定の解放用素材チップ",
+		"tr_text": "Specific Release Material Chip"
+	},
+	{
+		"assign": "2519705",
+		"jp_text": "特定の解放用素材チップ",
+		"tr_text": "Specific Release Material Chip"
+	},
+	{
+		"assign": "2519706",
+		"jp_text": "特定の解放用素材チップ",
+		"tr_text": "Specific Release Material Chip"
+	},
+	{
+		"assign": "2519707",
+		"jp_text": "特定の解放用素材チップ",
+		"tr_text": "Specific Release Material Chip"
+	},
+	{
+		"assign": "2519600",
+		"jp_text": "対象のレアリティ★１０～１１武器",
+		"tr_text": "Rarity ★10~11 Weapon"
+	},
+	{
+		"assign": "2519501",
+		"jp_text": "ウェポノイドチップ",
+		"tr_text": "Weaponoid Chip"
+	},
+	{
+		"assign": "2519400",
+		"jp_text": "対象のレアリティ★１０～１１ユニット",
+		"tr_text": "Rarity ★10~11 Unit"
 	}
 ]

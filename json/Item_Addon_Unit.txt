@@ -361,7 +361,7 @@
 		"jp_text": "サブ／ボルトリード",
 		"tr_text": "Sub/Bolt Lead",
 		"jp_explain": "汎用装備可能なユニット。\nチップ技術を応用したフレームを使用。\n雷属性耐性とＰＰを大きく上昇させる。",
-		"tr_explain": "A general purpose unit.\nUsing Chip Technology, this unit\ngreatly increases Lightning Resist&PP."
+		"tr_explain": "A general purpose unit. Using Chip\nTechnology, this unit greatly\nincreases Lightning Resist&PP."
 	},
 	{
 		"assign": "54052",
@@ -389,7 +389,7 @@
 		"jp_text": "サブ／ウェポンズバリア",
 		"tr_text": "Sub/Weapons Barrier",
 		"jp_explain": "汎用装備可能なユニット。\n全ての属性への耐性を持ち\n最大ＨＰを大幅に上昇させる。 ",
-		"tr_explain": ""
+		"tr_explain": "An equippable all-purpose unit.\nProvides resistance to all attributes\nand greatly increases maximum HP."
 	},
 	{
 		"assign": "54056",
@@ -417,7 +417,7 @@
 		"jp_text": "サブ／ボルトリジッド",
 		"tr_text": "Sub/Bolt Rigid",
 		"jp_explain": "汎用装備可能なユニット。\nチップ技術を応用したフレームを使用。\n雷属性耐性とＨＰを大きく上昇させる。",
-		"tr_explain": "A general purpose unit.\nUsing Chip Technology, this unit\ngreatly increases Lightning Resist&HP."
+		"tr_explain": "A general purpose unit. Using Chip\nTechnology, this unit greatly\nincreases Lightning Resist&HP."
 	},
 	{
 		"assign": "54060",
@@ -481,5 +481,12 @@
 		"tr_text": "Sub/Gloom Revolt",
 		"jp_explain": "汎用装備可能なユニット。\nチップ技術を応用したフレームを使用。\n闇耐性を持ち、ＨＰとＰＰを上昇させる。",
 		"tr_explain": ""
+	},
+	{
+		"assign": "54069",
+		"jp_text": "サブ／ステラウォール",
+		"tr_text": "Sub/Stellar Wall",
+		"jp_explain": "汎用装備可能なユニット。\n打撃、射撃、法撃属性の耐性と\n各種攻撃、防御を上昇させる。",
+		"tr_explain": "An equippable all-purpose unit.\nIncreases striking, shooting and tech\nresistance, as well as ATK and DEF."
 	}
 ]

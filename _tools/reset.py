@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
-# coding=utf8
+# -*- coding: utf-8 -*-
 import codecs
-import fnmatch
-import os
-import json
-import sys
 from collections import OrderedDict
+import fnmatch
+import json
+import os
+import sys
 
 # error counter
 counterr = 0
@@ -27,6 +27,7 @@ for files in json_files:
     update = False
     f = os.path.splitext(os.path.basename(files))[0]
     with codecs.open(files, mode='r', encoding='utf-8') as json_file:
+        print("Opening {}".format(files))
         djson = json.load(json_file, object_pairs_hook=OrderedDict)
         for entry in djson:
             for data in entry:

@@ -32,12 +32,12 @@
 	{
 		"assign": "6507",
 		"jp_text": "金のリリーパ",
-		"tr_text": "Gold Lillipa"
+		"tr_text": "Gold Lillipan"
 	},
 	{
 		"assign": "6508",
 		"jp_text": "銀のリリーパ",
-		"tr_text": "Silver Lillipa"
+		"tr_text": "Silver Lillipan"
 	},
 	{
 		"assign": "6509",
@@ -68,5 +68,15 @@
 		"assign": "6514",
 		"jp_text": "闇のポリタン",
 		"tr_text": "Dark Polytan"
+	},
+	{
+		"assign": "6515",
+		"jp_text": "ラグナロック",
+		"tr_text": "Ragnarok"
+	},
+	{
+		"assign": "6516",
+		"jp_text": "フェンリル",
+		"tr_text": "Fenrir"
 	}
 ]

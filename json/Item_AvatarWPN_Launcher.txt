@@ -173,5 +173,75 @@
 		"tr_text": "＊Verund Cannon",
 		"jp_explain": "ヴェルンの兵士が標準使用する\n大砲型武器迷彩。砲撃の耐性と\n近接打撃力を重視した特化型。",
 		"tr_explain": ""
+	},
+	{
+		"assign": "109029",
+		"jp_text": "＊リッターウォッター",
+		"tr_text": "＊Liter Water",
+		"jp_explain": "子供向けの玩具を改造し、武器として\n調整した大砲型武器迷彩。改造される\n前は水鉄砲として使用されていた代物。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "109030",
+		"jp_text": "＊デスペラ・トランケ",
+		"tr_text": "＊Desperado Case",
+		"jp_explain": "Melによりデザインされた武器迷彩。\nならず者が愛用していた鞄型をしており\n旅行者を装い、対象が油断した所を……",
+		"tr_explain": ""
+	},
+	{
+		"assign": "109031",
+		"jp_text": "＊ＢＬＯＯＤ　ＰＲＡＹＥＲＳ",
+		"tr_text": "＊BLOOD PRAYERS",
+		"jp_explain": "紅霞のデバイスを模した武器迷彩。\n超高出力のジェネレーターと\n巨大なレーザー発振器を搭載している。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "109032",
+		"jp_text": "＊レールガン",
+		"tr_text": "＊Railgun",
+		"jp_explain": "フレームアームズの追加装備を模した\n大砲型武器迷彩。轟雷の強化に併せて\n配備された電磁投射砲。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "109033",
+		"jp_text": "＊シューティングドライブ",
+		"tr_text": "＊Shooting Drive",
+		"jp_explain": "最新技術が可能にした大砲型武器迷彩。\n撃ち出された弾が流星のように\n煌くところから名づけられた。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "109034",
+		"jp_text": "＊ミラキュルマジック",
+		"tr_text": "＊Miracle Magic",
+		"jp_explain": "ウワサの空を飛ぶ掃除用具に\nそっくりな武器迷彩。これさえあれば\nハロウィンを満喫できちゃいそう！",
+		"tr_explain": ""
+	},
+	{
+		"assign": "109036",
+		"jp_text": "＊皇砲クオンタム",
+		"tr_text": "＊Prestige Cannon Quantum",
+		"jp_explain": "創世器「皇砲クオンタム」を模して\n作られた大砲型武器迷彩。本物とは違い\n攻撃時の並外れた衝撃は発生しない。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "109037",
+		"jp_text": "＊ショコラブエンペ",
+		"tr_text": "＊Chocolate Emblem",
+		"jp_explain": "ラブ・エンペラッピーを模して作られた\n武器迷彩。愛とチョコの香りを振りまく\nあまーい気持ちにしてくれる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "109038",
+		"jp_text": "＊ＲＨ・ストリーマ",
+		"tr_text": "＊RH Streamer",
+		"jp_explain": "なのはが使うインテリジェントデバイス\n「レイジングハート・ストリーマ」を\n模した大砲型武器迷彩。 ",
+		"tr_explain": "Launcher-shaped camo that mimics\nNanoha's Intelligent Device\n\"Raising Heart Streamer\"."
+	},
+	{
+		"assign": "109039",
+		"jp_text": "＊バレトデモリシャー",
+		"tr_text": "",
+		"jp_explain": "近接武器の設計図を基に開発された\n武器迷彩。打撃武器に見えるが\n戦闘時に射撃武器の形に展開する。",
+		"tr_explain": ""
 	}
 ]

@@ -25,14 +25,14 @@
 		"jp_text": "防衛戦：絶望トリガー",
 		"tr_text": "Mining Base Despair Trigger",
 		"jp_explain": "採掘基地防衛戦：絶望を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
-		"tr_explain": "[Mining Base Defense: Despair] can be\nselected from Quest Counter.\n<yellow>※This item will not be returned\nafter consumption.<c>"
+		"tr_explain": "[Mining Base Defense: Despair] can\nbe selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
 	},
 	{
 		"assign": "37304",
 		"jp_text": "防衛戦：終焉トリガー",
 		"tr_text": "Mining Base Demise Trigger",
 		"jp_explain": "採掘基地防衛戦：終焉を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
-		"tr_explain": "[Mining Base Defense: Demise] can be\nselected from Quest Counter.\n<yellow>※This item will not be returned\nafter consumption.<c>"
+		"tr_explain": "[Mining Base Defense: Demise] can\nbe selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
 	},
 	{
 		"assign": "37308",
@@ -60,7 +60,7 @@
 		"jp_text": "戦道２０１６トリガー",
 		"tr_text": "Regiment 2016 Trigger",
 		"jp_explain": "禍魂集いし戦道２０１６を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
-		"tr_explain": "[Regiment of the Wicked 2016] can be\nselected from Quest Counter.\n<yellow>※This item will not be returned\nafter consumption.<c>"
+		"tr_explain": "[Regiment of the Wicked 2016] can\nbe selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
 	},
 	{
 		"assign": "373012",
@@ -74,7 +74,7 @@
 		"jp_text": "メリクリ２０１６トリガー",
 		"tr_text": "Xmas 2016 Trigger",
 		"jp_explain": "氷上のメリークリスマス２０１６を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
-		"tr_explain": "[Merry Christmas On Ice 2016] can be\nselected from Quest Counter.\n<yellow>※This item will not be returned\nafter consumption.<c>"
+		"tr_explain": "[Merry Christmas On Ice 2016] can\nbe selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
 	},
 	{
 		"assign": "373014",
@@ -102,7 +102,7 @@
 		"jp_text": "ホワイトデー２０１７トリガー",
 		"tr_text": "White Day 2017 Trigger",
 		"jp_explain": "ホワイトデーは大わらわ２０１７を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
-		"tr_explain": "[A Boisterous White Day 2017] can be\nselected from Quest Counter.\n<yellow>※This item will not be returned\nafter consumption.<c>"
+		"tr_explain": "[A Boisterous White Day 2017] can\nbe selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
 	},
 	{
 		"assign": "373018",
@@ -200,27 +200,195 @@
 		"jp_text": "チョコレート２０１８トリガー",
 		"tr_text": "Chocolate 2018 Trigger",
 		"jp_explain": "チョコレートの行方２０１８を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
-		"tr_explain": "[Where's the Chocolate 2018] can be\nselected from Quest Counter.\n<yellow>※This item will not be returned\nafter consumption.<c>"
+		"tr_explain": "[The Chocolate Way 2018] can be\nselected from Quest Counter.\n<yellow>※This item will not be returned\nafter consumption.<c>"
 	},
 	{
 		"assign": "373032",
 		"jp_text": "幻惑の森トリガー",
 		"tr_text": "Enchanted Forest Trigger",
 		"jp_explain": "逢魔に誘う幻惑の森を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
-		"tr_explain": "[The Enchanted Forest] can be\nselected from Quest Counter.\n<yellow>※This item will not be returned\nafter consumption.<c>"
+		"tr_explain": "[The Beckoning Woods] can be\nselected from Quest Counter.\n<yellow>※This item will not be returned\nafter consumption.<c>"
 	},
 	{
 		"assign": "373033",
 		"jp_text": "メリクリ２０１７トリガー",
 		"tr_text": "Xmas 2017 Trigger",
 		"jp_explain": "氷上のメリークリスマス２０１７を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
-		"tr_explain": "[Merry Christmas On Ice 2017] can be\nselected from Quest Counter.\n<yellow>※This item will not be returned\nafter consumption.<c>"
+		"tr_explain": "[Merry Christmas On Ice 2017] can\nbe selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
 	},
 	{
 		"assign": "373034",
 		"jp_text": "黒衣の邪竜トリガー",
-		"tr_text": "",
+		"tr_text": "Dark Demolisher Trigger",
 		"jp_explain": "崩城に甦る黒衣の邪竜を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
-		"tr_explain": ""
+		"tr_explain": "[The Dark Demolisher] can\nbe selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
+	},
+	{
+		"assign": "373035",
+		"jp_text": "ホワイトデー２０１８トリガー",
+		"tr_text": "White Day 2018 Trigger",
+		"jp_explain": "ホワイトデーは大わらわ２０１８を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
+		"tr_explain": "[A Boisterous White Day 2018] can\nbe selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
+	},
+	{
+		"assign": "373036",
+		"jp_text": "Ｗイースター２０１８トリガー",
+		"tr_text": "Wild Easter 2018 Trigger",
+		"jp_explain": "ワイルドイースター２０１８を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
+		"tr_explain": "[A Wild Easter 2018] can\nbe selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
+	},
+	{
+		"assign": "373037",
+		"jp_text": "知の化身トリガー",
+		"tr_text": "Incarnation of Knowledge Trigger",
+		"jp_explain": "異界に紡がれし知の化身を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
+		"tr_explain": "[Incarnation of Knowledge] can\nbe selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
+	},
+	{
+		"assign": "373038",
+		"jp_text": "全知への渇望トリガー",
+		"tr_text": "Rebirth of Desire Trigger",
+		"jp_explain": "異界に甦りし全知への渇望を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
+		"tr_explain": "[Rebirth of Desire for Knowledge]\ncan be selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
+	},
+	{
+		"assign": "373039",
+		"jp_text": "雨風２０１８トリガー",
+		"tr_text": "Rain 2018 Trigger",
+		"jp_explain": "雨風とともに２０１８を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
+		"tr_explain": "[In The Driving Rain 2018]\ncan be selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
+	},
+	{
+		"assign": "373040",
+		"jp_text": "創世導く母トリガー",
+		"tr_text": "Creationists Trigger",
+		"jp_explain": "創世導く母なる神を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
+		"tr_explain": "[The Guides of Creation]\ncan be selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
+	},
+	{
+		"assign": "373041",
+		"jp_text": "ビーチ２０１８トリガー",
+		"tr_text": "Beach 2018 Trigger",
+		"jp_explain": "ビーチウォーズ２０１８！を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
+		"tr_explain": "[Beach Wars 2018!]\ncan be selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
+	},
+	{
+		"assign": "373042",
+		"jp_text": "地底を染めし女王トリガー",
+		"tr_text": "Underground Nightmare Trigger",
+		"jp_explain": "地底を染めし女王の悪夢を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
+		"tr_explain": "[The Underground Nightmare]\ncan be selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
+	},
+	{
+		"assign": "373043",
+		"jp_text": "砂都に迫りし女王トリガー",
+		"tr_text": "Desert Nightmare Trigger",
+		"jp_explain": "砂都に迫りし女王の悪夢を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
+		"tr_explain": "[The Desert Nightmare]\ncan be selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
+	},
+	{
+		"assign": "373044",
+		"jp_text": "戦道２０１８トリガー",
+		"tr_text": "Regiment 2018 Trigger",
+		"jp_explain": "禍魂集いし戦道２０１８を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
+		"tr_explain": "[Regiment of the Wicked 2018]\ncan be selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
+	},
+	{
+		"assign": "373045",
+		"jp_text": "不尽の狂気トリガー",
+		"tr_text": "Perpetual Madness Trigger",
+		"jp_explain": "魔神城戦：不尽の狂気を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
+		"tr_explain": "[Perpetual Madness]\ncan be selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
+	},
+	{
+		"assign": "373046",
+		"jp_text": "灼熱の絶対零度トリガー",
+		"tr_text": "Burning Frost Trigger",
+		"jp_explain": "境界蝕む灼熱の絶対零度を\nクエストカウンターから発生させる。\n<yellow>※消費後は理由によらず返却されません。\n※２０１９年５月１５日まで使用可。<c>",
+		"tr_explain": "[The Freezing Burn] can be\nselected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption. Expires: May 15, 2019.<c>"
+	},
+	{
+		"assign": "373047",
+		"jp_text": "トリトリ２０１８トリガー",
+		"tr_text": "Trick 2018 Trigger",
+		"jp_explain": "トリックオアトリート２０１８！を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
+		"tr_explain": "[Trick or Treat 2018!]\ncan be selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
+	},
+	{
+		"assign": "373048",
+		"jp_text": "メリクリ２０１８トリガー",
+		"tr_text": "Xmas 2018 Trigger",
+		"jp_explain": "氷上のメリークリスマス２０１８を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
+		"tr_explain": "[Merry Christmas On Ice 2018]\ncan be selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
+	},
+	{
+		"assign": "373049",
+		"jp_text": "闇の狂宴トリガー",
+		"tr_text": "Revelry Trigger",
+		"jp_explain": "星芒喰らう闇の狂宴を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
+		"tr_explain": "[Revelry of Darkness]\ncan be selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
+	},
+	{
+		"assign": "373050",
+		"jp_text": "悲劇を願う破滅トリガー",
+		"tr_text": "Destruction Trigger",
+		"jp_explain": "悲劇を願う破滅の虚影を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
+		"tr_explain": "[The Specter of Destruction]\ncan be selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
+	},
+	{
+		"assign": "373051",
+		"jp_text": "輝光：母なる神トリガー",
+		"tr_text": "Solo T: Earth Destroyers Trigger",
+		"jp_explain": "輝光を砕く母なる神を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
+		"tr_explain": "[The Destroyers of Light]\ncan be selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
+	},
+	{
+		"assign": "373052",
+		"jp_text": "惨劇を招く破滅トリガー",
+		"tr_text": "Tragic Trigger",
+		"jp_explain": "惨劇を招く破滅の虚影を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
+		"tr_explain": "[The Specter of Tragedy]\ncan be selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
+	},
+	{
+		"assign": "373053",
+		"jp_text": "チョコレート２０１９トリガー",
+		"tr_text": "Chocolate 2019 Trigger",
+		"jp_explain": "チョコレートの行方２０１９を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
+		"tr_explain": "[The Chocolate Way 2019]\ncan be selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
+	},
+	{
+		"assign": "373054",
+		"jp_text": "ホワイトデー２０１９トリガー",
+		"tr_text": "White Day 2019 Trigger",
+		"jp_explain": "ホワイトデーは大わらわ２０１９を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
+		"tr_explain": "[A Boisterous White Day 2019]\ncan be selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
+	},
+	{
+		"assign": "373055",
+		"jp_text": "Ｗイースター２０１９トリガー",
+		"tr_text": "Easter 2019 Trigger",
+		"jp_explain": "ワイルドイースター2019を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
+		"tr_explain": "[Wild Easter 2019]\ncan be selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
+	},
+	{
+		"assign": "373056",
+		"jp_text": "雨風２０１９トリガー",
+		"tr_text": "Rain 2019 Trigger",
+		"jp_explain": "雨風とともに２０１９を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
+		"tr_explain": "[In the Driving Rain 2019]\ncan be selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
+	},
+	{
+		"assign": "373058",
+		"jp_text": "迎撃戦：敵旗艦突撃トリガー",
+		"tr_text": "Capital Ship Invasion Trigger",
+		"jp_explain": "艦隊迎撃戦：敵旗艦突撃を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
+		"tr_explain": "[Armada: Capital Ship Invasion]\ncan be selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
+	},
+	{
+		"assign": "373060",
+		"jp_text": "迎撃戦：戦艦撃破トリガー",
+		"tr_text": "Battleship Demolition Trigger",
+		"jp_explain": "艦隊迎撃戦：戦艦撃破を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
+		"tr_explain": "[Armada: Battleship Demolition]\ncan be selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
 	}
 ]

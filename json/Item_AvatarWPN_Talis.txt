@@ -107,9 +107,9 @@
 	{
 		"assign": "1012019",
 		"jp_text": "＊燐具フローレンベルク",
-		"tr_text": "＊Florenberg",
+		"tr_text": "＊Phosphor Engine Florenberg",
 		"jp_explain": "創世器「燐具フローレンベルク」を\n模して作られた導具型武器迷彩。銀河を\n圧縮した端末部分も再現されている。",
-		"tr_explain": ""
+		"tr_explain": "Weapon camo of the Genesis Weapon\n\"Phosphor Engine Florenberg\". Like\nthe real thing, it throws tiny galaxies."
 	},
 	{
 		"assign": "1012020",
@@ -142,15 +142,50 @@
 	{
 		"assign": "1012024",
 		"jp_text": "＊バトルタリス",
-		"tr_text": "",
+		"tr_text": "＊Battle Talis",
 		"jp_explain": "バトルアリーナ専用の導具型\n武器迷彩。戦技比較用に、力量が\n発揮されるよう調整がされている。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "1012025",
 		"jp_text": "＊ハツハル",
-		"tr_text": "",
+		"tr_text": "＊Heart Spring",
 		"jp_explain": "年明けを祝福して作られた\n導具型武器迷彩。縁起物で飾られており\n不老長寿、子孫繁栄などの意味を持つ。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1012026",
+		"jp_text": "＊ティトラルーチェ",
+		"tr_text": "＊Titra Luche",
+		"jp_explain": "春の訪れを祝う祭りにちなんで製作された\n導具型武器迷彩。可愛らしい見た目から\n季節に関係なく、愛用する人も多い。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1012027",
+		"jp_text": "＊テルテルッピー",
+		"tr_text": "＊Teru Teruppy",
+		"jp_explain": "てるてる姿のラッピーがかわいい導具型\n武器迷彩。一生懸命に晴れをお願いする\n姿が人気。実際の効果についてはご愛嬌。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1012028",
+		"jp_text": "＊デュエルゲイズＴＣＧ",
+		"tr_text": "＊Duel Gaze TCG",
+		"jp_explain": "遊戯用デバイスを戦闘用に\n改造した導具型武器迷彩。\n切り札を君の手に。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1012029",
+		"jp_text": "＊コートタリス",
+		"tr_text": "＊Coat Talis",
+		"jp_explain": "シンプルなフォルムの導具型武器迷彩。\nフォトンコートで本体を包みこみ\n無駄を抑え、優れた法撃性能を持つ。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1012030",
+		"jp_text": "＊マイセン",
+		"tr_text": "＊Maisen",
+		"jp_explain": "踊り子が決して手離さないという導具型\n武器迷彩。ゆらゆらと舞い踊るその姿は\n華美の一言につきる。",
 		"tr_explain": ""
 	}
 ]

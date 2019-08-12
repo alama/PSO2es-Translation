@@ -25,14 +25,14 @@
 		"jp_text": "ゴシックソファ",
 		"tr_text": "Gothic Sofa",
 		"jp_explain": "マイルーム配置用の二人掛けソファ。\n歴史を感じさせる古風な装いが\nコーディネイト心をくすぐる一品。",
-		"tr_explain": "A two-seater sofa for My Room.\nIts antique design makes you question\nthis furniture's history."
+		"tr_explain": "A two-seater sofa for My Room. Its\nantique design makes you question\nthis furniture's history."
 	},
 	{
 		"assign": "3504",
 		"jp_text": "モダンローテーブル",
 		"tr_text": "Modern Low Table",
 		"jp_explain": "小物や装飾品を置くためのテーブル。\n存在感あふれるヴィヴィッドな色合いで\n置いた物の見た目を引き立てる家具。",
-		"tr_explain": "A table for placing small decorations.\nThis furniture enhances the look of\nany placed object with its vivid colors\nand strong presence."
+		"tr_explain": "A table for placing small decorations.\nThis furniture enhances the look of\nany placed object with its vivid\ncolors and strong presence."
 	},
 	{
 		"assign": "3505",
@@ -53,7 +53,7 @@
 		"jp_text": "ゴシックローテーブル",
 		"tr_text": "Gothic Low Table",
 		"jp_explain": "小物や装飾品を置くためのテーブル。\n華美な装飾が特徴で、レイアウトの\nセンスが問われる一品。",
-		"tr_explain": "A table for placing small decorations.\nIts sensible design and gorgeous\nfeatures makes you think twice about\nplacing objects on it."
+		"tr_explain": "A table for placing small decorations.\nIts sensible design and gorgeous\nfeatures makes you think twice\nabout placing objects on it."
 	},
 	{
 		"assign": "3508",
@@ -74,7 +74,7 @@
 		"jp_text": "オリエントマット",
 		"tr_text": "Orient Mat",
 		"jp_explain": "マイルームの床に敷くためのマット。\n天然の草を丁寧に編み込み、かぐわしい\n自然の香りで来訪者を楽しませる一品。",
-		"tr_explain": "A floor mat for My Room. Its design\nis made up of carefully knitted grass,\nand gives off a natural fragrance\nthat can make any visitor feel delight."
+		"tr_explain": "A floor mat. Its design is made up of\ncarefully knitted grass, and gives off\na natural fragrance that can make\nany visitor feel delight."
 	},
 	{
 		"assign": "35011",
@@ -221,7 +221,7 @@
 		"jp_text": "ＤＪブース",
 		"tr_text": "DJ Booth",
 		"jp_explain": "クラブの雰囲気を再現する特殊な家具。\n室内のＢＧＭを、自分で所有する\nＢＧＭから自由に変更することが可能。",
-		"tr_explain": ""
+		"tr_explain": "Special furniture designed to create\na night club-like atmosphere. Can be\nused to change your room's BGM\nto any BGM you have registered."
 	},
 	{
 		"assign": "35037",
@@ -256,98 +256,98 @@
 		"jp_text": "グランドピアノ",
 		"tr_text": "Grand Piano",
 		"jp_explain": "マイルームに設置可能な鍵盤楽器。\n華麗な音色が部屋中に響き渡る。\n演奏曲「Our Fighting」",
-		"tr_explain": "A keyboard instrument for My Room.\nPlaying it causes brilliant music to\necho all over the room."
+		"tr_explain": "A keyboard instrument for My Room.\nPlaying it causes brilliant music to\necho all over the room.\nPlays the song \"Our Fighting\"."
 	},
 	{
 		"assign": "35052",
 		"jp_text": "リズムギター",
 		"tr_text": "Rhythm Guitar",
 		"jp_explain": "マイルームに設置可能な弦楽器。\n温かな音色が好評だが値の張る一品。\n演奏曲「Our Fighting」",
-		"tr_explain": "A stringed instrument for My Room.\nA very expensive custom-built guitar\nthat outputs a heart warming sound."
+		"tr_explain": "A stringed instrument for My Room.\nA very expensive custom-built guitar\nthat outputs a heart warming sound.\nPlays the song \"Our Fighting\"."
 	},
 	{
 		"assign": "35053",
 		"jp_text": "サイドギター",
 		"tr_text": "Side Guitar",
 		"jp_explain": "マイルームに設置可能な弦楽器。\nボディのＶ字形状が特徴的な一品。\n演奏曲「Our Fighting」",
-		"tr_explain": "A stringed instrument for My Room.\nIts V-shaped body may look like an\nunusual design, but it is liked by\nmany."
+		"tr_explain": "A stringed instrument for My Room.\nDistinctive for its V-shaped body.\nPlays the song \"Our Fighting\"."
 	},
 	{
 		"assign": "35054",
 		"jp_text": "ベース",
 		"tr_text": "Bass",
 		"jp_explain": "マイルームに設置可能な弦楽器。\n場所を選ばず演奏を楽しめる一品。\n演奏曲「Our Fighting」",
-		"tr_explain": "A stringed instrument for My Room.\nA light guitar bought cheap from a\nWeekly Sale. Comes with its own\npower supply."
+		"tr_explain": "A stringed instrument for My Room.\nSelf-powered, letting you put on a\nshow anywhere you like.\nPlays the song \"Our Fighting\"."
 	},
 	{
 		"assign": "35055",
 		"jp_text": "ドラムセット",
 		"tr_text": "Drum Set",
 		"jp_explain": "マイルームに設置可能な打楽器。\n腹の底に響き渡る重低音を轟かせる。\n演奏曲「Our Fighting」",
-		"tr_explain": "A set of percussion instruments for\nMy Room. The high performance and\nechoing sound of the bass can make\nanyone shake."
+		"tr_explain": "A set of percussion instruments for\nMy Room. The sound of the bass\nechoes in the pit of your stomach.\nPlays the song \"Our Fighting\"."
 	},
 	{
 		"assign": "35056",
 		"jp_text": "ヴォーカルマイク",
 		"tr_text": "Vocal Mic",
 		"jp_explain": "マイルームに設置可能な音響機器。\n美しい声を響かせるマイク。\n演奏曲「Our Fighting」",
-		"tr_explain": "Audio equipment for My Room.\nMicrophone that enhances your voice.\nYou can use it to show off your\ntalent!"
+		"tr_explain": "Audio equipment for My Room.\nMicrophone that enhances your voice.\nUse it to show off your talent!\nPlays the song \"Our Fighting\"."
 	},
 	{
 		"assign": "35057",
 		"jp_text": "ヴァイオリン",
 		"tr_text": "Violin",
 		"jp_explain": "マイルームに設置可能な弦楽器。\n美しい高音域を弾く事ができる。\n演奏曲「Our Fighting」",
-		"tr_explain": "A stringed instrument for My Room.\nIt can play fascinating music for\npeople to hear."
+		"tr_explain": "A stringed instrument for My Room.\nIt can play fascinating music for\npeople to hear.\nPlays the song \"Our Fighting\"."
 	},
 	{
 		"assign": "35058",
 		"jp_text": "コントラバス",
 		"tr_text": "Contrabass",
 		"jp_explain": "マイルームに設置可能な弦楽器。\n身体にしみる低音域を弾く事ができる。\n演奏曲「Our Fighting」",
-		"tr_explain": "A stringed instrument for My Room.\nAllows you to play low ranged sound\nthat can shake the hearts of\nlisteners."
+		"tr_explain": "A stringed instrument for My Room.\nAllows you to play a sound so deep\nthat you feel it in your entire body.\nPlays the song \"Our Fighting\"."
 	},
 	{
 		"assign": "35059",
 		"jp_text": "フルート",
 		"tr_text": "Flute",
 		"jp_explain": "マイルームに設置可能な管楽器。\nかつて有名な奏者が所持していた一品。\n演奏曲「Our Fighting」",
-		"tr_explain": "A wind instrument for My Room.\nAn instrument said to have belonged\nto a famous musician."
+		"tr_explain": "A wind instrument for My Room.\nAn instrument said to have belonged\nto a famous musician.\nPlays the song \"Our Fighting\"."
 	},
 	{
 		"assign": "35060",
 		"jp_text": "トランペット",
 		"tr_text": "Trumpet",
 		"jp_explain": "マイルームに設置可能な管楽器。\n進軍の際、吹き鳴らされたという一品。\n演奏曲「Our Fighting」",
-		"tr_explain": "A wind instrument for My Room.\nLong before even ARKS was formed,\nthis instrument was used during\nmarches."
+		"tr_explain": "A wind instrument for My Room.\nLong before ARKS was formed, this\ninstrument was used during marches.\nPlays the song \"Our Fighting\"."
 	},
 	{
 		"assign": "35061",
 		"jp_text": "ティンパニ",
 		"tr_text": "Timpani",
 		"jp_explain": "マイルームに設置可能な打楽器。\n手軽に勇壮な音色を打ち鳴らせる。\n演奏曲「Our Fighting」",
-		"tr_explain": "A set of percussion instruments for\nMy Room.\nAn easy to play instrument, even for\nbeginners."
+		"tr_explain": "A set of percussion instruments for\nMy Room. An easy to play instrument,\neven for beginners.\nPlays the song \"Our Fighting\"."
 	},
 	{
 		"assign": "35062",
 		"jp_text": "トライアングル",
 		"tr_text": "Triangle",
 		"jp_explain": "マイルームに設置可能な打楽器。\n初心者には扱いが難しいと噂される。\n演奏曲「Our Fighting」",
-		"tr_explain": "A percussion instrument for\nMy Room. Although rumored to be\nvery difficult for beginners, it's still\na mystery how hard it really is."
+		"tr_explain": "A percussion instrument for My Room.\nRumored to be very difficult for\nbeginners to handle.\nPlays the song \"Our Fighting\"."
 	},
 	{
 		"assign": "35063",
 		"jp_text": "シ・キダイ",
 		"tr_text": "Shi Kidai",
 		"jp_explain": "マイルームで指揮者気分を味わう台座。\n譜面台付きで、ちょっとしたスピーチの\n練習にも使える実用的な一品。",
-		"tr_explain": "A conductor's pedestal for My Room.\nA place to conduct a musical concert.\nIt can also be used to practice your\nspeech."
+		"tr_explain": "A conductor's pedestal for My Room.\nA place to conduct a musical\nconcert. It can also be used to\npractice your speech."
 	},
 	{
 		"assign": "35067",
 		"jp_text": "グッジョブカウンター",
 		"tr_text": "Good Job Counter",
 		"jp_explain": "マイルームで利用可能な電子看板。\n来客に向けてメッセージを自動表示。\nメッセージを見た客は評価を送信可能。",
-		"tr_explain": "A digital signage for My Room.\nAutomatically displays a message to\nnearby visitors. Can also be used to\nsend you a Good Job."
+		"tr_explain": "Digital signage for My Room.\nAutomatically displays a message to\nnearby visitors. Can also be used to\nsend you a Good Job."
 	},
 	{
 		"assign": "35069",
@@ -410,7 +410,7 @@
 		"jp_text": "パスワード・ボックス",
 		"tr_text": "Password Box",
 		"jp_explain": "マイルームに設置可能な装飾品。\n貴重品を転送することなくリアルに\n保管するために作られた前時代の箱。",
-		"tr_explain": ""
+		"tr_explain": "A decoration for My Room.\nThe real thing was once used to\nstore valuable items."
 	},
 	{
 		"assign": "35081",
@@ -464,7 +464,7 @@
 	{
 		"assign": "35088",
 		"jp_text": "テルテル・ラッピー",
-		"tr_text": "Teru Teru Rappy",
+		"tr_text": "Teru Teru Rappy Decoration",
 		"jp_explain": "マイルームに設置可能な装飾品。\n毎年この時期に長い雨が続くことから\n太陽のようなこの顔に晴天を願う。",
 		"tr_explain": "A decoration for My Room."
 	},
@@ -515,49 +515,49 @@
 		"jp_text": "クリスマスギフト",
 		"tr_text": "Christmas Gift",
 		"jp_explain": "マイルームに設置可能な装飾品。\n誰かのマイルームにこっそり設置すれば\n気分はサンタクロース。",
-		"tr_explain": "A decoration for My Room.\nAllows you to place an item inside,\nto be given as a gift only on Dec. 25th."
+		"tr_explain": "A decoration for My Room. Allows\nyou to place an item inside, to be\ngiven as a gift only on Dec. 25th."
 	},
 	{
 		"assign": "35096",
 		"jp_text": "ゴールドトロフィー",
 		"tr_text": "Gold Trophy",
 		"jp_explain": "マイルームに設置可能な装飾品。\nウィークリーランキング１位の者に\n贈られる、黄金に輝く勝者の証。",
-		"tr_explain": "Awarded to ARKS members who have\nranked 1st place in Weekly Rankings.\nProof of your golden victory."
+		"tr_explain": "Awarded to ARKS members who\nhave ranked 1st place in Weekly\nRankings. Proof of your golden\nvictory."
 	},
 	{
 		"assign": "35097",
 		"jp_text": "シルバートロフィー",
 		"tr_text": "Silver Trophy",
 		"jp_explain": "マイルームに設置可能な装飾品。\nウィークリーランキングで２～５位の\n成績を収めたアークスに贈られる。",
-		"tr_explain": "Awarded to ARKS members who have\nranked 2nd to 5th place in Weekly\nRankings."
+		"tr_explain": "Awarded to ARKS members who\nhave ranked 2nd to 5th place in\nWeekly Rankings."
 	},
 	{
 		"assign": "35098",
 		"jp_text": "ブロンズトロフィー",
 		"tr_text": "Bronze Trophy",
 		"jp_explain": "マイルームに設置可能な装飾品。\nウィークリーランキング６～１０位の\n成績を収めたアークスに贈られる。",
-		"tr_explain": "Awarded to ARKS members who have\nranked 6th to 10th place in Weekly\nRankings."
+		"tr_explain": "Awarded to ARKS members who\nhave ranked 6th to 10th place in\nWeekly Rankings."
 	},
 	{
 		"assign": "35099",
 		"jp_text": "ゴールドメダル",
 		"tr_text": "Gold Medal Decoration",
 		"jp_explain": "マイルームに設置可能な装飾品。\nインタラプトランキング１位の者に\n贈られる、黄金にきらめく勝利の印。",
-		"tr_explain": "Awarded to ARKS members who have\nranked 1st place in Interrupt\nRankings. Proof of your golden\nvictory."
+		"tr_explain": "Awarded to ARKS members who\nhave ranked 1st place in Interrupt\nRankings. Proof of your golden\nvictory."
 	},
 	{
 		"assign": "350100",
 		"jp_text": "シルバーメダル",
 		"tr_text": "Silver Medal Decoration",
 		"jp_explain": "マイルームに設置可能な装飾品。\nインタラプトランキング２～５位の\n成績を収めたアークスに贈られる。",
-		"tr_explain": "Awarded to ARKS members who have\nranked 2nd to 5th place in Interrupt\nRankings."
+		"tr_explain": "Awarded to ARKS members who\nhave ranked 2nd to 5th place in\nInterrupt Rankings."
 	},
 	{
 		"assign": "350101",
 		"jp_text": "ブロンズメダル",
 		"tr_text": "Bronze Medal Decoration",
 		"jp_explain": "マイルームに設置可能な装飾品。\nインタラプトランキング６～１０位の\n成績を収めたアークスに贈られる。",
-		"tr_explain": "Awarded to ARKS members who have\nranked 6th to 10th place in Interrupt\nRankings."
+		"tr_explain": "Awarded to ARKS members who\nhave ranked 6th to 10th place in\nInterrupt Rankings."
 	},
 	{
 		"assign": "350102",
@@ -620,21 +620,21 @@
 		"jp_text": "センプーキ",
 		"tr_text": "Electric Fan",
 		"jp_explain": "マイルームに設置可能な昔の空調機器。\n復刻品のおもちゃだが涼風が心地よい。\n台座のボタンで弱、中、飛ぶ、を選択。",
-		"tr_explain": "An old air-conditioner for My Room.\nThe wind is comfortable despite being\nreleased as a toy product. You can\nadjust it to low, medium, or high."
+		"tr_explain": "An old air-conditioner for My Room.\nThe wind is comfortable despite\nbeing released as a toy product. You\ncan adjust it to low, medium, or high."
 	},
 	{
 		"assign": "350111",
 		"jp_text": "アニャンフラワ（赤）",
 		"tr_text": "Anyan Flower (Red)",
 		"jp_explain": "マイルームに設置可能な珍種植物。\n雨の少ない惑星に自生する。\n特定のロビーアクションで踊る。",
-		"tr_explain": "A rare plant decor for My Room.\nIn the wild, if it doesn't rain much, this\nflower will move and find water itself.\nCapable of copying lobby actions."
+		"tr_explain": "A rare plant decor. In the wild, if it\ndoesn't rain much, this flower will\nmove and find water itself. Capable\nof copying lobby actions."
 	},
 	{
 		"assign": "350112",
 		"jp_text": "アニャンフラワ（黄）",
 		"tr_text": "Anyan Flower (Yellow)",
 		"jp_explain": "マイルームに設置可能な珍種植物。\n本来、顔はなくイタズラ描きされた。\n特定のロビーアクションで踊る。",
-		"tr_explain": "A rare plant decor for My Room.\nIn the wild, if it doesn't rain much, this\nflower will move and find water itself.\nCapable of copying lobby actions."
+		"tr_explain": "A rare plant decor. In the wild, if it\ndoesn't rain much, this flower will\nmove and find water itself. Capable\nof copying lobby actions."
 	},
 	{
 		"assign": "350113",
@@ -655,14 +655,14 @@
 		"jp_text": "マークⅢ",
 		"tr_text": "Mark III Console",
 		"jp_explain": "第三世代とも呼ばれる家庭用ゲーム機。\n高性能で拡張性があり、周辺機器も多く\nマニアには熱狂的に受け入れられた。",
-		"tr_explain": ""
+		"tr_explain": "A third-generation home video game\nconsole. Its most dedicated fans would\ncollect peripherals to augment its\nalready impressive performance."
 	},
 	{
 		"assign": "350116",
 		"jp_text": "マスターシステム",
 		"tr_text": "Master System Console",
 		"jp_explain": "マークⅢ後継８ビット家庭用ゲーム機。\n発売当時は連射機能やＦＭ音源が斬新で\nユーザーの支持を集めた。",
-		"tr_explain": "Successor to the Mark III 8-bit\nvideogame console. Known for its FM\nsound chip and rapid fire unit during\nrelease."
+		"tr_explain": "Successor to the Mark III 8-bit game\nconsole. Launched with an innovative\nFM sound chip and rapid-fire feature,\nwhich earned it a wide fanbase."
 	},
 	{
 		"assign": "350117",
@@ -674,7 +674,7 @@
 	{
 		"assign": "350118",
 		"jp_text": "セガサターン",
-		"tr_text": "Sega Saturrn Console",
+		"tr_text": "Sega Saturn Console",
 		"jp_explain": "往年の３２ビット家庭用ゲーム機。\nＣＤ－ＲＯＭドライブを搭載し、\n画期的３Ｄ表現で人々に衝撃を与えた。",
 		"tr_explain": "A 32-bit home videogame console of\nan older generation. It features a\nCD-ROM drive and shocked many\nwith its 3D graphics."
 	},
@@ -697,7 +697,7 @@
 		"jp_text": "コタツ・ダイ",
 		"tr_text": "Kotatsu Dai",
 		"jp_explain": "マイルームに設置可能な暖房器具。\n震える寒さにさらされた後はすぐに\n駆け込み、心も体もぽかぽかに。",
-		"tr_explain": ""
+		"tr_explain": "Heating equipment for My Room.\nWhen you've just come in from the\ncold, run to the kotatsu, and feel its\nwarmth fill your entire body."
 	},
 	{
 		"assign": "350122",
@@ -746,14 +746,14 @@
 		"jp_text": "ブラックチェア",
 		"tr_text": "Black Chair",
 		"jp_explain": "マイルーム配置用の一人掛け椅子。\nシックな黒に渋めのデザインという\n玄人向けの調度品。",
-		"tr_explain": ""
+		"tr_explain": "A single chair for My Room.\nA chic, bitter-black design for\nprofessional use."
 	},
 	{
 		"assign": "350129",
 		"jp_text": "ストライプチェア",
 		"tr_text": "Striped Chair",
 		"jp_explain": "マイルーム配置用の一人掛け椅子。\nしましまのストライプ柄が特徴的な\nかわいらしい調度品。",
-		"tr_explain": "A single chair for My Room. A\npretty furniture with a characteristic\nstriped design."
+		"tr_explain": "A single chair for My Room.\nA pretty item with a characteristic\nstriped design."
 	},
 	{
 		"assign": "350130",
@@ -802,7 +802,7 @@
 		"jp_text": "シシオドシ",
 		"tr_text": "Bamboo Water Pipe",
 		"jp_explain": "マイルームに設置可能な装飾品。\n遠い時代のオモチャのリメイク。時折\nコーンと音を鳴らしフーリュウを表現。",
-		"tr_explain": "A decoration for My Room.\nToys remade from a distant era.\nDifferent sounds can be heard coming\nfrom it."
+		"tr_explain": "A decoration for My Room. Toys\nremade from a distant era. Different\nsounds can be heard coming from it."
 	},
 	{
 		"assign": "350137",
@@ -1152,14 +1152,14 @@
 		"jp_text": "ファンクションテーブル",
 		"tr_text": "Function Table",
 		"jp_explain": "マイルームで利用可能なテーブル。\n利便性を追求したシンプルで機能的な\nデザイン。使いやすさはピカイチ。",
-		"tr_explain": "A table for My Room. Simplistic design\nbut functional and convenient. The\nbest when it comes to usability."
+		"tr_explain": "A table for My Room. Simplistic\ndesign but functional and convenient.\nThe best when it comes to usability."
 	},
 	{
 		"assign": "350187",
 		"jp_text": "ファンクションチェア",
 		"tr_text": "Function Chair",
 		"jp_explain": "マイルームで利用可能な椅子。\n利便性を追求したシンプルで機能的な\nデザイン。使いやすさはピカイチ。",
-		"tr_explain": "A chair for My Room. Simplistic design\nbut functional and convenient. The\nbest when it comes to usability."
+		"tr_explain": "A chair for My Room. Simplistic\ndesign but functional and convenient.\nThe best when it comes to usability."
 	},
 	{
 		"assign": "350188",
@@ -1194,7 +1194,7 @@
 		"jp_text": "モダン・ウォッチ",
 		"tr_text": "Modern Watch",
 		"jp_explain": "マイルームで利用可能な置き時計。\n現在では珍しく入手困難なアナログ式で\nコレクターの興味を集めている。",
-		"tr_explain": "A watch for My Room.\nAn rare analog timer that might be of\ninterest to some collectors."
+		"tr_explain": "A watch for My Room. An rare\nanalog timer that might be of\ninterest to some collectors."
 	},
 	{
 		"assign": "350193",
@@ -1355,7 +1355,7 @@
 		"jp_text": "モノリスレプリカ",
 		"tr_text": "Monolith Replica",
 		"jp_explain": "マイルームに設置可能な装飾品。\n遺跡に設置されている石柱を\n見事に再現したレプリカ。",
-		"tr_explain": "A decoration for My Room.\nA beautiful replica of a monolith found\nin the ruins."
+		"tr_explain": "A decoration for My Room. A\nbeautiful replica of a monolith found\nin the ruins."
 	},
 	{
 		"assign": "350216",
@@ -1376,7 +1376,7 @@
 		"jp_text": "デザートフラワー",
 		"tr_text": "Desert Flower",
 		"jp_explain": "マイルームに設置可能な観賞用植物。\n砂漠で生き抜く珍しい植物だが、\n机に置ける小型種。",
-		"tr_explain": "A plant decor for My Room.\nA rare plant that can survive in a\ndesert. This is a smaller type that can\nfit on your desk."
+		"tr_explain": "A plant decor for My Room. A rare\nplant that can survive in a desert.\nThis is a smaller type that can fit on\nyour desk."
 	},
 	{
 		"assign": "350219",
@@ -1481,14 +1481,14 @@
 		"jp_text": "ゴシックソファＲ",
 		"tr_text": "Gothic Sofa R",
 		"jp_explain": "マイルーム配置用の二人掛けソファ。\n歴史を感じさせる古風な装いが\nコーディネイト心をくすぐる一品。",
-		"tr_explain": "A two-seater sofa for My Room.\nIts antique design makes you question\nthis furniture's history."
+		"tr_explain": "A two-seater sofa for My Room. Its\nantique design makes you question\nthis furniture's history."
 	},
 	{
 		"assign": "350234",
 		"jp_text": "ゴシックローテーブルＲ",
 		"tr_text": "Gothic Low Table R",
 		"jp_explain": "小物や装飾品を置くためのテーブル。\n華美な装飾が特徴で、レイアウトの\nセンスが問われる一品。",
-		"tr_explain": "A table for placing small decorations.\nIts sensible design and gorgeous\nfeatures makes you think twice about\nplacing objects on it."
+		"tr_explain": "A table for placing small decorations.\nIts sensible design and gorgeous\nfeatures makes you think twice\nabout placing objects on it."
 	},
 	{
 		"assign": "350235",
@@ -1530,14 +1530,14 @@
 		"jp_text": "ゴシックソファＢ",
 		"tr_text": "Gothic Sofa B",
 		"jp_explain": "マイルーム配置用の二人掛けソファ。\n歴史を感じさせる古風な装いが\nコーディネイト心をくすぐる一品。",
-		"tr_explain": "A two-seater sofa for My Room.\nIts antique design makes you question\nthis furniture's history."
+		"tr_explain": "A two-seater sofa for My Room. Its\nantique design makes you question\nthis furniture's history."
 	},
 	{
 		"assign": "350241",
 		"jp_text": "ゴシックローテーブルＢ",
 		"tr_text": "Gothic Low Table B",
 		"jp_explain": "小物や装飾品を置くためのテーブル。\n華美な装飾が特徴で、レイアウトの\nセンスが問われる一品。",
-		"tr_explain": "A table for placing small decorations.\nIts sensible design and gorgeous\nfeatures makes you think twice about\nplacing objects on it."
+		"tr_explain": "A table for placing small decorations.\nIts sensible design and gorgeous\nfeatures makes you think twice\nabout placing objects on it."
 	},
 	{
 		"assign": "350242",
@@ -1600,7 +1600,7 @@
 		"jp_text": "ベーシックローテーブルＢ",
 		"tr_text": "Basic Low Table B",
 		"jp_explain": "小物や装飾品を置くためのテーブル。\nいかなる用途でも適応する、柔軟性に\n優れた標準的なモデル。",
-		"tr_explain": "A table for placing small decorations.\nThis standard model is known for its\nflexibility to adapt to any atmosphere."
+		"tr_explain": "A table for placing small decorations.\nThis standard model is known for its\nflexibility to adapt to any\natmosphere."
 	},
 	{
 		"assign": "350251",
@@ -1649,7 +1649,7 @@
 		"jp_text": "ベーシックローテーブルＰ",
 		"tr_text": "Basic Low Table P",
 		"jp_explain": "小物や装飾品を置くためのテーブル。\nいかなる用途でも適応する、柔軟性に\n優れた標準的なモデル。",
-		"tr_explain": "A table for placing small decorations.\nThis standard model is known for its\nflexibility to adapt to any atmosphere."
+		"tr_explain": "A table for placing small decorations.\nThis standard model is known for its\nflexibility to adapt to any\natmosphere."
 	},
 	{
 		"assign": "350258",
@@ -1705,7 +1705,7 @@
 		"jp_text": "モダンローテーブルＹ",
 		"tr_text": "Modern Low Table Y",
 		"jp_explain": "小物や装飾品を置くためのテーブル。\n存在感あふれるハイカラな色合いで\n置いた物の見た目を引き立てる家具。",
-		"tr_explain": "A table for placing small decorations.\nThis furniture enhances the look of\nany placed object with its vivid colors\nand strong presence."
+		"tr_explain": "A table for placing small decorations.\nThis furniture enhances the look of\nany placed object with its vivid\ncolors and strong presence."
 	},
 	{
 		"assign": "350266",
@@ -1747,7 +1747,7 @@
 		"jp_text": "モダンローテーブルＢ",
 		"tr_text": "Modern Low Table B",
 		"jp_explain": "小物や装飾品を置くためのテーブル。\n存在感を引き締めるシックな色合いで\n置いた物の見た目を引き立てる家具。",
-		"tr_explain": "A table for placing small decorations.\nThis furniture enhances the look of\nany placed object with its vivid colors\nand strong presence."
+		"tr_explain": "A table for placing small decorations.\nThis furniture enhances the look of\nany placed object with its vivid\ncolors and strong presence."
 	},
 	{
 		"assign": "350272",
@@ -1929,7 +1929,7 @@
 		"jp_text": "ベーシックローテーブル",
 		"tr_text": "Basic Low Table",
 		"jp_explain": "小物や装飾品を置くためのテーブル。\nいかなる用途でも適応する、柔軟性に\n優れた標準的なモデル。",
-		"tr_explain": "A table for placing small decorations.\nThis standard model is known for its\nflexibility to adapt to any atmosphere."
+		"tr_explain": "A table for placing small decorations.\nThis standard model is known for its\nflexibility to adapt to any\natmosphere."
 	},
 	{
 		"assign": "350298",
@@ -1971,7 +1971,7 @@
 		"jp_text": "パネルポスター",
 		"tr_text": "Panel Poster",
 		"jp_explain": "マイルームの壁に設置する装飾品。\n壁を覆うような巨大なポスターグッズで\n部屋の雰囲気をガラッと変えてくれる。",
-		"tr_explain": "Wall decoration for My Room.\nChange the atmosphere of the room\nby covering your wall with this animated poster."
+		"tr_explain": "Wall decoration for My Room. Change\nthe atmosphere of the room by\ncovering your wall with this animated\nposter."
 	},
 	{
 		"assign": "350304",
@@ -2116,28 +2116,28 @@
 	{
 		"assign": "350324",
 		"jp_text": "ファミ通ＣＵＰ入賞作品Ａ",
-		"tr_text": "Famitsu Cup Winning Illustration A",
+		"tr_text": "Famitsu Cup Winning Illust. A",
 		"jp_explain": "マイルームの壁に設置する絵画。\nファミ通ＣＵＰ\nイラストコンテスト最優秀賞作品。\n作者：馬骨",
 		"tr_explain": ""
 	},
 	{
 		"assign": "350325",
 		"jp_text": "ファミ通ＣＵＰ入賞作品Ｂ",
-		"tr_text": "Famitsu Cup Winning Illustration B",
+		"tr_text": "Famitsu Cup Winning Illust. B",
 		"jp_explain": "マイルームの壁に設置する絵画。\nファミ通ＣＵＰ\nイラストコンテスト優秀賞作品。\n作者：猫飯店・バる",
 		"tr_explain": ""
 	},
 	{
 		"assign": "350326",
 		"jp_text": "ファミ通ＣＵＰ入賞作品Ｃ",
-		"tr_text": "Famitsu Cup Winning Illustration C",
+		"tr_text": "Famitsu Cup Winning Illust. C",
 		"jp_explain": "マイルームの壁に設置する絵画。\nファミ通ＣＵＰ\nイラストコンテストファミ通賞作品。\n作者：ゼフィド",
 		"tr_explain": ""
 	},
 	{
 		"assign": "350327",
 		"jp_text": "ファミ通ＣＵＰ入賞作品Ｄ",
-		"tr_text": "Famitsu Cup Winning Illustration D",
+		"tr_text": "Famitsu Cup Winning Illust. D",
 		"jp_explain": "マイルームの壁に設置する絵画。\nファミ通ＣＵＰ\nイラストコンテストファミ通賞作品。\n作者：おぴ",
 		"tr_explain": ""
 	},
@@ -2153,7 +2153,7 @@
 		"jp_text": "スイートソファ",
 		"tr_text": "Sweet Sofa",
 		"jp_explain": "マイルーム配置用の二人掛けソファ。\n体温に反応し甘い香りを振りまく。\n究極のスイーツだが食べられない。",
-		"tr_explain": "A two-seater sofa for My Room.\nThis seat reacts to body temperature\nand scatters a sweet scent. The\nultimate treat that you cannot eat."
+		"tr_explain": "A two-seater sofa for My Room. This\nseat reacts to body temperature and\nscatters a sweet scent. The ultimate\ntreat that you cannot eat."
 	},
 	{
 		"assign": "350334",
@@ -2188,7 +2188,7 @@
 		"jp_text": "スイートソファＢ",
 		"tr_text": "Sweet Sofa B",
 		"jp_explain": "マイルーム配置用の二人掛けソファ。\n体温に反応し甘い香りを振りまく。\n究極のスイーツだが食べられない。",
-		"tr_explain": "A two-seater sofa for My Room.\nThis seat reacts to body temperature\nand scatters a sweet scent. The\nultimate treat that you cannot eat."
+		"tr_explain": "A two-seater sofa for My Room. This\nseat reacts to body temperature and\nscatters a sweet scent. The ultimate\ntreat that you cannot eat."
 	},
 	{
 		"assign": "350339",
@@ -2223,7 +2223,7 @@
 		"jp_text": "スイートソファＣ",
 		"tr_text": "Sweet Sofa C",
 		"jp_explain": "マイルーム配置用の二人掛けソファ。\n体温に反応し甘い香りを振りまく。\n究極のスイーツだが食べられない。",
-		"tr_explain": "A two-seater sofa for My Room.\nThis seat reacts to body temperature\nand scatters a sweet scent. The\nultimate treat that you cannot eat."
+		"tr_explain": "A two-seater sofa for My Room. This\nseat reacts to body temperature and\nscatters a sweet scent. The ultimate\ntreat that you cannot eat."
 	},
 	{
 		"assign": "350344",
@@ -2370,7 +2370,7 @@
 		"jp_text": "ウェスタンベッドＡ",
 		"tr_text": "Western Bed A",
 		"jp_explain": "マイルーム用のダブルサイズベッド。\n古風かつ粋な作りで、寝転ぶと\nワイルドな気分になれる。",
-		"tr_explain": "A double-sized bed for My Room.\nIts old-fashioned and stylish design will\ngive you a wild feeling when lying\ndown."
+		"tr_explain": "A double-sized bed for My Room. Its\nold-fashioned and stylish design will\ngive you a wild feeling when lying\ndown."
 	},
 	{
 		"assign": "350365",
@@ -2475,7 +2475,7 @@
 		"jp_text": "ウェスタンシャンデリア",
 		"tr_text": "Western Chandelier",
 		"jp_explain": "マイルームに設置する照明器具。\n扇風機付きのレトロなデザインで\nワイルドな世代に人気がある。",
-		"tr_explain": "A lighting fixture for My Room.\nA chandelier with a fan, made popular\nfor its wild and retro design."
+		"tr_explain": "A lighting fixture for My Room. A\nchandelier with a fan, made popular\nfor its wild and retro design."
 	},
 	{
 		"assign": "350380",
@@ -2496,7 +2496,7 @@
 		"jp_text": "オリエントマットＢ",
 		"tr_text": "Orient Mat B",
 		"jp_explain": "マイルームの床に敷くためのマット。\n天然の草を丁寧に編み込み、かぐわしい\n自然の香りで来訪者を楽しませる一品。",
-		"tr_explain": "A floor mat for My Room. Its design\nis made up of carefully knitted grass,\nand gives off a natural fragrance\nthat can make any visitor feel delight."
+		"tr_explain": "A floor mat. Its design is made up of\ncarefully knitted grass, and gives off\na natural fragrance that can make\nany visitor feel delight."
 	},
 	{
 		"assign": "350383",
@@ -2524,7 +2524,7 @@
 		"jp_text": "オリエントマットＣ",
 		"tr_text": "Orient Mat C",
 		"jp_explain": "マイルームの床に敷くためのマット。\n天然の草を丁寧に編み込み、かぐわしい\n自然の香りで来訪者を楽しませる一品。",
-		"tr_explain": "A floor mat for My Room. Its design\nis made up of carefully knitted grass,\nand gives off a natural fragrance\nthat can make any visitor feel delight."
+		"tr_explain": "A floor mat. Its design is made up of\ncarefully knitted grass, and gives off\na natural fragrance that can make\nany visitor feel delight."
 	},
 	{
 		"assign": "350387",
@@ -2692,7 +2692,7 @@
 		"jp_text": "ＤＩＶＡ・ポスターＡ",
 		"tr_text": "DIVA Poster A",
 		"jp_explain": "マイルームの壁に設置する装飾品。\n電子の歌姫の大判ポスター。\n「ついてきて、この先のステージへ」",
-		"tr_explain": "Wall decoration for My Room.\nA large poster of a virtual diva.\n\"Come with me to the destined stage\""
+		"tr_explain": "Wall decoration for My Room. A large\nposter of a virtual diva. \"Come with\nme to the destined stage\""
 	},
 	{
 		"assign": "350411",
@@ -2741,7 +2741,7 @@
 		"jp_text": "７Ｄ２０２０－２ポスター",
 		"tr_text": "7D2020-2 Poster",
 		"jp_explain": "マイルームの壁に設置する装飾品。\n人類と竜との戦いを描いた大型ポスター。\n「それは、竜を狩る、物語」",
-		"tr_explain": "Wall decoration for My Room.\nA large poster of humans vs dragons.\n\"That is the tale of dragon hunters\""
+		"tr_explain": "Wall decoration for My Room. A large\nposter of humans vs dragons. \"That\nis the tale of dragon hunters\""
 	},
 	{
 		"assign": "350419",
@@ -2762,7 +2762,7 @@
 		"jp_text": "ボーダーブレイクユニット",
 		"tr_text": "Border Break Unit",
 		"jp_explain": "マイルームに設置可能な装飾品。\nネットワークを介して、最大２０人での\n対戦が楽しめる筐体のイミテーション。",
-		"tr_explain": "A decoration for My Room.\nA videogame arcade cabinet that can\nplay with up to 20 people via a\nnetwork."
+		"tr_explain": "A decoration for My Room. A\nvideogame arcade cabinet that can\nplay with up to 20 people via a\nnetwork."
 	},
 	{
 		"assign": "350422",
@@ -2809,7 +2809,7 @@
 	{
 		"assign": "350428",
 		"jp_text": "ｍａｉｍａｉグリーン",
-		"tr_text": "mai mai Green",
+		"tr_text": "maimai GreeN",
 		"jp_explain": "マイルームに設置可能な装飾品。\nだれでも「舞え」ちゃう、新感覚の\nリズムゲーム筐体のイミテーション。",
 		"tr_explain": ""
 	},
@@ -2930,7 +2930,7 @@
 		"jp_text": "ジャックモビール",
 		"tr_text": "Jack Mobile",
 		"jp_explain": "マイルームに設置する照明器具。\nカボチャのオバケを模したオブジェが\n部屋に怪しい雰囲気を醸し出す。",
-		"tr_explain": "A lantern for My Room.\nAn imitation of a pumpkin monster.\nGives the room a spooky atmosphere."
+		"tr_explain": "A lantern for My Room. An imitation\nof a pumpkin monster. Gives the\nroom a spooky atmosphere."
 	},
 	{
 		"assign": "350456",
@@ -3028,7 +3028,7 @@
 		"jp_text": "囲炉裏",
 		"tr_text": "Sunken Hearth",
 		"jp_explain": "マイルームに設置可能な暖房器具。\nとある地域の伝統的な装置で、暖房の他\n煮炊きなどの調理にも利用された。",
-		"tr_explain": ""
+		"tr_explain": "Heating equipment for My Room.\nA traditional setup in certain regions,\nused for both heating and cooking."
 	},
 	{
 		"assign": "350472",
@@ -3084,7 +3084,7 @@
 		"jp_text": "モチ・ツッキー",
 		"tr_text": "Mochi Tsuki",
 		"jp_explain": "マイルームに設置可能な調理器具。\n伝統行事を体験できるが、合いの手を\n入れるラッピーを叩かぬように。",
-		"tr_explain": "Decoration for My Room.\nAllows you to experience a traditional\nevent, but be careful not to hit the\nrappy at the back."
+		"tr_explain": "Decoration for My Room. Allows you\nto experience a traditional event, but\nbe careful not to hit the rappy at the\nback."
 	},
 	{
 		"assign": "350481",
@@ -3287,7 +3287,7 @@
 		"jp_text": "レトロオブジェ",
 		"tr_text": "Retro Object",
 		"jp_explain": "マイルームに設置可能な装飾品。\n球体の中に閉じ込められた\nエネルギー体を観察し楽しむもの。",
-		"tr_explain": "Decoration for My Room.\nWatching the energy's reaction within\nthe sphere can be quite entertaining."
+		"tr_explain": "Decoration for My Room. Watching\nthe energy's reaction within the\nsphere can be quite entertaining."
 	},
 	{
 		"assign": "350511",
@@ -3357,7 +3357,7 @@
 		"jp_text": "レトロオブジェＢ",
 		"tr_text": "Retro Object B",
 		"jp_explain": "マイルームに設置可能な装飾品。\n球体の中に閉じ込められた\nエネルギー体を観察し楽しむもの。",
-		"tr_explain": "Decoration for My Room.\nWatching the energy's reaction within\nthe sphere can be quite entertaining."
+		"tr_explain": "Decoration for My Room. Watching\nthe energy's reaction within the\nsphere can be quite entertaining."
 	},
 	{
 		"assign": "350521",
@@ -4113,7 +4113,7 @@
 		"jp_text": "ラッピーのとことこレース",
 		"tr_text": "Rappy Waddle Race",
 		"jp_explain": "マイルームに設置可能な遊具機器。\n一定間隔でボタンを押して進ませる。\n複数設置するとレースで遊べる。",
-		"tr_explain": "A gaming machine for My Room.\nRun by pressing the confirm button\nrepeatedly. Multiple users can race by\nhaving multiple installations."
+		"tr_explain": "A gaming machine for My Room. Run\nby pressing the confirm button\nrepeatedly. Multiple users can race\nby having multiple installations."
 	},
 	{
 		"assign": "350629",
@@ -4127,56 +4127,56 @@
 		"jp_text": "クラフトエクスビルダー",
 		"tr_text": "Craft Ex Builder",
 		"jp_explain": "マイルームに設置可能なクラフト装置。\n武装エクステンド時のクールタイムを\n２％減少させる効果がある。",
-		"tr_explain": "Crafting equipment for My Room.\nReduces cooldown when extending.\nReduces craft line cooldown by 2%."
+		"tr_explain": "Crafting equipment for My Room.\nReduces craft line cooldown by\n2% for equipment extension."
 	},
 	{
 		"assign": "350631",
 		"jp_text": "クラフトエクスビルダー２",
 		"tr_text": "Craft Ex Builder 2",
 		"jp_explain": "マイルームに設置可能なクラフト装置。\n武装エクステンド時のクールタイムを\n４％減少させる効果がある。",
-		"tr_explain": "Crafting equipment for My Room.\nReduces cooldown when extending.\nReduces craft line cooldown by 4%."
+		"tr_explain": "Crafting equipment for My Room.\nReduces craft line cooldown by\n4% for equipment extension."
 	},
 	{
 		"assign": "350632",
 		"jp_text": "クラフトエクスビルダー３",
 		"tr_text": "Craft Ex Builder 3",
 		"jp_explain": "マイルームに設置可能なクラフト装置。\n武装エクステンド時のクールタイムを\n６％減少させる効果がある。",
-		"tr_explain": "Crafting equipment for My Room.\nReduces cooldown when extending.\nReduces craft line cooldown by 6%."
+		"tr_explain": "Crafting equipment for My Room.\nReduces craft line cooldown by\n6% for equipment extension."
 	},
 	{
 		"assign": "350633",
 		"jp_text": "クラフトエクスビルダー４",
 		"tr_text": "Craft Ex Builder 4",
 		"jp_explain": "マイルームに設置可能なクラフト装置。\n武装エクステンド時のクールタイムを\n８％減少させる効果がある。",
-		"tr_explain": ""
+		"tr_explain": "Crafting equipment for My Room.\nReduces craft line cooldown by\n8% for equipment extension."
 	},
 	{
 		"assign": "350635",
 		"jp_text": "クラフトテックビルダー",
 		"tr_text": "Craft Tech Builder",
 		"jp_explain": "マイルームに設置可能なクラフト装置。\nテクニックカスタマイズ時のクール\nタイムを２％減少させる効果がある。",
-		"tr_explain": "Crafting equipment for My Room.\nReduces cooldown when customizing.\nReduces craft line cooldown by 2%."
+		"tr_explain": "Crafting equipment for My Room.\nReduces craft line cooldown by\n2% for Technique customization."
 	},
 	{
 		"assign": "350636",
 		"jp_text": "クラフトテックビルダー２",
 		"tr_text": "Craft Tech Builder 2",
 		"jp_explain": "マイルームに設置可能なクラフト装置。\nテクニックカスタマイズ時のクール\nタイムを４％減少させる効果がある。",
-		"tr_explain": "Crafting equipment for My Room.\nReduces cooldown when customizing.\nReduces craft line cooldown by 4%."
+		"tr_explain": "Crafting equipment for My Room.\nReduces craft line cooldown by\n4% for Technique customization."
 	},
 	{
 		"assign": "350637",
 		"jp_text": "クラフトテックビルダー３",
 		"tr_text": "Craft Tech Builder 3",
 		"jp_explain": "マイルームに設置可能なクラフト装置。\nテクニックカスタマイズ時のクール\nタイムを６％減少させる効果がある。",
-		"tr_explain": "Crafting equipment for My Room.\nReduces cooldown when customizing.\nReduces craft line cooldown by 6%."
+		"tr_explain": "Crafting equipment for My Room.\nReduces craft line cooldown by\n6% for Technique customization."
 	},
 	{
 		"assign": "350638",
 		"jp_text": "クラフトテックビルダー４",
 		"tr_text": "Craft Tech Builder 4",
 		"jp_explain": "マイルームに設置可能なクラフト装置。\nテクニックカスタマイズ時のクール\nタイムを８％減少させる効果がある。",
-		"tr_explain": ""
+		"tr_explain": "Crafting equipment for My Room.\nReduces craft line cooldown by\n8% for Technique customization."
 	},
 	{
 		"assign": "350641",
@@ -4330,35 +4330,35 @@
 		"jp_text": "クラフト時限ビルダー",
 		"tr_text": "Craft Timed Builder",
 		"jp_explain": "マイルームに設置可能なクラフト装置。\n時限能力インストール時のクール\nタイムを２％減少させる効果がある。",
-		"tr_explain": "Crafting equipment for My Room.\nReduces the cooldown when\nadding timed abilities by 2%."
+		"tr_explain": "Crafting equipment for My Room.\nReduces craft line cooldown by\n2% for Timed Ability installation."
 	},
 	{
 		"assign": "350695",
 		"jp_text": "クラフト時限ビルダー２",
 		"tr_text": "Craft Timed Builder 2",
 		"jp_explain": "マイルームに設置可能なクラフト装置。\n時限能力インストール時のクール\nタイムを４％減少させる効果がある。",
-		"tr_explain": "Crafting equipment for My Room.\nReduces the cooldown when\nadding timed abilities by 4%."
+		"tr_explain": "Crafting equipment for My Room.\nReduces craft line cooldown by\n4% for Timed Ability installation."
 	},
 	{
 		"assign": "350696",
 		"jp_text": "クラフト時限ビルダー３",
 		"tr_text": "Craft Timed Builder 3",
 		"jp_explain": "マイルームに設置可能なクラフト装置。\n時限能力インストール時のクール\nタイムを６％減少させる効果がある。",
-		"tr_explain": ""
+		"tr_explain": "Crafting equipment for My Room.\nReduces craft line cooldown by\n6% for Timed Ability installation."
 	},
 	{
 		"assign": "350697",
 		"jp_text": "クラフト時限ビルダー４",
 		"tr_text": "Craft Timed Builder 4",
 		"jp_explain": "マイルームに設置可能なクラフト装置。\n時限能力インストール時のクール\nタイムを８％減少させる効果がある。",
-		"tr_explain": ""
+		"tr_explain": "Crafting equipment for My Room.\nReduces craft line cooldown by\n8% for Timed Ability installation."
 	},
 	{
 		"assign": "350699",
 		"jp_text": "ＰＳＯ２ビジュアルマット",
 		"tr_text": "PSO2 Visual Mat",
 		"jp_explain": "マイルームの床に敷くためのマット。\n美麗なイラストがプリントされており\n踏むに踏めない一品。",
-		"tr_explain": "A floor mat for My Room.\nMake sure not to step on the\nbeautiful illustrations when walking on\nit."
+		"tr_explain": "A floor mat for My Room. Make sure\nnot to step on the beautiful\nillustrations when walking on it."
 	},
 	{
 		"assign": "350700",
@@ -4393,56 +4393,56 @@
 		"jp_text": "クラフトテックメイカー",
 		"tr_text": "Craft Tech Maker",
 		"jp_explain": "マイルームに設置可能なクラフト装置。\nテクニックカスタマイズ時の大成功\n確率を１％上昇させる効果がある。",
-		"tr_explain": "Crafting equipment for My Room.\nImproves the rate of Great Success\n by 1% for technique customization."
+		"tr_explain": "Crafting equipment for My Room.\nImproves the rate of Great Success\nby 1% for technique customization."
 	},
 	{
 		"assign": "350706",
 		"jp_text": "クラフトテックメイカー２",
 		"tr_text": "Craft Tech Maker 2",
 		"jp_explain": "マイルームに設置可能なクラフト装置。\nテクニックカスタマイズ時の大成功\n確率を２％上昇させる効果がある。",
-		"tr_explain": "Crafting equipment for My Room.\nImproves the rate of Great Success\n by 2% for technique customization."
+		"tr_explain": "Crafting equipment for My Room.\nImproves the rate of Great Success\nby 2% for technique customization."
 	},
 	{
 		"assign": "350707",
 		"jp_text": "クラフトテックメイカー３",
 		"tr_text": "Craft Tech Maker 3",
 		"jp_explain": "マイルームに設置可能なクラフト装置。\nテクニックカスタマイズ時の大成功\n確率を３％上昇させる効果がある。",
-		"tr_explain": "Crafting equipment for My Room.\nImproves the rate of Great Success\n by 3% for technique customization."
+		"tr_explain": "Crafting equipment for My Room.\nImproves the rate of Great Success\nby 3% for technique customization."
 	},
 	{
 		"assign": "350708",
 		"jp_text": "クラフトテックメイカー４",
 		"tr_text": "Craft Tech Maker 4",
 		"jp_explain": "マイルームに設置可能なクラフト装置。\nテクニックカスタマイズ時の大成功\n確率を４％上昇させる効果がある。",
-		"tr_explain": "Crafting equipment for My Room.\nImproves the rate of Great Success\n by 4% for technique customization."
+		"tr_explain": "Crafting equipment for My Room.\nImproves the rate of Great Success\nby 4% for technique customization."
 	},
 	{
 		"assign": "350720",
 		"jp_text": "クラフト時限メイカー",
 		"tr_text": "Craft Timed Maker",
 		"jp_explain": "マイルームに設置可能なクラフト装置。\n時限能力インストール時の大成功\n確率を１％上昇させる効果がある。",
-		"tr_explain": "Crafting equipment for My Room.\nImproves the rate of Great Success\n by 1% for Timed Ability installation."
+		"tr_explain": "Crafting equipment for My Room.\nImproves the rate of Great Success\nby 1% for Timed Ability installation."
 	},
 	{
 		"assign": "350721",
 		"jp_text": "クラフト時限メイカー２",
 		"tr_text": "Craft Timed Maker 2",
 		"jp_explain": "マイルームに設置可能なクラフト装置。\n時限能力インストール時の大成功\n確率を１．５％上昇させる効果がある。",
-		"tr_explain": "Crafting equipment for My Room.\nImproves the rate of Great Success\n by 1.5% for Timed Ability installation."
+		"tr_explain": "Crafting equipment for My Room.\nImproves the rate of Great Success\nby 1.5% for Timed Ability installation."
 	},
 	{
 		"assign": "350722",
 		"jp_text": "クラフト時限メイカー３",
 		"tr_text": "Craft Timed Maker 3",
 		"jp_explain": "マイルームに設置可能なクラフト装置。\n時限能力インストール時の大成功\n確率を２％上昇させる効果がある。",
-		"tr_explain": "Crafting equipment for My Room.\nImproves the rate of Great Success\n by 2% for Timed Ability installation."
+		"tr_explain": "Crafting equipment for My Room.\nImproves the rate of Great Success\nby 2% for Timed Ability installation."
 	},
 	{
 		"assign": "350723",
 		"jp_text": "クラフト時限メイカー４",
 		"tr_text": "Craft Timed Maker 4",
 		"jp_explain": "マイルームに設置可能なクラフト装置。\n時限能力インストール時の大成功\n確率を２．５％上昇させる効果がある。",
-		"tr_explain": "Crafting equipment for My Room.\nImproves the rate of Great Success\n by 2.5% for Timed Ability installation."
+		"tr_explain": "Crafting equipment for My Room.\nImproves the rate of Great Success\nby 2.5% for Timed Ability installation."
 	},
 	{
 		"assign": "350726",
@@ -4566,7 +4566,7 @@
 	{
 		"assign": "350743",
 		"jp_text": "エーデルワイス号",
-		"tr_text": "EdelWeise Model",
+		"tr_text": "Edelweiss Model",
 		"jp_explain": "マイルームに設置可能なオブジェクト。\nその雄姿に皆が胸を熱くさせたと\nいわれる戦車のレプリカ。",
 		"tr_explain": ""
 	},
@@ -4708,7 +4708,7 @@
 		"jp_text": "Ｉ・カプリッチオポスター",
 		"tr_text": "Idol Capriccio Poster",
 		"jp_explain": "マイルームの壁に設置する装飾品。\nクーナの水着グラビアポスター。",
-		"tr_explain": ""
+		"tr_explain": "Wall decoration for My Room.\nA swimsuit gravure poster featuring\nQuna."
 	},
 	{
 		"assign": "350765",
@@ -4755,7 +4755,7 @@
 	{
 		"assign": "350771",
 		"jp_text": "ｍａｉｍａｉオレンジ",
-		"tr_text": "maimai Orange",
+		"tr_text": "maimai ORANGE",
 		"jp_explain": "マイルームに設置可能な装飾品。\nゲームセンターで遊べる音楽ゲーム\n「maimai」筐体のイミテーション。",
 		"tr_explain": ""
 	},
@@ -6218,7 +6218,7 @@
 	{
 		"assign": "350984",
 		"jp_text": "GRAVITY DAZE2ポスター",
-		"tr_text": "Gravity Daze 2 Poster",
+		"tr_text": "Gravity Rush 2 Poster",
 		"jp_explain": "マイルームの壁に設置する装飾品。\nGRAVITY DAZE2のポスター。\n「重力的目眩完結編」",
 		"tr_explain": ""
 	},
@@ -6437,56 +6437,56 @@
 		"jp_text": "クラフトアーツメイカー",
 		"tr_text": "Craft Arts Maker",
 		"jp_explain": "マイルームに設置可能なクラフト装置。\nＰＡカスタマイズ時の大成功\n確率を１％上昇させる効果がある。",
-		"tr_explain": ""
+		"tr_explain": "Crafting equipment for My Room.\nImproves the rate of Great Success\nby 1% for PA customization."
 	},
 	{
 		"assign": "3501016",
 		"jp_text": "クラフトアーツメイカー２",
 		"tr_text": "Craft Arts Maker 2",
 		"jp_explain": "マイルームに設置可能なクラフト装置。\nＰＡカスタマイズ時の大成功\n確率を２％上昇させる効果がある。",
-		"tr_explain": ""
+		"tr_explain": "Crafting equipment for My Room.\nImproves the rate of Great Success\nby 2% for PA customization."
 	},
 	{
 		"assign": "3501017",
 		"jp_text": "クラフトアーツメイカー３",
 		"tr_text": "Craft Arts Maker 3",
 		"jp_explain": "マイルームに設置可能なクラフト装置。\nＰＡカスタマイズ時の大成功\n確率を３％上昇させる効果がある。",
-		"tr_explain": ""
+		"tr_explain": "Crafting equipment for My Room.\nImproves the rate of Great Success\nby 3% for PA customization."
 	},
 	{
 		"assign": "3501018",
 		"jp_text": "クラフトアーツメイカー４",
 		"tr_text": "Craft Arts Maker 4",
 		"jp_explain": "マイルームに設置可能なクラフト装置。\nＰＡカスタマイズ時の大成功\n確率を４％上昇させる効果がある。",
-		"tr_explain": ""
+		"tr_explain": "Crafting equipment for My Room.\nImproves the rate of Great Success\nby 4% for PA customization."
 	},
 	{
 		"assign": "3501020",
 		"jp_text": "クラフトアーツビルダー",
 		"tr_text": "Craft Arts Builder",
 		"jp_explain": "マイルームに設置可能なクラフト装置。\nＰＡカスタマイズ時のクール\nタイムを２％減少させる効果がある。",
-		"tr_explain": ""
+		"tr_explain": "Crafting equipment for My Room.\nReduces craft line cooldown by\n2% for PA customization."
 	},
 	{
 		"assign": "3501021",
 		"jp_text": "クラフトアーツビルダー２",
 		"tr_text": "Craft Arts Builder 2",
 		"jp_explain": "マイルームに設置可能なクラフト装置。\nＰＡカスタマイズ時のクール\nタイムを４％減少させる効果がある。",
-		"tr_explain": ""
+		"tr_explain": "Crafting equipment for My Room.\nReduces craft line cooldown by\n4% for PA customization."
 	},
 	{
 		"assign": "3501022",
 		"jp_text": "クラフトアーツビルダー３",
 		"tr_text": "Craft Arts Builder 3",
 		"jp_explain": "マイルームに設置可能なクラフト装置。\nＰＡカスタマイズ時のクール\nタイムを６％減少させる効果がある。",
-		"tr_explain": ""
+		"tr_explain": "Crafting equipment for My Room.\nReduces craft line cooldown by\n6% for PA customization."
 	},
 	{
 		"assign": "3501023",
 		"jp_text": "クラフトアーツビルダー４",
 		"tr_text": "Craft Arts Builder 4",
 		"jp_explain": "マイルームに設置可能なクラフト装置。\nＰＡカスタマイズ時のクール\nタイムを８％減少させる効果がある。",
-		"tr_explain": ""
+		"tr_explain": "Crafting equipment for My Room.\nReduces craft line cooldown by\n8% for PA customization."
 	},
 	{
 		"assign": "3501025",
@@ -6654,28 +6654,28 @@
 		"jp_text": "クーナポスター",
 		"tr_text": "Quna Poster",
 		"jp_explain": "マイルームの壁に設置する装飾品。\nクーナのグラビアポスター。",
-		"tr_explain": ""
+		"tr_explain": "Wall decoration for My Room.\nA gravure poster featuring Quna."
 	},
 	{
 		"assign": "3501049",
 		"jp_text": "マトイポスター",
 		"tr_text": "Matoi Poster",
 		"jp_explain": "マイルームの壁に設置する装飾品。\nマトイのグラビアポスター。",
-		"tr_explain": ""
+		"tr_explain": "Wall decoration for My Room.\nA gravure poster featuring Matoi."
 	},
 	{
 		"assign": "3501050",
 		"jp_text": "リサポスター",
 		"tr_text": "Lisa Poster",
 		"jp_explain": "マイルームの壁に設置する装飾品。\nリサのグラビアポスター。",
-		"tr_explain": ""
+		"tr_explain": "Wall decoration for My Room.\nA gravure poster featuring Lisa."
 	},
 	{
 		"assign": "3501051",
 		"jp_text": "エコーポスター",
 		"tr_text": "Echo Poster",
 		"jp_explain": "マイルームの壁に設置する装飾品。\nエコーのグラビアポスター。",
-		"tr_explain": ""
+		"tr_explain": "Wall decoration for My Room.\nA gravure poster featuring Echo."
 	},
 	{
 		"assign": "3501052",
@@ -6696,42 +6696,42 @@
 		"jp_text": "イオポスター",
 		"tr_text": "Io Poster",
 		"jp_explain": "マイルームの壁に設置する装飾品。\nイオのグラビアポスター。",
-		"tr_explain": ""
+		"tr_explain": "Wall decoration for My Room.\nA gravure poster featuring Io."
 	},
 	{
 		"assign": "3501055",
 		"jp_text": "スクナヒメポスター",
-		"tr_text": "Sukunahime Poster",
+		"tr_text": "Sukuna-hime Poster",
 		"jp_explain": "マイルームの壁に設置する装飾品。\nスクナヒメのグラビアポスター。",
-		"tr_explain": ""
+		"tr_explain": "Wall decoration for My Room.\nA gravure poster featuring\nSukuna-hime."
 	},
 	{
 		"assign": "3501056",
 		"jp_text": "イデアＣマトイポスター",
 		"tr_text": "Edea C Matoi Poster",
 		"jp_explain": "マイルームの壁に設置する装飾品。\nマトイのグラビアポスター。",
-		"tr_explain": ""
+		"tr_explain": "Wall decoration for My Room.\nA gravure poster featuring Matoi."
 	},
 	{
 		"assign": "3501057",
 		"jp_text": "ウタヒメクーナポスター",
 		"tr_text": "Utahime Quna Poster",
 		"jp_explain": "マイルームの壁に設置する装飾品。\nクーナのグラビアポスター。",
-		"tr_explain": ""
+		"tr_explain": "Wall decoration for My Room.\nA gravure poster featuring Quna."
 	},
 	{
 		"assign": "3501058",
 		"jp_text": "ヒロインズポスター",
 		"tr_text": "Heroines Poster",
 		"jp_explain": "マイルームの壁に設置する装飾品。\nヒロインたちのグラビアポスター。",
-		"tr_explain": ""
+		"tr_explain": "Wall decoration for My Room.\nA gravure poster featuring multiple\nheroines of PSO2."
 	},
 	{
 		"assign": "3501059",
 		"jp_text": "ヒロインズポスターＢ",
 		"tr_text": "Heroine Poster B",
 		"jp_explain": "マイルームの壁に設置する装飾品。\nヒロインたちのグラビアポスター。",
-		"tr_explain": ""
+		"tr_explain": "Wall decoration for My Room.\nA gravure poster featuring multiple\nheroines of PSO2."
 	},
 	{
 		"assign": "3501060",
@@ -6827,7 +6827,7 @@
 	{
 		"assign": "3501073",
 		"jp_text": "閃の軌跡ポスター",
-		"tr_text": "Sen no Kiseki Poster",
+		"tr_text": "Trails of Cold Steel Poster",
 		"jp_explain": "マイルームの壁に設置する装飾品。\n≪Ⅶ組≫の面々が描かれたポスター。\n「紅き翼の下、若き獅子たちは集う」",
 		"tr_explain": ""
 	},
@@ -6850,6 +6850,13 @@
 		"jp_text": "クーナステージver. MIYABI",
 		"tr_text": "Quna Stage ver. MIYABI",
 		"jp_explain": "マイルームに設置可能なステージ。\nクーナがライブで使うライブセットの\nレプリカ。まるで舞姫の気分。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501077",
+		"jp_text": "電子ドラムセット",
+		"tr_text": "",
+		"jp_explain": "マイルームに設置可能な打楽器。\n最新の電子ドラムセット。\n演奏もできる。",
 		"tr_explain": ""
 	},
 	{
@@ -7529,7 +7536,7 @@
 		"jp_text": "ビンテージ火鉢",
 		"tr_text": "Vintage Hibachi",
 		"jp_explain": "マイルームに設置可能な暖房器具。\n灰を入れた中に炭火を置いて使う。\n湯茶を沸かすのにも用いられる。",
-		"tr_explain": ""
+		"tr_explain": "Heating equipment for My Room.\nBurns charcoal, which sits on a layer\nof ash. Can also be used to boil tea."
 	},
 	{
 		"assign": "3501199",
@@ -7746,14 +7753,14 @@
 		"jp_text": "丸型ストーブ",
 		"tr_text": "Round Stove",
 		"jp_explain": "マイルームに設置可能な暖房器具。\n円柱型の古き良き時代のストーブ。\n温かみのあるデザインが懐かしい。",
-		"tr_explain": ""
+		"tr_explain": "Heating equipment for My Room.\nA good old-fashioned cylindrical stove.\nA nostalgic design that fills one with\nwarmth."
 	},
 	{
 		"assign": "3501230",
 		"jp_text": "オイルヒーター",
 		"tr_text": "Oil Heater",
 		"jp_explain": "マイルームに設置可能な暖房器具。\n部屋が暖まるまで時間はかかるが\n燃焼しないため、とても安全。",
-		"tr_explain": ""
+		"tr_explain": "Heating equipment for My Room.\nTakes a little while to warm up the\nroom, but is very safe, due to not\nhaving any exposed flames."
 	},
 	{
 		"assign": "3501231",
@@ -8117,7 +8124,7 @@
 		"jp_text": "ＰＳＯ２ｅｓポスター",
 		"tr_text": "PSO2es Poster",
 		"jp_explain": "マイルームの壁に設置する装飾品。\n『ＰＳＯ２ｅｓ』の大型ポスター。\n「リーダー、一緒に頑張りましょう！」",
-		"tr_explain": "A decoration for my room.\nLarge Poster of PSO2es.\n\"Leader, Let's do our best!\""
+		"tr_explain": "Wall decoration for My Room.\nLarge Poster of PSO2es.\n\"Leader, let's do our best!\""
 	},
 	{
 		"assign": "3501285",
@@ -8276,7 +8283,7 @@
 	{
 		"assign": "3501307",
 		"jp_text": "フォニュエールマット",
-		"tr_text": "FOnewarl Mat",
+		"tr_text": "FOnewearl Mat",
 		"jp_explain": "マイルームの床に敷くためのマット。\n美麗なイラストがプリントされており\n踏むに踏めない一品。",
 		"tr_explain": ""
 	},
@@ -8537,7 +8544,7 @@
 		"jp_text": "イオ水着ポスター",
 		"tr_text": "Io Swimsuit Poster",
 		"jp_explain": "マイルームの壁に設置する装飾品。\nイオの水着グラビアポスター。",
-		"tr_explain": ""
+		"tr_explain": "Wall decoration for My Room.\nA swimsuit gravure poster featuring\nIo."
 	},
 	{
 		"assign": "3501349",
@@ -8731,7 +8738,7 @@
 	{
 		"assign": "3501378",
 		"jp_text": "スイパラ×クーナパネル",
-		"tr_text": "Sweets x Cooler Panel",
+		"tr_text": "Sweets x Quna Panel",
 		"jp_explain": "マイルームに設置可能な装飾品。\nクーナの等身大パネル。",
 		"tr_explain": ""
 	},
@@ -8740,35 +8747,35 @@
 		"jp_text": "アイカポスター",
 		"tr_text": "Aika Poster",
 		"jp_explain": "マイルームの壁に設置する装飾品。\nアイカのグラビアポスター。",
-		"tr_explain": ""
+		"tr_explain": "Wall decoration for My Room.\nA gravure poster featuring Aika."
 	},
 	{
 		"assign": "3501380",
 		"jp_text": "ナギサポスター",
 		"tr_text": "Nagisa Poster",
 		"jp_explain": "マイルームの壁に設置する装飾品。\nナギサのグラビアポスター。",
-		"tr_explain": ""
+		"tr_explain": "Wall decoration for My Room.\nA gravure poster featuring Nagisa."
 	},
 	{
 		"assign": "3501381",
 		"jp_text": "リコポスター",
 		"tr_text": "Rico Poster",
 		"jp_explain": "マイルームの壁に設置する装飾品。\nリコのグラビアポスター。",
-		"tr_explain": ""
+		"tr_explain": "Wall decoration for My Room.\nA gravure poster featuring Rico."
 	},
 	{
 		"assign": "3501382",
 		"jp_text": "イノセントＣマトイポスター",
 		"tr_text": "Innocent C. Matoi Poster",
 		"jp_explain": "マイルームの壁に設置する装飾品。\nマトイのグラビアポスター。",
-		"tr_explain": ""
+		"tr_explain": "Wall decoration for My Room.\nA gravure poster featuring Matoi."
 	},
 	{
 		"assign": "3501383",
 		"jp_text": "ヒロインズポスターＣ",
 		"tr_text": "Heroines Poster C",
 		"jp_explain": "マイルームの壁に設置する装飾品。\nヒロインたちのグラビアポスター。",
-		"tr_explain": ""
+		"tr_explain": "Wall decoration for My Room.\nA gravure poster featuring multiple\nheroines of Phantasy Star."
 	},
 	{
 		"assign": "3501384",
@@ -8992,7 +8999,7 @@
 		"jp_text": "NieR:Automataポスター",
 		"tr_text": "NieR:Automata Poster",
 		"jp_explain": "マイルームの壁に設置する装飾品。\n自動歩兵人形「ヨルハ」部隊を描いた\n大判ポスター。",
-		"tr_explain": "A decorative wall item for\nMy Room. Large poster of\n\"YoRHa No. 2 Model B\" combat android."
+		"tr_explain": "Wall decoration for My Room.\nA large poster depicting the \"YoRHa\"\ncombat android unit."
 	},
 	{
 		"assign": "3501418",
@@ -9130,7 +9137,7 @@
 	{
 		"assign": "3501437",
 		"jp_text": "ナギサ型抜きマット",
-		"tr_text": "Nagisa Mat",
+		"tr_text": "Nagisa Die-cut Mat",
 		"jp_explain": "マイルームの床に敷くためのマット。\nかねこしんや先生の描かれた\nナギサの型抜きマット。",
 		"tr_explain": ""
 	},
@@ -9221,7 +9228,7 @@
 	{
 		"assign": "3501451",
 		"jp_text": "プラモパッケージマット１",
-		"tr_text": "Plamo Package Mat 1",
+		"tr_text": "Plastic Model Package Mat 1",
 		"jp_explain": "マイルームの床に敷くためのマット。\n美麗なイラストがプリントされており\n踏むに踏めない一品。",
 		"tr_explain": ""
 	},
@@ -9270,7 +9277,7 @@
 	{
 		"assign": "3501458",
 		"jp_text": "プラモパッケージマット２",
-		"tr_text": "Plamo Package 2",
+		"tr_text": "Plastic Model Package Mat 2",
 		"jp_explain": "マイルームの床に敷くためのマット。\n美麗なイラストがプリントされており\n踏むに踏めない一品。",
 		"tr_explain": ""
 	},
@@ -9459,58 +9466,58 @@
 	{
 		"assign": "3501488",
 		"jp_text": "Ｓクラフトエクスビルダー",
-		"tr_text": "",
+		"tr_text": "S-Craft Ex Builder",
 		"jp_explain": "マイルームに設置可能なクラフト装置。\n武装エクステンド時のクールタイムを\n８％減少させる、小型モデル。",
-		"tr_explain": ""
+		"tr_explain": "Crafting equipment for My Room.\nReduces craft line cooldown by\n8% for equipment extension."
 	},
 	{
 		"assign": "3501493",
 		"jp_text": "Ｓクラフトエクスメイカー",
-		"tr_text": "",
+		"tr_text": "S-Craft Ex Maker",
 		"jp_explain": "マイルームに設置可能なクラフト装置。\n武装エクステンド時の大成功確率を\n２．５％上昇させる、小型モデル。",
-		"tr_explain": ""
+		"tr_explain": "Crafting equipment for My Room.\nImproves the rate of Great Success\nby 2.5% for equipment extension."
 	},
 	{
 		"assign": "3501498",
 		"jp_text": "Ｓクラフトテックビルダー",
-		"tr_text": "",
+		"tr_text": "S-Craft Tech Builder",
 		"jp_explain": "マイルームに設置可能なクラフト装置。\nテクニックカスタマイズ時のクール\nタイムを８％減少させる、小型モデル。",
-		"tr_explain": ""
+		"tr_explain": "Crafting equipment for My Room.\nReduces craft line cooldown by\n8% for Technique customization."
 	},
 	{
 		"assign": "3501503",
 		"jp_text": "Ｓクラフトテックメイカー",
-		"tr_text": "",
-		"jp_explain": "マイルームに設置可能なクラフト装置。\nテクニックカスタマイズ時の大成功\n確率を４％に上昇させる、小型モデル。",
-		"tr_explain": ""
+		"tr_text": "S-Craft Tech Maker",
+		"jp_explain": "マイルームに設置可能なクラフト装置。\nテクニックカスタマイズ時の大成功\n確率を４％上昇させる、小型モデル。",
+		"tr_explain": "Crafting equipment for My Room.\nImproves the rate of Great Success\nby 4% for technique customization."
 	},
 	{
 		"assign": "3501508",
 		"jp_text": "Ｓクラフトアーツビルダー",
-		"tr_text": "",
+		"tr_text": "S-Craft Arts Builder",
 		"jp_explain": "マイルームに設置可能なクラフト装置。\nＰＡカスタマイズ時のクールタイムを\n８％減少させる、小型モデル。",
-		"tr_explain": ""
+		"tr_explain": "Crafting equipment for My Room.\nReduces craft line cooldown by\n8% for PA customization."
 	},
 	{
 		"assign": "3501513",
 		"jp_text": "Ｓクラフトアーツメイカー",
-		"tr_text": "",
+		"tr_text": "S-Craft Arts Maker",
 		"jp_explain": "マイルームに設置可能なクラフト装置。\nＰＡカスタマイズ時の大成功確率を\n４％上昇させる、小型モデル。",
-		"tr_explain": ""
+		"tr_explain": "Crafting equipment for My Room.\nImproves the rate of Great Success\nby 4% for PA customization."
 	},
 	{
 		"assign": "3501518",
 		"jp_text": "Ｓクラフト時限ビルダー",
-		"tr_text": "",
+		"tr_text": "S-Craft Timed Builder",
 		"jp_explain": "マイルームに設置可能なクラフト装置。\n時限能力インストール時のクール\nタイムを８％減少させる、小型モデル。",
-		"tr_explain": ""
+		"tr_explain": "Crafting equipment for My Room.\nReduces craft line cooldown by\n8% for Timed Ability installation."
 	},
 	{
 		"assign": "3501523",
 		"jp_text": "Ｓクラフト時限メイカー",
-		"tr_text": "",
+		"tr_text": "S-Craft Timed Maker",
 		"jp_explain": "マイルームに設置可能なクラフト装置。\n時限能力インストール時の大成功確率を\n２．５％上昇させる、小型モデル。",
-		"tr_explain": ""
+		"tr_explain": "Crafting equipment for My Room.\nImproves the rate of Great Success\nby 2.5% for Timed Ability installation."
 	},
 	{
 		"assign": "3501535",
@@ -9692,7 +9699,7 @@
 		"jp_text": "アヴェンジャーポスター",
 		"tr_text": "Avenger Poster",
 		"jp_explain": "マイルームの壁に設置する装飾品。\nアヴェンジャーのウェポノイドの\nグラビアポスター。",
-		"tr_explain": ""
+		"tr_explain": "Wall decoration for My Room.\nA gravure poster featuring\nAvenger's Weaponoid."
 	},
 	{
 		"assign": "3501562",
@@ -9706,7 +9713,7 @@
 		"jp_text": "ブルージーＲポスター",
 		"tr_text": "Bluesy R Poster",
 		"jp_explain": "マイルームの壁に設置する装飾品。\nブルージーレクイエムの\nウェポノイドのグラビアポスター。",
-		"tr_explain": ""
+		"tr_explain": "Wall decoration for My Room.\nA gravure poster featuring Bluesy\nRequiem's Weaponoid."
 	},
 	{
 		"assign": "3501564",
@@ -9795,7 +9802,7 @@
 	{
 		"assign": "3501576",
 		"jp_text": "ＣＤパッケージマット１０",
-		"tr_text": "",
+		"tr_text": "CD Package Mat 10",
 		"jp_explain": "マイルームの床に敷くためのマット。\n美麗なイラストがプリントされており\n踏むに踏めない一品。",
 		"tr_explain": ""
 	},
@@ -9809,14 +9816,14 @@
 	{
 		"assign": "3501578",
 		"jp_text": "プラモパッケージマット３",
-		"tr_text": "",
+		"tr_text": "Plastic Model Package Mat 3",
 		"jp_explain": "マイルームの床に敷くためのマット。\n美麗なイラストがプリントされており\n踏むに踏めない一品。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501579",
 		"jp_text": "結月ゆかりマット",
-		"tr_text": "",
+		"tr_text": "Yuzuki Yukari Mat",
 		"jp_explain": "マイルームの床に敷くためのマット。\n結月ゆかりのビジュアルマット。\n踏むと流れるのは、人々を縁で結ぶ声。",
 		"tr_explain": ""
 	},
@@ -9837,36 +9844,1107 @@
 	{
 		"assign": "3501582",
 		"jp_text": "結月ゆかりポスターＡ",
-		"tr_text": "",
+		"tr_text": "Yuzuki Yukari Poster A",
 		"jp_explain": "マイルームの壁に設置する装飾品。\n結月ゆかりの大判ポスター。\n「縁ある人たちが、音を結びます」",
-		"tr_explain": ""
+		"tr_explain": "Wall decoration for My Room.\nA large poster of Yuzuki Yukari.\n\"You are all united by her voice.\""
 	},
 	{
 		"assign": "3501583",
 		"jp_text": "結月ゆかりポスターＢ",
-		"tr_text": "",
+		"tr_text": "Yuzuki Yukari Poster B",
 		"jp_explain": "マイルームの壁に設置する装飾品。\n結月ゆかりの大判ポスター。\n「縁ある人たちを、音で結びます」",
-		"tr_explain": ""
+		"tr_explain": "Wall decoration for My Room.\nA large poster of Yuzuki Yukari.\n\"She unites you all with her voice.\""
 	},
 	{
 		"assign": "3501584",
 		"jp_text": "結月ゆかりパネル",
-		"tr_text": "",
+		"tr_text": "Yuzuki Yukari Panel",
 		"jp_explain": "マイルームに設置可能な装飾品。\n歌にトークに大活躍中の\n結月ゆかり等身大パネル。",
-		"tr_explain": ""
+		"tr_explain": "A decoration for My Room.\nA life-size panel of Yuzuki Yukari,\nthe popular singer."
 	},
 	{
 		"assign": "3501585",
 		"jp_text": "リリーパライト",
-		"tr_text": "",
+		"tr_text": "Lillipan Light",
 		"jp_explain": "マイルームに設置するインテリア。\nリリーパ族型の大きなライト。\n淡い光で室内を照らしてくれる。",
+		"tr_explain": "Interior lighting for My Room.\nA lamp shaped like a Lillipan.\nIt fills the room with a pale light."
+	},
+	{
+		"assign": "3501586",
+		"jp_text": "禁書ＶＯポスターＡ",
+		"tr_text": "Index VO Poster A",
+		"jp_explain": "マイルームの壁に設置する装飾品。\nとある魔術の電脳戦機の大判ポスター。\n「目撃セヨ、重なる能力が起動する」",
+		"tr_explain": "Wall decoration for My Room. A large\nposter of A Certain Magical Virtual-On.\n\"Behold, my overlap ability activates!\""
+	},
+	{
+		"assign": "3501587",
+		"jp_text": "禁書ＶＯポスターＢ",
+		"tr_text": "Index VO Poster B",
+		"jp_explain": "マイルームの壁に設置する装飾品。\nとある魔術の電脳戦機の大判ポスター。\n「テムジン、お前の力を貸してくれ」",
+		"tr_explain": "Wall decoration for My Room. A large\nposter of A Certain Magical Virtual-On.\n\"Temjin, lend me your power!\""
+	},
+	{
+		"assign": "3501588",
+		"jp_text": "禁書ＶＯマット",
+		"tr_text": "Index VO Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\n上条当麻とテムジン７０７Ｇが描かれた\n大判ビジュアルマット。",
+		"tr_explain": "A floor mat for My Room.\nA large mat depicting Kamijou Touma\nand Temjin 707G."
+	},
+	{
+		"assign": "3501589",
+		"jp_text": "上条テムジン・スタチュー",
+		"tr_text": "Kamijou Temjin Statue",
+		"jp_explain": "マイルームに設置可能な装飾品。\nとある魔術の電脳戦機で\n上条当麻が駆るテムジンを象った一品。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501590",
+		"jp_text": "御坂ライデン・スタチュー",
+		"tr_text": "Misaka Raiden Statue",
+		"jp_explain": "マイルームに設置可能な装飾品。\nとある魔術の電脳戦機で\n御坂美琴が駆るライデンを象った一品。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501591",
+		"jp_text": "テムジン７０７Ｇ・スタチュー",
+		"tr_text": "Temjin 707G Statue",
+		"jp_explain": "マイルームに設置可能な装飾品。\n第二世代バーチャロイド\nテムジン７０７Ｇを象った人気の一品。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501592",
+		"jp_text": "ライデン５０２Ｈ・スタチュー",
+		"tr_text": "Raiden 502H Statue",
+		"jp_explain": "マイルームに設置可能な装飾品。\n第二世代バーチャロイド\nライデン５０２Ｈを象った人気の一品。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501593",
 		"jp_text": "新年祭２０１８マット",
-		"tr_text": "",
+		"tr_text": "New Year Festival 2018 Mat",
 		"jp_explain": "マイルームの床に敷くためのマット。\n美麗なイラストがプリントされており\n踏むに踏めない一品。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501594",
+		"jp_text": "ゆゆゆビジュアルポスター",
+		"tr_text": "YuYuYu Visual Poster",
+		"jp_explain": "マイルームの壁に設置する装飾品。\n結城友奈は勇者であるのポスター。\n「私は、勇者になる！」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501595",
+		"jp_text": "結城友奈ＳＤマット",
+		"tr_text": "Yuna Yuki SD Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\n結城友奈のビジュアルＳＤマット。\n「みんなのために勇者になる！」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501596",
+		"jp_text": "東郷美森ＳＤマット",
+		"tr_text": "Mimori Togo SD Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\n東郷美森のビジュアルＳＤマット。\n「みんながいれば怖くないよ」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501597",
+		"jp_text": "犬吠埼風ＳＤマット",
+		"tr_text": "Inubouzaki Fu SD Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\n犬吠埼風のビジュアルＳＤマット。\n「部長たるアタシに任せなさーい」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501598",
+		"jp_text": "犬吠埼樹ＳＤマット",
+		"tr_text": "Inubouzaki Itsuki SD Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\n犬吠埼樹のビジュアルＳＤマット。\n「お、お姉ちゃんにはかなわないけど…」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501599",
+		"jp_text": "三好夏凜ＳＤマット",
+		"tr_text": "Miyoshi Karin SD Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\n三好夏凜のビジュアルＳＤマット。\n「完成型勇者、それが私」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501600",
+		"jp_text": "乃木園子ＳＤマット",
+		"tr_text": "Nogi Sonoko SD Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\n乃木園子のビジュアルＳＤマット。\n「皆が無事っていうのが重要なんだよ～」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501601",
+		"jp_text": "ＰＳ３０周年記念ポスター",
+		"tr_text": "PS 30th Anniversary Poster",
+		"jp_explain": "マイルームの壁に設置する装飾品。\nＰＳ３０周年を記念して作られた\nポスター。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501602",
+		"jp_text": "ジェネポスター",
+		"tr_text": "Gene Poster",
+		"jp_explain": "マイルームの壁に設置する装飾品。\nジェネのグラビアポスター。\n「気合を入れてみましたっ！」",
+		"tr_explain": "Wall decoration for My Room.\nA gravure poster featuring Gene.\n\"Let's give it everything we've got!\""
+	},
+	{
+		"assign": "3501603",
+		"jp_text": "デュナポスター",
+		"tr_text": "Duna Poster",
+		"jp_explain": "マイルームの壁に設置する装飾品。\nデュナのグラビアポスター。\n「でゅな、じぇねのそばにいる」",
+		"tr_explain": "Wall decoration for My Room.\nA gravure poster featuring Duna.\n\"Duna will stay by Gene's side.\""
+	},
+	{
+		"assign": "3501604",
+		"jp_text": "モアパネル",
+		"tr_text": "More Panel",
+		"jp_explain": "マイルームに設置可能な装飾品。\nウェポノイド・モアのパネル。\n残念ながら浮遊する機能は無い。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501606",
+		"jp_text": "ＰＳＯ２ｅｓポスターＢ",
+		"tr_text": "PSO2es Poster B",
+		"jp_explain": "マイルームの壁に設置する装飾品。\n『ＰＳＯ２ｅｓ』の大判ポスター。\n「リーダー！　久しぶり……です！」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501607",
+		"jp_text": "オメガフクロウ",
+		"tr_text": "Omega Owl",
+		"jp_explain": "マイルームで飼育可能な動物。\n幻惑の森に生息するフクロウ。\n妖しく光る眼で、絶えず監視し続ける。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501608",
+		"jp_text": "オメガコウモリ",
+		"tr_text": "Omega Bat",
+		"jp_explain": "マイルームで飼育可能な動物。\n幻惑の森に生息するコウモリ。\n何かを探すように目を光らせている。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501609",
+		"jp_text": "オメガモノリス",
+		"tr_text": "Omega Monolith",
+		"jp_explain": "マイルームに設置可能なオブジェクト。\n幻惑の森で確認された謎の石碑。\n不気味に動き、姿を消す。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501610",
+		"jp_text": "Ｒｅ：ゼロポスター",
+		"tr_text": "Re:Zero Poster",
+		"jp_explain": "マイルームの壁に設置する装飾品。\nＲｅ：ゼロから始める異世界生活の\n大判ポスター。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501613",
+		"jp_text": "電撃ＰＳイラコン入賞作品Ａ",
+		"tr_text": "Dengeki PS Art Winner A",
+		"jp_explain": "マイルームの壁に設置する絵画。\n電撃PlayStationコラボの\nイラストコンテスト入賞作品。\n作者：フレーズ",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501614",
+		"jp_text": "電撃ＰＳイラコン入賞作品Ｂ",
+		"tr_text": "Dengeki PS Art Winner B",
+		"jp_explain": "マイルームの壁に設置する絵画。\n電撃PlayStationコラボの\nイラストコンテスト入賞作品。\n作者：MO-DAME",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501615",
+		"jp_text": "電撃ＰＳイラコン入賞作品Ｃ",
+		"tr_text": "Dengeki PS Art Winner C",
+		"jp_explain": "マイルームの壁に設置する絵画。\n電撃PlayStationコラボの\nイラストコンテスト入賞作品。\n作者：アギ",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501616",
+		"jp_text": "電撃ＰＳイラコン入賞作品Ｄ",
+		"tr_text": "Dengeki PS Art Winner D",
+		"jp_explain": "マイルームの壁に設置する絵画。\n電撃PlayStationコラボの\nイラストコンテスト入賞作品。\n作者：おもち",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501617",
+		"jp_text": "電撃ＰＳイラコン入賞作品Ｅ",
+		"tr_text": "Dengeki PS Art Winner E",
+		"jp_explain": "マイルームの壁に設置する絵画。\n電撃PlayStationコラボの\nイラストコンテスト入賞作品。\n作者：あつみ",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501618",
+		"jp_text": "電撃ＰＳイラコン入賞作品Ｆ",
+		"tr_text": "Dengeki PS Art Winner F",
+		"jp_explain": "マイルームの壁に設置する絵画。\n電撃PlayStationコラボの\nイラストコンテスト入賞作品。\n作者：ゆえつぃ",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501619",
+		"jp_text": "電撃ＰＳイラコン入賞作品Ｇ",
+		"tr_text": "Dengeki PS Art Winner G",
+		"jp_explain": "マイルームの壁に設置する絵画。\n電撃PlayStationコラボの\nイラストコンテスト入賞作品。\n作者：炭水化物",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501620",
+		"jp_text": "電撃ＰＳイラコン入賞作品Ｈ",
+		"tr_text": "Dengeki PS Art Winner H",
+		"jp_explain": "マイルームの壁に設置する絵画。\n電撃PlayStationコラボの\nイラストコンテスト入賞作品。\n作者：白ゆりね",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501621",
+		"jp_text": "電撃ＰＳイラコン入賞作品Ｉ",
+		"tr_text": "Dengeki PS Art Winner I",
+		"jp_explain": "マイルームの壁に設置する絵画。\n電撃PlayStationコラボの\nイラストコンテスト入賞作品。\n作者：HISOCA",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501622",
+		"jp_text": "電撃ＰＳイラコン入賞作品Ｊ",
+		"tr_text": "Dengeki PS Art Winner J",
+		"jp_explain": "マイルームの壁に設置する絵画。\n電撃PlayStationコラボの\nイラストコンテスト入賞作品。\n作者：ラルフ",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501623",
+		"jp_text": "ジェネ型抜きマット",
+		"tr_text": "Gene Die-cut Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\n慈愛に満ちたアークスの少女\nジェネの型抜きマット。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501624",
+		"jp_text": "デュナ型抜きマット",
+		"tr_text": "Duna Die-cut Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\n謎めいた幼い少女\nデュナの型抜きマット。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501625",
+		"jp_text": "Ａ．Ｉ．Ｓポスター",
+		"tr_text": "A.I.S Poster",
+		"jp_explain": "マイルームの壁に設置する装飾品。\nＡ．Ｉ．Ｓが描かれたポスター。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501626",
+		"jp_text": "マザー・クラスタマット",
+		"tr_text": "Mother Cluster Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\n美麗なイラストがプリントされており\n踏むに踏めない一品。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501627",
+		"jp_text": "ＣＤパッケージマット１１",
+		"tr_text": "CD Package Mat 11",
+		"jp_explain": "マイルームの床に敷くためのマット。\n美麗なイラストがプリントされており\n踏むに踏めない一品。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501628",
+		"jp_text": "ＣＤパッケージマット１２",
+		"tr_text": "CD Package Mat 12",
+		"jp_explain": "マイルームの床に敷くためのマット。\n美麗なイラストがプリントされており\n踏むに踏めない一品。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501629",
+		"jp_text": "ＥＰ５ビジュアルポスターＢ",
+		"tr_text": "EP5 Visual Poster B",
+		"jp_explain": "マイルームの壁に設置する装飾品。\nＥＰ５をイメージしたポスター。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501630",
+		"jp_text": "惑星ライト：ナベリウス",
+		"tr_text": "Planet Light: Naberius",
+		"jp_explain": "マイルームに設置するインテリア。\n惑星ナベリウスの姿を模した照明。\n緑豊かな大地や渦巻く雲が確認できる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501631",
+		"jp_text": "惑星ライト：アムドゥスキア",
+		"tr_text": "Planet Light: Amduscia",
+		"jp_explain": "マイルームに設置するインテリア。\n惑星アムドゥスキアの姿を模した照明。\n浮遊大陸や火山が確認できる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501632",
+		"jp_text": "惑星ライト：リリーパ",
+		"tr_text": "Planet Light: Lillipa",
+		"jp_explain": "マイルームに設置するインテリア。\n惑星リリーパの姿を模した照明。\n砂漠に覆われているのが確認できる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501633",
+		"jp_text": "惑星ライト：ウォパル",
+		"tr_text": "Planet Light: Wopal",
+		"jp_explain": "マイルームに設置するインテリア。\n惑星ウォパルの姿を模した照明。\n水の膜で覆われているのが確認できる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501634",
+		"jp_text": "惑星ライト：ハルコタン",
+		"tr_text": "Planet Light: Harkotan",
+		"jp_explain": "マイルームに設置するインテリア。\n惑星ハルコタンの姿を模した照明。\n白ノ領域、黒ノ領域が確認できる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501635",
+		"jp_text": "惑星ライト：地球",
+		"tr_text": "Planet Light: Earth",
+		"jp_explain": "マイルームに設置するインテリア。\n惑星・地球の姿を模した照明。\n青い海と緑の大地が確認できる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501636",
+		"jp_text": "衛星ライト：月",
+		"tr_text": "Satellite Light: Moon",
+		"jp_explain": "マイルームに設置するインテリア。\n地球の衛星・月の姿を模した照明。\nクレーターが確認できる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501637",
+		"jp_text": "ハリエットパネル",
+		"tr_text": "Harriet Panel",
+		"jp_explain": "マイルームに設置可能な装飾品。\n戦装束を着たハリエットのパネル。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501638",
+		"jp_text": "ＢＥＡＴＬＥＳＳマット",
+		"tr_text": "BEATLESS Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\nレイシア級ｈＩＥの５体が描かれた\nビジュアルマット。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501639",
+		"jp_text": "ＢＥＡＴＬＥＳＳポスターＡ",
+		"tr_text": "BEATLESS Poster A",
+		"jp_explain": "マイルームの壁に設置する装飾品。\nＢＥＡＴＬＥＳＳのポスター。\n「君に魂がなかったとしても―」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501640",
+		"jp_text": "ＢＥＡＴＬＥＳＳポスターＢ",
+		"tr_text": "BEATLESS Poster B",
+		"jp_explain": "マイルームの壁に設置する装飾品。\nＢＥＡＴＬＥＳＳのポスター。\n「それは、人間のかたちをした＜モノ＞」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501641",
+		"jp_text": "轟雷Ｇパネル",
+		"tr_text": "Gourai G Panel",
+		"jp_explain": "マイルームに設置可能な装飾品。\nフレームアームズ・ガール\n轟雷のパネル。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501642",
+		"jp_text": "バーゼラルドＧパネル",
+		"tr_text": "Baselard G Panel",
+		"jp_explain": "マイルームに設置可能な装飾品。\nフレームアームズ・ガール\nバーゼラルドのパネル。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501652",
+		"jp_text": "ラッピーライト",
+		"tr_text": "Rappy Light",
+		"jp_explain": "マイルームに設置可能な装飾品。\n木組みの骨に紙を貼ったラッピー人形が\nほの明るく室内を照らす。",
+		"tr_explain": "A decoration for My Room. A Rappy\nmade of paper on a wooden frame\nwhich lights the room up brightly."
+	},
+	{
+		"assign": "3501653",
+		"jp_text": "ＢＢポスターＣ",
+		"tr_text": "BB Poster C",
+		"jp_explain": "マイルームの壁に設置する装飾品。\nハティと輝星・空式の大型ポスター。\n「この戦線を突破するのは、君だ。」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501654",
+		"jp_text": "ＢＢビジュアルマット",
+		"tr_text": "BB Visual Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\nハティと輝星・空式の、戦線に立つ姿が\nプリントされた大判ビジュアルマット。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501655",
+		"jp_text": "６周年記念マット",
+		"tr_text": "6th Anniversary Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\n美麗なイラストがプリントされており\n踏むに踏めない一品。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501656",
+		"jp_text": "やかんちゃんマット",
+		"tr_text": "Love Kettle Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\nやかんちゃんのマット。\n素敵なやかんでどこにでもお湯を注ぐ。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501657",
+		"jp_text": "ケトルちゃんマット",
+		"tr_text": "Kettle-chan Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\nケトルちゃんのマット。\n恐れることなく物申す。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501658",
+		"jp_text": "恋やかんジェネマット",
+		"tr_text": "Love Kettle Gene Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\nジェネのマット。あふれ出る母性で\n小さな子たちの世話を焼く。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501659",
+		"jp_text": "恋やかんデュナマット",
+		"tr_text": "Love Kettle Duna Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\nデュナのマット。こんな環境でも\nまっすぐに育っている良い子。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501660",
+		"jp_text": "恋やかんセラフィマット",
+		"tr_text": "Love Kettle Seraphy Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\nセラフィのマット。プライベートを\n覗いてはいけない……決して。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501661",
+		"jp_text": "恋やかんアネットマット",
+		"tr_text": "Love Kettle Annette Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\nアネットのマット。\nほとばしる情熱は誰にも止められない。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501662",
+		"jp_text": "恋やかんモアマット",
+		"tr_text": "Love Kettle More Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\nモアのマット。被害者その１。\nなにかされたようだ……",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501663",
+		"jp_text": "ソルリバポスター",
+		"tr_text": "Soul Reverse Poster",
+		"jp_explain": "マイルームの壁に設置する装飾品。\nSOUL REVERSEのポスター。\n「この戦場に身を投じる覚悟はあるか？」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501664",
+		"jp_text": "ソルゼロポスター",
+		"tr_text": "Soul Reverse Zero Poster",
+		"jp_explain": "マイルームの壁に設置する装飾品。\nSOUL REVERSE ZEROのポスター。\n「汝が未来を、選択せよ」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501665",
+		"jp_text": "ハーフェン号",
+		"tr_text": "Hafen",
+		"jp_explain": "マイルームに設置可能な装飾品。\nハーフェンの名は、戦車長を務める\nクロードによって名付けられた。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501666",
+		"jp_text": "ダンまちポスターＡ",
+		"tr_text": "DanMachi Poster A",
+		"jp_explain": "マイルームの壁に設置する装飾品。\nダンジョンに出会いを求めるのは\n間違っているだろうかのポスター。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501667",
+		"jp_text": "ダンまちポスターＢ",
+		"tr_text": "DanMachi Poster B",
+		"jp_explain": "マイルームの壁に設置する装飾品。\nダンまち劇場版ビジュアルポスター。\n２０１９年２月劇場公開！",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501668",
+		"jp_text": "ダンまちマットＡ",
+		"tr_text": "DanMachi Mat A",
+		"jp_explain": "マイルームの床に敷くためのマット。\n美麗なイラストがプリントされており\n踏むに踏めない一品。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501669",
+		"jp_text": "ダンまちマットＢ",
+		"tr_text": "DanMachi Mat B",
+		"jp_explain": "マイルームの床に敷くためのマット。\n美麗なイラストがプリントされており\n踏むに踏めない一品。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501670",
+		"jp_text": "ＩＤＯＬＡポスター",
+		"tr_text": "IDOLA Poster",
+		"jp_explain": "マイルームの壁に設置する装飾品。\nＩＤＯＬＡのポスター。\n「あなたが選ぶ星の彼方の物語」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501671",
+		"jp_text": "ジュース・サーバー",
+		"tr_text": "Juice Server",
+		"jp_explain": "マイルームに設置可能な装飾品。\n爽やかで甘くカラフルな飲み物が\n乾いた心も身体も潤してくれる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501672",
+		"jp_text": "ラージ・シャーベット",
+		"tr_text": "Large Sherbet",
+		"jp_explain": "マイルームに設置可能な装飾品。\n氷山の希少氷と新鮮いちごシロップの\n贅沢な協奏で、至福の口溶けを提供。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501673",
+		"jp_text": "ドームプール",
+		"tr_text": "Dome Pool",
+		"jp_explain": "マイルームで楽しむビニールプール。\nカラフルでかわいい屋根つき。\n夏の水遊びを待ちきれなくする一品。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501674",
+		"jp_text": "シーリング・ファン",
+		"tr_text": "Ceiling Fan",
+		"jp_explain": "マイルームに設置する照明器具。\n節電と室温調節の効果もあり\nオシャレで快適な暮らしをサポート。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501675",
+		"jp_text": "リリーパカップル",
+		"tr_text": "Lillipan Couple",
+		"jp_explain": "マイルームに設置可能な装飾品。\nハート型クッションに寄り添って座る\nカップルのリリーパ族が微笑ましい。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501676",
+		"jp_text": "ニレンカムイポスター",
+		"tr_text": "Twin Kamui Poster",
+		"jp_explain": "マイルームの壁に設置する装飾品。\nニレンカムイのウェポノイドの\nグラビアポスター。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501677",
+		"jp_text": "ライトニングＥポスター",
+		"tr_text": "Lightning Espada Poster",
+		"jp_explain": "マイルームの壁に設置する装飾品。\nライトニングエスパーダの\nウェポノイドのグラビアポスター。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501678",
+		"jp_text": "シューティングＤポスター",
+		"tr_text": "Shooting Drive Poster",
+		"jp_explain": "マイルームの壁に設置する装飾品。\nシューティングドライブの\nウェポノイドのグラビアポスター。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501679",
+		"jp_text": "ラヴィス=ブレイドポスター",
+		"tr_text": "Lavis Blade Poster",
+		"jp_explain": "マイルームの壁に設置する装飾品。\nラヴィス=ブレイドの\nウェポノイドのグラビアポスター。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501680",
+		"jp_text": "ノクスカディナポスター",
+		"tr_text": "Nox Cadina Poster",
+		"jp_explain": "マイルームの壁に設置する装飾品。\nノクスカディナのウェポノイドの\nグラビアポスター。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501681",
+		"jp_text": "プーギー",
+		"tr_text": "Poogie",
+		"jp_explain": "マイルームで設置可能な装飾品。\n食事をあげたり、頭をなでて\nあげるといいことが起こるかも？",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501682",
+		"jp_text": "ＭＨＦＺコラボポスター",
+		"tr_text": "MHFZ Collaboration Poster",
+		"jp_explain": "マイルームの壁に設置する装飾品。\nモンスターハンターフロンティアＺの\n大判ポスター。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501683",
+		"jp_text": "ＣＤパッケージマット１３",
+		"tr_text": "CD Package Mat 13",
+		"jp_explain": "マイルームの床に敷くためのマット。\n美麗なイラストがプリントされており\n踏むに踏めない一品。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501684",
+		"jp_text": "ダンまちポスターＣ",
+		"tr_text": "DanMachi Poster C",
+		"jp_explain": "マイルームの壁に設置する装飾品。\nダンまち劇場版ビジュアルポスター。\n２０１９年２月劇場公開！",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501685",
+		"jp_text": "ペルソナＱポスター",
+		"tr_text": "Persona Q Poster",
+		"jp_explain": "マイルームの壁に設置する装飾品。\nペルソナＱの大判ポスター。\n「出会いが、人を強くする」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501686",
+		"jp_text": "ペルソナＱ２ポスター",
+		"tr_text": "Persona Q2 Poster",
+		"jp_explain": "マイルームの壁に設置する装飾品。\nペルソナＱ２の大判ポスター。\n「映画世界へ、ようこそ。」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501687",
+		"jp_text": "ペルソナ３フェスポスター",
+		"tr_text": "Persona 3 FES Poster",
+		"jp_explain": "マイルームの壁に設置する装飾品。\nペルソナ３フェスの大判ポスター。\n「影時間は、終わらない。」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501688",
+		"jp_text": "ペルソナ４Ｇポスター",
+		"tr_text": "Persona 4G Poster",
+		"jp_explain": "マイルームの壁に設置する装飾品。\nペルソナ４Ｇの大判ポスター。\n「\"マヨナカテレビ\"って知ってる？」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501689",
+		"jp_text": "ＰＱ２結城理マット",
+		"tr_text": "PQ2 Makoto Yuki Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\n月光館学園に転入してきた高校二年生\n結城理が描かれたマット。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501690",
+		"jp_text": "ＰＱ２Ｐ３Ｐ女性主人公マット",
+		"tr_text": "PQ2 P3P Female Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\n月光館学園に転入してきた高校二年生\nＰ３Ｐ女性主人公が描かれたマット。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501691",
+		"jp_text": "ＰＱ２岳羽ゆかりマット",
+		"tr_text": "PQ2 Yukari Takeba Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\n月光館学園高校二年の明るく勝ち気な\n岳羽ゆかりが描かれたマット。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501692",
+		"jp_text": "ＰＱ２桐条美鶴マット",
+		"tr_text": "PQ2 Mitsuru Kirijo Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\n月光館学園高校三年で生徒会長を務める\n桐条美鶴が描かれたマット。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501693",
+		"jp_text": "ＰＱ２アイギスマット",
+		"tr_text": "PQ2 Aigis Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\nロボットながらペルソナ召喚できる\nアイギスが描かれたマット。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501694",
+		"jp_text": "ＰＱ２鳴上悠マット",
+		"tr_text": "PQ2 Yu Narukami Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\n八十神高校に転入してきた高校二年生\n鳴上悠が描かれたマット。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501695",
+		"jp_text": "ＰＱ２里中千枝マット",
+		"tr_text": "PQ2 Chie Satonaka Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\n八十神高校の二年生で明るく活発な\n里中千枝が描かれたマット。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501696",
+		"jp_text": "ＰＱ２マリーマット",
+		"tr_text": "PQ2 Marie Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\nベルベットルームの住人の一人？\nである、マリーが描かれたマット。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501697",
+		"jp_text": "ＰＱ２クママット",
+		"tr_text": "PQ2 Teddie Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\nテレビの中の異世界で暮らす謎の存在\nクマが描かれたマット。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501698",
+		"jp_text": "ＰＱ２久慈川りせマット",
+		"tr_text": "PQ2 Rise Kujikawa Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\n突如休業し八十神高校に転校してきた\nアイドル、久慈川りせが描かれたマット。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501699",
+		"jp_text": "ＰＱ２天城雪子マット",
+		"tr_text": "PQ2 Yukiko Amagi Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\n八十神高校二年生で聡明だがやや天然な\n天城雪子が描かれたマット。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501700",
+		"jp_text": "ＰＱ２ジョーカーマット",
+		"tr_text": "PQ2 Joker Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\n怪盗団“心の怪盗”のリーダー\n「ジョーカー」が描かれたマット。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501701",
+		"jp_text": "ＰＱ２パンサーマット",
+		"tr_text": "PQ2 Panther Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\n怪盗団“心の怪盗”の演技派（？）女優\n「パンサー」が描かれたマット。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501702",
+		"jp_text": "ＰＱ２モルガナマット",
+		"tr_text": "PQ2 Morgana Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\n怪盗団“心の怪盗”の先導役\n「モルガナ」が描かれたマット。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501703",
+		"jp_text": "ＰＱ２ひかりマット",
+		"tr_text": "PQ2 Hikari Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\n出口のない映画館で出会った少女\nひかりが描かれたマット。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501704",
+		"jp_text": "ＰＱ２ナギマット",
+		"tr_text": "PQ2 Nagi Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\n出口のない映画館で出会った白服で\n黒髪の女性、ナギが描かれたマット。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501705",
+		"jp_text": "ＰＱ２ドーマット",
+		"tr_text": "PQ2 Doe Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\n出口のない映画館で水玉のネクタイを\nした謎の存在、ドーが描かれたマット。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501706",
+		"jp_text": "ジャックフロストの像",
+		"tr_text": "Jack Frost Statue",
+		"jp_explain": "マイルームに設置可能な装飾品。\n冬と霜の妖精ジャックフロストを\n模して作られた像。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501707",
+		"jp_text": "６周年イラコン入賞作品Ａ",
+		"tr_text": "6th Anniversary Art Winner A",
+		"jp_explain": "マイルームの壁に設置する絵画。\n「ＰＳＯ２」６周年記念\nイラストコンテスト入賞作品。\n作者：まろん",
+		"tr_explain": "Wall illustration for My Room.\nA prize-winning work from the PSO2\n6th anniversary illustration contest.\nArtist: Maron (まろん)"
+	},
+	{
+		"assign": "3501708",
+		"jp_text": "６周年イラコン入賞作品Ｂ",
+		"tr_text": "6th Anniversary Art Winner B",
+		"jp_explain": "マイルームの壁に設置する絵画。\n「ＰＳＯ２」６周年記念\nイラストコンテスト入賞作品。\n作者：ガリエル",
+		"tr_explain": "Wall illustration for My Room.\nA prize-winning work from the PSO2\n6th anniversary illustration contest.\nArtist: Galiel (ガリエル)"
+	},
+	{
+		"assign": "3501709",
+		"jp_text": "６周年イラコン入賞作品Ｃ",
+		"tr_text": "6th Anniversary Art Winner C",
+		"jp_explain": "マイルームの壁に設置する絵画。\n「ＰＳＯ２」６周年記念\nイラストコンテスト入賞作品。\n作者：まんどらごら",
+		"tr_explain": "Wall illustration for My Room.\nA prize-winning work from the PSO2\n6th anniversary illustration contest.\nArtist: Mandragora (まんどらごら)"
+	},
+	{
+		"assign": "3501710",
+		"jp_text": "６周年イラコン入賞作品Ｄ",
+		"tr_text": "6th Anniversary Art Winner D",
+		"jp_explain": "マイルームの壁に設置する絵画。\n「ＰＳＯ２」６周年記念\nイラストコンテスト入賞作品。\n作者：ぼなーか",
+		"tr_explain": "Wall illustration for My Room.\nA prize-winning work from the PSO2\n6th anniversary illustration contest.\nArtist: Bonahka (ぼなーか)"
+	},
+	{
+		"assign": "3501711",
+		"jp_text": "６周年イラコン入賞作品Ｅ",
+		"tr_text": "6th Anniversary Art Winner E",
+		"jp_explain": "マイルームの壁に設置する絵画。\n「ＰＳＯ２」６周年記念\nイラストコンテスト入賞作品。\n作者：アークス模倣鯛",
+		"tr_explain": "Wall illustration for My Room.\nA prize-winning work from the PSO2\n6th anniversary illustration contest.\nArtist: ARKS Imitai (アークス模倣鯛)"
+	},
+	{
+		"assign": "3501712",
+		"jp_text": "６周年イラコン入賞作品Ｆ",
+		"tr_text": "6th Anniversary Art Winner F",
+		"jp_explain": "マイルームの壁に設置する絵画。\n「ＰＳＯ２」６周年記念\nイラストコンテスト入賞作品。\n作者：るりな",
+		"tr_explain": "Wall illustration for My Room.\nA prize-winning work from the PSO2\n6th anniversary illustration contest.\nArtist: Rurina (るりな)"
+	},
+	{
+		"assign": "3501713",
+		"jp_text": "６周年イラコン入賞作品Ｇ",
+		"tr_text": "6th Anniversary Art Winner G",
+		"jp_explain": "マイルームの壁に設置する絵画。\n「ＰＳＯ２」６周年記念\nイラストコンテスト入賞作品。\n作者：しの",
+		"tr_explain": "Wall illustration for My Room.\nA prize-winning work from the PSO2\n6th anniversary illustration contest.\nArtist: Shino (しの)"
+	},
+	{
+		"assign": "3501714",
+		"jp_text": "６周年イラコン入賞作品Ｈ",
+		"tr_text": "6th Anniversary Art Winner H",
+		"jp_explain": "マイルームの壁に設置する絵画。\n「ＰＳＯ２」６周年記念\nイラストコンテスト入賞作品。\n作者：ツキシロヒメリ",
+		"tr_explain": "Wall illustration for My Room.\nA prize-winning work from the PSO2\n6th anniversary illustration contest.\nArtist: Tsukishirohimeri (ツキシロヒメリ)"
+	},
+	{
+		"assign": "3501715",
+		"jp_text": "６周年イラコン入賞作品Ｉ",
+		"tr_text": "6th Anniversary Art Winner I",
+		"jp_explain": "マイルームの壁に設置する絵画。\n「ＰＳＯ２」６周年記念\nイラストコンテスト入賞作品。\n作者：須影",
+		"tr_explain": "Wall illustration for My Room.\nA prize-winning work from the PSO2\n6th anniversary illustration contest.\nArtist: Vital Shadow (須影)"
+	},
+	{
+		"assign": "3501716",
+		"jp_text": "６周年イラコン入賞作品Ｊ",
+		"tr_text": "6th Anniversary Art Winner J",
+		"jp_explain": "マイルームの壁に設置する絵画。\n「ＰＳＯ２」６周年記念\nイラストコンテスト入賞作品。\n作者：デルちゃん",
+		"tr_explain": "Wall illustration for My Room.\nA prize-winning work from the PSO2\n6th anniversary illustration contest.\nArtist: Del-chan (デルちゃん)"
+	},
+	{
+		"assign": "3501717",
+		"jp_text": "ＰＳＯ２　ＴＣＧマットＡ",
+		"tr_text": "PSO2 TCG Mat A",
+		"jp_explain": "マイルームの床に敷くためのマット。\n美麗なイラストがプリントされており\n踏むに踏めない一品。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501718",
+		"jp_text": "ＰＳＯ２　ＴＣＧマットＢ",
+		"tr_text": "PSO2 TCG Mat B",
+		"jp_explain": "マイルームの床に敷くためのマット。\n美麗なイラストがプリントされており\n踏むに踏めない一品。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501719",
+		"jp_text": "撮影用ひな段",
+		"tr_text": "Photography Podium",
+		"jp_explain": "マイルームに設置可能なオブジェクト。\n集合写真などを撮影する時に便利な\n明滅する階段状のひな段。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501720",
+		"jp_text": "ぷそ煮コミみたらしマット",
+		"tr_text": "Puso ni Comi Mitarashi Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\nぷそ煮コミのアークスジャージーを\n愛用する、みたらしのマット。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501721",
+		"jp_text": "ぷそ煮コミテトラマット",
+		"tr_text": "Puso ni Comi Tetora Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\nぷそ煮コミの受難＆巻き込まれタイプの\nテトラのマット。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501722",
+		"jp_text": "ぷそ煮コミイチカマット",
+		"tr_text": "Puso ni Comi Ichika Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\nぷそ煮コミの深淵より生まれし孤高の\n存在という中二病§イチカ§のマット。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501723",
+		"jp_text": "ぷそ煮コミゼクトマット",
+		"tr_text": "Puso ni Comi Zekuto Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\nぷそ煮コミの「マジカルロボ☆ゼクト」\nが、正式名というゼクトのマット。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501724",
+		"jp_text": "ぷそ煮コミ牧野マット",
+		"tr_text": "Puso ni Comi Makino Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\nぷそ煮コミの天然＆マイペースで\n母性本能をくすぐる牧野のマット。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501725",
+		"jp_text": "ぷそ煮コミドルチェマット",
+		"tr_text": "Puso ni Comi Dolce Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\nぷそ煮コミの牧野をサポートする\n熟練女性キャスト、ドルチェのマット。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501726",
+		"jp_text": "ヒツギポスター",
+		"tr_text": "Hitsugi Poster",
+		"jp_explain": "マイルームの壁に設置する装飾品。\nヒツギのグラビアポスター。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501727",
+		"jp_text": "コオリポスター",
+		"tr_text": "Kohri Poster",
+		"jp_explain": "マイルームの壁に設置する装飾品。\nコオリのグラビアポスター。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501728",
+		"jp_text": "シエラポスター",
+		"tr_text": "Xiera Poster",
+		"jp_explain": "マイルームの壁に設置する装飾品。\nシエラのグラビアポスター。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501729",
+		"jp_text": "ファレグポスター",
+		"tr_text": "Phaleg Poster",
+		"jp_explain": "マイルームの壁に設置する装飾品。\nファレグのグラビアポスター。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501730",
+		"jp_text": "ヒロインズポスターＤ",
+		"tr_text": "Heroines Poster D",
+		"jp_explain": "マイルームの壁に設置する装飾品。\nヒロインたちのグラビアポスター。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501731",
+		"jp_text": "スイパラ×シエラパネル",
+		"tr_text": "Sweet Paradise x Xiera Panel",
+		"jp_explain": "マイルームに設置可能な装飾品。\nシエラの等身大パネル。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501732",
+		"jp_text": "スイパラ×シエラマット",
+		"tr_text": "Sweet Paradise x Xiera Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\n美麗なイラストがプリントされており\n踏むに踏めない一品。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501733",
+		"jp_text": "ＣＤパッケージマット１４",
+		"tr_text": "CD Package Mat 14",
+		"jp_explain": "マイルームの床に敷くためのマット。\n美麗なイラストがプリントされており\n踏むに踏めない一品。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501734",
+		"jp_text": "なのはポスターＡ",
+		"tr_text": "Nanoha Poster A",
+		"jp_explain": "マイルームの壁に設置する装飾品。\n魔導師と魔導騎士が描かれたポスター。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501735",
+		"jp_text": "なのはポスターＢ",
+		"tr_text": "Nanoha Poster B",
+		"jp_explain": "マイルームの壁に設置する装飾品。\n魔法少女リリカルなのは Detonationの\n大判ポスター。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501736",
+		"jp_text": "新年祭２０１９マット",
+		"tr_text": "New Year Festival 2019 Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\n美麗なイラストがプリントされており\n踏むに踏めない一品。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501737",
+		"jp_text": "ＰＳＯ２ｅｓポスターＣ",
+		"tr_text": "PSO2es Poster C",
+		"jp_explain": "マイルームの壁に設置する装飾品。\n『ＰＳＯ２ｅｓ』の大判ポスター。\n「わたしは、アフタル・アールアレフ」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501738",
+		"jp_text": "アフタルポスター",
+		"tr_text": "Akhtar Poster",
+		"jp_explain": "マイルームの壁に設置する装飾品。\nアフタルのグラビアポスター。\n「リーダー！　これから、よろしくね」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501739",
+		"jp_text": "アフタルパネル",
+		"tr_text": "Akhtar Panel",
+		"jp_explain": "マイルームに設置可能な装飾品。\n戦闘形態アフタルのパネル。\n尖った部分に刺さらないよう要注意。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501740",
+		"jp_text": "リーン型抜きマット",
+		"tr_text": "Lien Die-cut Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\nアフタルの相棒でしゃべるリリーパ族\nリーンの型抜きマット。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501741",
+		"jp_text": "Ｖラッピートロフィー",
+		"tr_text": "V Rappy Trophy",
+		"jp_explain": "マイルームに設置可能な装飾品。\nＡＲＫＳ　ＧＬＯＲＹ　ＲＡＣＥで優勝した\nラッピーを記念して作られた。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501742",
+		"jp_text": "２０１９地区優勝記念品",
+		"tr_text": "",
+		"jp_explain": "２０１９年アークスバトルトーナメント\n地区大会優勝記念の記念品。\n優勝おめでとう！　次は全国だ！",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501743",
+		"jp_text": "２０１９地区準優勝記念品",
+		"tr_text": "",
+		"jp_explain": "２０１９年アークスバトルトーナメント\n地区大会準優勝記念の記念品。\n見事な成績！　次こそリベンジを！",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501746",
+		"jp_text": "電撃ＰＳポスターＤ",
+		"tr_text": "Dengeki PS Poster D",
+		"jp_explain": "マイルームの壁に設置する装飾品。\n電撃ＰＳ表紙のポスター。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501747",
+		"jp_text": "ファミ通ポスターＤ",
+		"tr_text": "Famitsu Poster D",
+		"jp_explain": "マイルームの壁に設置する装飾品。\nファミ通表紙のポスター。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501748",
+		"jp_text": "ＥＰ６ビジュアルポスター",
+		"tr_text": "EP6 Visual Poster",
+		"jp_explain": "マイルームの壁に設置する装飾品。\nＥＰ６をイメージしたポスター。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501749",
+		"jp_text": "設定資料集表紙ポスターＤ",
+		"tr_text": "Materials Collection Poster D",
+		"jp_explain": "マイルームの壁に設置する装飾品。\n設定資料集表紙４のポスター。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501751",
+		"jp_text": "アリサパネル",
+		"tr_text": "Alisa Panel",
+		"jp_explain": "マイルームに設置可能な装飾品。\n戦装束を着たアリサのパネル。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501752",
+		"jp_text": "マブラヴオルタポスターＡ",
+		"tr_text": "Muv-Luv Alternative Poster A",
+		"jp_explain": "マイルームの壁に設置する装飾品。\nマブラヴオルタネイティヴのポスター。\n「それは、語られなかった他なる結末」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501753",
+		"jp_text": "マブラヴオルタポスターＢ",
+		"tr_text": "Muv-Luv Alternative Poster B",
+		"jp_explain": "マイルームの壁に設置する装飾品。\nマブラヴオルタネイティヴのポスター。\n「人類を無礼（なめ）るな！」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501754",
+		"jp_text": "御剣冥夜マット",
+		"tr_text": "Mitsurugi Meiya Mat",
+		"jp_explain": "マイルームの床に敷くためのマット。\n剣術に秀で、冷静沈着の御剣冥夜が\n描かれた大判ビジュアルマット。",
 		"tr_explain": ""
 	}
 ]

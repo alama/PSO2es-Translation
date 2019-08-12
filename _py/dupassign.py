@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-# coding=utf8
+# -*- coding: utf-8 -*-
 import codecs
 import fnmatch
-import os
 import json
+import os
 import sys
 
 # error counter

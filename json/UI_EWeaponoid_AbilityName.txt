@@ -16,8 +16,8 @@
 	},
 	{
 		"assign": "4",
-		"jp_text": "-",
-		"tr_text": ""
+		"jp_text": "ポイズン付与",
+		"tr_text": "Poison Up"
 	},
 	{
 		"assign": "5",

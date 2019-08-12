@@ -18,7 +18,7 @@
 		"jp_text": "＊アークマパンチャー",
 		"tr_text": "＊Arkuma Punchers",
 		"jp_explain": "可愛らしいヌイグルミを元に作成された\n鋼拳型武器迷彩。女性アークスを中心に\n大人気。差込プラグ型の尾が特徴的。",
-		"tr_explain": "Knuckle-type weapon camouflage\nbased on a lovely stuffed toy. Popular\namong female ARKS. Its plug-type tail\nis one of its characteristics."
+		"tr_explain": "Knuckle-type WPN camouflage based\non a lovely stuffed toy. Popular\namong female ARKS. Its plug-type\ntail is one of its characteristics."
 	},
 	{
 		"assign": "10606",
@@ -67,7 +67,7 @@
 		"jp_text": "＊破拳ワルフラーン",
 		"tr_text": "＊Broken Fist Wolfram",
 		"jp_explain": "創世器「破拳ワルフラーン」を模して\n作られた鋼拳型武器迷彩。燃えたぎる\n炎のような刃も全て再現されている。",
-		"tr_explain": ""
+		"tr_explain": "Weapon camo of the Genesis Weapon\n\"Broken Fist Wolfram\". Each of its\nflame-like blades has been recreated."
 	},
 	{
 		"assign": "106013",
@@ -137,6 +137,27 @@
 		"jp_text": "＊ネイクローＲＦ",
 		"tr_text": "＊Nei Claws RF",
 		"jp_explain": "はるか遠い時空のニューマンが\n愛用した武器を模した武器迷彩。\nこの世ならざるものの名を冠する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "106024",
+		"jp_text": "＊俺の拳",
+		"tr_text": "＊My Fists",
+		"jp_explain": "熟れたゴリラによりデザインされた\n鋼拳型武器迷彩。シンプルな見た目で\n非戦闘時には腕輪のみとなる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "106025",
+		"jp_text": "＊バトルナックル",
+		"tr_text": "＊Battle Knuckles",
+		"jp_explain": "バトルアリーナ専用の鋼拳型\n武器迷彩。戦技比較用に、力量が\n発揮されるよう調整がされている。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "106026",
+		"jp_text": "＊Ａ．Ｉ．Ｓ－Ａ－",
+		"tr_text": "",
+		"jp_explain": "でんでんによりデザインされた\n武器迷彩。背負うようなA.I.Sと\nそこに付いた巨大な腕が特徴。",
 		"tr_explain": ""
 	}
 ]

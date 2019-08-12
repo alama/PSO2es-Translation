@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-# coding=utf8
+# -*- coding: utf-8 -*-
 import _fonts
 import codecs
+from collections import OrderedDict
 import fnmatch
 import json
 import os
 import sys
-from collections import OrderedDict
 
 # Error counter
 counterr = 0
@@ -29,12 +29,6 @@ wpn_files = [
     os.path.join(dirpath, f)
     for dirpath, dirnames, files in os.walk(dir)
     for f in fnmatch.filter(files, 'Item_Weapon_*.txt')
-]
-
-wpn_files += [
-    os.path.join(dirpath, f)
-    for dirpath, dirnames, files in os.walk(dir)
-    for f in fnmatch.filter(files, 'UI_Weaponoid_Name.txt')
 ]
 
 WPN = dict()
@@ -84,8 +78,8 @@ FSL = OrderedDict()
 FSL.update(FSN)  # Non-Weaponoid
 FSL.update(FSW)  # Weaponoid
 
-FSNER = OrderedDict((key, value) for key, value in FSN.items() if value >= 60)
-FSWER = OrderedDict((key, value) for key, value in FSW.items() if value >= 37.25)
+FSNER = OrderedDict((key, value) for key, value in FSN.items() if value >= 31.58)
+FSWER = OrderedDict((key, value) for key, value in FSW.items() if value >= 19.61)
 
 FSER = OrderedDict()
 

@@ -1,6 +1,6 @@
 # Phantasy Star Online 2 es English translation project
 
-[![CircleCI](https://circleci.com/gh/PolCPP/PSO2es-Translation/tree/master.svg?style=svg)](https://circleci.com/gh/PolCPP/PSO2es-Translation/tree/master)
+[![CircleCI](https://circleci.com/gh/PolCPP/PSO2es-Translation/tree/master.svg?style=svg)](https://circleci.com/gh/PolCPP/workflows/PSO2es-Translation/tree/master)
 
 ## Usage
 
@@ -24,6 +24,8 @@
 * Nyaato - Misc. translations
 * YukaLily - Misc. translations
 * Nora - Misc. translations
+* Dabir - Translation Work
+* Snack - Story translation work
 
 ## License
 
